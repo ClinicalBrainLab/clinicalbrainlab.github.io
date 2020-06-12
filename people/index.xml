@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on The Clinical Brain Lab</title>
+    <link>/people/</link>
+    <description>Recent content in People on The Clinical Brain Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 12:57:28 +0800</lastBuildDate>
+    
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principle Investigator</title>
+      <link>/people/prof-annabel/people/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>/people/prof-annabel/people/</guid>
+      <description>Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.</description>
+    </item>
+    
+    <item>
+      <title>Research Scientists and Fellows</title>
+      <link>/people/research-fellow/people/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>/people/research-fellow/people/</guid>
+      <description>Here comes the power house of Clinical Brain Lab - our Research Scientists and Research Fellows.</description>
+    </item>
+    
+  </channel>
+</rss>
