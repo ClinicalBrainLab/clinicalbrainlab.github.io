@@ -1,5 +1,2 @@
-# Example Site for Hugo Initio Theme
-
-Example Site for Hugo Initio Theme
-
-https://github.com/miguelsimoni/hugo-initio
+# clinicalbrainlab.github.io
+Website of ClinicalBrainLab at NTU, Singapore
