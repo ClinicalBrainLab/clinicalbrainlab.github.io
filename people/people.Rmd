@@ -3,9 +3,9 @@ title: "People"
 date: 2020-06-12T12:57:28+08:00
 draft: false
 ---
-
 ## Principle Investigator, Lab Director
-### SH Annabel Chen
+
+#### SH Annabel Chen, PhD
 
 <img src="/img/prof-annabel.PNG" alt="Prof Annabel" width="50%" align="left" hspace=20" vspace="20">
 
