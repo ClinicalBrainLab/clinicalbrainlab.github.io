@@ -2,7 +2,7 @@ baseURL = "https://clinicalbrainlab.github.io/"
 languageCode = "en-us"
 title = "The Clinical Brain Lab"
 theme = "hugo-initio"
-publishDir = "public"
+publishDir = "docs"
 
 [params]
     name = "Clinical Brain Lab"
