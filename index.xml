@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Clinical Brain Lab</title>
-    <link>/</link>
+    <link>https://clinicalbrainlab.github.io/</link>
     <description>Recent content on The Clinical Brain Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 16:03:15 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cerebro-cerebellar pathways for verbal working memory</title>
-      <link>/publication/cc-pathway/</link>
+      <link>https://clinicalbrainlab.github.io/publication/cc-pathway/</link>
       <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
       
-      <guid>/publication/cc-pathway/</guid>
+      <guid>https://clinicalbrainlab.github.io/publication/cc-pathway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principle Investigator</title>
-      <link>/people/prof-annabel/people/</link>
+      <link>https://clinicalbrainlab.github.io/people/prof-annabel/people/</link>
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
       
-      <guid>/people/prof-annabel/people/</guid>
+      <guid>https://clinicalbrainlab.github.io/people/prof-annabel/people/</guid>
       <description>Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.</description>
     </item>
     
     <item>
       <title>Research Scientists and Fellows</title>
-      <link>/people/research-fellow/people/</link>
+      <link>https://clinicalbrainlab.github.io/people/research-fellow/people/</link>
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
       
-      <guid>/people/research-fellow/people/</guid>
+      <guid>https://clinicalbrainlab.github.io/people/research-fellow/people/</guid>
       <description>Here comes the power house of Clinical Brain Lab - our Research Scientists and Research Fellows.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/home/about/</link>
+      <link>https://clinicalbrainlab.github.io/home/about/</link>
       <pubDate>Fri, 12 Jun 2020 12:01:05 +0800</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://clinicalbrainlab.github.io/home/about/</guid>
       <description>Our brain plays an important role in how we perceive and interact with the world around us. What happens when development goes awry in our brain, or insult occurs to our brain? How do we harness neuroplasticity to ameliorate neuropsychiatric conditions, or to optimize learning during the natural progression of neurodegeneration? Can we enhance cognitive health through neuromodulations?
 At the Clinical Brain lab, we apply clinical neuropsychological principles to uncover the enigma of the brain and work towards addressing these questions.</description>
     </item>

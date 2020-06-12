@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on The Clinical Brain Lab</title>
-    <link>/home/</link>
+    <link>https://clinicalbrainlab.github.io/home/</link>
     <description>Recent content in Homes on The Clinical Brain Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 12:01:05 +0800</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clinicalbrainlab.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/home/about/</link>
+      <link>https://clinicalbrainlab.github.io/home/about/</link>
       <pubDate>Fri, 12 Jun 2020 12:01:05 +0800</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://clinicalbrainlab.github.io/home/about/</guid>
       <description>Our brain plays an important role in how we perceive and interact with the world around us. What happens when development goes awry in our brain, or insult occurs to our brain? How do we harness neuroplasticity to ameliorate neuropsychiatric conditions, or to optimize learning during the natural progression of neurodegeneration? Can we enhance cognitive health through neuromodulations?
 At the Clinical Brain lab, we apply clinical neuropsychological principles to uncover the enigma of the brain and work towards addressing these questions.</description>
     </item>
