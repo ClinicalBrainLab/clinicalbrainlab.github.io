@@ -33,7 +33,7 @@ publishDir = "public"
 
 [[menu.main]]
 name = "People"
-url = "people"
+url = "/people"
 weight = 2
 
 [[menu.main]]

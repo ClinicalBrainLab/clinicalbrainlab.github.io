@@ -7,19 +7,24 @@
 			<div class="col-sm-8 col-sm-offset-2">
 
                 {{ range .Paginator.Pages }}
+				
 				<article class="post">
 					<header class="entry-header">
 						<div class="entry-meta">
-						</div>
+													<span class="posted-on">
+							   						  <time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+							   						  {{- .Date.Format "January 2, 2006" -}}
+							   						  </time>
+													</span>
+ 						</div>
 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
 					<div class="entry-content">
+						<!-- {{ with .Params.featured_image }}<img src="{{ . }}"/>{{ end }} -->
 						{{ if .Params.summary }}
 						  {{ .Params.summary | plainify | emojify }}
 						{{ else if .Params.abstract }}
-						  {{ .Params.abstract | plainify | emojify | truncate 250 }}
-						{{ else if .Summary }}
-						  {{ .Summary | plainify | emojify }}
+						  {{ .Params.abstract | plainify | emojify | truncate 250 }}<a href='{{ .RelPermalink }}'>&hellip; Read more</a>
 						{{ end }}
 					</div>
 				</article>
