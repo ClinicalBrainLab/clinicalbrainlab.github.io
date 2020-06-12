@@ -2,7 +2,7 @@ baseURL = "https://clinicalbrainlab.github.io/"
 languageCode = "en-us"
 title = "The Clinical Brain Lab"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Clinical Brain Lab"
@@ -13,7 +13,7 @@ publishDir = "docs"
     year = 2020
     avatar = "img/logo_CBL.png"
     background = ""
-    favicon = "images/gt_favicon.png"
+    favicon = "img/favicon.png"
     DateForm = "June, 2020"
 
     showSubheader = false
@@ -33,7 +33,7 @@ publishDir = "docs"
 
 [[menu.main]]
 name = "People"
-url = "/people"
+url = "people"
 weight = 2
 
 [[menu.main]]
