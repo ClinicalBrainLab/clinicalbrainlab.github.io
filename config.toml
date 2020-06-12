@@ -1,104 +1,104 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = "https://clinicalbrainlab.github.io/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "The Clinical Brain Lab"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
+    name = "Clinical Brain Lab"
+    description = "A Psychology Research Lab"
+    email = "clinicalbrainlab@gmail.com"
+    # phone = ""
+    address = "Nanyang Technological University, 48 Nanyang Avenue, Singapore 639818"
+    year = 2020
+    avatar = "img/logo_CBL.png"
     background = ""
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    DateForm = "June, 2020"
 
-    showSubheader = true
-    showServices = true
+    showSubheader = false
     showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showDownload = false
 
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = true
     footerEnableFormWidget = true
 
+# main menu
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 5
 
+[[menu.main]]
+name = "People"
+url = "/people"
+weight = 2
+
+[[menu.main]]
+name = "Publication"
+URL = "/publication"
+weight = 3
+
+[[menu.main]]
+name = "Blog"
+URL = "/blog"
+weight = 4
+
+[[menu.main]]
+name = "Join Us"
+URL = "/join"
+weight = 5
+
+[[menu.main]]
+name = "Participate"
+URL = "/participate"
+weight = 6
+  
+[[menu.main]]
+name = "Contact Us"
+URL = "/contact"
+weight = 7
+
+# to sign up later: https://disqus.com/
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+    site = ""
 
 [params.sharethis]
     property = "123456789012345678901234"
     custom = true
 
+# to sign up later: https://marketingplatform.google.com/about/analytics/#?modal_active=none
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = ""
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/Clinical-Brain-Lab-1025744954121571"
     icon = "fab fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/cblntu"
     icon = "fab fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
-    icon = "fab fa-linkedin"
-    footer = false
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/ClinicalBrainLab"
     icon = "fab fa-github"
     footer = true
     sharethis = false
-    network = ""
+    network = "github"
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:clinicalbrainlab@gmail.com"
     icon = "fas fa-envelope-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
+

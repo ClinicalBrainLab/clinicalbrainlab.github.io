@@ -19,7 +19,13 @@
 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
 					<div class="entry-content">
-						{{ .Content }}
+						{{ if .Params.summary }}
+						  {{ .Params.summary | plainify | emojify }}
+						{{ else if .Params.abstract }}
+						  {{ .Params.abstract | plainify | emojify | truncate 250 }}
+						{{ else if .Summary }}
+						  {{ .Summary | plainify | emojify }}
+						{{ end }}
 					</div>
 				</article>
                 {{ end }}
