@@ -17,7 +17,16 @@
       <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
       
       <guid>/publication/cc-pathway/</guid>
-      <description></description>
+      <description>Verbal working memory involves holding verbal information in short-term memory. Two cerebro-cerebellar networks for verbal working memory have been proposed: (1) fronto-superior cerebellar network associated with controlling and updating speech-related information, and (2) parieto-inferior cerebellar network associated with storing speech-related information briefly. Sobczak-Edmans and colleagues (2019) examined the structural and functional connectivity of these cerebro-cerebellar networks. Using diffusion spectrum imaging tractography, they reconstructed white matter tracts in: (1) the left inferior frontal gyrus via the pons to the right superior cerebellum, and (2) the left inferior parietal lobule via the pons to the right inferior cerebellum.</description>
+    </item>
+    
+    <item>
+      <title>Indices of Effect Existence and Significance in the Bayesian Framework</title>
+      <link>/publication/bayesian-framework/</link>
+      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
+      
+      <guid>/publication/bayesian-framework/</guid>
+      <description>The Bayesian framework is increasingly believed to address some issues with the frequentist framework, especially the misuse and misinterpretation of p-values that has contributed to the reproducibility crisis. While the Bayesian framework offers several alternative indices for the frequentist p-value, there is a lack of consensus and guidelines to help researchers decide which indices to use and understand the meaning of the values. Makowski and colleagues (2019) compared several Bayesian indices by simulating two widely used models in psychological sciences.</description>
     </item>
     
     <item>
@@ -38,6 +47,19 @@ After obtaining her PhD in Clinical Rehabilitation Psychology from Purdue Univer
       <guid>/home/about/</guid>
       <description>Our brain plays an important role in how we perceive and interact with the world around us. What happens when development goes awry in our brain, or insult occurs to our brain? How do we harness neuroplasticity to ameliorate neuropsychiatric conditions, or to optimize learning during the natural progression of neurodegeneration? Can we enhance cognitive health through neuromodulations?
 At the Clinical Brain lab, we apply clinical neuropsychological principles to uncover the enigma of the brain and work towards addressing these questions.</description>
+    </item>
+    
+    <item>
+      <title>Participate</title>
+      <link>/participate/participate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/participate/participate/</guid>
+      <description>We are actively looking for participants to take part in our experiments.
+Investigating the Bilingual Reading NetworkPlease contact biliteracystudy@gmail.com for more information.
+Measuring the brain response to non-invasive brain stimulationPlease contact agoodwill@ntu.edu.sg for more information.
+Studying the experience of COVID-19 News PerceptionPlease contact zenjuen.lau@ntu.edu.sg for more information
+</description>
     </item>
     
   </channel>
