@@ -21,71 +21,197 @@ Back in Asia, she started the Clinical Brain Lab to apply neuropsychological pri
 - GitHub: []()
 - Email: annabelchen@ntu.edu.sg
 
+*** 
 
 ## Research Scientists and Research Fellows
-### Chiao-Yi Wu, Ph.D.
-<img src="/img/CYWu.png" alt="Joyce" width="50%" align="left" hspace=20" vspace="20">
+#### Chiao-Yi Wu, Ph.D.
+<img src="/img/CYWu.png" alt="Joyce" width="25%" align="left" hspace=20" vspace="20"><br />
 
+**Research Scientist** <br />
+Centre for Research and Development in Learning (CRADLE) <br />
+Nanyang Technological University
 
-**More information:**
-
-- Research Scientist
-- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
 - CV: []()
 - GitHub: []()
 - Email: cywu@ntu.edu.sg
 
+<br />
 
-### Alicia Goodwill, Ph.D.
-<img src="/img/Alicia.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+#### Alicia Goodwill, Ph.D. <br />
+<img src="/img/Alicia.jpg" alt="Alicia" width="25%" align="left" hspace=20" vspace="20"><br />
 
+**Research Scientist** <br />
+Centre for Research and Development in Learning (CRADLE) <br />
+Nanyang Technological University
 
-**More information:**
-
-- Research Scientist
-- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
 - CV: []()
 - GitHub: []()
 - Email: agoodwill@ntu.edu.sg
 
+<br />
 
+#### Rajan Kashyap, Ph.D.
+<img src="/img/Rajan.jpg" alt="Rajan" width="25%" align="left" hspace=20" vspace="20"><br />
 
-### Rajan Kashyap, Ph.D.
-<img src="/img/Rajan.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+**Research Fellow** <br />
+Centre for Research and Development in Learning (CRADLE) <br />
+Nanyang Technological University
 
-
-**More information:**
-
-- Research Fellow
-- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
 - CV: []()
 - GitHub: []()
 - Email: kashyap.rajan@ntu.edu.sg
 
-### Dominique Makowski, Ph.D.
-<img src="/img/Dom.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+<br />
 
+#### Dominique Makowski, Ph.D.
+<img src="/img/Dom.jpg" alt="Dominique" width="30%" align="left" hspace=20" vspace="20"><br />
 
-**More information:**
+**Research Fellow** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
 
-- Research Fellow
-- Division of Psychology, School of Social Sciences, Nanyang Technological University
-- CV: [](https://dominiquemakowski.github.io/files/CV_DominiqueMakowski.pdf)
+- CV: [PDF](https://dominiquemakowski.github.io/files/CV_DominiqueMakowski.pdf)
 - GitHub: [DominiqueMakowski](http://github.com/DominiqueMakowski)
-- Email: dmakowski@ntu.edu.sg
+- Email: dmakowski@ntu.edu.sg 
 
-### Nestor Vinas-Guasch, Ph.D.
-<img src="/img/Nestor.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+<br />
 
+#### Nestor Vinas-Guasch, Ph.D.
+<img src="/img/Nestor.jpg" alt="Nestor" width="30%" align="left" hspace=20" vspace="20"><br />
 
-**More information:**
+**Research Fellow** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
 
-- Research Fellow
-- Division of Psychology, School of Social Sciences, Nanyang Technological University
-- CV: []()
+ - CV: []()
 - GitHub: []()
 - Email: vinas.nestor@ntu.edu.sg
 
+*** 
+
+## Graduate Students
+#### Gladys Heng, B.A.
+<img src="/img/Gladys.jpg" alt="Gladys" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: []()
+- Email: jheng007@e.ntu.edu.sg
+
+<br />
+
+#### Dayton Leow, B.A. (Hons)
+<img src="/img/Dayton.jpg" alt="Dayton" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: []()
+- Email: H160040@e.ntu.edu.sg
+
+<br />
+
+#### Dr. Sagarika Bhattacharjee, M.D., M.B.B.S
+<img src="/img/Sagarika.jpg" alt="Sagarika" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: []()
+- Email: SAGARIKA001@e.ntu.edu.sg
 
 
 
+*** 
+
+## Research Crew
+#### Lau Zen Juen, M.A. (Hons)
+<img src="/img/Zen.jfif" alt="Zen" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Project Officer** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: [zen-juen](http://github.com/zen-juen)
+- Email: zenjuen.lau@ntu.edu.sg
+
+<br />
+
+#### Pham Thanh Tam, B.A. (Hons)
+<img src="/img/Tam.jpg" alt="Tam" width="30%" align="left" hspace=20" vspace="20"><br />
+
+**Project Officer** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: [Tam-Pham](http://github.com/Tam-Pham)
+- Email: phamtt@ntu.edu.sg
+
+<br />
+
+#### Teo Jia Li, B.A. (Hons)
+<img src="/img/Jiali.jpg" alt="Jia Li" width="40%" align="left" hspace=20" vspace="20"><br />
+
+**Research Assistant** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: []()
+- Email: jiali.teo@ntu.edu.sg
+
+<br />
+
+#### Low Li Tong, Bachelor of Psychology (Hons)
+<img src="/img/Litong.jpg" alt="Li Tong" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Project Officer** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+- CV: []()
+- GitHub: []()
+- Email: litong.low@ntu.edu.sg
+
+<br />
+
+
+*** 
+
+##  Undergraduate Students
+
+<br />
+
+*** 
+
+## Systems Administrator
+
+#### Chung Sheng Hung, MEngSc
+<img src="/img/Chung.jpg" alt="Chung" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Systems Administrator** <br />
+
+- CV: []()
+- GitHub: []()
+- Email: shchung@ntu.edu.sg
+
+<br />
+
+*** 
+
+##  Current Visiting Scholars
+
+<br />
+
+*** 
+
+## Alumni
