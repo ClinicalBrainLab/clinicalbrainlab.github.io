@@ -19,28 +19,73 @@ Back in Asia, she started the Clinical Brain Lab to apply neuropsychological pri
 
 - CV: []()
 - GitHub: []()
-- Email:
+- Email: annabelchen@ntu.edu.sg
 
 
 ## Research Scientists and Research Fellows
 ### Chiao-Yi Wu, Ph.D.
-<img src="" alt="Joyce" width="50%" align="left" hspace=20" vspace="20">
+<img src="/img/CYWu.png" alt="Joyce" width="50%" align="left" hspace=20" vspace="20">
 
 
 **More information:**
 
+- Research Scientist
+- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
 - CV: []()
 - GitHub: []()
-- Email:
+- Email: cywu@ntu.edu.sg
 
 
 ### Alicia Goodwill, Ph.D.
-<img src="" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+<img src="/img/Alicia.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
 
 
 **More information:**
 
+- Research Scientist
+- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
 - CV: []()
 - GitHub: []()
-- Email:
+- Email: agoodwill@ntu.edu.sg
+
+
+
+### Rajan Kashyap, Ph.D.
+<img src="/img/Rajan.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+
+- Research Fellow
+- Centre for Research and Development in Learning (CRADLE), Nanyang Technological University
+- CV: []()
+- GitHub: []()
+- Email: kashyap.rajan@ntu.edu.sg
+
+### Dominique Makowski, Ph.D.
+<img src="/img/Dom.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+
+- Research Fellow
+- Division of Psychology, School of Social Sciences, Nanyang Technological University
+- CV: [](https://dominiquemakowski.github.io/files/CV_DominiqueMakowski.pdf)
+- GitHub: [DominiqueMakowski](http://github.com/DominiqueMakowski)
+- Email: dmakowski@ntu.edu.sg
+
+### Nestor Vinas-Guasch, Ph.D.
+<img src="/img/Nestor.jpg" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+
+- Research Fellow
+- Division of Psychology, School of Social Sciences, Nanyang Technological University
+- CV: []()
+- GitHub: []()
+- Email: vinas.nestor@ntu.edu.sg
+
+
+
 
