@@ -1,0 +1,26 @@
+---
+title: "Research Scientists and Fellows"
+date: 2020-06-12T12:57:28+08:00
+draft: false
+summary: Here comes the power house of Clinical Brain Lab - our Research Scientists and Research Fellows.
+---
+
+## Chiao-Yi Wu, Ph.D.
+<img src="" alt="Joyce" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
+
+## Alicia Goodwill, Ph.D.
+<img src="" alt="Alicia" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
