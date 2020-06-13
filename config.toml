@@ -6,7 +6,7 @@ publishDir = "public"
 
 [params]
     name = "Clinical Brain Lab"
-    description = "A Psychology Research Lab"
+    description = "A Psychology & Neuroscience Research Lab"
     email = "clinicalbrainlab@gmail.com"
     # phone = ""
     address = "Nanyang Technological University, 48 Nanyang Avenue, Singapore 639818"
