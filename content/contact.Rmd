@@ -12,7 +12,7 @@ Singapore 637332 <br />
 
 *** 
 
-#### Find us on <br />
+#### Find us <br />
 
 <i class='far fa-envelope' style='font-size:35px'></i><font size="4"> clinicalbrainlab@gmail.com </font>
 
