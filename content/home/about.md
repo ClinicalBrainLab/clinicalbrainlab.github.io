@@ -11,5 +11,11 @@ The main research modalities in our lab include traditional neuropsychological a
 
 ![](img/lab-photo.jpeg)
 
-### Other section
+### Research Themes
 
+Our current research projects include:
+
+1. Effective biliteracy : The impact of script sets on bilingual reading networks for typical and atypical readers
+2. Understanding deception through neuroimaging
+3. Investigating the brain correlates in OCD
+4. Understanding Dyslexia
