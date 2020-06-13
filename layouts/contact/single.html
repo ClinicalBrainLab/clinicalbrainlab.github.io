@@ -5,46 +5,25 @@
 	<div class="container">
 
 		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
 
- 				<article class="post">
-					<header class="entry-header">
- 						<div class="entry-meta">
- 						</div>
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
-					</header>
-					<div class="entry-content">
-						{{ .Content }}
-					</div>
-				</article><!-- #post-## -->
+			<!-- Sidebar -->
+			<aside class="col-sm-4 sidebar sidebar-right">
 
-			</div>
-		</div> <!-- /row post  -->
-
-        <div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="share">
-                    {{ if .Params.Share }}
-                       {{ partial "sharethis.html" . }}
-                    {{ end }}
+				<div class="nav text-right nav-side">
+					<li class="active"><a href="#">{{ .Title }}</a></li>
 				</div>
-			</div>
-		</div> <!-- /row share -->
-		<div class="clearfix"></div>
 
-		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
+			</aside>
+			<!-- /Sidebar -->
 
-				<div id="comments">
-                    {{ if .Params.Comments }}
-                       {{ partial "disqus.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row comments -->
-		<div class="clearfix"></div>
+			<!-- Article main content -->
+			<article class="col-sm-8 maincontent">
+                {{ .Content }}
+			</article>
+			<!-- /Article -->
 
+
+		</div>
 	</div>	<!-- /container -->
 
 </main>
