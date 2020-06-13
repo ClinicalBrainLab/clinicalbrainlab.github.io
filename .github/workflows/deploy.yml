@@ -1,0 +1,36 @@
+on:
+  push:
+     branches:
+       - sources
+
+
+name: 🚀 Build and Deploy
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@master
+
+      - name: Install rmarkdown, blogdown, knitr # knitr just in case
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown","knitr"))'
+       
+      - name: Install hugo
+        run: Rscript -e 'blogdown::install_hugo()'
+ 
+      - name: Build site with blogdown
+        run: Rscript -e "blogdown::build_site(local = FALSE, method = c("html", "custom"), run_hugo = TRUE)"
+ 
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: master # The branch the action should deploy to.
+          FOLDER: public # The folder the action should deploy.
+
+  
+# site is built on sources branch, deploy on master branch
