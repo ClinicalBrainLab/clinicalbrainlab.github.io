@@ -15,6 +15,7 @@ jobs:
 
       - name: Setup R
         uses: r-lib/actions/setup-r@master
+        uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install rmarkdown, blogdown # might need knitr
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
