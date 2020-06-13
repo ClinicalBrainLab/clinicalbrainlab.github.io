@@ -1,0 +1,31 @@
+---
+title: "Contact"
+draft: false
+---
+
+#### Address <br />
+Division of Psychology <br />
+School of Social Sciences <br />
+Nanyang Technological University <br />
+14 Nanyang Drive <br />
+Singapore 637332 <br />
+
+*** 
+
+#### Find us <br />
+
+<i class='far fa-envelope' style='font-size:35px'></i><font size="4"> clinicalbrainlab@gmail.com </font>
+
+<i class='fab fa-facebook-square' style='font-size:35px;color:#3b5998'></i> 
+<font size="4">[Facebook](https://www.facebook.com/Clinical-Brain-Lab-1025744954121571/)</font>
+
+<i class='fab fa-twitter-square' style='font-size:35px; color:#00aced'></i> <font size="4">[Twitter](https://twitter.com/cblntu)</font>
+
+<i class='fab fa-github' style='font-size:35px'></i> <font size="4">[Github](https://github.com/ClinicalBrainLab)</font>
+
+*** 
+
+Find out more about the [Division of Psychology](http://www.sss.ntu.edu.sg/Programmes/psychology/Pages/Home.aspx) at [Nayang Technological University (NTU)](https://www.ntu.edu.sg/Pages/home.aspx)
+
+***
+

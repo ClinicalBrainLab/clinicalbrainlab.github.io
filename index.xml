@@ -30,6 +30,19 @@
     </item>
     
     <item>
+      <title>Participate</title>
+      <link>/participate/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>/participate/</guid>
+      <description>We are actively looking for participants to take part in our experiments.
+Investigating the Bilingual Reading NetworkPlease contact biliteracystudy@gmail.com for more information.
+Measuring the brain response to non-invasive brain stimulationPlease contact agoodwill@ntu.edu.sg for more information.
+Studying the experience of COVID-19 News PerceptionPlease contact zenjuen.lau@ntu.edu.sg for more information
+</description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>/people/</link>
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
@@ -50,15 +63,16 @@ At the Clinical Brain lab, we apply clinical neuropsychological principles to un
     </item>
     
     <item>
-      <title>Participate</title>
-      <link>/participate/participate/</link>
+      <title>Contact</title>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/participate/participate/</guid>
-      <description>We are actively looking for participants to take part in our experiments.
-Investigating the Bilingual Reading NetworkPlease contact biliteracystudy@gmail.com for more information.
-Measuring the brain response to non-invasive brain stimulationPlease contact agoodwill@ntu.edu.sg for more information.
-Studying the experience of COVID-19 News PerceptionPlease contact zenjuen.lau@ntu.edu.sg for more information
+      <guid>/contact/</guid>
+      <description>Address Division of Psychology School of Social Sciences Nanyang Technological University 14 Nanyang Drive Singapore 637332 Find us clinicalbrainlab@gmail.com 
+Facebook
+ Twitter
+ Github
+Find out more about the Division of Psychology at Nayang Technological University (NTU)
 </description>
     </item>
     
