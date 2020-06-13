@@ -6,7 +6,7 @@
     <description>Recent content on The Clinical Brain Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 12:57:28 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 16:03:15 +0800</lastBuildDate>
     
 	<atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,11 +35,11 @@
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
       
       <guid>https://clinicalbrainlab.github.io/participate/</guid>
-      <description>We are actively looking for participants to take part in our experiments.
-Investigating the Bilingual Reading NetworkPlease contact biliteracystudy@gmail.com for more information.
-Measuring the brain response to non-invasive brain stimulationPlease contact agoodwill@ntu.edu.sg for more information.
-Studying the experience of COVID-19 News PerceptionPlease contact zenjuen.lau@ntu.edu.sg for more information
-</description>
+      <description> We are actively looking for participants to take part in our experiments.
+Investigating the Bilingual Reading Network Please contact biliteracystudy@gmail.com for more information.
+ Measuring the brain response to non-invasive brain stimulation Please contact agoodwill@ntu.edu.sg for more information.
+ Studying the experience of COVID-19 News Perception Please contact zenjuen.lau@ntu.edu.sg for more information
+ </description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Investigating the Bilingual Reading NetworkPlease contact biliteracystudy@gmail
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
       
       <guid>https://clinicalbrainlab.github.io/people/</guid>
-      <description>Principle Investigator, Lab DirectorSH Annabel Chen, PhDDr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.
+      <description>Principle Investigator, Lab Director SH Annabel Chen, PhD Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.
 After obtaining her PhD in Clinical Rehabilitation Psychology from Purdue University and completing a Clinical Psychology Internship at West Virginia University School of Medicine, she continued with a post-doctoral residency in Clinical Neuropsychology at the Department of Neurology, Medical College of Wisconsin.</description>
     </item>
     
@@ -68,12 +68,12 @@ At the Clinical Brain lab, we apply clinical neuropsychological principles to un
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://clinicalbrainlab.github.io/contact/</guid>
-      <description>Address Division of Psychology School of Social Sciences Nanyang Technological University 14 Nanyang Drive Singapore 637332 Find us clinicalbrainlab@gmail.com 
-Facebook
+      <description> Address  Division of Psychology School of Social Sciences Nanyang Technological University 14 Nanyang Drive Singapore 637332  Find us  clinicalbrainlab@gmail.com 
+ Facebook
  Twitter
  Github
 Find out more about the Division of Psychology at Nayang Technological University (NTU)
-</description>
+ </description>
     </item>
     
   </channel>
