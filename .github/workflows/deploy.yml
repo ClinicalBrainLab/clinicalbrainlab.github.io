@@ -16,14 +16,14 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@master
 
-      - name: Install rmarkdown, blogdown, knitr # knitr just in case
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown","knitr"))'
+      - name: Install rmarkdown, blogdown # might need knitr
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
        
       - name: Install hugo
         run: Rscript -e 'blogdown::install_hugo()'
  
       - name: Build site with blogdown
-        run: Rscript -e "blogdown::build_site(local = FALSE, method = c("html", "custom"), run_hugo = TRUE)"
+        run: Rscript -e "blogdown::build_site()"
  
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
