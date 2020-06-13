@@ -4,7 +4,7 @@ This repository contains the code to host the Clinical Brain Lab website: https:
 
 ## To-Do
 - Continuous integration
-- GH Action to automate deployment
+- ~~GH Action to automate deployment~~
 - Get everyone to:
   - Update your own profile on **People** section
   - Update **Join Us** section
