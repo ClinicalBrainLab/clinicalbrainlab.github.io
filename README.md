@@ -3,7 +3,7 @@
 This repository contains the code to host the Clinical Brain Lab website: https://clinicalbrainlab.github.io ✨
 
 ## To-Do
-- Continuous integration
+- Check mapping of domain name "clinicalbrain.org" to the website
 - ~~GH Action to automate deployment~~
 - Get everyone to:
   - Update your own profile on **People** section
