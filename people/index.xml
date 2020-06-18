@@ -2,23 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peoples on The Clinical Brain Lab</title>
-    <link>/people/</link>
+    <link>https://clinicalbrainlab.github.io/people/</link>
     <description>Recent content in Peoples on The Clinical Brain Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 12:57:28 +0800</lastBuildDate>
     
-	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clinicalbrainlab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>People</title>
-      <link>/people/people/</link>
+      <link>https://clinicalbrainlab.github.io/people/graduate-student/</link>
       <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
       
-      <guid>/people/people/</guid>
-      <description>Principle Investigator, Lab DirectorSH Annabel Chen, PhDDr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.
+      <guid>https://clinicalbrainlab.github.io/people/graduate-student/</guid>
+      <description>Graduate Students Gladys Heng, B.A. Ph.D. Student Division of Psychology, School of Social Sciences Nanyang Technological University
+(To-be-added)
+ Academic Profile: ResearchGate Email: jheng007@e.ntu.edu.sg  
+ Dayton Leow, B.A. (Hons) Ph.D. Student Division of Psychology, School of Social Sciences Nanyang Technological University
+(To-be-added)
+ Academic Profile: ResearchGate Email: H160040@e.ntu.edu.sg  
+ Dr. Sagarika Bhattacharjee, M.D., M.B.B.S Ph.D. Student Division of Psychology, School of Social Sciences Nanyang Technological University</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://clinicalbrainlab.github.io/people/prof-annabel/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/people/prof-annabel/</guid>
+      <description>Principle Investigator, Lab Director SH Annabel Chen, PhD Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, LKCMedicine and Acting Director of the Centre of Research and Development in Learning (CRADLE), at the Nanyang Technological University.
 After obtaining her PhD in Clinical Rehabilitation Psychology from Purdue University and completing a Clinical Psychology Internship at West Virginia University School of Medicine, she continued with a post-doctoral residency in Clinical Neuropsychology at the Department of Neurology, Medical College of Wisconsin.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://clinicalbrainlab.github.io/people/research-crew/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/people/research-crew/</guid>
+      <description>Research Crew Ilang Kumaran Yuvadarshini Research Associate Centre for Research and Development in Learning (CRADLE) Nanyang Technological University
+(To-be-added)
+ Email: yuvakumaran@ntu.edu.sg  
+ Pham Thanh Tam, B.A. (Hons) Project Officer Division of Psychology, School of Social Sciences Nanyang Technological University
+(To-be-added)
+ Academic Profile: ResearchGate Email: phamtt@ntu.edu.sg  
+ Lin Hsin-Yu Research Associate Centre for Research and Development in Learning (CRADLE) Nanyang Technological University
+(To-be-added)
+ Email: linhy@ntu.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://clinicalbrainlab.github.io/people/research-fellow/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/people/research-fellow/</guid>
+      <description>Research Scientists and Research Fellows Chiao-Yi Wu, Ph.D. Research Scientist Centre for Research and Development in Learning (CRADLE) Nanyang Technological University
+(To-be-added)
+ Academic Profile: NTU Website, ResearchGate Email: cywu@ntu.edu.sg  
+ Alicia Goodwill, Ph.D.  Research Scientist Centre for Research and Development in Learning (CRADLE) Nanyang Technological University
+(To-be-added)
+ Academic Profile: NTU Website, ResearchGate Email: agoodwill@ntu.edu.sg  
+ Rajan Kashyap, Ph.D. Research Fellow Centre for Research and Development in Learning (CRADLE) Nanyang Technological University</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://clinicalbrainlab.github.io/people/system-admin/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/people/system-admin/</guid>
+      <description> Systems Administrator Chung Sheng Hung, MEngSc Systems Administrator  Email: shchung@ntu.edu.sg  
+  </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://clinicalbrainlab.github.io/people/undergraduate-student/</link>
+      <pubDate>Fri, 12 Jun 2020 12:57:28 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/people/undergraduate-student/</guid>
+      <description> Undergraduate Students Low Jia Rong, B.A. (Hons) Final Year Student Division of Psychology, School of Social Sciences Nanyang Technological University
+(to-be added)
+ Email: jlow052@e.ntu.edu.sg  
+  </description>
     </item>
     
   </channel>
