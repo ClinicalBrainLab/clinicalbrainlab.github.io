@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Cerebro-cerebellar pathways for verbal working memory",
-        "image": "img/cc-pathway.jpg",
-        "url": "/publication/cc-pathway/",
+        "name": "The Structure of Deception: Validation of the Lying Profile Questionnaire",
+        "image": "/img/deception-scale.png",
+        "url": "/publication/deception-scale/",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2018.00530/full"
+                "url": "https://dominiquemakowski.github.io/publication/makowski2020structure/makowski2020structure.pdf"
             },
             {
                 "name": "Supplementary Materials",
@@ -17,13 +17,13 @@
     },
     {
         "id": 1,
-        "name": "Indices of effect existence and significance in the Bayesian framework",
-        "image": "img/bayesian-framework.jpg",
-        "url": "https://clinicalbrainlab.github.io/publication/bayesian-framework/",
+        "name": "TBD",
+        "image": "",
+        "url": "",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+                "url": ""
             },
             {
                 "name": "Supplementary Materials",
@@ -33,13 +33,13 @@
     },
     {
         "id": 2,
-        "name": "The role of primary motor cortex: More than movement execution",
-        "image": "images/s1.jpg",
+        "name": "TBD",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+                "url": ""
             },
             {
                 "name": "Supplementary Materials",
@@ -50,7 +50,7 @@
     {
         "id": 3,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
@@ -66,7 +66,7 @@
     {
         "id": 4,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
@@ -82,7 +82,7 @@
     {
         "id": 5,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {

@@ -1,29 +1,29 @@
 [
     {
         "id": 0,
-        "name": "Cerebro-cerebellar pathways for verbal working memory",
-        "image": "img/cc-pathway.jpg",
-        "url": "/publication/cc-pathway/",
+        "name": "Translating education neuroscience for teachers",
+        "image": "/img/translate-education.jpeg",
+        "url": "/publication/translate-education/",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2018.00530/full"
+                "url": "https://www.tandfonline.com/doi/abs/10.1080/23735082.2019.1674909?journalCode=rlrp20"
             },
             {
                 "name": "Supplementary Materials",
-                "url": "/publication/cc-pathway/"
+                "url": "/publication/translate-education/"
             }
         ]
     },
     {
         "id": 1,
-        "name": "Indices of effect existence and significance in the Bayesian framework",
-        "image": "img/bayesian-framework.jpg",
-        "url": "https://clinicalbrainlab.github.io/publication/bayesian-framework/",
+        "name": "TBD",
+        "image": "",
+        "url": "",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+                "url": ""
             },
             {
                 "name": "Supplementary Materials",
@@ -33,13 +33,13 @@
     },
     {
         "id": 2,
-        "name": "The role of primary motor cortex: More than movement execution",
-        "image": "images/s1.jpg",
+        "name": "TBD",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
                 "name": "PDF",
-                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+                "url": ""
             },
             {
                 "name": "Supplementary Materials",
@@ -50,7 +50,7 @@
     {
         "id": 3,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
@@ -66,7 +66,7 @@
     {
         "id": 4,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {
@@ -82,7 +82,7 @@
     {
         "id": 5,
         "name": "TBD",
-        "image": "images/s1.jpg",
+        "image": "/images/s1.jpg",
         "url": "#",
         "items": [
             {

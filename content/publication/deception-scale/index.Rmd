@@ -1,0 +1,15 @@
+---
+title: "The Structure of Deception: Validation of the Lying Profile Questionnaire"
+date: 2020-06-12T16:03:15+08:00
+draft: false
+---
+While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking. This study aims to explore the structure of dispositional deception by developing and validating a short and reliable 16-item questionnaire to characterize the lying pattern of individuals. Our findings suggest the existence of four distinct latent dimensions to lying, namely frequency, ability, negativity, and contextuality. We establish the convergent validity of our measure of lying by showing significant relationships with social desirability, malevolent traits, cognitive control deficits, normal and pathological personality traits, as well as demographic variables such as sex, age, and religiosity. Overall, the present study introduces a general framework to understanding deception as a dispositional trait which future deception studies can build on, accounting for the inter-individual variability in lying.
+
+<img src="/img/deception-scale.png">
+<figcaption> Figure 1. Confirmatory structure of the deception scale items and the correlation between the latent factors. Red links represent negative correlations and green links represent positive correlations. The green arrows represent the loadings of the items onto their respective factors. The numbers correspond to the regression coefficients from the Confirmatory Factor Analysis (CFA).</figcaption>
+
+<div style="margin-bottom:50px;">
+</div>
+
+#### Citation
+Makowski, D., Pham, T., Lau, Z. J., Leow, D., Raine, A., & Chen, S. A. (under review). The Structure of Deception: Validation of the Lying Profile Questionnaire.
