@@ -29,5 +29,23 @@
       <description>The Bayesian framework is increasingly believed to address some issues with the frequentist framework, especially the misuse and misinterpretation of p-values that has contributed to the reproducibility crisis. While the Bayesian framework offers several alternative indices for the frequentist p-value, there is a lack of consensus and guidelines to help researchers decide which indices to use and understand the meaning of the values. Makowski and colleagues (2019) compared several Bayesian indices by simulating two widely used models in psychological sciences.</description>
     </item>
     
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/deception-scale/</link>
+      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/publication/deception-scale/</guid>
+      <description>While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking. This study aims to explore the structure of dispositional deception by developing and validating a short and reliable 16-item questionnaire to characterize the lying pattern of individuals.</description>
+    </item>
+    
+    <item>
+      <title>Translating education neuroscience for teachers</title>
+      <link>https://clinicalbrainlab.github.io/publication/translate-education/</link>
+      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/publication/translate-education/</guid>
+      <description>Translating Neuroscience to education involves providing accurate and simplified information about neuroscience to teachers. The aim of this research was to understand if providing translated abstracts from neuroscientific articles helped teachers understand content more thoroughly. Surveys, experimental manipulation, and focus group discussions were conducted with thirty teachers from two primary schools in Singapore. Teachers shared their familiarity with neuroscience, self-rated their understanding of neuroscientific abstracts, and provided feedback on the abstracts’ translations.</description>
+    </item>
+    
   </channel>
 </rss>
