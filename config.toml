@@ -35,6 +35,43 @@ publishDir = "public"
 name = "People"
 url = "/people"
 weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "People"
+  name = "Principle Investigator"
+  URL = "/people/prof-annabel"
+  weight = 1
+
+  [[menu.main]]
+  parent = "People"
+  name = "Research Scientists and Fellows"
+  URL = "/people/research-fellow"
+  weight = 2
+
+  [[menu.main]]
+  parent = "People"
+  name = "Graduate Students"
+  URL = "/people/graduate-student"
+  weight = 3
+
+  [[menu.main]]
+  parent = "People"
+  name = "Research Crew"
+  URL = "/people/research-crew"
+  weight = 4
+
+  [[menu.main]]
+  parent = "People"
+  name = "Undergraduate Students"
+  URL = "/people/undergraduate-student"
+  weight = 5
+
+  [[menu.main]]
+  parent = "People"
+  name = "System Administrators"
+  URL = "/people/system-admin"
+  weight = 6
 
 [[menu.main]]
 name = "Publication"

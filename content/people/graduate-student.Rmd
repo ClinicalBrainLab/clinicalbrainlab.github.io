@@ -1,0 +1,45 @@
+---
+title: "People"
+date: 2020-06-12T12:57:28+08:00
+draft: false
+---
+## Graduate Students
+#### Gladys Heng, B.A.
+<img src="/img/Gladys.jpg" alt="Gladys" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+(To-be-added)
+
+- Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Gladys_Heng)
+- Email: jheng007@e.ntu.edu.sg
+
+<br />
+
+#### Dayton Leow, B.A. (Hons)
+<img src="/img/Dayton.jpg" alt="Dayton" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+(To-be-added)
+
+- Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Dayton_Leow)
+- Email: H160040@e.ntu.edu.sg
+
+<br />
+
+#### Dr. Sagarika Bhattacharjee, M.D., M.B.B.S
+<img src="/img/Sagarika.jpg" alt="Sagarika" width="25%" align="left" hspace=20" vspace="20"><br />
+
+**Ph.D. Student** <br />
+Division of Psychology, School of Social Sciences <br />
+Nanyang Technological University
+
+(To-be-added)
+
+- Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Sagarika_Bhattacharjee2)
+- Email: SAGARIKA001@e.ntu.edu.sg
