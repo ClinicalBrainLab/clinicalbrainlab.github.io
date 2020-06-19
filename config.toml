@@ -87,6 +87,25 @@ weight = 4
 name = "Join Us"
 URL = "/join"
 weight = 5
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = "Doctorate Research Fellowship"
+  URL = "/join/doctoral-fellowships"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = " Post-doctoral Research Fellowships/Research Fellow"
+  URL = "/join/post-doctoral"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = "Part-time System Administrator"
+  URL = "/join/system-administrator"
+  weight = 3
 
 [[menu.main]]
 name = "Participate"
