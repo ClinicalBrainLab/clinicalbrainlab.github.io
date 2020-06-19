@@ -1,0 +1,12 @@
+---
+title: "Visiting Professors"
+draft: false
+date: 2020-06-12T12:57:28+08:00
+caption: ""
+subtitle: ""
+---
+
+Visiting Professor Daniel Ansari, Professor Edward Wilding and Professor Shahid Bashir at our lab meeting on the 20th July 2017
+
+<img src="/img/ansari-wilding-bashir.png" alt="visiting professors" width="80%" align="center" hspace=20" vspace="20"><br />
+
