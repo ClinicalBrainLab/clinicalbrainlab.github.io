@@ -117,6 +117,30 @@ name = "Contact Us"
 URL = "/contact"
 weight = 7
 
+[[menu.main]]
+name = "Events"
+URL = "/events"
+weight = 8
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Conferences"
+  URL = "/events/conferences"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Visiting Professors"
+  URL = "/events/visiting-professors"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Research Visits"
+  URL = "/events/research-visits"
+  weight = 3
+
 # to sign up later: https://disqus.com/
 [params.disqus]
     site = ""
