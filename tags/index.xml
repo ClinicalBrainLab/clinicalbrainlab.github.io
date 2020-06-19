@@ -6,9 +6,37 @@
     <description>Recent content in Tags on The Clinical Brain Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clinicalbrainlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CBL</title>
+      <link>https://clinicalbrainlab.github.io/tags/cbl/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/tags/cbl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://clinicalbrainlab.github.io/tags/github/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://clinicalbrainlab.github.io/tags/website/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clinicalbrainlab.github.io/tags/website/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

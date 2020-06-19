@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/blog/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tags/cbl/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tags/github/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tags/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tags/website/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/blog/welcome/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/publication/cc-pathway/</loc>
     <lastmod>2020-06-12T16:03:15+08:00</lastmod>
   </url>
@@ -14,11 +49,6 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/publication/</loc>
-    <lastmod>2020-06-12T16:03:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/</loc>
     <lastmod>2020-06-12T16:03:15+08:00</lastmod>
   </url>
   
@@ -108,10 +138,6 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/tags/</loc>
   </url>
   
 </urlset>
