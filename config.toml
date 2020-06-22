@@ -39,7 +39,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "People"
-  name = "Principle Investigator"
+  name = "Principal Investigator"
   URL = "/people/prof-annabel"
   weight = 1
 
