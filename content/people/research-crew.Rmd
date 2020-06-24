@@ -25,7 +25,7 @@ Nanyang Technological University
 Division of Psychology, School of Social Sciences <br />
 Nanyang Technological University
 
-(To-be-added)
+Tam graduated from Nanyang Technological University with a BA (Hons) Highest Distinction in Psychology in 2018 and has since been doing research on neurophysiological basis of deception. She also has strong interests in signal processing, time-series analysis, and statistics. While working as a project officer, she is also a collaborator of an active open-source Python Toolbox (NeuroKit) for neurophysiological signal processing.
 
 - Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Tam_Pham19)
 - Email: phamtt@ntu.edu.sg
