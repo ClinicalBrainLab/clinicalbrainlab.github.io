@@ -5,17 +5,16 @@ draft: false
 ---
 ## Graduate Students
 #### Gladys Heng, B.A.
-<img src="/img/Gladys_2020.jpg" alt="Gladys" width="25%" align="left" hspace=20" vspace="20"><br />
+<img src="/img/Gladys.jpg" alt="Gladys" width="25%" align="left" hspace=20" vspace="20"><br />
 
 **Ph.D. Student** <br />
 Division of Psychology, School of Social Sciences <br />
 Nanyang Technological University
 
-I am Gladys. 
+(To-be-added)
 
 - Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Gladys_Heng)
 - Email: jheng007@e.ntu.edu.sg
-- Another link [Website]
 
 <br />
 
