@@ -5,16 +5,18 @@ draft: false
 ---
 ## Research Crew
 #### Ilang Kumaran Yuvadarshini 
-<img src="" alt="Yuva" width="30%" align="left" hspace=20" vspace="20"><br />
+<img src="/img/Yuva.jpg" alt="Yuva" width="30%" align="left" hspace=20" vspace="20"><br />
 
 **Research Associate** <br />
 Centre for Research and Development in Learning (CRADLE) <br />
 Nanyang Technological University
 
-(To-be-added)
+**Research Interests**
+Applications of Biomedical and Neuroimaging modalities in understanding the cognitive basis of linguistics.
 
 
 - Email: yuvakumaran@ntu.edu.sg
+- Academic Profile: [Orcid](https://orcid.org/0000-0001-8287-1552)
 
 <br />
 
@@ -54,8 +56,7 @@ I am Tiffany.
 Centre for Research and Development in Learning (CRADLE) <br />
 Nanyang Technological University
 
-(To-be-added)
-
+I am Meena.
 
 - Email: m.siddharthan@ntu.edu.sg
 
