@@ -5,7 +5,7 @@ draft: false
 ---
 ## Research Crew
 #### Ilang Kumaran Yuvadarshini 
-<img src="" alt="Yuva" width="30%" align="left" hspace=20" vspace="20"><br />
+<img src="/img/Yuva.jpg" alt="Yuva" width="30%" align="left" hspace=20" vspace="20"><br />
 
 **Research Associate** <br />
 Centre for Research and Development in Learning (CRADLE) <br />
