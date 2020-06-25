@@ -12,11 +12,11 @@ draft: false
 Centre for Research and Development in Learning (CRADLE) <br />
 Nanyang Technological University
 
-I am Joyce.
+(To-be-added)
 
 - Academic Profile: [NTU Website](https://cradle.ntu.edu.sg/aboutus/OurPeople/Pages/Chiao-Yi-WU.aspx), [ResearchGate](https://www.researchgate.net/profile/Chiao_Yi_Wu)
 - Email: cywu@ntu.edu.sg
-- ORCID: [0000-0001-8237-4038](https://orcid.org/0000-0001-8237-4038)
+
 <br />
 
 #### Alicia Goodwill, Ph.D. <br />
@@ -73,4 +73,3 @@ Nanyang Technological University
 
 - Academic Profile: [ResearchGate](https://www.researchgate.net/profile/Nestor_Vinas-Guasch)
 - Email: vinas.nestor@ntu.edu.sg
-- ORCID: https://orcid.org/0000-0002-8661-0103
