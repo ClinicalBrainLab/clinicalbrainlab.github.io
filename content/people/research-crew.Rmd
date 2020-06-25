@@ -32,15 +32,15 @@ Tam graduated from Nanyang Technological University with a BA (Hons) Highest Dis
 
 <br />
 
-#### Lin Hsin-Yu 
-<img src=Tiffany.jpg"" alt="Tiffany" width="30%" align="left" hspace=20" vspace="20"><br />
+#### Lin Hsin-Yu Tiffany
+<img src="/img/Tiffany.JPG" alt="Tiffany" width="30%" align="left" hspace=20" vspace="20"><br />
 
 **Research Associate** <br />
 Centre for Research and Development in Learning (CRADLE) <br />
 Nanyang Technological University
 
-I am Tiffany.
-
+Research interests: neurobiological basis of learning, second language acquisition and bilingualism
+Research expertise: Neurobiology, cognitive neuroscience, neuroimaging (MRI) 
 
 - Email: linhy@ntu.edu.sg
 - Academic Profile: [ORCID](https://orcid.org/0000-0002-4465-428X)
