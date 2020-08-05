@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+    color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -49,7 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Welcome to **The Clinical Brain Lab!**
 
 Our brain plays an important role in how we perceive and interact with the world around us. What happens when development goes awry in our brain, or insult occurs to our brain? How do we harness neuroplasticity to ameliorate neuropsychiatric conditions, or to optimize learning during the natural progression of neurodegeneration? Can we enhance cognitive health through neuromodulations?
 

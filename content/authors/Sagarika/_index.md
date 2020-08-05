@@ -38,7 +38,7 @@ superuser: false
 
 title: Sagarika Bhattacharjee
 user_groups:
-- Grad Students
+- Graduate Students
 
 ---
 

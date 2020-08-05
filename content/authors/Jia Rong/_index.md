@@ -26,7 +26,7 @@ superuser: false
 
 title: Low Jia Rong
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 
 ---
 
