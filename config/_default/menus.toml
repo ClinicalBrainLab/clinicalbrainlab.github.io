@@ -24,14 +24,19 @@
   weight = 40
 
 [[main]]
+  name = "Join Us"
+  url = "join/"
+  weight = 50
+
+[[main]]
   name = "Participate"
   url = "#participate"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

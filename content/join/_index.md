@@ -3,6 +3,7 @@ header:
   caption: ""
   image: ""
 layout: docs
-title: Courses
+title: Join Us
+view: 3
 ---
 
