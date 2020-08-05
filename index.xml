@@ -241,15 +241,53 @@ Three
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://clinicalbrainlab.github.io/project/internal-project/</link>
+      <title>Biliteracy</title>
+      <link>https://clinicalbrainlab.github.io/project/biliteracy/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://clinicalbrainlab.github.io/project/biliteracy/</guid>
+      <description>&lt;p&gt;Our research on biliteracy aims to better understand neural networks and the cognitive mechanisms underlying bilingualism.&lt;/p&gt;
+&lt;h3 id=&#34;measuring-the-brain-response-to-non-invasive-brain-stimulation&#34;&gt;&lt;strong&gt;Measuring the brain response to non-invasive brain stimulation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Currently in our lab, we are using fNIRS to explore changes in brain activity during brain stimulation and during cognitive tasks – i.e. reading.&lt;/p&gt;
+&lt;p&gt;fNIRS (functional near-infrared spectroscopy) is a non-invasive neuroimaging technique that measures brain responses by recording changes in the amount of oxygenated/deoxygenated blood. It works based on the principle of light scattering – the device sends high intensity beams of near-infrared light at the scalp and detects changes to amount of light absorbed within the brain. Mathematical algorithms are then applied to process the collected data to calculate changes in oxygenated/deoxygenated haemoglobin concentration. These changes are associated with changes in brain function.&lt;/p&gt;
+&lt;p&gt;Our project is activey looking for participants to take part!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fNIRS-tDCS.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;investigating-the-bilingual-reading-network&#34;&gt;&lt;strong&gt;Investigating the Bilingual Reading Network&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chinese-English Bilinguals who had a history of dyslexia or are struggling in reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./biliteracy-dyslexia.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cerebellum and Cognition</title>
+      <link>https://clinicalbrainlab.github.io/project/cerebellum/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/cerebellum/</guid>
+      <description>&lt;p&gt;Description&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deception Neuroscience</title>
+      <link>https://clinicalbrainlab.github.io/project/deception-neuroscience/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/deception-neuroscience/</guid>
+      <description>&lt;p&gt;In this project, we seek to utilize neuroimaging to clarify the neural basis of cognitive and emotion processing in deception for potential application towards deception detection in a real-world setting.
+Neuroimaging research on deception has documented specific brain regions, and suggested potential neural network, associated with the cognitive processing of deception.
+However, limited research has examined the neural correlates related to emotion processing when one deceives. Furthermore, to our knowledge, there is limited research examining the neural network that could
+account for both cognitive and emotion processing in deception. Our first experiment will use &lt;strong&gt;functional magnetic resonance imaging (fMRI)&lt;/strong&gt; to address the present research gaps.
+The second experiment will use electroencephalogram (EEG) to examine &lt;strong&gt;brain activity associated with deception at high temporal solution&lt;/strong&gt;.
+The third experiment will focus on developing and validating a &lt;strong&gt;Deception Scale&lt;/strong&gt; that captures inter-individual differences in lying.&lt;/p&gt;
+&lt;h3 id=&#34;inter-individual-differences-in-deception-profile&#34;&gt;Inter-individual Differences in Deception Profile&lt;/h3&gt;
+&lt;p&gt;In this study, we established a general framework to understanding deception as a dispositional trait, through developing and validating a short and reliable 16-item questionnaire.
+Click 
+&lt;a href=&#34;here&#34;&gt;http://www.ntu.edu.sg&lt;/a&gt; to read the final paper!&lt;/p&gt;
+&lt;h3 id=&#34;fmri-and-deception&#34;&gt;&lt;strong&gt;fMRI and Deception&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;fMRI is a safe, noninvasive imaging technology. Unlike x-rays, which use ionizing radiation, fMRI images are generated from a strong magnetic field and low-power radio-waves. Therefore, there is no risk of exposure to radiation in fMRI.&lt;/p&gt;
+&lt;p&gt;fMRI allows researchers to obtain images of brain activity over time, as participants complete various tasks. From these images, researchers get a better understanding of the brain areas that are involved in the tasks.&lt;/p&gt;
+&lt;h3 id=&#34;eeg-and-deception&#34;&gt;&lt;strong&gt;EEG and Deception&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;EEG (Electroencephalogram) is a neuroimaging technique used to measure electrical activity at the scalp that reflects the neural activity in the brain. It is a real-time recording of neural activity with millisecond temporal resolution.&lt;/p&gt;
 </description>
     </item>
     
@@ -291,14 +329,6 @@ Three
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Online Data Collection</title>
-      <link>https://clinicalbrainlab.github.io/project/external-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
