@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattan S. Ben-Shachar | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/mattan-s.-ben-shachar/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/mattan-s.-ben-shachar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattan S. Ben-Shachar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mattan S. Ben-Shachar</title>
+      <link>https://clinicalbrainlab.github.io/author/mattan-s.-ben-shachar/</link>
+    </image>
+    
+    <item>
+      <title>Indices of effect existence and significance in the Bayesian Framework</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_bayesian/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
