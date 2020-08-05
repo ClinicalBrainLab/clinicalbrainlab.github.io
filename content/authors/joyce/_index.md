@@ -8,10 +8,10 @@ education:
   courses:
   - course: Ph.D., Psychology
     institution: Nanyang Technological University, Singapore
-    #year:
+    year: 2009 - 2014
   - course: B.S., Psychology
     institution: National Taiwan University, Taipei, Taiwan
-    #year: 
+    year: 2003 - 2007
 
 email: "cywu@ntu.edu.sg"
 #interests:
