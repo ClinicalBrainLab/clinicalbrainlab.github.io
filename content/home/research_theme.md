@@ -36,7 +36,7 @@ subtitle = ""
   icon = "heartbeat"
   icon_pack = "fas"
   name = "Deception Neuroscience"
-  description = "short-description"
+  description = "We use neuroimaging techniques to understand the behavioural and neural correlates of deception."
 
 
 # Uncomment to use custom SVG icons.
