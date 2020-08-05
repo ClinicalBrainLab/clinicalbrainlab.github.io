@@ -17,7 +17,14 @@ education:
     year: 2009 - 2014
 
 email: "dmakowski@ntu.edu.sg"
-#interests:
+interests:
+- Emotion Regulation
+- Consciousness
+- Neuropsychological Practice
+- Neuroaesthetics
+- Statistics, Programming, and Methodology
+- History of Psychiatry/Neuroscience
+- Philosophy
 
 organizations:
 - name: Nanyang Technological University
@@ -36,7 +43,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dominique_Makowski
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DominiqueMakowski
 
 superuser: false
 

@@ -14,7 +14,9 @@ education:
     # year:
 
 email: "H160040@e.ntu.edu.sg"
-#interests:
+interests:
+- Social affective neuroscience.
+- Using neuroimaging techniques to examine the human brain in decision making
 
 organizations:
 - name: Nanyang Technological University

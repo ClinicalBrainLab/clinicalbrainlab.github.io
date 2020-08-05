@@ -12,7 +12,11 @@ education:
 
 
 email: "jheng007@e.ntu.edu.sg"
-#interests:
+interests:
+- Understanding the brain processes underlying the perception, listening and engagement of music using neuroimaging techniques
+- Extend this knowledge to better inform music therapy practices
+
+
 
 organizations:
 - name: Nanyang Technological University

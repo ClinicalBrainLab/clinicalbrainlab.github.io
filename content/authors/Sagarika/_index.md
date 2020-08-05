@@ -14,7 +14,9 @@ education:
     year: 2003 - 2008
 
 email: "SAGARIKA001@e.ntu.edu.sg"
-#interests:
+interests:
+- Exploring the brain- behavior relationship and its interaction with the system of human physiology, thereby influencing the expression of diseases in human beings
+
 
 organizations:
 - name: Nanyang Technological University

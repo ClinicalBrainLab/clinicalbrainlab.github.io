@@ -11,7 +11,10 @@ education:
     year: 2015 - 2019
 
 email: "zenjuen.lau@ntu.edu.sg"
-# interests:
+interests:
+- Forensic and Cognitive Psychology e.g. Memory, Decision-making processes
+- Cognitive Neuroscience
+
 
 organizations:
 - name: Nanyang Technological University
@@ -27,7 +30,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Zen_Juen_Lau
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zen-juen
 
 superuser: false
 
@@ -37,3 +42,4 @@ user_groups:
 
 ---
 
+Zen Juen graduated from University of Edinburgh with a Master of Arts (Honours) in Psychology with First Class Honours in 2019. Her research interests lie in Clinical Neuropsychology, specifically regarding the interplay of memory, decision-making, and emotional dysfunction in mental and neurological disorders.

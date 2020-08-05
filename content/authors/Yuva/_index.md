@@ -14,7 +14,8 @@ education:
 
 
 email: "yuvakumaran@ntu.edu.sg"
-#interests:
+interests:
+- Applications of Biomedical and Neuroimaging modalities in understanding the cognitive basis of linguistics
 
 organizations:
 - name: Nanyang Technological University

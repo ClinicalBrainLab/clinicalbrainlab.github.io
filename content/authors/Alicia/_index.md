@@ -14,7 +14,11 @@ education:
     year: 2008 – 2011
 
 email: "agoodwill@ntu.edu.sg"
-#interests:
+interests:
+- Experimental and lifestyle interventions to promote brain plasticity
+- Lifelong learning; optimising brain health over the lifespan
+- Non-invasive brain stimulation (TMS, tDCS, fNIRS)
+- Research translation
 
 organizations:
 - name: Nanyang Technological University

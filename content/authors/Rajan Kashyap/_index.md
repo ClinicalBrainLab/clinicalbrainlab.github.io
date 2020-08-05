@@ -17,7 +17,12 @@ education:
     year: 2001 - 2005
 
 email: "kashyap.rajan@ntu.edu.sg"
-#interests:
+interests:
+- Neuroscience
+- Brain-Behaviour
+- Brain Imaging
+- Mental Disorders
+- Big Data, Machine Learning
 
 organizations:
 - name: Nanyang Technological University

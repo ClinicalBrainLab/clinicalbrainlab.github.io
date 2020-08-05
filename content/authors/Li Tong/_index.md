@@ -10,7 +10,11 @@ education:
     # year:
 
 email: "litong.low@ntu.edu.sg"
-# interests:
+interests:
+- Cognitive Psychology
+- Cognitive Neuroscience
+- Educational Neuroscience
+
 
 organizations:
 - name: Nanyang Technological University

@@ -34,3 +34,4 @@ user_groups:
 
 ---
 
+Jia Li graduated from Nanyang Technological University with a Bachelor of Arts in Psychology (Highest Distinction) in 2019, and has since been conducting research on the neurobiological basis of obsessive-compulsive disorder and neural networks for reading in children. Her main interests are in neuroscience.

@@ -15,7 +15,9 @@ education:
 
 
 email: "linhy@ntu.edu.sg"
-#interests:
+interests:
+   - Neurobiological basis of learning
+   - Second language acquisition and bilingualism
 
 organizations:
 - name: Nanyang Technological University

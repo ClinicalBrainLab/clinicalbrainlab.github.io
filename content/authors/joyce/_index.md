@@ -14,7 +14,11 @@ education:
     year: 2003 - 2007
 
 email: "cywu@ntu.edu.sg"
-#interests:
+interests:
+- Cognitive neuroscience of language and reading (second language acquisition, bilingualism, typical and atypical language development across lifespan)
+- Neurobiology of learning. Functional, structural, and diffusion magnetic resonance imaging
+- Literacy development
+- Lifelong learning
 
 organizations:
 - name: Nanyang Technological University
