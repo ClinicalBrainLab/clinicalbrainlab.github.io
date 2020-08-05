@@ -1,50 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication on The Clinical Brain Lab</title>
+    <title>Publications | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/publication/</link>
-    <description>Recent content in Publication on The Clinical Brain Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 16:03:15 +0800</lastBuildDate>
-    
-	<atom:link href="https://clinicalbrainlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cerebro-cerebellar pathways for verbal working memory</title>
-      <link>https://clinicalbrainlab.github.io/publication/cc-pathway/</link>
-      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/publication/cc-pathway/</guid>
-      <description>Verbal working memory involves holding verbal information in short-term memory. Two cerebro-cerebellar networks for verbal working memory have been proposed: (1) fronto-superior cerebellar network associated with controlling and updating speech-related information, and (2) parieto-inferior cerebellar network associated with storing speech-related information briefly. Sobczak-Edmans and colleagues (2019) examined the structural and functional connectivity of these cerebro-cerebellar networks. Using diffusion spectrum imaging tractography, they reconstructed white matter tracts in: (1) the left inferior frontal gyrus via the pons to the right superior cerebellum, and (2) the left inferior parietal lobule via the pons to the right inferior cerebellum.</description>
-    </item>
-    
-    <item>
-      <title>Indices of Effect Existence and Significance in the Bayesian Framework</title>
-      <link>https://clinicalbrainlab.github.io/publication/bayesian-framework/</link>
-      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/publication/bayesian-framework/</guid>
-      <description>The Bayesian framework is increasingly believed to address some issues with the frequentist framework, especially the misuse and misinterpretation of p-values that has contributed to the reproducibility crisis. While the Bayesian framework offers several alternative indices for the frequentist p-value, there is a lack of consensus and guidelines to help researchers decide which indices to use and understand the meaning of the values. Makowski and colleagues (2019) compared several Bayesian indices by simulating two widely used models in psychological sciences.</description>
-    </item>
+      <atom:link href="https://clinicalbrainlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://clinicalbrainlab.github.io/publication/</link>
+    </image>
     
     <item>
       <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
-      <link>https://clinicalbrainlab.github.io/publication/deception-scale/</link>
-      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/publication/deception-scale/</guid>
-      <description>While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking. This study aims to explore the structure of dispositional deception by developing and validating a short and reliable 16-item questionnaire to characterize the lying pattern of individuals.</description>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Translating education neuroscience for teachers</title>
-      <link>https://clinicalbrainlab.github.io/publication/translate-education/</link>
-      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/publication/translate-education/</guid>
-      <description>Translating Neuroscience to education involves providing accurate and simplified information about neuroscience to teachers. The aim of this research was to understand if providing translated abstracts from neuroscientific articles helped teachers understand content more thoroughly. Surveys, experimental manipulation, and focus group discussions were conducted with thirty teachers from two primary schools in Singapore. Teachers shared their familiarity with neuroscience, self-rated their understanding of neuroscientific abstracts, and provided feedback on the abstracts’ translations.</description>
+      <title>An example journal article</title>
+      <link>https://clinicalbrainlab.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://clinicalbrainlab.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

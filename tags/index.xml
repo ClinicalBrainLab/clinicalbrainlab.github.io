@@ -1,42 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Clinical Brain Lab</title>
+    <title>Tags | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/tags/</link>
-    <description>Recent content in Tags on The Clinical Brain Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://clinicalbrainlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>CBL</title>
-      <link>https://clinicalbrainlab.github.io/tags/cbl/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/tags/cbl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub</title>
-      <link>https://clinicalbrainlab.github.io/tags/github/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://clinicalbrainlab.github.io/tags/website/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://clinicalbrainlab.github.io/tags/website/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://clinicalbrainlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://clinicalbrainlab.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>
