@@ -8,16 +8,16 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = ""
+subtitle = "Click [here](http://www.facebook.com) to see the full list of alumni."
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigator",
                  "Research Scientists and Research Fellows",
-                 "Grad Students",
+                 "Graduate Students",
                  "Research Assistants",
-                 "Undergrad Students",
+                 "Undergraduate Students",
                  "Alumni",
                  "System Administrators"]
 

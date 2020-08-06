@@ -14,7 +14,7 @@ education:
     #year: 
 
 email: "annabelchen@ntu.edu.sg"
-#interests:
+
 
 organizations:
 - name: Nanyang Technological University
@@ -53,3 +53,5 @@ Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty mem
 After obtaining her PhD in Clinical Rehabilitation Psychology from Purdue University and completing a Clinical Psychology Internship at West Virginia University School of Medicine, she continued with a post-doctoral residency in Clinical Neuropsychology at the Department of Neurology, Medical College of Wisconsin. Her research interests in clinical applications of advanced neuroimaging led her to further pursue post-doctoral research at the Department of Radiology at Stanford University School of Medicine.  
 
 Back in Asia, she started the Clinical Brain Lab to apply neuropsychological principles to understand disturbance in brain and behavior using neuroimaging techniques, such as fMRI, diffusion MRI, Transcranial Magnetic Stimulation (TMS), and electroencephalography (EEG). Apart from focusing on cerebellar contribution in higher cognition and optimizing cognition in aging neuroscience, her most recent research development involves affective neuroscience in learning and translating neuroscience for education, as well as understand the neurobasis of deception.
+
+--- 

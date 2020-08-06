@@ -2,6 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Posts
+layout: docs
+title: Join Us
 view: 3
 ---
+

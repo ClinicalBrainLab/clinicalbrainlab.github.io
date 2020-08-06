@@ -34,7 +34,7 @@ superuser: false
 
 title: Gladys Heng
 user_groups:
-- Grad Students
+- Graduate Students
 
 ---
 

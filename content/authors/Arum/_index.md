@@ -26,7 +26,7 @@ superuser: false
 
 title: Arumugam Ramaswamy
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 
 ---
 

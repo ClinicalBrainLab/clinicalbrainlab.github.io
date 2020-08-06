@@ -34,7 +34,7 @@ superuser: false
 
 title: Dayton Leow
 user_groups:
-- Grad Students
+- Graduate Students
 
 ---
 
