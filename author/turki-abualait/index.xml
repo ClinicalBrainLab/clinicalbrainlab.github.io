@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turki Abualait | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/turki-abualait/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/turki-abualait/index.xml" rel="self" type="application/rss+xml" />
+    <description>Turki Abualait</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Turki Abualait</title>
+      <link>https://clinicalbrainlab.github.io/author/turki-abualait/</link>
+    </image>
+    
+    <item>
+      <title>The role of primary motor cortex: More than movement execution</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_m1-review/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_m1-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aging | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/aging/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/aging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Aging</title>
+      <link>https://clinicalbrainlab.github.io/tag/aging/</link>
+    </image>
+    
+    <item>
+      <title>Working memory, age and education: A lifespan fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_aging-education/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_aging-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of regional heterogeneity in age-related differences in functional hemispheric asymmetry: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_aging-asymmetry/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_aging-asymmetry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

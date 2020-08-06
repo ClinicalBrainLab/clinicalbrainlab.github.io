@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Memory | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/working-memory/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/working-memory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Memory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/tag/working-memory/</link>
+    </image>
+    
+    <item>
+      <title>Cerebro-cerebellar pathways for verbal working memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_cerebro-cerebellar/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_cerebro-cerebellar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working memory, age and education: A lifespan fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_aging-education/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_aging-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional connectivity of resting-state, working memory and inhibition networks in perceived stress</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_stress/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_stress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
