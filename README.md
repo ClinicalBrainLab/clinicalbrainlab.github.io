@@ -2,9 +2,15 @@
 
 This repository contains the code to host the Clinical Brain Lab website: https://clinicalbrainlab.github.io ✨
 
-## To-Do
-- Migrate the website to new theme (Academics)
-
+## To-Do: Migrate content of website to new Academic Hugo Theme
+- [x] Backbone of the website
+- [x] Finalize lab members' profiles
+- [ ] Add alumni list (for a new page, not to be shown on home)
+- [ ] Finalize full list of publications
+- [ ] Projects, research themes and participants recruitment to be together?
+- [x] Finalize `Contact` section
+- [ ] Update `Join` section
+- [ ] Add a gallery?
 
 ## Getting Started with GitHub
 - Create an account for yourself (*use a simple login like FirstnameSurname*)
