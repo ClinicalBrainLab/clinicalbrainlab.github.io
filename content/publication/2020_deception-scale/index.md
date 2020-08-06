@@ -3,14 +3,14 @@ abstract: 'While deception is considered as a common phenomenon with important i
 authors:
 - Dominique Makowski
 - Tam Pham
-- Zen J. Lau
+- Lau Zen Juen
 - Adrian Raine
 - S. H. Annabel Chen
 date: "2020-08-04"
 doi: ""
 featured: false
 projects: []
-publication: 'Makowski, D., Pham, T., Lau, Z. J., Raine, A., & Chen, S. A. *(under review)*. The Structure of Deception: Validation of the Lying Profile Questionnaire.'
+publication: 'Makowski, D., Pham, T., Lau, Z. J., Raine, A., & Chen, S. H. A. *(under review)*. The Structure of Deception: Validation of the Lying Profile Questionnaire.'
 publication_short: ""
 publication_types:
 - "3"
