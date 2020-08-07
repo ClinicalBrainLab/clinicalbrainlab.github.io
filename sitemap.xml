@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/join/example/</loc>
+    <loc>https://clinicalbrainlab.github.io/join/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/join/example/join1/</loc>
+    <loc>https://clinicalbrainlab.github.io/join/join1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/join/example/join2/</loc>
+    <loc>https://clinicalbrainlab.github.io/join/join2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/join/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/tag/aging/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
@@ -375,36 +370,6 @@
   <url>
     <loc>https://clinicalbrainlab.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/admin/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/tag/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

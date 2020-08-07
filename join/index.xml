@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Join Us | The Clinical Brain Lab</title>
+    <title>Overview | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/join/</link>
       <atom:link href="https://clinicalbrainlab.github.io/join/index.xml" rel="self" type="application/rss+xml" />
-    <description>Join Us</description>
+    <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Join Us</title>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Overview</title>
       <link>https://clinicalbrainlab.github.io/join/</link>
     </image>
+    
+    <item>
+      <title>Post-doctoral Research Fellowships/Research Fellow</title>
+      <link>https://clinicalbrainlab.github.io/join/join1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join1/</guid>
+      <description>&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;p&gt;We are interested in building capacity for research in the &lt;em&gt;&lt;strong&gt;Science of Learning&lt;/strong&gt;&lt;/em&gt;, in particular in the area of educational neuroscience. We seek to understand how cognitive neuroscience can be applied to education to optimize learning. The successful candidate will work closely with researchers at the Centre for Research and Development in Learning (
+&lt;a href=&#34;https://cradle.ntu.edu.sg/Pages/home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRADLE&lt;/a&gt;), National Institute of Education (
+&lt;a href=&#34;https://www.nie.edu.sg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIE&lt;/a&gt;), and other international collaborators from institutes such as Johns Hopkins University, Massachusetts Institute of Technology and/or University of Cambridge. The &lt;strong&gt;current project will be investigating reading brain networks in bilingual children&lt;/strong&gt;. Singapore is a multicultural city that has a conducive education system to study this.&lt;/p&gt;
+&lt;p&gt;The main research modalities in our lab include: neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), electroencephalography (EEG), Transcranial Magnetic Stimulation (TMS).&lt;/p&gt;
+&lt;h2 id=&#34;looking-for&#34;&gt;Looking For&lt;/h2&gt;
+&lt;p&gt;We welcome applicants with a &lt;strong&gt;doctorate (PhD)&lt;/strong&gt; degree in various backgrounds such as:
+&lt;strong&gt;experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology,
+psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science&lt;/strong&gt;, and related fields.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;Candidates are expected to have good interpersonal skills and to have demonstrated record of excellent scientific writing skills. Desirable qualification includes one or more of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with conducting behavioral experiments in neuropsychology or cognitive psychology.&lt;/li&gt;
+&lt;li&gt;Experience with neuroimaging techniques (MRI/EEG/or TMS).&lt;/li&gt;
+&lt;li&gt;Familiarity with image data analysis tools such as SPM, FSL, AFNI, DSIStudio, Matlab, Python etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Psychology, School of Social Sciences, Nanyang Technological University, 14 Nanyang Drive, HSS‐04‐19, Singapore 637332, phone +65‐6316‐8836.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Doctorate Research Fellowship</title>
+      <link>https://clinicalbrainlab.github.io/join/join2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join2/</guid>
+      <description>&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;p&gt;Research in the lab is focused on the neural basis of higher cognition in the cerebellum, cognitive training in healthy aging and we will be developing an area in Educational Neuroscience. Main research modalities in our lab include: neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), EEG and Transcranial Magnetic Stimulation (TMS). The candidate will be expected to conduct research in areas noted above, especially using diffusion MRI. However, he/she is also encouraged to develop own related research topic of interest. For more information about the lab please click 
+&lt;a href=&#34;http://portal.hss.ntu.edu.sg/annalab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;looking-for&#34;&gt;Looking For&lt;/h2&gt;
+&lt;p&gt;We welcome applicants with a &lt;strong&gt;Bachelors&lt;/strong&gt; or &lt;strong&gt;Masters degree&lt;/strong&gt; in various backgrounds such as: &lt;strong&gt;experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science&lt;/strong&gt;, and related fields.&lt;/p&gt;
+&lt;p&gt;The successful applicant will be enrolled in the graduate psychology program by research. For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the 
+&lt;a href=&#34;http://psychology.hss.ntu.edu.sg/Programmes/Graduate/Pages/DoctorofPhilosophy.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Program&lt;/a&gt; and its 
+&lt;a href=&#34;http://admissions.ntu.edu.sg/graduate/R-Programs/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Application&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;Please address questions or send Curriculum Vita to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
