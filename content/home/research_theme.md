@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Research Themes"
 subtitle = ""
@@ -21,7 +21,7 @@ subtitle = ""
   description = "short-description"
   
 [[feature]]
-  icon = "crutch"
+  icon = "hand-holding-heart"
   icon_pack = "fas"
   name = "Ageing Neuroscience"
   description = "short-description"  

@@ -12,10 +12,9 @@ education:
 
 email: "phamtt@ntu.edu.sg"
 interests:
-- Clinical Psychology
-- Abnormal Psychology
-- Child Psychopathology
-
+- Suicide, SIB
+- Interoception
+- Affective Disorders
 
 organizations:
 - name: Nanyang Technological University
