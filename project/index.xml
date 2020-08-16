@@ -41,25 +41,12 @@
     </item>
     
     <item>
-      <title>Deception Neuroscience</title>
+      <title>Inter-individual Differences in Deception Profile</title>
       <link>https://clinicalbrainlab.github.io/project/deception-neuroscience/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/project/deception-neuroscience/</guid>
-      <description>&lt;p&gt;In this project, we seek to utilize neuroimaging to clarify the neural basis of cognitive and emotion processing in deception for potential application towards deception detection in a real-world setting.
-Neuroimaging research on deception has documented specific brain regions, and suggested potential neural network, associated with the cognitive processing of deception.
-However, limited research has examined the neural correlates related to emotion processing when one deceives. Furthermore, to our knowledge, there is limited research examining the neural network that could
-account for both cognitive and emotion processing in deception. Our first experiment will use &lt;strong&gt;functional magnetic resonance imaging (fMRI)&lt;/strong&gt; to address the present research gaps.
-The second experiment will use electroencephalogram (EEG) to examine &lt;strong&gt;brain activity associated with deception at high temporal solution&lt;/strong&gt;.
-The third experiment will focus on developing and validating a &lt;strong&gt;Deception Scale&lt;/strong&gt; that captures inter-individual differences in lying.&lt;/p&gt;
-&lt;h3 id=&#34;inter-individual-differences-in-deception-profile&#34;&gt;Inter-individual Differences in Deception Profile&lt;/h3&gt;
-&lt;p&gt;In this study, we established a general framework to understanding deception as a dispositional trait, through developing and validating a short and reliable 16-item questionnaire.
-Click 
-&lt;a href=&#34;here&#34;&gt;http://www.ntu.edu.sg&lt;/a&gt; to read the final paper!&lt;/p&gt;
-&lt;h3 id=&#34;fmri-and-deception&#34;&gt;&lt;strong&gt;fMRI and Deception&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;fMRI is a safe, noninvasive imaging technology. Unlike x-rays, which use ionizing radiation, fMRI images are generated from a strong magnetic field and low-power radio-waves. Therefore, there is no risk of exposure to radiation in fMRI.&lt;/p&gt;
-&lt;p&gt;fMRI allows researchers to obtain images of brain activity over time, as participants complete various tasks. From these images, researchers get a better understanding of the brain areas that are involved in the tasks.&lt;/p&gt;
-&lt;h3 id=&#34;eeg-and-deception&#34;&gt;&lt;strong&gt;EEG and Deception&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;EEG (Electroencephalogram) is a neuroimaging technique used to measure electrical activity at the scalp that reflects the neural activity in the brain. It is a real-time recording of neural activity with millisecond temporal resolution.&lt;/p&gt;
+      <description>&lt;p&gt;While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking. This study aims to explore the structure of dispositional deception by developing and validating a short and reliable 16-item questionnaire to characterize individuals&amp;rsquo; lying patterns. Our findings suggest the existence of four distinct latent dimensions to lying, namely frequency, ability, negativity, and contextuality. We establish the convergent validity of our measure of lying by showing significant relationships with social desirability, malevolent traits, cognitive control deficits, normal and pathological personality traits, as well as demographic variables such as sex, age, and religiosity. Overall, the present study introduces a general framework to understanding deception as a dispositional trait which future deception studies can build on, accounting for the inter-individual variability in lying.&lt;/p&gt;
+&lt;p&gt;This study is pre-registered and currently submitted for review.&lt;/p&gt;
 </description>
     </item>
     

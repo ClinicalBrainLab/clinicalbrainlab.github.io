@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educational | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/educational/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/educational/index.xml" rel="self" type="application/rss+xml" />
+    <description>Educational</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Educational</title>
+      <link>https://clinicalbrainlab.github.io/tag/educational/</link>
+    </image>
+    
+    <item>
+      <title>Biliteracy</title>
+      <link>https://clinicalbrainlab.github.io/project/biliteracy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/biliteracy/</guid>
+      <description>&lt;p&gt;Our research on biliteracy aims to better understand neural networks and the cognitive mechanisms underlying bilingualism.&lt;/p&gt;
+&lt;h3 id=&#34;measuring-the-brain-response-to-non-invasive-brain-stimulation&#34;&gt;&lt;strong&gt;Measuring the brain response to non-invasive brain stimulation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Currently in our lab, we are using fNIRS to explore changes in brain activity during brain stimulation and during cognitive tasks – i.e. reading.&lt;/p&gt;
+&lt;p&gt;fNIRS (functional near-infrared spectroscopy) is a non-invasive neuroimaging technique that measures brain responses by recording changes in the amount of oxygenated/deoxygenated blood. It works based on the principle of light scattering – the device sends high intensity beams of near-infrared light at the scalp and detects changes to amount of light absorbed within the brain. Mathematical algorithms are then applied to process the collected data to calculate changes in oxygenated/deoxygenated haemoglobin concentration. These changes are associated with changes in brain function.&lt;/p&gt;
+&lt;p&gt;Our project is activey looking for participants to take part!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fNIRS-tDCS.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;investigating-the-bilingual-reading-network&#34;&gt;&lt;strong&gt;Investigating the Bilingual Reading Network&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chinese-English Bilinguals who had a history of dyslexia or are struggling in reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./biliteracy-dyslexia.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

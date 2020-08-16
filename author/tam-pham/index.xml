@@ -5,12 +5,30 @@
     <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/tam-pham/index.xml" rel="self" type="application/rss+xml" />
     <description>Tam Pham</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
       <title>Tam Pham</title>
       <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
     </image>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-individual Differences in Deception Profile</title>
+      <link>https://clinicalbrainlab.github.io/project/deception-neuroscience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/deception-neuroscience/</guid>
+      <description>&lt;p&gt;While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking. This study aims to explore the structure of dispositional deception by developing and validating a short and reliable 16-item questionnaire to characterize individuals&amp;rsquo; lying patterns. Our findings suggest the existence of four distinct latent dimensions to lying, namely frequency, ability, negativity, and contextuality. We establish the convergent validity of our measure of lying by showing significant relationships with social desirability, malevolent traits, cognitive control deficits, normal and pathological personality traits, as well as demographic variables such as sex, age, and religiosity. Overall, the present study introduces a general framework to understanding deception as a dispositional trait which future deception studies can build on, accounting for the inter-individual variability in lying.&lt;/p&gt;
+&lt;p&gt;This study is pre-registered and currently submitted for review.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

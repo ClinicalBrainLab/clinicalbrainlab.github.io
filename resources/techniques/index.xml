@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Techniques | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/resources/techniques/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/resources/techniques/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Techniques</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Research Techniques</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/</link>
+    </image>
+    
+    <item>
+      <title>Electroencephalogram</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/eeg/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/techniques/eeg/</guid>
+      <description>&lt;h2 id=&#34;what-is-eeg&#34;&gt;What is EEG?&lt;/h2&gt;
+&lt;p&gt;EEG (Electroencephalogram) is a neuroimaging technique used to measure electrical activity at the scalp that reflects the neural activity in the brain. It is a real-time recording of neural activity with millisecond temporal resolution.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./EEG_Recording.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-is-an-eeg-done&#34;&gt;How is an EEG Done?&lt;/h2&gt;
+&lt;p&gt;EEG is a completely safe and non-invasive technique. There is no exposure to any form of external x-rays or radiation. To record the EEG signals, an EEG cap would be put over the head and connected to an amplifier which would allow us to see the brain waves on a computer screen.
+Electrolytic gel is inserted into the small plastic holders in the cap to improve the conductance between the electrodes and the scalp.
+Separate electrodes may also be directly attached to the skin (such as above and below the eyes) using electrode tape.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./IMG-20150628-WA0008.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-eeg-used-for&#34;&gt;What is EEG used for?&lt;/h2&gt;
+&lt;p&gt;At the Clinical Brain Lab NTU, we are using EEG to measure changes in brain activity after cognitive training or during cognitive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional Magnetic Resonance Imaging</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/fmri/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/techniques/fmri/</guid>
+      <description>&lt;h2 id=&#34;what-is-fmri&#34;&gt;What is fMRI?&lt;/h2&gt;
+&lt;p&gt;fMRI is a safe, noninvasive imaging technology. Unlike x-rays, which use ionizing radiation, fMRI images are generated from a strong magnetic field and low-power radio-waves.
+Therefore, there is no risk of exposure to radiation in fMRI.&lt;/p&gt;
+&lt;h2 id=&#34;why-use-fmri&#34;&gt;Why use fMRI?&lt;/h2&gt;
+&lt;p&gt;fMRI allows researchers to obtain images of brain activity over time, as participants complete various tasks.
+From these images, researchers get a better understanding of the brain areas that are involved in the tasks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./3TMRI_aging.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional Near-Infrared Spectroscopy</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/fnirs/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/techniques/fnirs/</guid>
+      <description>&lt;h2 id=&#34;what-is-fnirs&#34;&gt;What is fNIRS?&lt;/h2&gt;
+&lt;p&gt;fNIRS (functional near-infrared spectroscopy) is a non-invasive neuroimaging technique that measures brain responses by recording changes in the amount of oxygenated/deoxygenated blood.
+It works based on the principle of light scattering – the device sends high intensity beams of near-infrared light at the scalp and detects changes to amount of light absorbed within the brain.
+Mathematical algorithms are then applied to process the collected data to calculate changes in oxygenated/deoxygenated haemoglobin concentration. These changes are associated with changes in brain function.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fNIRS2.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-is-fnirs-done&#34;&gt;How is fNIRS Done?&lt;/h2&gt;
+&lt;p&gt;fNIRS is a non-invasive neuroimaging technique that does not require any exposure to radiation or x-rays. To record signals, a fNIRS cap is fitted over the participant’s head.
+The optodes (sources and detectors) are then attached onto the cap. To ensure the optodes sit directly on the scalp, the participant’s hair may be moved to the side.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fNIRS3.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-fnirs-used-for&#34;&gt;What is fNIRS used for?&lt;/h2&gt;
+&lt;p&gt;Currently in our lab, we are using fNIRS to explore changes in brain activity during brain stimulation and during cognitive tasks – i.e. reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/tdcs/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/techniques/tdcs/</guid>
+      <description>&lt;h2 id=&#34;what-is-tdcs&#34;&gt;What is tDCS?&lt;/h2&gt;
+&lt;p&gt;tDCS (Transcranial Direct Current Stimulation) is a non-invasive and relatively painless brain stimulation technique that adjusts regional brain activity through modulating the transmembrane potential of neurons by sending low amplitude direct-current into the scalp.
+In healthy populations, anodal tDCS has been shown to increase cortical excitability while cathodal tDCS has been shown to inhibit cortical excitability.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./tDCS.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-is-tdcs-done&#34;&gt;How is tDCS Done?&lt;/h2&gt;
+&lt;p&gt;The electrode to be used is inserted into saline soaked sponges. The region where the electrode is to be placed is first wiped clean with alcohol wipes. Hair is then parted and the sponge is positioned over the marked position and secured in place using rubber straps.
+When ready, the experimenter uses the DC-stimulator to start the stimulation.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-tdcs-used-for&#34;&gt;What is tDCS used for?&lt;/h2&gt;
+&lt;p&gt;Currently in our lab, we are investigating effects of tDCS on cognitive tasks (e.g. reading) and exploring changes in brain activity as a result of tDCS using fNIRS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcranial Magnetic Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/resources/techniques/tms/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/techniques/tms/</guid>
+      <description>&lt;h2 id=&#34;what-is-tms&#34;&gt;What is TMS?&lt;/h2&gt;
+&lt;p&gt;TMS (Transcranial Magnetic Stimulation) is a non-invasive and painless tool that modulates neural activity. It works on the principle of Faraday’s law of electromagnetic induction.
+In TMS, an electromagnetic coil sends a perpendicular magnetic field into the region of interest on the scalp. This field indirectly influences neuronal activity. TMS has been shown in some cases to induce cortical excitability and in some cases to depress excitability.
+TMS can be administered in bursts at a rhythmic frequency (repetitive TMS) or as a single pulse. Repetitive TMS has been shown to have a greater and lasting effect. Depending on the question, rapid or slow repetitive TMS can be administered.&lt;/p&gt;
+&lt;h2 id=&#34;how-is-tms-done&#34;&gt;How is TMS Done?&lt;/h2&gt;
+&lt;p&gt;An electromyography (EMG) module is first attached via a wristband and by pasting electrodes onto the participant.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./TMS1.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After setting up the parameters, an experimenter positions the magnetic coil above the participant’s scalp, over the region of interest. When activated, a high-current pulse is produced in the TMS coil, inducing a perpendicular magnetic field.
+As high-current pulses are sent through the coil, the participant may hear clicks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./TMS2.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-tms-used-for&#34;&gt;What is TMS used for?&lt;/h2&gt;
+&lt;p&gt;TMS can be used to treat clinical conditions (such as drug-resistant depression) or be used as an experimental technique to understand brain functions. In our lab, we are applying fMRI-guided TMS to target regions of the brain to determine its involvement in various cognitive networks.
+We are also combining it with EEG to understand neuroplasticity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
