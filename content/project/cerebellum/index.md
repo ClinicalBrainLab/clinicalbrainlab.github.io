@@ -13,7 +13,7 @@ slides: example
 summary: We study cerebro-cerebellar pathways and their roles in higher cognition.
 
 tags:
-- On-going projects
+- Cerebellum
 title: Cerebellum and Cognition
 url_code: ""
 url_pdf: ""

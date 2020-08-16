@@ -13,7 +13,7 @@ slides: example
 summary: Our research on biliteracy aims to better understand neural networks and the cognitive mechanisms underlying bilingualism.
 
 tags:
-- On-going projects
+- Educational
 title: Biliteracy
 url_code: ""
 url_pdf: ""

@@ -1,7 +1,7 @@
 ---
 # title, summary, and position.
-linktitle: Find out what positions are available
-summary: We are actively looking for researchers to join and contribute to our lab!
+linktitle:
+summary:
 weight: 1
 
 # Page metadata.
@@ -15,10 +15,7 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Overview
-    weight: 1
+
 ---
 
 [Nanyang Technological University](www.ntu.edu.sg) is a research intensive university currently ranked 13th globally and placed 1st amongst the world’s best young universities.

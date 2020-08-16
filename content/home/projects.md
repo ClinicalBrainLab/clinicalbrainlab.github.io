@@ -26,16 +26,26 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "On-going projects"
-    tag = "On-going projects"
+    name = "Cerebellum"
+    tag = "Cerebellum"
   
   [[content.filter_button]]
-    name = "Completed"
-    tag = "Completed"
+    name = "Ageing"
+    tag = "Ageing"
 
   [[content.filter_button]]
-    name = "Side projects"
-    tag = "Side projects"
+    name = "Educational"
+    tag = "Educational"
+	
+  [[content.filter_button]]
+    name = "Deception"
+    tag = "Deception"
+
+  [[content.filter_button]]
+    name = "Software"
+    tag = "Software"
+
+	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -34,9 +34,19 @@
   weight = 60
 
 [[main]]
+  name = "Resources"
+  url = "resources/"
+  weight = 70
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
+  
+[[main]]
+  name = "Github"
+  url = "https://github.com/ClinicalBrainLab"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
