@@ -5,7 +5,7 @@ summary: We are actively looking for researchers to join and contribute to our l
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Why Join Us
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,8 +20,6 @@ menu:
     name: Overview
     weight: 1
 ---
-
-## Why Join Us
 
 [Nanyang Technological University](www.ntu.edu.sg) is a research intensive university currently ranked 13th globally and placed 1st amongst the world’s best young universities.
 
