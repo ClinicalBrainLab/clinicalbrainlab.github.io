@@ -18,3 +18,4 @@ type: docs  # Do not modify.
 
 ---
 
+At Clinical Brain Lab, our researchers actively develop new tools and software to support and ensure rigor in our data collection and analyses.  
