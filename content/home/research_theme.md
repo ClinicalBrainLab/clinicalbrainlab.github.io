@@ -17,25 +17,25 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Higher cognition in the Cerebellum"
+  name = "Higher Cognition and the Cerebellum"
   description = "short-description"
   
 [[feature]]
   icon = "hand-holding-heart"
   icon_pack = "fas"
-  name = "Ageing Neuroscience"
+  name = "Active Ageing"
   description = "short-description"  
   
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Educational Neuroscience"
+  name = "Science of Learning"
   description = "short-description"
 
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Deception Neuroscience"
+  name = "Deception and Trust"
   description = "We use neuroimaging techniques to understand the behavioural and neural correlates of deception."
 
 

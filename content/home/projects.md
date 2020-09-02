@@ -34,8 +34,8 @@ subtitle = ""
     tag = "Ageing"
 
   [[content.filter_button]]
-    name = "Educational"
-    tag = "Educational"
+    name = "Learning"
+    tag = "Learning"
 	
   [[content.filter_button]]
     name = "Deception"

@@ -40,7 +40,7 @@ social:
   icon_pack: fab
   link: https://github.com/DrAnnabel
 
-superuser: true
+superuser: false
 
 title: Professor Annabel Chen
 user_groups:

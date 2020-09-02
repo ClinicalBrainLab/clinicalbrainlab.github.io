@@ -1,7 +1,10 @@
 ---
+title: Tam Pham
+user_groups:
+- Research Assistants
+
 authors:
 - Tam Pham
-
 bio:
 
 education:
@@ -36,10 +39,6 @@ social:
 
 
 superuser: false
-
-title: Tam Pham
-user_groups:
-- Research Assistants
 
 ---
 

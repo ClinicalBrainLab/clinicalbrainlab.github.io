@@ -1,12 +1,12 @@
 ---
 abstract: '(to be added)'
 authors:
-- Gladys Heng
-- Chiao-Yi Wu
+- Gladys-Heng
+- ChiaoYi-Wu
 - Jo A. Archer
 - Makoto Miyakoshi
 - Toshiharu Nakai
-- S. H. Annabel Chen
+- Annabel-Chen
 date: "2017-10-09"
 doi: "10.1080/13825585.2017.1385721"
 featured: false
