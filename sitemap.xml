@@ -53,6 +53,16 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/project/deception/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/dayton-leow/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/tag/deception/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
@@ -73,17 +83,22 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/author/professor-annabel-chen/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/project/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/publication_types/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://clinicalbrainlab.github.io/publication/</loc>
-    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,6 +134,11 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/author/rajan-kashyap/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,11 +438,6 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/alicia-goodwill/</loc>
   </url>
   
@@ -435,31 +450,11 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/dayton-leow/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/dominique-makowski/</loc>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/elaine-teo/</loc>
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/gladys-heng/</loc>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/ilang-kumaran-yuvadarshini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/project/deception-neuroscience/</loc>
   </url>
   
   <url>
@@ -487,27 +482,15 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/professor-annabel-chen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/rajan-kashyap/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/sagarika-bhattacharjee/</loc>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/shreya-jolly/</loc>
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/tam-pham/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
+    <loc>https://clinicalbrainlab.github.io/project/fake-news/</loc>
   </url>
   
 </urlset>
