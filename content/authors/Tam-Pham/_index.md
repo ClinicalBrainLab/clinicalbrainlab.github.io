@@ -15,9 +15,10 @@ education:
 
 email: "phamtt@ntu.edu.sg"
 interests:
-- Suicide, SIB
-- Interoception
+- Transdiagnositc neurophysiological risk and protective factors
 - Affective Disorders
+- Brief Intervention
+- Suicide, SIB
 
 organizations:
 - name: Nanyang Technological University

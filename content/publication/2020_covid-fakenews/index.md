@@ -1,28 +1,34 @@
 ---
-date: ""
-external_link: ""
-image:
-  caption: Fake News
-  focal_point: Smart
-links:
-#- icon: twitter
-  #icon_pack: fab
-  #name: Follow
-  #url: ""
-#slides: example
-summary: In this study, we seek to examine whether the belief in conspiracy theories and one’s ability to regulate emotions are related to one’s tendency to fall prey to fake news
-
+abstract: "In this study, we seek to examine whether the belief in conspiracy theories and one’s ability to regulate emotions are related to one’s tendency to fall prey to fake news."
+authors:
+- Dominique-Makowski
+- ZenJuen-Lau
+- Tam-Pham
+- Annabel-Chen
+date: "2020-09-18"
+doi: ""
+featured: false
+projects: ["deception"]
+publication: 'Makowski, D., Lau, Z. J., Pham, T., & Chen, S. H. A. *(in preparation)*. Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic'
+publication_short: ""
+publication_types:
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+- "3"
+publishDate: ""
 tags:
-- Deception 
-title: Who Falls for Fake News?
+- Deception
+title: 'Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic'
 url_code: ""
-url_pdf: "https://psyarxiv.com/t7s32/"
+url_dataset: ""
+url_pdf: https://osf.io/79uvk/
+url_poster: ""
+url_project: ""
 url_slides: ""
+url_source: ""
 url_video: ""
-
-authors: ["Dominique Makowski", "Lau Zen Juen", "Tam Pham", "S. H. Annabel Chen"]
 ---
-
 
 As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable. 
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers 

@@ -20,4 +20,4 @@ Therefore, there is no risk of exposure to radiation in fMRI.
 fMRI allows researchers to obtain images of brain activity over time, as participants complete various tasks. 
 From these images, researchers get a better understanding of the brain areas that are involved in the tasks.
 
-![jpg](./3TMRI_aging.jpg)
+![jpg](/static/resources/3TMRI_aging.jpg)
