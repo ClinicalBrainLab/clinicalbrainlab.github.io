@@ -1,8 +1,0 @@
----
-title: "Cerebro-cerebellar pathways for verbal working memory"
-date: 2020-06-12T16:03:15+08:00
-draft: false
-abstract: Verbal working memory involves holding verbal information in short-term memory. Two cerebro-cerebellar networks for verbal working memory have been proposed (1) fronto-superior cerebellar network associated with controlling and updating speech-related information, and (2) parieto-inferior cerebellar network associated with storing speech-related information briefly. Sobczak-Edmans and colleagues (2019) examined the structural and functional connectivity of these cerebro-cerebellar networks. Using diffusion spectrum imaging tractography, they reconstructed white matter tracts in (1) the left inferior frontal gyrus via the pons to the right superior cerebellum, and (2) the left inferior parietal lobule via the pons to the right inferior cerebellum. They also found that greater structural connectivity of the ponto-superior cerebellar tract was correlated with slower response time for verbal working memory. This study provides support to the two cerebro-cerebellar networks and suggests that the structural connectivity of the networks relates functionally to verbal working memory.
-featured_image: "/img/cc-pathway.jpg" 
----
-

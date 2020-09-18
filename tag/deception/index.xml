@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/tag/deception/</link>
       <atom:link href="https://clinicalbrainlab.github.io/tag/deception/index.xml" rel="self" type="application/rss+xml" />
     <description>Deception</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
       <title>Deception</title>
@@ -13,36 +13,10 @@
     </image>
     
     <item>
-      <title>Behevioural and Neural Correlates of Deception</title>
-      <link>https://clinicalbrainlab.github.io/project/deception/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/project/deception/</guid>
-      <description>&lt;p&gt;Traditional lie detection as used in polygraph test is based on examining one&amp;rsquo;s physiological arousal (measuring skin conductance,
-heart rate, and respiration) to infer lying. However, such physiological arousal may merely be reflecting anxiety and fear during a polygraph examination,
-rather than lying per se.&lt;/p&gt;
-&lt;p&gt;As physiological arousal could not be used to accurately infer lying, researchers are urged to further look into the mental processes related to lying.
-To date, different neurophysiological signals, including functional magnetic resonance imaging (fMRI) and event-related potentials (ERP) have been studied for possible application to index deception.
-Past studies have shown evidences that strongly supporting the hypothesis that deception requires the coordination of multiple cognitive processes and thus is more cognitively taxing than truth telling.
-Despite the positive findings, previous studies were often criticized for not capturing lying as it exists in the real world. Indeed, majority of the experimental paradigms required participants to lie about perceptual
-stimuli or memorized materials. More importantly, unlike lying in the real world, the lies generated in research labs were often not spontaneous but instructed.&lt;/p&gt;
-&lt;p&gt;To increase the translational value of the research in deception and lie detection, we aim to investigate the neural correlates of lying using paradigms that can elicit lying similar to those in the real world.
-In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&amp;rsquo; lying patterns.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Who Falls for Fake News?</title>
-      <link>https://clinicalbrainlab.github.io/project/fake-news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/project/fake-news/</guid>
+      <title>Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_covid-fakenews/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_covid-fakenews/</guid>
       <description>&lt;p&gt;As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable.
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers
 and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: &lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
@@ -69,6 +43,32 @@ Specifically, this study seeks to examine whether the belief in conspiracy theor
 This study is pre-registered at 
 &lt;a href=&#34;https://osf.io/7d3xh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSF&lt;/a&gt; and currently undergoing data analysis.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Behevioural and Neural Correlates of Deception</title>
+      <link>https://clinicalbrainlab.github.io/project/deception/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/deception/</guid>
+      <description>&lt;p&gt;Traditional lie detection as used in polygraph test is based on examining one&amp;rsquo;s physiological arousal (measuring skin conductance,
+heart rate, and respiration) to infer lying. However, such physiological arousal may merely be reflecting anxiety and fear during a polygraph examination,
+rather than lying per se.&lt;/p&gt;
+&lt;p&gt;As physiological arousal could not be used to accurately infer lying, researchers are urged to further look into the mental processes related to lying.
+To date, different neurophysiological signals, including functional magnetic resonance imaging (fMRI) and event-related potentials (ERP) have been studied for possible application to index deception.
+Past studies have shown evidences that strongly supporting the hypothesis that deception requires the coordination of multiple cognitive processes and thus is more cognitively taxing than truth telling.
+Despite the positive findings, previous studies were often criticized for not capturing lying as it exists in the real world. Indeed, majority of the experimental paradigms required participants to lie about perceptual
+stimuli or memorized materials. More importantly, unlike lying in the real world, the lies generated in research labs were often not spontaneous but instructed.&lt;/p&gt;
+&lt;p&gt;To increase the translational value of the research in deception and lie detection, we aim to investigate the neural correlates of lying using paradigms that can elicit lying similar to those in the real world.
+In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&#39; lying patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
     </item>
     
   </channel>

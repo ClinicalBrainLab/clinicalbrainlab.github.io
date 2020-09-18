@@ -1,3 +1,0 @@
-+++ title = "Biliteracy Project" +++
-
-Here we will write a brief introduction of the project. 

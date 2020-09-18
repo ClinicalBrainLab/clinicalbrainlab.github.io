@@ -1,24 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cerebro-cerebellar pathways for verbal working memory on The Clinical Brain Lab</title>
-    <link>/publication/cc-pathway/</link>
-    <description>Recent content in Cerebro-cerebellar pathways for verbal working memory on The Clinical Brain Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 16:03:15 +0800</lastBuildDate>
-    
-	<atom:link href="/publication/cc-pathway/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cerebro-cerebellar pathways for verbal working memory</title>
-      <link>/publication/cc-pathway/cc-pathway/</link>
-      <pubDate>Fri, 12 Jun 2020 16:03:15 +0800</pubDate>
-      
-      <guid>/publication/cc-pathway/cc-pathway/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
