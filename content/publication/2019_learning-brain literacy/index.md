@@ -3,12 +3,12 @@ abstract: 'Walker and colleagues (2019) posited that brain literacy has the pote
 authors:
 - Zachary Walker
 - James B. Hale
-- S. H. Annabel Chen
+- Annabel-Chen
 - Kenneth Poon
 date: "2019-10-15"
 doi: "10.1080/23735082.2019.1674910"
 featured: false
-projects: []
+projects: ["learning"]
 publication: 'Walker, Z., Hale, J. B., Chen, S. H. A., & Poon, K. (2019). Brain literacy empowers educators to meet diverse learner needs. Learning: Research and Practice, 5(2), 174-188. doi:10.1080/23735082.2019.1674910'
 publication_short: ""
 publication_types:
@@ -16,7 +16,7 @@ publication_types:
 publishDate: ""
 # summary: 
 tags:
-- Educational Neuroscience
+- Science of Learning
 title: 'Brain literacy empowers educators to meet diverse learner needs'
 url_code: ""
 url_dataset: ""
