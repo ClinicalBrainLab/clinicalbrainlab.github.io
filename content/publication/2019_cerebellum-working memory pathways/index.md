@@ -8,11 +8,11 @@ authors:
 - Fu Yu Kwok
 - Kai-Hsiang Chuang
 - Wen-Yih Isaac Tseng
-- S. H. Annabel Chen
+- Annabel-Chen
 date: "2019-01-08"
 doi: "10.3389/fnhum.2018.00530"
 featured: false
-projects: []
+projects: ["cerebellum"]
 publication: 'Sobczak-Edmans, M., Lo, Y. C., Hsu, Y. C., Chen, Y. J., Kwok, F. Y., Chuang, K. H., ... & Chen, S. H. A. (2019). Cerebro-cerebellar pathways for verbal working memory. Frontiers in Human Neuroscience, 12, 530. doi:10.3389/fnhum.2018.00530'
 publication_short: ""
 publication_types:
@@ -22,6 +22,7 @@ publishDate: ""
 tags:
 - Cerebellum
 - Working Memory
+- fMRI
 title: 'Cerebro-cerebellar pathways for verbal working memory'
 url_code: ""
 url_dataset: ""
