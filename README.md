@@ -22,16 +22,34 @@ This repository contains the code to host the Clinical Brain Lab website: https:
    -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`.
 
  - **Step 2: Add your profile to the website**
-   - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
-   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people` folder and look for the *.Rmd* file that you belong to (e.g. Research Fellows, Undergraduate Student etc). The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Read on!
-   - By reading through the `.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
-   - If you can't find a *.Rmd* file in the `people` folder that accurately captures your role in the lab, do not hesitate to create a new one!
-   - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it yours!
-
+   - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the content of the website is stored.
+   - Can you guess which folder is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the `authors` folder. Here you will find each folder for each of our lab members. Now your task is to create one for yourself!
+   - First step: copy the url of the `authors` folder and open it in another tab. Have the two tabs side-by-side and from now on, we refer to them as `tab-left` and `tab-right`. Both of them are now at `your-username/clinicalbrainlab.github.io/content/authors`.
+   - Second step: now, for `tab-left`, open the folder of any lab members that you would like to take reference and you will see 2 files: a filed called `_index.md` and a picture file named `avater.png`. Click on the `_index.md` file and click on the button `Raw` on the top right corner. You should now see a plain file that looks like any other text files. You should now copy the entire content of the `_index.md` file (hightlight everything and Ctr-C).
+   - Third step: now, go to `tab-right`, you will now need to create a new folder for yourself. Look for the button `Add files` at the top right corner, click on it and choose `Create new file`. In the box `Name your file ...`, please type the following: **yourfirstname-yourlastname/_index.md**. As an example, I have named this new file as **Tam-Pham/_index.md**. Do not leave any space in the name. 
+ 
+      ![folder](https://github.com/neuropsychology/Onboarding/blob/master/img/create-folder.png) 
+ 
+   - Fourth step: remember you copied the content of `_index.md` file of another member in second step? Now, you should paste everything that you have copied to this new file you just created. By reading through what you have just copied, you will see that to make this `_index.md` file your own, you will need to customize the content (*the order of the sub-headings doesn't matter):
+        - *title*: your name (to appear in the Team members tab in home page). Full name is preferred here
+        - *user_groups*: The user_group can be "Principal Investigator", "Research Scientists and Research Fellows", "Graduate Students","Research Assistants", "Undergraduate Students","Alumni","System Administrators". Please indicate the group that you belong to. 
+        - *authors*: this name will be presented whenever the author is referred to in the website (e.g. in publication, projects). Use the name that you use for your publications.
+        - *bio*
+        - *education*
+        - *email*
+        - *interests*
+        - *organization*
+        - *role*
+        - *social*: your contacts. Can be more or less than those in the template. But the basic ones are email, researchgate and orcid
+        - *superuser*: false for all
+        - Below the "---" is where you can write a short intro about yourself.
+    - After you have finished making all the edits, scroll to the bottom and hit the green button `Commit changes`. This will save all the changes that you just made to your `_index.md` file.
+    - Now, in `your-username/clinicalbrainlab.github.io/content/authors`, you should see a new folder that you just created with an `_index.md` file.
   - **Step 3: Add your profile picture**
-    - The very last step for you to customize your profile is to add a picture of yourself. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="someone-name" width="25%" align="left" hspace=20" vspace="20"><br />`? This line helps to add your picture to your profile.
-    - Look for that one picture of yourself that you look the most amazing and upload it to the `your-username/clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name 😊
-    - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture.
+    - The very last step for you to customize your profile is to add a picture of yourself.
+    - Look for that one picture of yourself that you look the most amazing 😊. In the next step, you will upload this photo to the website. However, before you upload your photo to your folder, remember to rename it to `avatar.png`.
+    - To upload your folder to this new folder that you have created, click on `Add files` again but this time, choose `Upload files`. 
+    - Upload the `avatar.png` file, hit the button `Commit changes` and that's it. You have finished creating a folder for yourself and customized it!
 
   - **Step 4: Make a Pull Request**
     - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
