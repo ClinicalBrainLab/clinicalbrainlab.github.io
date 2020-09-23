@@ -17,7 +17,7 @@ This repository contains the code to host the Clinical Brain Lab website: https:
 - **Step 1: Fork the website repository**
   - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
 
-    ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
+    ![fork](https://github.com/RealityBending/Onboarding/blob/master/img/fork-repo.png)
 
    -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`.
 
@@ -28,7 +28,7 @@ This repository contains the code to host the Clinical Brain Lab website: https:
    - Second step: now, for `tab-left`, open the folder of any lab members that you would like to take reference and you will see 2 files: a filed called `_index.md` and a picture file named `avater.png`. Click on the `_index.md` file and click on the button `Raw` on the top right corner. You should now see a plain file that looks like any other text files. You should now copy the entire content of the `_index.md` file (hightlight everything and Ctr-C).
    - Third step: now, go to `tab-right`, you will now need to create a new folder for yourself. Look for the button `Add files` at the top right corner, click on it and choose `Create new file`. In the box `Name your file ...`, please type the following: **yourfirstname-yourlastname/_index.md**. As an example, I have named this new file as **Tam-Pham/_index.md**. Do not leave any space in the name. 
  
-      ![folder](https://github.com/neuropsychology/Onboarding/blob/master/img/create-folder.png) 
+      ![folder](https://github.com/RealityBending/Onboarding/blob/master/img/create-folder.PNG) 
  
    - Fourth step: remember you copied the content of `_index.md` file of another member in second step? Now, you should paste everything that you have copied to this new file you just created. By reading through what you have just copied, you will see that to make this `_index.md` file your own, you will need to customize the content (*the order of the sub-headings doesn't matter):
         - *title*: your name (to appear in the Team members tab in home page). Full name is preferred here
@@ -54,7 +54,7 @@ This repository contains the code to host the Clinical Brain Lab website: https:
   - **Step 4: Make a Pull Request**
     - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
 
-      ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
+      ![PR](https://github.com/RealityBending/Onboarding/blob/master/img/PR.png)
 
     - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`.
     - All the left for you to do is to click on that shiny green button to update your changes to the original repository.
