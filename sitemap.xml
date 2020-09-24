@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/authors/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
@@ -59,11 +64,6 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/author/lau-zen-juen/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/professor-annabel-chen/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +103,32 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/project/biliteracy/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/author/dayton-leow/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tag/educational/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/li-tong-low/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/nestor-vinas-gausch/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,6 +139,11 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/project/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -230,11 +260,6 @@
   <url>
     <loc>https://clinicalbrainlab.github.io/tag/rs-fmri/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/li-tong-low/</loc>
-    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -443,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
-    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/gladys-heng/</loc>
     <lastmod>2017-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -528,17 +548,7 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/project/biliteracy/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/project/cerebellum/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/tag/educational/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -585,15 +595,7 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/author/nestor-vinas-gausch/</loc>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/shreya-jolly/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
   </url>
   
 </urlset>
