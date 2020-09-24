@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/software/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -328,6 +333,11 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/eprime/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/resources/techniques/eeg/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -358,12 +368,27 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/python/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/r/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/resources/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://clinicalbrainlab.github.io/software/sata/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/spm/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   

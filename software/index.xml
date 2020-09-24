@@ -40,6 +40,7 @@ The complex span portion interleaves processing and recall tasks, where open-end
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/software/neurokit2/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./neurokit.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroKit2&lt;/a&gt; is a 
 &lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; Toolbox for Neurophysiological Signal Processing.
