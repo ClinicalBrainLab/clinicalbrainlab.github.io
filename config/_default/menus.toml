@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Join Us"
-  url = "join/"
-  weight = 50
+#[[main]]
+#  name = "Join Us"
+#  url = "join/"
+#  weight = 50
 
 [[main]]
   name = "Participate"

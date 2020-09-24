@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = "Click [here](http://www.facebook.com) to see the full list of alumni."
+# subtitle = "Click [here](http://www.facebook.com) to see the full list of alumni."
+subtitle = "[Join Us](http://new.clinicalbrain.org/join/)"
 
 [content]
   # Choose which groups/teams of users to display.
