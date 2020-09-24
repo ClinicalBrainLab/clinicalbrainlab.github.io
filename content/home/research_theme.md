@@ -30,7 +30,7 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Science of Learning"
-  description = "short-description"
+  description = "We use a combination of techniques to investigate the neural reading networks for bilingual readers."
 
 [[feature]]
   icon = "heartbeat"

@@ -41,10 +41,6 @@ subtitle = ""
     name = "Deception"
     tag = "Deception"
 
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
-
 	
 
 [design]

@@ -42,7 +42,7 @@ social:
 
 superuser: false
 
-title: Professor Annabel Chen
+title: Annabel Chen
 user_groups:
 - Principal Investigator
 

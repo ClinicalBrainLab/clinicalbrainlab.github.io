@@ -1,41 +1,32 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-08-04"
 external_link: ""
 image:
-  caption:
+  caption: Getty
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: ""
-slides: example
-summary: Our research on biliteracy aims to better understand neural networks and the cognitive mechanisms underlying bilingualism.
+
+summary: An investigation of the neural reading networks for bilingual readers.
+profile: true
 
 tags:
 - Educational
 title: Biliteracy
+authors: ["ChiaoYi-Wu", "Nestor-VinasGuasch", "JiaLi-Teo", "LiTong-Low", "Annabel-Chen"]
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Our research on biliteracy aims to better understand neural networks and the cognitive mechanisms underlying bilingualism.
+We use a combination of behavioural assessment, neuroimaging techniques, and intervention to investigate the neural reading networks for bilingual readers from a variety of language profiles, across early childhood and adulthood. Our projects aim to identify the critical factors that influence the neurocognitive mechanisms of non-impaired and impaired reading. Our findings will provide implications for neuroscience-informed remediation of reading difficulties to promote effective bilingual and biliteracy development. 
 
-### **Measuring the brain response to non-invasive brain stimulation**
+Ongoing projects:
+1.	Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers (funded by NTU-JHU Collaborative Grant)
+2.	Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development (funded by Singapore Millennium Foundation) 
+3.	NRF Reading Brains project? (funded by National Research Foundation)
 
-Currently in our lab, we are using fNIRS to explore changes in brain activity during brain stimulation and during cognitive tasks – i.e. reading.
-
-fNIRS (functional near-infrared spectroscopy) is a non-invasive neuroimaging technique that measures brain responses by recording changes in the amount of oxygenated/deoxygenated blood. It works based on the principle of light scattering – the device sends high intensity beams of near-infrared light at the scalp and detects changes to amount of light absorbed within the brain. Mathematical algorithms are then applied to process the collected data to calculate changes in oxygenated/deoxygenated haemoglobin concentration. These changes are associated with changes in brain function.
-
-Our project is activey looking for participants to take part!
-
-![jpg](./fNIRS-tDCS.jpg)
-
-
-### **Investigating the Bilingual Reading Network**
-
-* Chinese-English Bilinguals who had a history of dyslexia or are struggling in reading
-
-
-![jpg](./biliteracy-dyslexia.jpg)
