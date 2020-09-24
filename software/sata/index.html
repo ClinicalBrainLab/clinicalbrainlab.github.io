@@ -26,10 +26,10 @@
   
     
   
-  <meta name="description" content="a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST.">
+  <meta name="description" content="Description  SATA is a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://clinicalbrainlab.github.io/resources/tools/sata/">
+  <link rel="alternate" hreflang="en-us" href="https://clinicalbrainlab.github.io/software/sata/">
 
   
 
@@ -229,7 +229,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://clinicalbrainlab.github.io/resources/tools/sata/">
+  <link rel="canonical" href="https://clinicalbrainlab.github.io/software/sata/">
 
   
   
@@ -248,9 +248,9 @@
   <meta property="twitter:creator" content="@cblntu">
   
   <meta property="og:site_name" content="The Clinical Brain Lab">
-  <meta property="og:url" content="https://clinicalbrainlab.github.io/resources/tools/sata/">
-  <meta property="og:title" content="Systematic Approach for tDCS analysis (SATA) | The Clinical Brain Lab">
-  <meta property="og:description" content="a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST."><meta property="og:image" content="https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://clinicalbrainlab.github.io/software/sata/">
+  <meta property="og:title" content="SATA | The Clinical Brain Lab">
+  <meta property="og:description" content="Description  SATA is a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac."><meta property="og:image" content="https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -275,7 +275,7 @@
 
 
 
-  <title>Systematic Approach for tDCS analysis (SATA) | The Clinical Brain Lab</title>
+  <title>SATA | The Clinical Brain Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -535,7 +535,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/resources/"><span>Resources</span></a>
+          <a class="nav-link " href="/resources/"><span>Resources</span></a>
         </li>
 
         
@@ -576,8 +576,6 @@
         
         
           
-            
-          
         
 
         
@@ -588,7 +586,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="https://github.com/ClinicalBrainLab" target="_blank" rel="noopener"><span>Github</span></a>
+          <a class="nav-link  active" href="/software/"><span>Software Development</span></a>
         </li>
 
         
@@ -670,11 +668,19 @@
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/resources/tools/sata/">Software</a>
+    <a class="docs-toc-link" href="/software/sata/">Softwares</a>
     <ul class="nav docs-sidenav">
       
       <li class="active">
-        <a href="/resources/tools/sata/">SATA</a>
+        <a href="/software/sata/">SATA</a>
+      </li>
+      
+      <li >
+        <a href="/software/complexspan/">Complex Span</a>
+      </li>
+      
+      <li >
+        <a href="/software/neurokit2/">NeuroKit2</a>
       </li>
       
     </ul>
@@ -693,7 +699,13 @@
         <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
       </ul>
 
-      <nav id="TableOfContents"></nav>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#applications">Applications</a></li>
+    <li><a href="#reference">Reference</a></li>
+  </ul>
+</nav>
 
       
     </div>
@@ -704,13 +716,19 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>Systematic Approach for tDCS analysis (SATA)</h1>
+          <h1>SATA</h1>
 
           <div class="article-style">
-            <p>a Matlab Based toolbox that works well with Matlab version 2017 and above. However, we have not tested SATA for other MATLAB versions.
-SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST.
-** To download the Graphical user interface (GUI) version of SATA, please visit <a href="https://doi.org/10.21979/N9/DMWPZK">https://doi.org/10.21979/N9/DMWPZK</a> The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI. In this case, you can download the codes from Github. However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals.
-For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).</p>
+            <h2 id="description">Description</h2>
+<p>
+<a href="https://github.com/ClinicalBrainLab/SATA" target="_blank" rel="noopener">SATA</a> is a Matlab Based toolbox that works well with Matlab version 2017 and above.
+However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. ** To download the Graphical user interface (GUI) version of SATA, please visit <a href="https://doi.org/10.21979/N9/DMWPZK">https://doi.org/10.21979/N9/DMWPZK</a> The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI. In this case, you can download the codes from Github.
+However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals. For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).</p>
+<h2 id="applications">Applications</h2>
+<p>[What studies has this been used for?]
+[What studies is this currently being used for?]</p>
+<h2 id="reference">Reference</h2>
+<p>Bhattacharjee, S., Kashyap, R., Rapp, B., Oishi, K., Desmond, J., &amp; Chen, S. (2019). Simulation Analyses of tDCS Montages for the Investigation of Dorsal and Ventral Pathways. Scientific Reports (in press) doi: DOI: 10.1038/s41598-019-47654-y</p>
 
           </div>
 
@@ -722,6 +740,13 @@ For details on using the code of SATA, please refer the SATA MANUAL (section 3.4
           <div class="article-widget">
             
 <div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/software/neurokit2/" rel="next">NeuroKit2</a>
+  </div>
   
   
 </div>
@@ -744,7 +769,7 @@ For details on using the code of SATA, please refer the SATA MANUAL (section 3.4
   
 
 <p class="edit-page">
-  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/resources/tools/SATA.md">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/software/SATA.md">
     <i class="fas fa-pen pr-2"></i>Edit this page
   </a>
 </p>

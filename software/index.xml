@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/software/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Software Development</title>
+      <link>https://clinicalbrainlab.github.io/software/</link>
+    </image>
+    
+    <item>
+      <title>Complex Span</title>
+      <link>https://clinicalbrainlab.github.io/software/complexspan/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/software/complexspan/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/neuropsychology/ComplexSpan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complex Span&lt;/a&gt; is a 
+&lt;a href=&#34;https://www.psychopy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsychoPy&lt;/a&gt; implementation of a working memory span task, adapted from 
+&lt;a href=&#34;https://link.springer.com/article/10.3758/s13428-015-0566-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gonthier et al. (2015)&lt;/a&gt;.
+Working memory is a critical component of human cognition and can be defined as the ability to store and process information simultaneously.&lt;/p&gt;
+&lt;p&gt;The task comprises of 2 components, the simple span and the complex span.
+The simple span portion presents to-be-remembered consonants, where participants are prompted to type in the correct verbatim recall as each set size increases.
+The complex span portion interleaves processing and recall tasks, where open-ended arithmetic operations are presented before to-be-recalled consonants are presented as each set size increases.&lt;/p&gt;
+&lt;h2 id=&#34;application&#34;&gt;Application&lt;/h2&gt;
+&lt;p&gt;Complex Span is currently used in our lab to supplement the analysis of behavioural and neurocognitive correlates in the 
+&lt;a href=&#34;http://new.clinicalbrain.org/project/deception/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Lau, Z. J., Pham, T. T., Makowski, D., &amp;amp; S H Chen, A. (2019). A Psychopy Implementation of the Complex Span for Working Memory Assessment. Retrieved from &lt;a href=&#34;http://doi.org/10.5281/zenodo.3529329&#34;&gt;http://doi.org/10.5281/zenodo.3529329&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2</title>
+      <link>https://clinicalbrainlab.github.io/software/neurokit2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/software/neurokit2/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroKit2&lt;/a&gt; is a 
+&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; Toolbox for Neurophysiological Signal Processing.
+Led by 
+&lt;a href=&#34;http://new.clinicalbrain.org/author/dominique-makowski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Dominique Makowski&lt;/a&gt;, NeuroKit2 is designed to be an open-source, community-driven, and user-centered Python package dedicated to advanced biosignal processing routines.
+These bodily signals include electrocardiogram (ECG), electrodermal activity (EDA), respiration (RSP), electromyography (EMG), and electrooculography (EOG).
+Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with a few lines of code.&lt;/p&gt;
+&lt;p&gt;The package consists of comprehensive 
+&lt;a href=&#34;https://neurokit2.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; which provides some guidelines on getting started with Python and some tutorials on data analysis.
+Its functionalities include signal simulation, data management (e.g., downloading existing datasets, reading and formatting files into a dataframe), events extraction from signals, epochs extraction, signal processing (e.g., filtering, resampling, rate computation),
+spectral analyses, complexity and entropy analyses, convenient statistical methods (e.g., K-means clustering, ICA or PCA).
+Convenient plotting functions are also available, allowing for quick visualization of processed signals.&lt;/p&gt;
+&lt;h2 id=&#34;application&#34;&gt;Application&lt;/h2&gt;
+&lt;p&gt;NeuroKit2 is currently used in our lab to analyze neurophysiological correlates of deception in the 
+&lt;a href=&#34;http://new.clinicalbrain.org/project/deception/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lesspinasse, F., Pham, H., Schölzel, C., &amp;amp; S H Chen, A. (2020). NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing. Retrieved March 28, 2020, from &lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34;&gt;https://github.com/neuropsychology/NeuroKit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SATA</title>
+      <link>https://clinicalbrainlab.github.io/software/sata/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/software/sata/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SATA&lt;/a&gt; is a Matlab Based toolbox that works well with Matlab version 2017 and above.
+However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. ** To download the Graphical user interface (GUI) version of SATA, please visit &lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34;&gt;https://doi.org/10.21979/N9/DMWPZK&lt;/a&gt; The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI. In this case, you can download the codes from Github.
+However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals. For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).&lt;/p&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;p&gt;[What studies has this been used for?]
+[What studies is this currently being used for?]&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Bhattacharjee, S., Kashyap, R., Rapp, B., Oishi, K., Desmond, J., &amp;amp; Chen, S. (2019). Simulation Analyses of tDCS Montages for the Investigation of Dorsal and Ventral Pathways. Scientific Reports (in press) doi: DOI: 10.1038/s41598-019-47654-y&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
