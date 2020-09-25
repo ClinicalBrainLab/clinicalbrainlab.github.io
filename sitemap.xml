@@ -98,7 +98,22 @@
   </url>
   
   <url>
+    <loc>https://clinicalbrainlab.github.io/project/ageing/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clinicalbrainlab.github.io/author/adrian-raine/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/tag/ageing/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/author/alicia-goodwill/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/tag/educational/</loc>
+    <loc>https://clinicalbrainlab.github.io/tag/learning/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,6 +169,11 @@
   
   <url>
     <loc>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clinicalbrainlab.github.io/project/translate-neuro/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,11 +488,6 @@
   </url>
   
   <url>
-    <loc>https://clinicalbrainlab.github.io/tag/ageing/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://clinicalbrainlab.github.io/author/annie-lee/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
@@ -595,10 +610,6 @@
   <url>
     <loc>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-dynamics/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://clinicalbrainlab.github.io/author/alicia-goodwill/</loc>
   </url>
   
   <url>
