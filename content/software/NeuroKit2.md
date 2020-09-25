@@ -13,10 +13,10 @@ menu:
 
 ## Description
 
-![png](./neurokit.png)
+![png](/software/neurokit.png)
 
 [NeuroKit2](https://github.com/neuropsychology/NeuroKit) is a [Python](https://www.python.org/) Toolbox for Neurophysiological Signal Processing.
-Led by [Dr. Dominique Makowski](http://new.clinicalbrain.org/author/dominique-makowski/), NeuroKit2 is designed to be an open-source, community-driven, and user-centered Python package dedicated to advanced biosignal processing routines.
+Led by [Dr. Dominique Makowski](/author/dominique-makowski/), NeuroKit2 is designed to be an open-source, community-driven, and user-centered Python package dedicated to advanced biosignal processing routines.
 These bodily signals include electrocardiogram (ECG), electrodermal activity (EDA), respiration (RSP), electromyography (EMG), and electrooculography (EOG).
 Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with a few lines of code.
 
@@ -28,7 +28,7 @@ Convenient plotting functions are also available, allowing for quick visualizati
 
 ## Application
 
-NeuroKit2 is currently used in our lab to analyze neurophysiological correlates of deception in the [Deception Project](http://new.clinicalbrain.org/project/deception/).
+NeuroKit2 is currently used in our lab to analyze neurophysiological correlates of deception in the [Deception Project](/project/deception/).
 
 ## Reference
 

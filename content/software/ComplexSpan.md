@@ -23,7 +23,7 @@ The complex span portion interleaves processing and recall tasks, where open-end
 
 ## Application
 
-Complex Span is currently used in our lab to supplement the analysis of behavioural and neurocognitive correlates in the [Deception Project](http://new.clinicalbrain.org/project/deception/).
+Complex Span is currently used in our lab to supplement the analysis of behavioural and neurocognitive correlates in the [Deception Project](/project/deception/).
 
 ## Reference
 
