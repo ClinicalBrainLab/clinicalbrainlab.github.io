@@ -113,9 +113,9 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/cblntu"},
-  {icon = "facebook", icon_pack = "fab", name = "DM Me", link = "https://www.facebook.com/Clinical-Brain-Lab-1025744954121571"},
-  {icon = "github", icon_pack = "fab", name = "DM Me", link = "https://github.com/ClinicalBrainLab"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow us", link = "https://twitter.com/cblntu"},
+  {icon = "facebook", icon_pack = "fab", name = "Follow us", link = "https://www.facebook.com/Clinical-Brain-Lab-1025744954121571"},
+  {icon = "github", icon_pack = "fab", name = "Our GitHub Organization", link = "https://github.com/ClinicalBrainLab"},
   
   
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
