@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Higher Cognition and the Cerebellum"
-  description = "We aim to understand how cerebllum is involved in higher cognition through the use of various neuroimaging methods."
+  description = "We aim to understand how the cerebellum is involved in higher cognition through the use of various neuroimaging methods."
   
 [[feature]]
   icon = "hand-holding-heart"
