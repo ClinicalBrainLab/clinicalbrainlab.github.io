@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: From Sobczak-Edmans et al., 2019
+  caption: Getty
   focal_point: Smart
 links:
 - icon: twitter
@@ -14,7 +14,7 @@ summary: We study cerebro-cerebellar pathways and their roles in higher cognitio
 
 tags:
 - Cerebellum
-title: Cerebellum and Cognition
+title: Higher Cognition & the Cerebellum 
 url_code: ""
 url_pdf: ""
 url_slides: ""

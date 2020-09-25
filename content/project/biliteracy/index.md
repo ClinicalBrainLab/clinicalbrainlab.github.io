@@ -14,7 +14,7 @@ summary: An investigation of the neural reading networks for bilingual readers.
 profile: true
 
 tags:
-- Educational
+- Learning
 title: Biliteracy
 authors: ["ChiaoYi-Wu", "Nestor-VinasGuasch", "JiaLi-Teo", "LiTong-Low", "Annabel-Chen"]
 

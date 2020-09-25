@@ -18,7 +18,7 @@ publication_types:
 publishDate: ""
 # summary: 
 tags:
-- Science of Learning
+- Learning
 title: 'Reconciling individual differences with collective needs: The juxtaposition of sociopolitical and neuroscience perspectives on remediation and compensation of student skill deficits'
 url_code: ""
 url_dataset: ""
