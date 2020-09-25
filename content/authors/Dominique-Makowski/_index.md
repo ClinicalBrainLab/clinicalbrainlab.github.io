@@ -2,7 +2,7 @@
 authors:
 - Dominique Makowski
 
-bio: 
+bio: Dr. Dominique Makowski is a neuropsychologist & pizza lover 🍕. He is currently a Postdoc @ Clinical Brain Lab working on the neuroscience of deception 🤥 He is also interested in reality bending ✨ 
 
 education:
   courses:

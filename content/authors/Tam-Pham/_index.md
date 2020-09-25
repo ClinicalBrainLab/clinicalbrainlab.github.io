@@ -5,7 +5,7 @@ user_groups:
 
 authors:
 - Tam Pham
-bio:
+bio: Tam Pham is currently a Project Officer at Clinical Brain Lab. She is working on the neuroscience of deception.
 
 education:
   courses:
