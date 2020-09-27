@@ -9,6 +9,9 @@ education:
   - course: Ph.D., Psychology
     institution: Nanyang Technological University, Singapore
     year: 2009 - 2014
+  - course: Neurobiology and Cognitive Science Program
+    institution: National Taiwan University, Taipei, Taiwan
+    year: 2003 - 2007
   - course: B.S., Psychology
     institution: National Taiwan University, Taipei, Taiwan
     year: 2003 - 2007
@@ -16,8 +19,9 @@ education:
 email: "chiao-yi.wu@nie.edu.sg"
 interests:
 - Science of learning
-- Cognitive neuroscience of language and reading (typical and atypical language development across lifespan, bilingualism, biliteracy)
-- Literacy and numeracy development 
+- Neurobiology of language, reading, and mathematical processing
+- Bilingualism and biliteracy
+- Typical and atypical development of literacy and numeracy skills
 - Functional, structural, and diffusion magnetic resonance imaging
 
 
