@@ -5,10 +5,10 @@ image:
   caption: Getty
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ""
+#- icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: ""
 
 summary: An attempt to increase accessibility of cognitive neuroscience findings.
 profile: true

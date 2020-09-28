@@ -5,10 +5,10 @@ image:
   caption: Getty
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ""
+#- icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: ""
 
 summary: "A development of an intervention program ExCITE for aging population."
 profile: true
