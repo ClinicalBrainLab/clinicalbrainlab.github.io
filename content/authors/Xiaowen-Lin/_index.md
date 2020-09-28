@@ -11,7 +11,9 @@ education:
     year: 2017 - 2021
 
 email: "xlin014@e.ntu.edu.sg"
-#interests:
+interests:
+-neuroscience
+-clinical psychology
 
 organizations:
 - name: Nanyang Technological University
