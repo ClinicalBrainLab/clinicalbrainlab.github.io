@@ -9,13 +9,13 @@ education:
   - course: Ph.D.Candidate, Cradle
     institution: NTU
     year: 2020 -
-  - course: Bachalor of Psychology (Hons)
+  - course: Bachelor of Psychology (Hons)
     institution: State University of New York, Buffalo
     year: 2012 -2015
 
 email: "G200002@e.ntu.edu.sg"
 interests:
-- Muliti-model neuroimaging 
+- Multi-model neuroimaging 
 - Structural and functional correlation in the brain
 - Psychiatric disorders 
 - Research translation
