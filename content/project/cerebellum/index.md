@@ -5,11 +5,11 @@ image:
   caption: Getty
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ""
-slides: example
+#- icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: ""
+#slides: example
 summary: We study cerebro-cerebellar pathways and their roles in higher cognition.
 
 tags:
@@ -21,4 +21,4 @@ url_slides: ""
 url_video: ""
 ---
 
-Description
+Previous studies have suggested cerebro-cerebellar circuitry in working memory. Our studies aim to use neuroimaging techniques to examine differential cerebro-cerebellar activation patterns in verbal and visual working memory, and employs a quantitative analysis to deterimine lateralization of the activation patterns observed. 

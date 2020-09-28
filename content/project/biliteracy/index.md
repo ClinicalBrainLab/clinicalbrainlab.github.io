@@ -5,10 +5,10 @@ image:
   caption: Getty
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ""
+#- icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: ""
 
 summary: An investigation of the neural reading networks for bilingual readers.
 profile: true
@@ -28,5 +28,5 @@ We use a combination of behavioural assessment, neuroimaging techniques, and int
 Ongoing projects:
 1.	Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers (funded by NTU-JHU Collaborative Grant)
 2.	Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development (funded by Singapore Millennium Foundation) 
-3.	NRF Reading Brains project? (funded by National Research Foundation)
+3.	NRF Reading Brains project (funded by National Research Foundation)
 

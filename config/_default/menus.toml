@@ -39,7 +39,7 @@
   weight = 70
 
 [[main]]
-  name = "Software Development"
+  name = "Software"
   url = "software/"
   weight = 80
 
