@@ -31,6 +31,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tampham94
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hlomrl4AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6392-6703
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tam_Pham19

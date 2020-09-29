@@ -37,6 +37,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Dom_Makowski
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=bg0BZ-QAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5375-9967
