@@ -15,8 +15,11 @@ education:
 
 
 email: "m.siddharthan@ntu.edu.sg"
-#interests: Lifelong learning, Cognition, Brain stimulation
-
+interests: 
+-Lifelong learning
+-Cognition
+-Brain stimulation
+#is this right now?
 organizations:
 - name: Nanyang Technological University
   url: ""
