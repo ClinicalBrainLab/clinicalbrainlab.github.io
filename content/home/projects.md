@@ -26,30 +26,27 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Cerebellum"
+	name = "Higher Cognition & the Cerebellum "
     tag = "Cerebellum"
+    
   
   [[content.filter_button]]
-    name = "Ageing"
+    name = "Active Ageing "
     tag = "Ageing"
 
   [[content.filter_button]]
-    name = "Learning"
+    name = "Science of Learning"
     tag = "Learning"
 	
   [[content.filter_button]]
-    name = "Deception"
+    name = "Deception & Trust"
     tag = "Deception"
-
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
 
 	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -60,7 +57,6 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

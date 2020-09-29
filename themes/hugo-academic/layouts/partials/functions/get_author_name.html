@@ -12,13 +12,13 @@
   {{ $author_username = $page.Scratch.Get "superuser_username" }}
 {{ else if $page.Params.authors }}
   {{ $author = index $page.Params.authors 0 }}
-  {{ $author_username = anchorize $author }}
+  {{ $author_username = urlize $author }}
 {{ end }}
 
 {{ $taxonomy := "authors" }}
 {{ $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $author_username) }}
 {{ with $profile_page }}
-  {{ $author = .Params.name | default .Title }}
+  {{ $author = .Title }}
 {{ else }}
   {{ $author = $author | default $publisher }}
 {{ end }}

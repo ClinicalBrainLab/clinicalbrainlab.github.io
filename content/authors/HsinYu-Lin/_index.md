@@ -6,12 +6,12 @@ bio:
 
 education:
   courses:
-  - course: TBC
-    institution: TBC
-    year: TBC
-  - course: TBC
-    institution: TBC
-    year: TBC
+  - course: M.S., Biomedical Imaging and Radiological Sciences
+    institution: National Yang-Ming University, Taipei, Taiwan
+    year: 2014-2016
+  - course: B.S., Biomedical Imaging and Radiological Sciences
+    institution: National Yang-Ming University, Taipei, Taiwan
+    year: 2010-2014
 
 
 email: "linhy@ntu.edu.sg"

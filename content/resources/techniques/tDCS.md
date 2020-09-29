@@ -16,7 +16,7 @@ menu:
 tDCS (Transcranial Direct Current Stimulation) is a non-invasive and relatively painless brain stimulation technique that adjusts regional brain activity through modulating the transmembrane potential of neurons by sending low amplitude direct-current into the scalp. 
 In healthy populations, anodal tDCS has been shown to increase cortical excitability while cathodal tDCS has been shown to inhibit cortical excitability.
 
-![jpg](./tDCS.jpg)
+![jpg](/resources/techniques/tDCS.jpg)
 
 ## How is tDCS Done?
 The electrode to be used is inserted into saline soaked sponges. The region where the electrode is to be placed is first wiped clean with alcohol wipes. Hair is then parted and the sponge is positioned over the marked position and secured in place using rubber straps. 
