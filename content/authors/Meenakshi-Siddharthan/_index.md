@@ -19,7 +19,7 @@ interests:
 - Lifelong learning
 - Cognition
 - Brain stimulation
-#ok gotcha!
+
 organizations:
 - name: Nanyang Technological University
   url: ""
