@@ -28,9 +28,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:G200002@e.ntu.edu.sg
-- icon:
-  icon_pack: ai
-  link:
 
 
 superuser: false
