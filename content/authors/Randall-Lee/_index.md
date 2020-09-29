@@ -33,4 +33,3 @@ superuser: false
 ---
 Randall Lee is an undergraduate Psychology student at Nanyang Technological University, in his final year. He has strong interests in educational psychology and children's development. His final year project is titled 'Secondary School Students' Direct Contact with and Acceptance of Peers with Autism in Singapore Mainstream Schools'.
 
---- 
