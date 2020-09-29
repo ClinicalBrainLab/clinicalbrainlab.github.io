@@ -18,6 +18,8 @@ title: Alumni of Clinical Brain Lab
 Nanyang Technological University
 (Singapore)
 
+- Ilang Kumaran Yuvadarshini , Research Associate
+
 - Marilyn Yeo , Project Officer
 
 - Eng Goi Khia , Ph.D

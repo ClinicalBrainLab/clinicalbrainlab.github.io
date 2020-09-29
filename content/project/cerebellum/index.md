@@ -21,4 +21,4 @@ url_slides: ""
 url_video: ""
 ---
 
-Previous studies have suggested cerebro-cerebellar circuitry in working memory. Our studies aim to use neuroimaging techniques to examine differential cerebro-cerebellar activation patterns in verbal and visual working memory, and employs a quantitative analysis to deterimine lateralization of the activation patterns observed. 
+Cerebellum has increasingly been recognized for its contributions beyond motor control to higher cognitive functions. Our work focuses on the roles of cerebellum in working memory, i.e., the ability to hold information in short-term memory. We use neuroimaging techniques to examine the structural and functional connectivity of the cerebro-cerebellar pathways for verbal and visual working memory.  

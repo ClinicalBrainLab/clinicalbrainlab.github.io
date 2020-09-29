@@ -10,7 +10,7 @@ authors:
 date: "2019-10-18"
 doi: "10.1080/23735082.2019.1674909"
 featured: false
-projects: ["learning"]
+projects: ["translate-neuro"]
 publication: 'Tham, R., Walker, Z., Tan, S. H. D., Low, L. T., & Chen, S. H. A. (2019). Translating education neuroscience for teachers. Learning: Research and Practice, 5(2), 149-173. doi:10.1080/23735082.2019.1674909'
 publication_short: ""
 publication_types:
