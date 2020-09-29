@@ -26,7 +26,7 @@ superuser: false
 
 title: Shreya Jolly
 user_groups:
-- Undergrad Students
+- 
 
 ---
 

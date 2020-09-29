@@ -18,7 +18,7 @@ subtitle = "Check out our [open positions](/join/) or find out more about our [a
                  "Graduate Students",
                  "Research Assistants",
                  "Undergraduate Students",
-                 "Alumni",
+				 "Interns",
                  "System Administrators"]
 
 [design]
