@@ -1,0 +1,28 @@
+on:
+  pull_request:
+     branches:
+       - sources
+ 
+name: 📦 Check build
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@master
+       
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Install rmarkdown, blogdown # might need knitr
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
+       
+      - name: Install hugo
+        run: Rscript -e 'blogdown::install_hugo()'
+ 
+      - name: Build site with blogdown
+        run: Rscript -e "blogdown::build_site()"
