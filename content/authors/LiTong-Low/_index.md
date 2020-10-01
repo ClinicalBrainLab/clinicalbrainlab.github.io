@@ -8,19 +8,19 @@ education:
   courses:
   - course: Bachelor of Psychology (Hons)
     institution: The Australian National University, Australia
-    # year:
+    year: 2013 - 2016
 
 email: "litong.low@ntu.edu.sg"
 interests:
-- Cognitive Psychology
 - Cognitive Neuroscience
-- Educational Neuroscience
+- Research Translation
+- Science Writing
 
 
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Project Officer
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
