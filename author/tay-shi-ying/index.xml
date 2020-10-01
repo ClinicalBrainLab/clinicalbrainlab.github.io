@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tay Shi Ying | The Clinical Brain Lab</title>
-    <link>https://clinicalbrainlab.github.io/authors/</link>
-      <atom:link href="https://clinicalbrainlab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://clinicalbrainlab.github.io/author/tay-shi-ying/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/tay-shi-ying/index.xml" rel="self" type="application/rss+xml" />
     <description>Tay Shi Ying</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
       <title>Tay Shi Ying</title>
-      <link>https://clinicalbrainlab.github.io/authors/</link>
+      <link>https://clinicalbrainlab.github.io/author/tay-shi-ying/</link>
     </image>
     
   </channel>
