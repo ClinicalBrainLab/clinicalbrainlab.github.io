@@ -8,8 +8,11 @@ draft: false
 menu:
   join:
     parent: Research Associate/Assistant Positions
-    weight: 7
+    weight: 2
 ---
+
+<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+
 The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities. 
 
 [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) is a research intensive university currently ranked 13th globally and placed 1st amongst the world’s best young universities. The University has Colleges of Engineering, Business, Science, Humanities, Arts, & Social Sciences, and an Interdisciplinary Graduate School. Further, the new Lee Kong Chian School of Medicine benefits from a dual campus located at Novena, in close proximity to the Singapore city centre. The Cognitive Neuroimaging Centre (CoNiC) houses state-of-the-art neuroimaging facilities including a newly installed 3T MRI scanner and MEG, as well as new EEG, NIRS, TMS and tDCS equipment. 
@@ -38,6 +41,7 @@ The CLIC program is seeking **three full-time Research Assistants/Associates (RA
 
 ## Looking For
 ### Essential Requirements:
+
 * Bachelor and/or Master's degree in Psychology, Neuropsychology, Cognitive Neuroscience or a related discipline
 * Prior experience in conducting adult cognitive testing and neuroimaging (fMRI, EEG)
 * Prior experience with participant recruitment processes

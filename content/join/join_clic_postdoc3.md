@@ -8,17 +8,20 @@ draft: false
 menu:
   join:
     parent: Post-doctoral Positions
-    weight: 4
+    weight: 3
 ---
+
+<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+
 The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities.
 
-The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.  
+The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.
 
 The Principal Investigators involved in the first phase of the research programme include: 
  
-**From Cambridge:** Director Professor Zoe Kourtzi (Psychology), Senior Scientific Advisor Professor Trevor Robbins (Psychology), Deputy Directors Professor Henriette Hendriks (Linguistics), Professor Anna Vignoles (Education), and Imaging Lead - Professor John Suckling (Psychiatry); supported by co-Investigators Prof Barbara Sahakian (Psychiatry) and Dr Michelle Ellefson (Education).  
+**From Cambridge:** Director Professor Zoe Kourtzi (Psychology), Senior Scientific Advisor Professor Trevor Robbins (Psychology), Deputy Directors Professor Henriette Hendriks (Linguistics), Professor Anna Vignoles (Education), and Imaging Lead - Professor John Suckling (Psychiatry); supported by co-Investigators Prof Barbara Sahakian (Psychiatry) and Dr Michelle Ellefson (Education). 
  
-**From NTU:**  Director Professor Annabel Chen (Psychology), Deputy Director Asst Prof Victoria Leong (Psychology), Imaging Lead - Professor Balázs Gulyas (LKCMedicine), and Principal Investigators Professor David Hung (NIE), Asst Prof Bobby Cheon (Psychology) and Assoc Prof George Christopoulos (Nanyang Business School); supported by co-Investigator Teo Chew Lee (NIE). 
+**From NTU:**  Director Professor Annabel Chen (Psychology), Deputy Director Asst Prof Victoria Leong (Psychology), Imaging Lead - Professor Balázs Gulyas (LKCMedicine), and Principal Investigators Professor David Hung (NIE), Asst Prof Bobby Cheon (Psychology) and Assoc Prof George Christopoulos (Nanyang Business School); supported by co-Investigator Teo Chew Lee (NIE). 
  
 The CLIC program is seeking **one full-time Research Fellow** to support research activities on cognitive flexibility and learning, and training-related brain changes among adults and adolescents. Given the highly inter-disciplinary nature of the project, the research fellow will be expected to take on opportunities for involvement in research activities related to human neuroimaging, language, infant cognition/learning and pedagogy. This research position will be focusing on neuroimaging and cognition. We anticipate the successful candidate to perform within a dynamic interdisciplinary research environment and coordinates well with other teams in the CLIC program. This position will be co-supervised by Professor Balazs Gulyas and Professor John Suckling with input from Professor Zoe Kourtzi and Professor Annabel Chen.
 ## Job Scope
@@ -38,6 +41,7 @@ The CLIC program is seeking **one full-time Research Fellow** to support researc
 
 ## Looking For
 ### Essential Requirements:
+
 * **Doctorate (PhD) degree and publication record** in **experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, biomedical engineering, computer science, or related fields.**
 * Advanced signal processing and programming skills (e.g. with Matlab, Python)
 * Experience with neuroimaging techniques (MRI, EEG and/or TMS).
