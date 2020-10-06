@@ -1,7 +1,7 @@
 ---
 title: Cheng Wenxuan
 user_groups:
-- Undergraduate Student
+- Undergraduate Students
 
 authors:
 - Wenxuan Cheng
