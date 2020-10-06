@@ -24,6 +24,9 @@ organizations:
   url: ""
 role: Undergraduate Student
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:chen1176@e.ntu.edu.sg
 
 
 superuser: false
