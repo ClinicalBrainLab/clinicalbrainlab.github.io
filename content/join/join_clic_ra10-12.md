@@ -7,8 +7,8 @@ date: "2020-10-06T00:00:00+01:00"
 draft: false
 menu:
   join:
-    parent: Openings
-    weight: 3
+    parent: Research Associate/Assistant Positions
+    weight: 7
 ---
 The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities. 
 
