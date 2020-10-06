@@ -1,7 +1,7 @@
 ---
 title: Cheng Wenxuan
 user_groups:
-- Undergraduate Students
+- Undergraduate Student
 
 authors:
 - Wenxuan Cheng
@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: FYP student
+role: Undergraduate Student
 social:
 
 
