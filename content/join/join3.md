@@ -3,18 +3,16 @@ title: Research Fellow Position
 linktitle: Doctoral Positions
 toc: true
 type: docs
-date: "2020-10-05T00:00:00+01:00"
+date: "2020-10-06T00:00:00+01:00"
 draft: false
 menu:
   join:
     parent: Openings
     weight: 3
 ---
-The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the National Research Foundation (NRF) in Singapore and coordinated through the Cambridge Centre for Advanced Research and Education in Singapore (CARES), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop cognitive training programmes for the improvement of lifelong flexible learning, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of 
-Neuroscience, Psychology, Linguistics and Education across the two universities.
- 
-The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent 
-opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.  
+The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities.
+
+The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.  
 
 The Principal Investigators involved in the first phase of the research programme include: 
  
@@ -52,16 +50,11 @@ The CLIC program is seeking **one full-time Research Fellow** to support researc
 * Excellent organizational skills and able to work within given deadlines
 
 ### Preferred Skills and Experience:
-* Doctorate (PhD) degree and publication record in experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, biomedical engineering, computer science, or related fields.
-* Advanced signal processing and programming skills (e.g. with Matlab, Python)
-* Experience with neuroimaging techniques (MRI, EEG and/or TMS).
-* Familiarity with image data analysis tools such as SPM, FSL, AFNI, and/or DSIStudio, etc.
-* Experience with statistical packages, especially R and SPSS
-* Good statistical knowledge and skills
-* Good IT skills (i.e., Microsoft Office®)
-* Strong ability to work within a multidisciplinary team
-* Strong interpersonal, written and verbal communication skills
-* Excellent organizational skills and able to work within given deadlines
+*	Experience and/or interest in system administration and network infrastructure 
+*	Prior experience in analyzing large datasets and data management (e.g. REDCap, MySQL)
+*	Prior experience working with Singaporean organizations / business
+*	Prior experience with academic publication processes and reports
+*	Self-directed learner who effectively picks up relevant skills as needed
 
 ## Apply
 
