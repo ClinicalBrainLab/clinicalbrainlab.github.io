@@ -3,7 +3,7 @@ title: Research Fellow Position in Neuroimaging Study and Cognitive Intervention
 linktitle: Research Fellow in Neuroimaging Study and Cognitive Intervention
 toc: true
 type: docs
-date: "2020-10-06T00:00:00+01:00"
+date: "2020-10-08T00:00:00+01:00"
 draft: false
 menu:
   join:
@@ -11,19 +11,22 @@ menu:
     weight: 4
 ---
 
-<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+<span style="background-color: #FFFF00">**Now Open for Applications**</span>
 
 The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities.
 
-The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.  
+[Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) is a research intensive university currently ranked 13th globally and placed 1st amongst the world’s best young universities. The University has Colleges of Engineering, Business, Science, Humanities, Arts, & Social Sciences, and an Interdisciplinary Graduate School. Further, the new Lee Kong Chian School of Medicine benefits from a dual campus located at Novena, in close proximity to the Singapore city centre. The Cognitive Neuroimaging Centre (CoNiC) houses state-of-the-art neuroimaging facilities including a newly installed 3T MRI scanner and MEG, as well as new EEG, NIRS, TMS and tDCS equipment.  
 
-The Principal Investigators involved in the first phase of the research programme include: 
+The first phase of the CLIC program will initially be housed at Nanyang Technological University, Singapore. As the programme progresses, other sites will be developed to meet the needs of the experimental programme. The new CLIC research centre will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.    
+
+The Principal Investigators involved in the first phase of the research programme include:  
  
 **From Cambridge:** Director Professor Zoe Kourtzi (Psychology), Senior Scientific Advisor Professor Trevor Robbins (Psychology), Deputy Directors Professor Henriette Hendriks (Linguistics), Professor Anna Vignoles (Education), and Imaging Lead - Professor John Suckling (Psychiatry); supported by co-Investigators Prof Barbara Sahakian (Psychiatry) and Dr Michelle Ellefson (Education).  
  
-**From NTU:**  Director Professor Annabel Chen (Psychology), Deputy Director Asst Prof Victoria Leong (Psychology), Imaging Lead - Professor Balázs Gulyas (LKCMedicine), and Principal Investigators Professor David Hung (NIE), Asst Prof Bobby Cheon (Psychology) and Assoc Prof George Christopoulos (Nanyang Business School); supported by co-Investigator Teo Chew Lee (NIE). 
+**From NTU:**  Director Professor Annabel Chen (Psychology), Deputy Director Asst Prof Victoria Leong (Psychology), Imaging Lead - Professor Balázs Gulyas (LKCMedicine), and Principal Investigators Professor David Hung (NIE), Asst Prof Bobby Cheon (Psychology) and Assoc Prof George Christopoulos (Nanyang Business School); supported by co-Investigator Dr Teo Chew Lee (NIE). 
  
 The CLIC program is seeking **one full-time Research Fellow** to support research activities focusing on cognitive flexibility and learning, and training-related brain changes among adults and adolescents. Given the highly inter-disciplinary nature of the project, the research fellow will be expected to take on opportunities for involvement in research activities related to human neuroimaging, language, infant cognition/learning and pedagogy. We anticipate the successful candidate to be dynamic and versatile in managing and coordinating team members to conduct the intervention study with adult participants from the university and the community. This position will be co-supervised by Professor Barbara Sahakian and Professor Annabel Chen with input from Asst Prof Victoria Leong. 
+
 ## Job Scope
 
 *	Oversee the implementation of the neuroimaging and cognitive flexibility intervention study
