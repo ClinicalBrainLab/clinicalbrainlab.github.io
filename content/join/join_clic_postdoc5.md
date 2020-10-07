@@ -1,6 +1,6 @@
 ---
-title: Research Fellow Position in Multimodal Neuroimaging
-linktitle: Research Fellow in Multimodal Neuroimaging
+title: Research Fellow or Research Engineer Position in Multimodal Neuroimaging
+linktitle: Research Fellow or Research Engineer in Multimodal Neuroimaging
 toc: true
 type: docs
 date: "2020-10-08T00:00:00+01:00"
@@ -25,7 +25,7 @@ The Principal Investigators involved in the first phase of the research progra
  
 **From NTU:**  Director Professor Annabel Chen (Psychology), Deputy Director Asst Prof Victoria Leong (Psychology), Imaging Lead - Professor Balázs Gulyas (LKCMedicine), and Principal Investigators Professor David Hung (NIE), Asst Prof Bobby Cheon (Psychology) and Assoc Prof George Christopoulos (Nanyang Business School); supported by co-Investigator Dr Teo Chew Lee (NIE). 
  
-The CLIC program is seeking **one full-time Research Fellow** to support research activities on neuroimaging, and training-related brain changes in adults. Given the highly inter-disciplinary nature of the project, the research fellow will be expected to take on opportunities for involvement in research activities related to human neuroimaging, language, infant cognition/learning and pedagogy. We anticipate the successful candidate to perform within a dynamic interdisciplinary research environment working collaboratively with project team members. This position will be focused on neuroimaging data collection and processing, and co-supervised by Professor John Suckling and Professor Balazs Gulyas with input from Professor Annabel Chen.
+The CLIC program is seeking **one full-time Research Fellow or Research Engineer** to support research activities on neuroimaging, and training-related brain changes in adults. Given the highly inter-disciplinary nature of the project, the research fellow will be expected to take on opportunities for involvement in research activities related to human neuroimaging, language, infant cognition/learning and pedagogy. We anticipate the successful candidate to perform within a dynamic interdisciplinary research environment working collaboratively with project team members. This position will be focused on neuroimaging data collection and processing, and co-supervised by Professor John Suckling and Professor Balazs Gulyas with input from Professor Annabel Chen.
 
 ## Job Scope
 *	Preparation and implementation of MRI pulse sequences
