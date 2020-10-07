@@ -8,8 +8,11 @@ draft: false
 menu:
   join:
     parent: Post-doctoral Positions
-    weight: 5
+    weight: 4
 ---
+
+<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+
 The **Centre for Lifelong Learning and Individualised Cognition (CLIC)**, funded by the [National Research Foundation (NRF)](https://www.nrf.gov.sg/) in Singapore and coordinated through the [Cambridge Centre for Advanced Research and Education in Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares), is a collaboration between Nanyang Technological University (NTU) and the University of Cambridge. CLIC is a flagship programme in the Science of Learning to harness advancements in neuroscience to develop **cognitive training programmes** for the improvement of **lifelong flexible learning**, focusing initially on adolescents and young adults, but also envisaging work with infants and older adults. This is a strategic global initiative for the Universities of Cambridge and NTU that brings together multidisciplinary expertise from over 30 investigators in the areas of Neuroscience, Psychology, Linguistics and Education across the two universities.
 
 The new CLIC research centre will be initially housed at Nanyang Technological University, Singapore. It will provide a vibrant, fast-paced, international and interdisciplinary environment with excellent opportunities for skills development and knowledge exchange between partner Principal Investigator labs in Singapore and Cambridge.  
@@ -37,6 +40,7 @@ The CLIC program is seeking **one full-time Research Fellow** to support researc
 
 ## Looking For
 ### Essential Requirements:
+
 *	**Doctorate (PhD) degree** in **experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science, and/or related fields.**
 *	Experience with conducting behavioral experiments in neuropsychology or cognitive psychology.
 *	Experience with neuroimaging techniques (MRI or EEG)

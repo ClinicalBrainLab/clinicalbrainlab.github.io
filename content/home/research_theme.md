@@ -24,7 +24,7 @@ subtitle = ""
   icon = "hand-holding-heart"
   icon_pack = "fas"
   name = "Active Ageing"
-  description = "We aim to promote brain health thorugh developing exercise-cognition trainings."  
+  description = "We aim to promote brain health through developing exercise-cognition training."  
   
 [[feature]]
   icon = "chalkboard-teacher"

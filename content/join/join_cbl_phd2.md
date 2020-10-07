@@ -1,15 +1,17 @@
 ---
 title: Doctorate Research Fellowship
-linktitle: Doctoral Positions
+linktitle: PhD Positions
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   join:
-    parent: Openings
-    weight: 3
+    parent: Doctoral Positions
+    weight: 2
 ---
+
+<span style="background-color: #FFFF00">**Still Open for Applications**</span>
 
 We are currently actively recruiting for PhD students interested in developing research in educational neuroscience, affective neuroscience and aging neuroscience (specifically in older neurological patients).
 ## Job Scope
