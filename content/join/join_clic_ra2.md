@@ -3,7 +3,7 @@ title: Research Assistant/Associate [3 Full-Time Positions]
 linktitle: RA Positions
 toc: true
 type: docs
-date: "2020-10-08T00:00:00+01:00"
+date: "2020-10-08"
 draft: false
 menu:
   join:

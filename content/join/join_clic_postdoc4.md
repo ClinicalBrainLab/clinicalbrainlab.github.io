@@ -3,7 +3,7 @@ title: Research Fellow Position in Neuroimaging Study and Cognitive Intervention
 linktitle: Research Fellow in Neuroimaging Study and Cognitive Intervention
 toc: true
 type: docs
-date: "2020-10-08T00:00:00+01:00"
+date: "2020-10-08"
 draft: false
 menu:
   join:

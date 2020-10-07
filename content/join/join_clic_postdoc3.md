@@ -3,7 +3,7 @@ title: Research Fellow Position in Neuroimaging Data Analyses
 linktitle: Research Fellow in Neuroimaging Data Analyses
 toc: true
 type: docs
-date: "2020-10-08T00:00:00+01:00"
+date: "2020-10-08"
 draft: false
 menu:
   join:

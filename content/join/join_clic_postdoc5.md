@@ -3,7 +3,7 @@ title: Research Fellow or Research Engineer Position in Multimodal Neuroimaging
 linktitle: Research Fellow or Research Engineer in Multimodal Neuroimaging
 toc: true
 type: docs
-date: "2020-10-08T00:00:00+01:00"
+date: "2020-10-08"
 draft: false
 menu:
   join:
