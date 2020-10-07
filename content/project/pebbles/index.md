@@ -16,7 +16,7 @@ profile: true
 tags:
 - Learning
 title: Promoting Effective Biliteracy
-authors: ["ChiaoYi-Wu", "HsinYu-Lin", "Annabel-Chen"]
+authors: ["ChiaoYi-Wu", "Michelle-Yap", "HsinYu-Lin", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
@@ -30,4 +30,4 @@ The findings will have significant implications for early screening and effectiv
 
 Ongoing project:
 
-- Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development (funded by Singapore Millennium Foundation)
+- Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development - *funded by Singapore Millennium Foundation*

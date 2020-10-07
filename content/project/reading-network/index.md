@@ -29,5 +29,5 @@ Our projects will shed light on the impact of critical factors (e.g., orthograph
 
 Ongoing projects:
 
-1.	Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers (funded by NTU-JHU Collaborative Grant)
-2.	Reading Brains Project (funded by National Research Foundation)
+1.	Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers - *funded by NTU-JHU Collaborative Grant*
+2.	Cognitive Science of Multilingualism In Children (COSMIC) - *funded by National Research Foundation*
