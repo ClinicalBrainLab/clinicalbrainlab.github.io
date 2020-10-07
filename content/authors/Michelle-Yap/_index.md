@@ -14,7 +14,7 @@ education:
     year: 2017 - 2018
 
 email: "michelle.yaplm@ntu.edu.sg"
-# interests:
+interests:
 - Neuropsychology
 - Developmental psychology
 - Biliteracy and Bilingual Development
