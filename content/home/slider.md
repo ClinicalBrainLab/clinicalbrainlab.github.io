@@ -23,7 +23,8 @@ height = "400px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/lab-photo.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/brain_images.jpg"  # Image path relative to your `static/media/` folder.
+  # overlay_img = "headers/lab-photo.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -34,14 +35,14 @@ height = "400px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = ""
-  content = ""
-  align = ""
+#[[item]]
+  #title = ""
+  #content = ""
+  #align = ""
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/brain_images.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  #overlay_color = "#333"  # An HTML color value.
+  #overlay_img = "headers/brain_images.jpg"  # Image path relative to your `static/media/` folder.
+  #overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = ""

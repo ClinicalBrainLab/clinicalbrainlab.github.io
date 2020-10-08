@@ -11,7 +11,7 @@ menu:
     weight: 2
 ---
 
-<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+<span style="background-color: #FFFF00">**Now Open for Applications**</span>
 
 We are currently seeking highly motivated individuals who share our passion in deciphering the enigma of the brain to join us at the Clinical Brain Lab , Nanyang Technological University! We are seeking candidates interested in educational neuroscience.
 ## Job Scope
