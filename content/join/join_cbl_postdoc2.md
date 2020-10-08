@@ -1,13 +1,13 @@
 ---
 title: Research Fellow Position in Science of Learning
-linktitle: Research Fellow in Science of Learning
+linktitle: Science of Learning
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   join:
-    parent: Post-doctoral Positions
+    parent: Research Fellow Positions
     weight: 2
 ---
 

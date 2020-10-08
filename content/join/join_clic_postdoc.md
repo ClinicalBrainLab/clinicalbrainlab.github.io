@@ -1,9 +1,9 @@
 ---
 title: Opportunities at Centre for Lifelong Learning and Individualised Cognition (CLIC)
-linktitle: Opportunities at CLIC
+linktitle: Cognition & Neuroimaging
 toc: true
 type: docs
-date: "2020-10-08T00:00:00+01:00"
+date: "2020-10-07"
 draft: false
 menu:
   join:
