@@ -11,7 +11,7 @@ menu:
     weight: 2
 ---
 
-<span style="background-color: #FFFF00">**Still Open for Applications**</span>
+<span style="background-color: #FFFF00">**Now Open for Applications**</span>
 
 We are currently actively recruiting for PhD students interested in developing research in educational neuroscience, affective neuroscience and aging neuroscience (specifically in older neurological patients).
 ## Job Scope

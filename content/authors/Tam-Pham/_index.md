@@ -49,4 +49,4 @@ superuser: false
 
 ---
 
-Tam graduated from Nanyang Technological University with a BA (Hons) Highest Distinction in Psychology in 2018 and has since been doing research on neurophysiological basis of deception. She also has strong interests in signal processing, time-series analysis, and statistics. While working as a project officer, she is also a collaborator of an active open-source Python Toolbox (NeuroKit) for neurophysiological signal processing.
+Tam graduated from Nanyang Technological University with a BA (Hons) Highest Distinction in Psychology in 2018 and has since been doing research on neurophysiological basis of deception. She also has strong interests in signal processing, time-series analysis, and statistics. While working as a project officer, she is also a collaborator of an active open-source Python Toolbox [NeuroKit2](https://github.com/neuropsychology/NeuroKit) for neurophysiological signal processing.
