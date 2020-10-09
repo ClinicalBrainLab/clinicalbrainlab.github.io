@@ -6,15 +6,19 @@ bio:
 
 education:
   courses:
-  - course: TBC
-    institution: TBC
-    year: TBC
-  - course: TBC
-    year: TBC
+  - course: MSc Clinical Neuroscience
+    institution: University College London
+    year: 2018
+  - course: BSc Applied Psychology
+    institution: Durham University
+    year: 2017
 
 
 email: "m.siddharthan@ntu.edu.sg"
-#interests:
+interests: 
+- Lifelong learning
+- Cognition
+- Brain stimulation
 
 organizations:
 - name: Nanyang Technological University
@@ -34,3 +38,4 @@ user_groups:
 
 ---
 
+My principle interests are lifelong learning, brain stimulation and neuroimaging. Currently, I work on investigating the effects of neurostimulation on reading using functional near-infrared spectroscopy. I'm also working with transcranial magnetic stimulation and electroencephalogram in the near future to investigate effects of exercise on cognition.

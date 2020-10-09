@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Participate"
-subtitle = ""
+subtitle = "Recruiting Participants for Ongoing Studies"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

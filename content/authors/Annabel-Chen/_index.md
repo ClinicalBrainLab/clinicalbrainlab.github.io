@@ -47,11 +47,13 @@ user_groups:
 - Principal Investigator
 
 ---
+Prof S.H. Annabel Chen is Professor of Psychology at School of Social Sciences and has joint appointments at LKCMedicine and the National Institute of Education. 
+She is a clinical neuropsychologist (licensed in Clinical Psychology, USA; Singapore Registry of Psychologists) by training and has worked with both adult and child populations. 
+She received her Doctorate in Clinical Rehabilitation Psychology (Purdue University) and completed her clinical psychology internship in Behavioral Medicine and Psychiatry at West Virginia University School of Medicine. 
+She conducted her post-doctoral clinical residency in Clinical Neuropsychology at the department of Neurology, the Medical College of Wisconsin and worked as a post-doctoral research affiliate at the Lucas MRS/I Center, Department of Radiology at Stanford University School of Medicine. 
+She started her assistant professorship at the National Taiwan University in the Graduate Clinical Psychology programme before joining NTU as an associate professor. 
+Since then, she served as the Associate Chair for Research for the School of Humanities and Social Sciences from 2014-2015, and is the Deputy Chair (SBER) for the Institutional Review Board at NTU.
 
-Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences, with joint appointments in LKCMedicine and National Institute of Education (NIE), and the current Acting Director of the Centre for Research and Development in Learning (CRADLE), at the Nanyang Technological University.  
-
-After obtaining her PhD in Clinical Rehabilitation Psychology from Purdue University and completing a Clinical Psychology Internship at West Virginia University School of Medicine, she continued with a post-doctoral residency in Clinical Neuropsychology at the Department of Neurology, Medical College of Wisconsin. Her research interests in clinical applications of advanced neuroimaging led her to further pursue post-doctoral research at the Department of Radiology at Stanford University School of Medicine.  
-
-Back in Asia, she started the Clinical Brain Lab to apply neuropsychological principles to understand disturbance in brain and behavior using neuroimaging techniques, such as fMRI, diffusion MRI, Transcranial Magnetic Stimulation (TMS), and electroencephalography (EEG). Apart from focusing on cerebellar contribution in higher cognition and optimizing cognition in aging neuroscience, her most recent research development involves affective neuroscience in learning and translating neuroscience for education, as well as understand the neurobasis of deception.
+She is currently the Director of the Centre of Research and Development in Learning (CRADLE), a university level research centre at NTU.
 
 --- 

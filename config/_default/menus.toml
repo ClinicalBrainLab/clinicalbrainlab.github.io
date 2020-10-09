@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Join Us"
-  url = "join/"
-  weight = 50
+#[[main]]
+#  name = "Join Us"
+#  url = "join/"
+#  weight = 50
 
 [[main]]
   name = "Participate"
@@ -39,14 +39,15 @@
   weight = 70
 
 [[main]]
+  name = "Software"
+  url = "software/"
+  weight = 80
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
-  
-[[main]]
-  name = "Github"
-  url = "https://github.com/ClinicalBrainLab"
   weight = 90
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

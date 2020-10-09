@@ -26,7 +26,7 @@ superuser: false
 
 title: Elaine Teo
 user_groups:
-- Undergraduate Students
+- Interns
 
 ---
 
