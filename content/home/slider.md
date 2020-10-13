@@ -34,15 +34,6 @@ height = "390px"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
-
-#[[item]]
-  #title = ""
-  #content = ""
-  #align = ""
-
-  #overlay_color = "#333"  # An HTML color value.
-  #overlay_img = "headers/brain_images.jpg"  # Image path relative to your `static/media/` folder.
-  #overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = ""
@@ -51,5 +42,23 @@ height = "390px"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/brain_images2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/lab-photo-teams1.PNG"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "headers/lab-photo-teams2.PNG"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
