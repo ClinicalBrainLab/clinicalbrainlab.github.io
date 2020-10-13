@@ -16,7 +16,7 @@ profile: true
 tags:
 - Learning
 title: Bilingual Reading Networks
-authors: ["ChiaoYi-Wu", "Nestor-VinasGuasch", "HsinYu-Lin", "JiaLi-Teo","LiTong-Low", "Annabel-Chen"]
+authors: ["ChiaoYi-Wu","Rajan-Kashyap", "Nestor-VinasGuasch", "Sagarika-Bhattacharjee" "HsinYu-Lin", "JiaLi-Teo","LiTong-Low", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
@@ -30,4 +30,5 @@ Our projects will shed light on the impact of critical factors (e.g., orthograph
 Ongoing projects:
 
 1.	Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers - *funded by NTU-JHU Collaborative Grant*
-2.	Cognitive Science of Multilingualism In Children (COSMIC) - *funded by National Research Foundation*
+2.  Modulating Reading Networks -*funded by NTU-JHU Collaborative Grant*
+3.	Cognitive Science of Multilingualism In Children (COSMIC) - *funded by National Research Foundation*
