@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masato Kawabata | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/masato-kawabata/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/masato-kawabata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masato Kawabata</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Masato Kawabata</title>
+      <link>https://clinicalbrainlab.github.io/author/masato-kawabata/</link>
+    </image>
+    
+    <item>
+      <title>Active Aging Lifestyle</title>
+      <link>https://clinicalbrainlab.github.io/project/ageing/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/ageing/</guid>
+      <description>&lt;p&gt;Combining both cognitive and exercise training in an intervention program may be advantageous to enhance cognitive and physical functions.
+However, this approach has yet to be well researched and implemented. Given the hot and humid climate and community environments (e.g., sidewalks and street traffic) in Singapore, common aerobic exercises such as walking and jogging may not be the first choice for sedentary older adults in Singapore.
+Therefore, we proposed to develop an intervention program (&lt;strong&gt;ExCITE: Exercise-Cognition Integrated Training for Enhancement&lt;/strong&gt;) that incorporates both cognitive and physical exercise components that can be easily implemented and weaved into the lifestyles of our aging population.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
