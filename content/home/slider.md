@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 2 # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -22,8 +22,8 @@ height = "390px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/brain_images.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/brain_images.png"  # Image path relative to your `static/media/` folder.
   # overlay_img = "headers/lab-photo.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
@@ -40,8 +40,8 @@ height = "390px"
   content = ""
   align = ""
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/brain_images2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/brain_images2.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,7 +49,7 @@ height = "390px"
   content = ""
   align = ""
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/lab-photo-teams1.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
@@ -58,7 +58,8 @@ height = "390px"
   content = ""
   align = ""
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/lab-photo-teams2.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
+o

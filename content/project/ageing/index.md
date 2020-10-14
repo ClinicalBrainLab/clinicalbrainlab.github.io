@@ -16,7 +16,7 @@ profile: true
 tags:
 - Ageing
 title: Active Aging Lifestyle
-authors: ["Alicia-Goodwill", "Annabel-Chen"]
+authors: ["Alicia-Goodwill", "Masato-Kawabata", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
