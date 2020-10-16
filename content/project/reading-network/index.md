@@ -16,7 +16,7 @@ profile: true
 tags:
 - Learning
 title: Bilingual Reading Networks
-authors: ["ChiaoYi-Wu","Rajan-Kashyap", "Nestor-VinasGuasch", "Sagarika-Bhattacharjee" "HsinYu-Lin", "JiaLi-Teo","LiTong-Low", "Arum", "Annabel-Chen"]
+authors: ["ChiaoYi-Wu", "Rajan-Kashyap", "Nestor-VinasGuasch", "Sagarika-Bhattacharjee", "HsinYu-Lin", "JiaLi-Teo","LiTong-Low", "Arum", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
