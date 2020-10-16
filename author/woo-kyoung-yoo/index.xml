@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woo-Kyoung Yoo | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/woo-kyoung-yoo/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/woo-kyoung-yoo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Woo-Kyoung Yoo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Woo-Kyoung Yoo</title>
+      <link>https://clinicalbrainlab.github.io/author/woo-kyoung-yoo/</link>
+    </image>
+    
+    <item>
+      <title>The role of primary motor cortex: More than movement execution</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_m1-review/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_m1-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
