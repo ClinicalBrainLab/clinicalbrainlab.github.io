@@ -10,7 +10,7 @@ links:
   #name: Follow
   #url: ""
 
-summary: From neuroscience to the practice of learning: an in-depth investigation into cognitive flexibility
+summary: "From neuroscience to the practice of learning: an in-depth investigation into cognitive flexibility."
 profile: true
 
 tags:
