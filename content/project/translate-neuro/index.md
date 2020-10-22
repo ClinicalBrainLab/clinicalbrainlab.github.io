@@ -10,7 +10,7 @@ links:
   #name: Follow
   #url: ""
 
-summary: An attempt to increase accessibility of cognitive neuroscience findings.
+summary: "An attempt to increase accessibility of cognitive neuroscience findings."
 profile: true
 
 tags:

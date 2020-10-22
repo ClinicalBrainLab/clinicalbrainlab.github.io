@@ -10,7 +10,7 @@ links:
   #name: Follow
   #url: ""
 
-summary: A project that aims at promoting effective biliteracy in early childhood.
+summary: "A project that aims at promoting effective biliteracy in early childhood."
 profile: true
 
 tags:

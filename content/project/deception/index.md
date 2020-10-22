@@ -11,7 +11,7 @@ links:
   #url: ""
 #slides: example
 
-summary:  An investigation of deception and trust.
+summary: "An investigation of deception and trust."
 profile: true
 
 tags:

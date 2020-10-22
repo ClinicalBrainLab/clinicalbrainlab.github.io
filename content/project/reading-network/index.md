@@ -10,7 +10,7 @@ links:
   #name: Follow
   #url: ""
 
-summary: An investigation of the neural reading networks for bilingual readers.
+summary: "An investigation of the neural reading networks for bilingual readers."
 profile: true
 
 tags:

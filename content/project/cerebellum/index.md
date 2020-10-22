@@ -10,7 +10,7 @@ links:
   #name: Follow
   #url: ""
 #slides: example
-summary: We study cerebro-cerebellar pathways and their roles in higher cognition.
+summary: "We study cerebro-cerebellar pathways and their roles in higher cognition."
 
 tags:
 - Cerebellum
