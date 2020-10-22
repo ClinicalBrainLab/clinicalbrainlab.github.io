@@ -40,4 +40,4 @@ user_groups:
 
 ---
 
-Michelle is currently a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at the National Technological University. She aims to continue learning and applying neuropsychology and developmental psychology knowledge to research and practice.
+Michelle is currently a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). She aims to continue learning and applying neuropsychology and developmental psychology knowledge to research and practice.

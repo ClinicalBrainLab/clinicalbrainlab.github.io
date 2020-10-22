@@ -7,10 +7,10 @@ bio:
 education:
   courses:
   - course: M.D (Doctor of Medicine), Human Physiology
-    institution: Gauhati medical college, Assam, India
+    institution: Gauhati Medical College & Hospital, Assam, India
     year: 2011 - 2014
   - course: M.B.B.S (Bachelorette of Medicine and Bachelorette of Surgery) 
-    institution: Silchar Medical College, Assam, India
+    institution: Silchar Medical College & Hospital, Assam, India
     year: 2003 - 2008
 
 email: "SAGARIKA001@e.ntu.edu.sg"

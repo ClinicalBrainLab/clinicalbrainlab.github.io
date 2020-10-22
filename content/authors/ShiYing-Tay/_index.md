@@ -1,10 +1,12 @@
 ---
 title: Tay Shi Ying
+
 user_groups:
-- Undergraduate Student
+- Undergraduate Students
 
 authors:
 - Tay Shi Ying
+
 bio: Shi Ying is currently a Final Year Project Student at Clinical Brain Lab. 
 
 education:
@@ -21,7 +23,8 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Final Year Project Student
+role: Undergraduate Student
+
 social:
 - icon: envelope
   icon_pack: fas

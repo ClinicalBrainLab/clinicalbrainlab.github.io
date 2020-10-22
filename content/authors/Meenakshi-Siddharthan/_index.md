@@ -34,7 +34,7 @@ superuser: false
 
 title: Meenakshi Siddharthan
 user_groups:
-- Research Assistants
+- Research Associates
 
 ---
 
