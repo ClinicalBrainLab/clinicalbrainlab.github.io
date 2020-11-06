@@ -8,7 +8,7 @@ authors:
 date: "2019-10-15"
 doi: "10.1080/23735082.2019.1674910"
 featured: false
-projects: ["learning"]
+projects: ["translate-neuro"]
 publication: 'Walker, Z., Hale, J. B., Chen, S. H. A., & Poon, K. (2019). Brain literacy empowers educators to meet diverse learner needs. Learning: Research and Practice, 5(2), 174-188. doi:10.1080/23735082.2019.1674910'
 publication_short: ""
 publication_types:

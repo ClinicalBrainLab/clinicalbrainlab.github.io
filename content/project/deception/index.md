@@ -11,7 +11,7 @@ links:
   #url: ""
 #slides: example
 
-summary:  An investigation of deception and trust.
+summary: "An investigation of deception and trust."
 profile: true
 
 tags:
@@ -23,7 +23,7 @@ url_pdf: "https://psyarxiv.com/t7s32/"
 url_slides: ""
 url_video: ""
 
-authors: ["Dominique-Makowski", "Tam-Pham", "ZenJuen-Lau", "Dayton-Leow", "Annabel-Chen"]
+authors: ["Dominique-Makowski", "Tam-Pham", "ZenJuen-Lau", "Annabel-Chen"]
 ---
 
 Traditional lie detection as used in polygraph test is based on examining one's physiological arousal (measuring skin conductance,

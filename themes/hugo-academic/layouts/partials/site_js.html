@@ -42,13 +42,6 @@
     <script>const code_highlighting = false;</script>
     {{ end }}
 
-    {{/* Initialise default theme. */}}
-    {{ if eq ($scr.Get "light") true }}
-    <script>const isSiteThemeDark = false;</script>
-    {{ else }}
-    <script>const isSiteThemeDark = true;</script>
-    {{ end }}
-
     {{ if ne site.Params.search.engine 0 }}
     {{/* Configure search engine. */}}
     {{ $min_length := site.Params.search.academic.min_length | default 1 }}
@@ -140,18 +133,26 @@
     </script>
     {{ end }}
 
+    {{/* Charts */}}
+    {{ if .HasShortcode "chart" }}
+    <script>
+      window.PlotlyConfig = {MathJaxConfig: 'local'};
+    </script>
+    {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.plotly.url $js.plotly.version) $js.plotly.sri | safeHTML }}
+    {{ end }}
+
     {{/* Disqus Comment Count JS. */}}
     {{ if and (eq site.Params.comments.engine 1) (site.Params.comments.disqus.show_count | default true) }}
     <script id="dsq-count-scr" src="https://{{site.Params.comments.disqus.shortname}}.disqus.com/count.js" async></script>
     {{ end }}
 
-    {{ $js_comment := printf "/* Source Themes Academic v%s | https://sourcethemes.com/academic/ */\n" site.Data.academic.version }}
+    {{ $js_comment := printf "/* Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
     {{ $js_bundle_head := $js_comment | resources.FromString "js/bundle-head.js" }}
     {{ $js_linebreak := "\n" | resources.FromString "js/linebreak.js" }}{{/* Fix no line break after Bootstrap JS causing error. */}}
-    {{ $js_academic := resources.Get "js/academic.js" }}
-    {{ $js_academic_search := resources.Get "js/academic-search.js" }}
+    {{ $js_academic := resources.Get "js/wowchemy.js" }}
+    {{ $js_academic_search := resources.Get "js/wowchemy-search.js" }}
     {{ $js_algolia_search := resources.Get "js/algolia-search.js" }}
-    {{ $js_bootstrap := resources.Get "js/vendor/bootstrap.min.js" }}
+    {{ $js_bootstrap := resources.Get "js/_vendor/bootstrap.min.js" }}
     {{ $js_bundle := slice $js_bootstrap $js_linebreak $js_academic }}
     {{ if eq site.Params.search.engine 1 }}
       {{ $js_bundle = $js_bundle | append $js_academic_search }}
@@ -161,8 +162,8 @@
     {{ range site.Params.plugins_js }}
       {{ $js_bundle = $js_bundle | append (resources.Get (printf "js/%s.js" .)) }}
     {{ end }}
-    {{ $js_bundle := $js_bundle | resources.Concat "js/academic-bundle-pre.js" | minify }}
-    {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/academic.min.js" | fingerprint "md5" }}
+    {{ $js_bundle := $js_bundle | resources.Concat "js/wowchemy-bundle-pre.js" | minify }}
+    {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/wowchemy.min.js" | fingerprint "md5" }}
     <script src="{{ $js_bundle.RelPermalink }}"></script>
 
     {{ partial "custom_js" . }}

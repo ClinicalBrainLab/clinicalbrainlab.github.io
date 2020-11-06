@@ -19,12 +19,12 @@ TMS can be administered in bursts at a rhythmic frequency (repetitive TMS) or as
 ## How is TMS Done?
 An electromyography (EMG) module is first attached via a wristband and by pasting electrodes onto the participant.
 
-![jpg](./TMS1.jpg)
+![jpg](/resources/techniques/TMS1.jpg)
 
 After setting up the parameters, an experimenter positions the magnetic coil above the participant’s scalp, over the region of interest. When activated, a high-current pulse is produced in the TMS coil, inducing a perpendicular magnetic field. 
 As high-current pulses are sent through the coil, the participant may hear clicks.
 
-![jpg](./TMS2.jpg)
+![jpg](/resources/techniques/TMS2.jpg)
 
 ## What is TMS used for?
 TMS can be used to treat clinical conditions (such as drug-resistant depression) or be used as an experimental technique to understand brain functions. In our lab, we are applying fMRI-guided TMS to target regions of the brain to determine its involvement in various cognitive networks. 

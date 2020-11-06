@@ -10,7 +10,7 @@ authors:
 date: "2016-06-01"
 doi: "10.1016/j.tine.2016.04.001"
 featured: false
-projects: ["learning"]
+projects: ["translate-neuro"]
 publication: 'Hale, J. B., Chen, S. H. A., Tan, S. C., Poon, K., Fitzer, K. R., & Boyd, L. A. (2016). Reconciling individual differences with collective needs: The juxtaposition of sociopolitical and neuroscience perspectives on remediation and compensation of student skill deficits. Trends in Neuroscience and Education, 5(2), 41-51. doi:10.1016/j.tine.2016.04.001'
 publication_short: ""
 publication_types:

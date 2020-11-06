@@ -37,7 +37,7 @@ superuser: false
 
 title: Lin Hsin-Yu
 user_groups:
-- Research Assistants
+- Research Associates
 
 ---
 

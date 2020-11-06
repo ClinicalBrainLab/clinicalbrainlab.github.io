@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Tools and Software
-summary:
+linktitle: Research Tools
+summary: At Clinical Brain Lab, we use a variety of different research tools and softwares to conduct behavioural experiments, as well as to preprocess and analyze data.
 weight: 1
 
 # Page metadata.
-title: Tools and Software
+title: Research Techniques
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,5 +17,4 @@ type: docs  # Do not modify.
 # - weight: 1
 
 ---
-
-At Clinical Brain Lab, our researchers actively develop new tools and software to support and ensure rigor in our data collection and analyses.  
+At Clinical Brain Lab, we use a variety of different research tools and softwares to conduct behavioural experiments, as well as to preprocess and analyze brain imaging data, behavioural data, and physiological data.

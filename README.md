@@ -1,6 +1,6 @@
 # Clinical Brain Lab Website
 
-This repository contains the code to host the Clinical Brain Lab website: https://clinicalbrainlab.github.io ✨
+This repository contains the code to host the Clinical Brain Lab website: http://www.clinicalbrain.org ✨
 
 ## Getting Started with GitHub :memo:
 - Create an account for yourself (*use a simple login like FirstnameSurname*)
@@ -67,10 +67,13 @@ Congratulations! You have successfully updated your profile on our website!
 
 - [x] Backbone of the website
 - [x] Finalize lab members' profiles
-- [ ] Add alumni list (for a new page, not to be shown on home)
-- [ ] Finalize full list of publications
-- [ ] Projects, research themes and participants recruitment to be together
+- [x] Add alumni list (for a new page, not to be shown on home)
+- [x] Finalize full list of publications
+- [x] Projects organized
+- [ ] Projects elaborated
 - [x] Finalize `Contact` section
 - [x] Update `Join` section
-- [ ] Add a gallery
+- [x] Tab for `Software Development` (Add details as we go on)
+- [ ] Finalize Resources for Parents/kids
+- [ ] Finalize gallery
 

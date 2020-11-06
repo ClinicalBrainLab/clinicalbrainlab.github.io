@@ -12,10 +12,10 @@ authors:
 - John E. Desmond
 - Brenda Rapp
 - Annabel-Chen
-date: "2020-11-01"
+date: "2020-10-01"
 doi: "10.1016/j.bandl.2020.104850"
 featured: false
-projects: []
+projects: ["biliteracy"]
 publication: 'Bhattacharjee, S., Kashyap, R., O’Brien, B. A., McCloskey, M., Oishi, K., Desmond, J. E., ... & Chen, S. H. A. (2020). Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals. Brain and Language, 210, 104850. doi:10.1016/j.bandl.2020.104850'
 publication_short: ""
 publication_types:
