@@ -15,7 +15,7 @@ interests:
 Application of Biomedical and Neuroimaging modalities to understand 
  - Brain Stimulation 
  - Cognition 
- - Neurodegenerative Disease 
+ - Neurodegenerative Diseases 
 
 
 organizations:
