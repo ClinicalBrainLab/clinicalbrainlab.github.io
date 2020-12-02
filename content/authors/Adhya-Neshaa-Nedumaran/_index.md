@@ -12,11 +12,10 @@ education:
 
 email: "adhya.nn@ntu.edu.sg"
 interests:
-Application of Biomedical and Neuroimaging modalities to understand 
- - Brain Stimulation 
- - Cognition 
- - Neurodegenerative Diseases 
-
+ - Application of Biomedical and Neuroimaging modalities
+ - Brain Stimulation
+ - Cognition
+ - Neurodegenerative diseases
 
 organizations:
 - name: Nanyang Technological University
