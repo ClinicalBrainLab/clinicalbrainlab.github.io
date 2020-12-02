@@ -13,7 +13,7 @@ education:
 email: "adhya.nn@ntu.edu.sg"
 interests:
  - Application of Biomedical and Neuroimaging modalities
- - Brain Stimulation
+ - Non-invasive Brain Stimulation
  - Cognition
  - Neurodegenerative diseases
 
