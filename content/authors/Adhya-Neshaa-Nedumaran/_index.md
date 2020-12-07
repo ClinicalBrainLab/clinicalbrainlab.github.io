@@ -3,6 +3,8 @@ authors:
 - Adhya Neshaa Nedumaran
 
 bio: 
+Adhya Neshaa graduated from SRM Institute of Science and Technology with a Bachelors of Technology in Biomedical Engineering in 2019. Her research interest lies in the application of biomedical modalities to understand neurodegenerative diseases, cognitive function and balance in middle-aged and older adults. At Clinical Brain Lab, she is currently working on a project investigating neuroplasticity with concurrent Transcranial Magnetic Stimulation (TMS) and Electroencephalography (EEG). 
+
 
 education:
   courses:
