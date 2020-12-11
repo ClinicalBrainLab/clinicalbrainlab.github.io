@@ -2,8 +2,7 @@
 authors:
 - Chiao-Yi Wu
 
-bio: 
-- Chiao-Yi is a cognitive neuroscientist and currently an academic faculty at the National Institute of Education. She loves learning languages and is enthusiastic about how human brains learn language and reading.
+bio: Chiao-Yi is a cognitive neuroscientist and currently an academic faculty at the National Institute of Education. She loves learning languages and is enthusiastic about how human brains learn language and reading.
 
 education:
   courses:
