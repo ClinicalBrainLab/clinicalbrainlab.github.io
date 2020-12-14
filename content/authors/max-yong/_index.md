@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Intern
+role: Trainee Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
