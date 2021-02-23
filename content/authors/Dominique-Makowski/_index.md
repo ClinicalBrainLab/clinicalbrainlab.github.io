@@ -29,7 +29,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Fellow
+role: Presidential Post-doctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas

@@ -19,7 +19,8 @@ email: "annabelchen@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Professor of Psychology
+role: Professor of Psychology <br /> Lab Director
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,7 +45,7 @@ superuser: false
 
 title: Annabel Chen
 user_groups:
-- Principal Investigator
+- Principal Investigators
 
 ---
 Prof S.H. Annabel Chen is Professor of Psychology at School of Social Sciences and has joint appointments at LKCMedicine and the National Institute of Education. 
