@@ -25,4 +25,4 @@ jobs:
         run: Rscript -e 'blogdown::install_hugo()'
  
       - name: Build site with blogdown
-        run: Rscript -e "blogdown::build_site()" && hugo # to return hugo exit code
+        run: Rscript -e "blogdown::build_site()"
