@@ -5,12 +5,28 @@
     <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/tam-pham/index.xml" rel="self" type="application/rss+xml" />
     <description>Tam Pham</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
       <title>Tam Pham</title>
       <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
     </image>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic</title>
@@ -61,14 +77,6 @@ stimuli or memorized materials. More importantly, unlike lying in the real world
 &lt;p&gt;To increase the translational value of the research in deception and lie detection, we aim to investigate the neural correlates of lying using paradigms that can elicit lying similar to those in the real world.
 In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&#39; lying patterns.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
-      <description></description>
     </item>
     
   </channel>

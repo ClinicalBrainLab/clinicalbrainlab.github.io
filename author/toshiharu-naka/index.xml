@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toshiharu Naka | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/toshiharu-naka/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/toshiharu-naka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toshiharu Naka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>Toshiharu Naka</title>
+      <link>https://clinicalbrainlab.github.io/author/toshiharu-naka/</link>
+    </image>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

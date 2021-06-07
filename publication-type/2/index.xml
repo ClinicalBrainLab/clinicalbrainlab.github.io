@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/publication-type/2/</link>
       <atom:link href="https://clinicalbrainlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-fMRI-approaches reveal cerebellum and visual communities to be functionally connected in obsessive compulsive disorder</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
       <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>François Lespinasse | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/francois-lespinasse/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/francois-lespinasse/index.xml" rel="self" type="application/rss+xml" />
+    <description>François Lespinasse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <title>François Lespinasse</title>
+      <link>https://clinicalbrainlab.github.io/author/francois-lespinasse/</link>
+    </image>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
