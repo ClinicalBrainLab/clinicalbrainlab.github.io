@@ -10,7 +10,7 @@ authors:
 date: "2019-08-21"
 doi: "10.1038/s41598-019-47654-y"
 featured: false
-projects: []
+projects: ["reading-network"]
 publication: 'Bhattacharjee, S., Kashyap, R., Rapp, B., Oishi, K., Desmond, J. E., & Chen, S. H. A. (2019). Simulation analyses of tDcS montages for the investigation of dorsal and ventral pathways. Scientific Reports, 9(1), 1-17. doi:10.1038/s41598-019-47654-y'
 publication_short: ""
 publication_types:

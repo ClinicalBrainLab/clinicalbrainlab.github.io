@@ -6,25 +6,25 @@ authors:
 - ZenJuen-Lau
 - Adrian Raine
 - Annabel-Chen
-date: "2020-08-04"
-doi: ""
+date: "2021-04-22"
+doi: "https://doi.org/10.1007/s12144-021-01760-1"
 featured: false
 projects: ["deception"]
-publication: 'Makowski, D., Pham, T., Lau, Z. J., Raine, A., & Chen, S. H. A. *(under review)*. The Structure of Deception: Validation of the Lying Profile Questionnaire.'
+publication: 'Makowski, D., Pham, T., Lau, Z. J., Raine, A., & Chen, S. A. (2021). The structure of deception: Validation of the lying profile questionnaire. Current Psychology, 1-16.'
 publication_short: ""
 publication_types:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-- "3"
-publishDate: ""
+- "2"
+publishDate: "2021-04-22"
 # summary: While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking.
 tags:
 - Deception
 title: 'The Structure of Deception: Validation of the Lying Profile Questionnaire'
 url_code: ""
 url_dataset: ""
-url_pdf: https://psyarxiv.com/t7s32/
+url_pdf: "https://www.researchgate.net/publication/351064094_The_structure_of_deception_Validation_of_the_lying_profile_questionnaire"
 url_poster: ""
 url_project: ""
 url_slides: ""
