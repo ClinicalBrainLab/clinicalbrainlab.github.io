@@ -18,6 +18,28 @@ title: Alumni of Clinical Brain Lab
 Nanyang Technological University
 (Singapore)
 
+- Cheng Wenxuan, B.A
+
+- Chui Yingqi, B.A
+
+- Lin Xiaowen, B.A
+
+- Low Jia Rong, B.A
+
+- Neo Yi Fang, B.A
+
+- Randal Lee Zhisheng, B.A
+
+- Tay Shi Ying, B.A
+
+- Elaine Teo, Intern
+
+- Max Yong, Trainee RA
+
+- Pavitraa Sundram, Trainee RA
+
+- Arumugam Ramaswamy, B.A
+
 - Ilang Kumaran Yuvadarshini , Research Associate
 
 - Marilyn Yeo , Project Officer
