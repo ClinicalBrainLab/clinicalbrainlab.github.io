@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Trainee Research Assistant
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,6 +33,6 @@ superuser: false
 
 title: Phoebe Chia
 user_groups:
-- Interns
+- Research Assistants
 
 ---
