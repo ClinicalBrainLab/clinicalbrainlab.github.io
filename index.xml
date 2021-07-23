@@ -7,7 +7,7 @@
     <description>The Clinical Brain Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
@@ -32,6 +32,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_hrv/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -116,7 +124,8 @@
       <guid>https://clinicalbrainlab.github.io/publication/2020_deception-covid-fakenews/</guid>
       <description>&lt;p&gt;As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable.
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers
-and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: &lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
+and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: 
+&lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
 &lt;h2 id=&#34;the-role-of-conspiracy-theories&#34;&gt;The Role of Conspiracy Theories&lt;/h2&gt;
 &lt;p&gt;While the authorities are struggling to provide concrete explanations about the coronavirus, conspiracy theorists are quick to provide competing ones with confidence.
 This has exaggerated the spread of fake news and conspiracy theories - beliefs that seek to explain the cause of an event by a hidden, wicked and unlawful scheme, without scientific support.
@@ -627,7 +636,8 @@ The complex span portion interleaves processing and recall tasks, where open-end
 &lt;p&gt;Complex Span is currently used in our lab to supplement the analysis of behavioural and neurocognitive correlates in the 
 &lt;a href=&#34;https://clinicalbrainlab.github.io/project/deception/&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Lau, Z. J., Pham, T. T., Makowski, D., &amp;amp; S H Chen, A. (2019). A Psychopy Implementation of the Complex Span for Working Memory Assessment. Retrieved from &lt;a href=&#34;http://doi.org/10.5281/zenodo.3529329&#34;&gt;http://doi.org/10.5281/zenodo.3529329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lau, Z. J., Pham, T. T., Makowski, D., &amp;amp; S H Chen, A. (2019). A Psychopy Implementation of the Complex Span for Working Memory Assessment. Retrieved from 
+&lt;a href=&#34;http://doi.org/10.5281/zenodo.3529329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.5281/zenodo.3529329&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -720,7 +730,8 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;p&gt;NeuroKit2 is currently used in our lab to analyze neurophysiological correlates of deception in the 
 &lt;a href=&#34;https://clinicalbrainlab.github.io/project/deception/&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lesspinasse, F., Pham, H., Schölzel, C., &amp;amp; S H Chen, A. (2020). NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing. Retrieved March 28, 2020, from &lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34;&gt;https://github.com/neuropsychology/NeuroKit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lesspinasse, F., Pham, H., Schölzel, C., &amp;amp; S H Chen, A. (2020). NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing. Retrieved March 28, 2020, from 
+&lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/neuropsychology/NeuroKit&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -749,7 +760,8 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;a href=&#34;http://psychology.hss.ntu.edu.sg/Programmes/Graduate/Pages/DoctorofPhilosophy.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Program&lt;/a&gt; and its 
 &lt;a href=&#34;http://admissions.ntu.edu.sg/graduate/R-Programs/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Application&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;Please address questions or send Curriculum Vita to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please address questions or send Curriculum Vita to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -804,7 +816,8 @@ and cleaning), statistical analyses and modelling, and graphical visualization.&
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SATA&lt;/a&gt; is a Matlab Based toolbox that works well with Matlab version 2017 and above.
-However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. To download the Graphical user interface (GUI) version of SATA, please visit &lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34;&gt;https://doi.org/10.21979/N9/DMWPZK&lt;/a&gt;. The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI.
+However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. To download the Graphical user interface (GUI) version of SATA, please visit 
+&lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.21979/N9/DMWPZK&lt;/a&gt;. The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI.
 In this case, you can download the codes from the 
 &lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.
 However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals. For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).&lt;/p&gt;
@@ -837,7 +850,8 @@ psychiatry, cognitive neuroscience, electrical engineering, medical engineering,
 &lt;li&gt;Familiarity with image data analysis tools such as SPM, FSL, AFNI, DSIStudio, Matlab, Python etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Psychology, School of Social Sciences, Nanyang Technological University, 14 Nanyang Drive, HSS‐04‐19, Singapore 637332, phone +65‐6316‐8836.&lt;/li&gt;
 &lt;/ul&gt;
