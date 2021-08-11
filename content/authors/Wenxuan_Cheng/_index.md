@@ -5,20 +5,21 @@ user_groups:
 
 authors:
 - Cheng Wenxuan
-bio: Wenxuan is currently a Research Assistant at Clinical Brain Lab. She is working on the .
+bio: Wenxuan is currently a Research Assistant at Clinical Brain Lab. She is working on neuroplasticity using neurophysiological techniques.
 
 education:
   courses:
-  - course: Bachelor of Social Sciences (Hons), Psychology
+  - course: Bachelor of Social Sciences (Hons) in Psychology
     institution: Nanyang Technological University, Singapore
     year: 2017 - 2021
 
 email: "wenxuan.cheng@ntu.edu.sg"
 interests:
-- Transdiagnositc neurophysiological risk and protective factors
-- Affective Disorders
-- Brief Intervention
-- Suicide, SIB
+- Application of Non-invasive Brain Stimulation and Neuroimaging
+- Neurodegenerative and neurodevelopmental diseases
+- Face perception
+- Lateralization
+
 
 organizations:
 - name: Nanyang Technological University
@@ -40,4 +41,5 @@ superuser: false
 
 ---
 
-Tam graduated from Nanyang Technological University with a BA (Hons) Highest Distinction in Psychology in 2018 and has since been doing research on neurophysiological basis of deception. She also has strong interests in signal processing, time-series analysis, and statistics. While working as a project officer, she is also a collaborator of an active open-source Python Toolbox [NeuroKit2](https://github.com/neuropsychology/NeuroKit) for neurophysiological signal processing.
+Wenxuan graduated from Nanyang Technological University with a Bachelor of Social Sciences (Hons) in Psychology with Highest Distinction in 2021. Her research interest lies in the application of neurophysiological techniques to understand various cognitive functions and neurodegenerative/neurodevelopmental diseases. At Clinical Brain Lab, she is currently working on a project investigating the effects of excercise on neuroplasticity and cognitive enhancement using concurrent Transcranial Magnetic Stimulation (TMS) and Electroencephalography (EEG).   
+
