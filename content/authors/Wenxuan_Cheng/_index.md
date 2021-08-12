@@ -29,6 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:wenxuan.cheng@ntu.edu.sg
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1734-5139
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wenxuan_Cheng3
