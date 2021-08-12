@@ -17,7 +17,7 @@ email: "wenxuan.cheng@ntu.edu.sg"
 interests:
 - Application of Non-invasive Brain Stimulation and Neuroimaging
 - Neurodegenerative Diseases and Neurodevelopmental Disorders
-- Vision and Face perception
+- Vision and Face Perception
 - Lateralization
 
 
