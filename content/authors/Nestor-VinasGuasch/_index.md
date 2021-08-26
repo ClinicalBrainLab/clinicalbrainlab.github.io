@@ -9,7 +9,7 @@ education:
   - course: Ph.D., Binlingualism and Neuroscience
     institution: Bangor University, UK
     year: 2008 - 2013
-  - course: M.Sc., Psycholinguistics
+  - course: M.Sc., Psycholinguistics.
     institution: Bangor University, UK
     year: 2007 - 2008
   - course: B.Sc., Clinical Psychology and B.Sc., Behavioral Science
