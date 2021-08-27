@@ -35,6 +35,14 @@
     </item>
     
     <item>
+      <title>A Parametric Framework to Generate Visual Illusions using Python</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
       <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
@@ -779,10 +787,7 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;a href=&#34;https://realitybending.github.io/Pyllusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; regarding the functionalities of &lt;em&gt;Pyllusion&lt;/em&gt; and code examples of how illusions can be generated in the form of images and psychopy stimuli.&lt;/p&gt;
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
 &lt;p&gt;Pyllusion was presented at the &lt;strong&gt;43rd European Conference on Visual Perception (ECVP)&lt;/strong&gt;, held from 22 to 27 August 2021. A video walkthrough of the poster is available via this 
-&lt;a href=&#34;https://www.youtube.com/watch?v=uptP_NxEHaM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube link&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;Visual illusions have had considerable importance in the history of psychological science, leading to important scientific breakthroughs in our understanding of perception, consciousness, and the underlying mechanisms of neuropsychiatric disorders such as schizophrenia or autism. However, despite their historical and theoretical importance as psychological stimuli, there is no dedicated software, nor consistent approach, to generate and report illusions in a systemic fashion. Illusory stimuli are often manually crafted or obtained via pre-made images, making it increasingly difficult for researchers to reproduce visual illusion paradigms and to properly measure the invoked sensitivity. In order to address replicability and reproducibility issues in illusion-based research, we present the Pyllusion package, a Python-based open-source software (freely available at 
-&lt;a href=&#34;https://github.com/RealityBending/Pyllusion%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/RealityBending/Pyllusion),&lt;/a&gt; that implements a parametric framework to manipulate, generate, and report illusions in a systematic way. It is a flexible programming-based tool, as it can be easily incorporated with experimental software (such as PsychoPy) or pre-generated as image files (with the option of different output formats i.e., .png, .jpg, .tiff, etc.). Currently, our parametric approach accommodates several different illusions, especially classical ones such as the Ebbinghaus, Delboeuf, Ponzo, and Müller-Lyer illusions, and the addition of new illusions will be continually integrated as community needs evolve. With Pyllusion, we hope to facilitate a better understanding of critical processes underlying conscious perception and the associated underpinnings of psychopathology.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=uptP_NxEHaM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube link&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python.&lt;/p&gt;
 </description>

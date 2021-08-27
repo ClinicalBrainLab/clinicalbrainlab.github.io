@@ -5,12 +5,20 @@
     <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/tam-pham/index.xml" rel="self" type="application/rss+xml" />
     <description>Tam Pham</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Tam Pham</title>
       <link>https://clinicalbrainlab.github.io/author/tam-pham/</link>
     </image>
+    
+    <item>
+      <title>A Parametric Framework to Generate Visual Illusions using Python</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
