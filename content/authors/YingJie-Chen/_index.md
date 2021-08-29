@@ -1,4 +1,8 @@
 ---
+title: Chen Ying Jie
+user_groups:
+- Undergraduate Students
+
 authors:
 - Chen Ying Jie
 
@@ -32,9 +36,6 @@ social:
   
 superuser: false
 
-title: Chen Ying Jie
-user_groups:
-- Undergraduate Students
 
 ---
 
