@@ -36,7 +36,7 @@ social:
 
 superuser: false
 
-title: Nestor Vinas-Guasch
+title: Nestor Vinas-Gausch
 user_groups:
 - Research Scientists and Research Fellows
 
