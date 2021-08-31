@@ -1,14 +1,13 @@
 ---
-authors:
-- 
+ 
 categories: []
 date: "2020-08-04"
 draft: false
 featured: false
 lastMod: "2020-08-04"
 projects: []
-subtitle: 
-summary: 
+subtitle:  
+summary:  
 tags: []
 title: Alumni of Clinical Brain Lab
 ---
@@ -17,6 +16,8 @@ title: Alumni of Clinical Brain Lab
 
 Nanyang Technological University
 (Singapore)
+
+Undergraduate Students
 
 - Cheng Wenxuan, B.A
 
@@ -32,21 +33,7 @@ Nanyang Technological University
 
 - Tay Shi Ying, B.A
 
-- Elaine Teo, Intern
-
-- Max Yong, Trainee RA
-
-- Pavitraa Sundram, Trainee RA
-
 - Arumugam Ramaswamy, B.A
-
-- Ilang Kumaran Yuvadarshini , Research Associate
-
-- Marilyn Yeo , Project Officer
-
-- Eng Goi Khia , Ph.D
-
-- Gan Su Ren , Project Officer
 
 - Ebenezer Chan, B.A.
 
@@ -59,16 +46,6 @@ Nanyang Technological University
 - Jarrad Oh, B.A.
 
 - Shee Mei Ling, B.A.
-
-- Alison Chew , Project Officer
-
-- Hoki Fung , Research Associate
-
-- Chan Yee Pei , Ph.D
-
-- Liu Heng Shuang , Research Fellow
-
-- Adrian Galang, Affiliated Research Fellow
 
 - Jermaine Chu, B.A.
 
@@ -85,28 +62,6 @@ Nanyang Technological University
 - Rachel Tham, B.A.
 
 - Yeo Siok Peng, B.A.
-
-- Kwok Fu Yu , Ph.D
-
-- Tan Jiat Chow, Ph.D
-
-- Belle Yick, Ph.D
-
-- Jo Archer, Ph.D
-
-- Lee Shu Hui, Ph.D
-
-- Lua Rui Ping, Ph.D
-
-- Monika Sobczak-Edmans, Ph.D
-
-- Tommy Ng, Ph.D
-
-- Alvin Lim, M.A.
-
-- Cathy Kao, M.S.
-
-- Tony Lim, M.A.
 
 - Amos Law, B.A.
 
@@ -156,9 +111,65 @@ Nanyang Technological University
 
 - Yeo Jia Ying, B.A.
 
+Graduate Students
+
+- Eng Goi Khia , Ph.D
+
+- Kwok Fu Yu, Ph.D
+
+- Tan Jiat Chow, Ph.D
+
+- Belle Yick, Ph.D
+
+- Jo Archer, Ph.D
+
+- Lee Shu Hui, Ph.D
+
+- Lua Rui Ping, Ph.D
+
+- Monika Sobczak-Edmans, Ph.D
+
+- Tommy Ng, Ph.D
+
+- Chan Yee Pei, Ph.D
+
+- Alvin Lim, M.A.
+
+- Cathy Kao, M.S.
+
+- Tony Lim, M.A.
+
+Research Fellows/Associates
+
+- Liu Heng Shuang, Research Fellow
+
+- Adrian Galang, Affiliated Research Fellow
+
+- Hoki Fung, Research Associate
+
+- Ilang Kumaran Yuvadarshini, Research Associate
+
+Project Officers
+
+- Alison Chew, Project Officer
+
+- Marilyn Yeo, Project Officer
+
+- Gan Su Ren, Project Officer
+
+- Elaine Teo, Intern
+
+- Max Yong, Trainee RA
+
+- Pavitraa Sundram, Trainee RA
+
+
+
+
 National Taiwan University
 (Taiwan)
-Kayako Matsuo, Ph.D.
+
+- Kayako Matsuo, Ph.D.
 
 - Andy Chen, M.S.
 

@@ -44,7 +44,7 @@ superuser: false
 
 title: Rajan Kashyap
 user_groups:
-- Research Scientists and Research Fellows
+- Collaborators
 
 ---
 

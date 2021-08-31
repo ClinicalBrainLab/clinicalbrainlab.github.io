@@ -37,7 +37,7 @@ superuser: false
 
 title: Alicia Goodwill
 user_groups:
-- Research Scientists and Research Fellows
+- Collaborators
 
 ---
 
