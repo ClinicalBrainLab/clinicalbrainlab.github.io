@@ -149,6 +149,8 @@ Research Fellows/Associates
 
 - Ilang Kumaran Yuvadarshini, Research Associate
 
+- Meenakshi Siddharthan, Research Associate
+
 Project Officers
 
 - Alison Chew, Project Officer
@@ -156,6 +158,11 @@ Project Officers
 - Marilyn Yeo, Project Officer
 
 - Gan Su Ren, Project Officer
+
+- Adhya Neshaa Nedumaran, Project Officer
+
+
+Interns
 
 - Elaine Teo, Intern
 

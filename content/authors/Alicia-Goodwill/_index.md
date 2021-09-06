@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Scientist
+role: Assistant Professor <br /> Lead for SoL in Active Lifestyle
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,7 @@ superuser: false
 
 title: Alicia Goodwill
 user_groups:
-- Collaborators
+- Principal Investigators
 
 ---
 
