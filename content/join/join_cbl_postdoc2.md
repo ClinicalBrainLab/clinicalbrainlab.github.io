@@ -38,5 +38,6 @@ Candidates are expected to have good interpersonal skills and to have demonstrat
 
 To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to annabelchen@ntu.edu.sg
 
-* **Contact information**: Professor S.H. Annabel Chen, PhD, Associate Professor, Division of Psychology, School of Social Sciences, Nanyang Technological University, 14 Nanyang Drive, HSS‐04‐19, Singapore 637332, phone +65‐6316‐8836
+* **Contact information**: Professor S.H. Annabel Chen, PhD, Professor, of Psychology, School of Social Sciences, Nanyang Technological University, 48 Nanyang Drive, SHHK-04-19, Singapore 639818, phone +65-6316-8836
+
 
