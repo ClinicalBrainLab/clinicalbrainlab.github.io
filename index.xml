@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
@@ -13,35 +13,17 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://clinicalbrainlab.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/talk/example/</guid>
+      <title>BrainConnects 2021</title>
+      <link>https://clinicalbrainlab.github.io/talk/2021_brainconnects/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2021_brainconnects/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+    Click on the &lt;strong&gt;Register&lt;/strong&gt; button above to view the registration form.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BrainConnects 2021</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2021/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2021/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2021.jpg&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
-&lt;a href=&#34;http://thebrainx.com/brainconnects2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2021&lt;/p&gt;
+&lt;a href=&#34;http://thebrainx.com/brainconnects2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2021.&lt;/p&gt;
 </description>
     </item>
     
@@ -724,9 +706,9 @@ This work has important implications in developing educator’s brain literacy a
     
     <item>
       <title>BrainConnects 2019</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2019/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2019_brainconnects/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2019/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2019_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2019.jpg&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/site/brainconnects2019/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2019&lt;/p&gt;
@@ -1213,9 +1195,9 @@ Three
     
     <item>
       <title>BrainConnects 2018</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2018/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2018_brainconnects/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2018/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2018_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2018.png&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/site/brainconnects2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2018&lt;/p&gt;
@@ -1248,9 +1230,9 @@ Three
     
     <item>
       <title>BrainConnects 2017</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2017/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2017_brainconnects/</link>
       <pubDate>Fri, 23 Jun 2017 15:22:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2017/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2017_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2017.jpg&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/site/brainconnects2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2017&lt;/p&gt;
@@ -1267,9 +1249,9 @@ Three
     
     <item>
       <title>BrainConnects 2016</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2016/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2016_brainconnects/</link>
       <pubDate>Mon, 03 Oct 2016 13:33:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2016/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2016_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2016.png&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/site/brainconnects2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2016&lt;/p&gt;
@@ -1319,9 +1301,9 @@ Three
     
     <item>
       <title>BrainConnects 2015</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2015/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2015_brainconnects/</link>
       <pubDate>Mon, 16 Mar 2015 19:08:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2015/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2015_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2015.png&#34; alt=&#34;poster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/site/brainconnects2nd/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2015&lt;/p&gt;
@@ -1330,9 +1312,9 @@ Three
     
     <item>
       <title>BrainConnects 2014</title>
-      <link>https://clinicalbrainlab.github.io/events/brainconnects/2014/</link>
+      <link>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</link>
       <pubDate>Thu, 17 Jul 2014 15:26:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/events/brainconnects/2014/</guid>
+      <guid>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/events/brainconnects/2014_background.jpg&#34; alt=&#34;background&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The inaugural &lt;strong&gt;BrainConnects Meeting&lt;/strong&gt;, held in Singapore from 1st to 2nd August 2014, saw an exchange of insightful and stimulating research ideas from various participating universities.&lt;/p&gt;
