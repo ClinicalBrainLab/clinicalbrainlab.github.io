@@ -9,6 +9,9 @@ education:
   - course: Bachelor of Arts, Psychology
     institution: Nanyang Technological University, Singapore
     year: 2009 - 2013
+  - course: Doctor of Philosophy, Psychology
+    institution: Nanyang Technological University, Singapore
+    year: 2017 - 2021
 
 
 email: "jheng007@e.ntu.edu.sg"
@@ -21,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Ph.D. Student
+role: Collaborator
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +37,7 @@ superuser: false
 
 title: Gladys Heng
 user_groups:
-- Graduate Students
+- Collaborators
 
 ---
 
