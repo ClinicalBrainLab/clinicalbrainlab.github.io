@@ -2,61 +2,91 @@
 authors:
 - Dominique Makowski
 
-bio: Dr. Dominique Makowski is a neuropsychologist & pizza lover 🍕. He is currently a Postdoc @ Clinical Brain Lab working on the neuroscience of deception 🤥 He is also interested in reality bending ✨ 
+# Display name
+title: Dominique Makowski
 
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position/tagline
+role: Presidential Research Fellow
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Nanyang Technological University, Singapore
+  url: https://www.ntu.edu.sg/
+
+# Short bio (displayed in user profile at end of posts)
+bio: Trained as neuropsychologist and CBT psychotherapist, I am currently working as a researcher at the Clinical Brain Lab in Singapore, on the neuroscience of reality perception.
+
+# Interests to show in About widget
+interests:
+- Sense of reality
+- Emotion regulation
+- Cognitive control
+- Clinical neuropsychology
+- Neuroaesthetics
+- History of psychiatry
+- Neapolitan pizze 🍕
+
+# Education to show in About widget
 education:
   courses:
-  - course: Ph.D., Psychology
-    institution: Université Paris Descartes, France
-    year: 2014 - 2018
-  - course: Cognitive & Behavioural Therapy Practitioner
-    institution: French Association of CBT
-    year: 2014 - 2017
-  - course: M.Sc., Clinical and Cognitive Neuropsychology,
-    institution: Université Paris Descartes, France
-    year: 2009 - 2014
+  - course: PhD in Psychology
+    institution: Université de Paris
+    year: 2018
+  - course: MSc in Clinical Neuropsychology and Cognitive Psychology
+    institution: Université de Paris
+    year: 2014
+  - course: BSc in Psychology
+    institution: Université de Paris
+    year: 2012
 
-email: "dmakowski@ntu.edu.sg"
-interests:
-- Emotion Regulation
-- Consciousness
-- Neuropsychological Practice
-- Neuroaesthetics
-- Statistics, Programming, and Methodology
-- History of Psychiatry/Neuroscience
-- Philosophy
-
-organizations:
-- name: Nanyang Technological University
-  url: ""
-role: Presidential Post-doctoral Fellow
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dmakowski@ntu.edu.sg
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Dom_Makowski
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=bg0BZ-QAAAAJ&hl=en&oi=ao
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-5375-9967
+  link: https://scholar.google.fr/citations?user=bg0BZ-QAAAAJ&hl=en
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Dominique_Makowski
 - icon: github
   icon_pack: fab
   link: https://github.com/DominiqueMakowski
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: https://dominiquemakowski.github.io/CV/
 
-superuser: false
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "dom.makowski@gmail.com"
 
-title: Dominique Makowski
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 user_groups:
 - Research Scientists and Research Fellows
-
 ---
-Trained as neuropsychologist, CBT psychotherapist (and hypnotherapist), I am currently working as a postdoc at the Clinical Brain Lab in Singapore on the neuroscience of deception 😏. 
-I’m fluent in French, English, Polish, Python, and somewhat good at pretending to speak Italian. My main figures of reference are Epictetus, Churchill and Yoda. My interests include scientific methodology, history of art and religion, as well as philosophy. 
-My research focuses on aspects of reality bending (e.g., fiction, deception or altered states of consciousness such as through meditation or immersion).
+
+Trained as clinical neuropsychologist, CBT psychotherapist <sub><sup>(*and* [***others***](https://dominiquemakowski.github.io/cv/))</sup></sub>, I am currently working as a postdoc at the Clinical Brain Lab in Singapore, in which I lead the [**Reality Bending Team**](https://realitybending.github.io/) 🧙 (ReBeL). I'm fluent in French, English, Polish, Python, and currently learning Italian. My main figures of reference are Marcus Aurelius, Sisyphus and Yoda. My interests include scientific methodology, history of art and religion, and philosophy. My research focuses on aspects of [**reality bending**](https://realitybending.github.io/research/) (e.g., fiction, deception, fake news, illusions, and altered states of consciousness such as through meditation or immersion). I also try to improve the access to advanced analysis techniques by developing open-source software and tools.
+
+{{% callout warning %}}
+
+Useful links
+
+{{< icon name="download" pack="fas" >}} Download my [**resumé**](https://dominiquemakowski.github.io/CV/).
+
+{{< icon name="users" pack="fas" >}} Learn more about the [**research**](https://realitybending.github.io/) that we do at ReBeL.
+
+{{% /callout %}}
