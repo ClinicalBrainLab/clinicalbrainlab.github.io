@@ -11,7 +11,7 @@ education:
     year: 2009 - 2013
   - course: Doctor of Philosophy, Psychology
     institution: Nanyang Technological University, Singapore
-    year: 2017 - 2021
+    year: 2015 - 2021
 
 
 email: "jheng007@e.ntu.edu.sg"
