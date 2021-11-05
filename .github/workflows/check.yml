@@ -8,6 +8,9 @@ name: 📦 Check build
 jobs:
   build:
     runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -26,3 +29,9 @@ jobs:
  
       - name: Build site with blogdown
         run: Rscript -e "blogdown::build_site()"
+        
+      - name: Deploy ????
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
