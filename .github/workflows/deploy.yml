@@ -9,6 +9,9 @@ name: 🚀 Build and Deploy
 jobs:
   build:
     runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -20,7 +23,7 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install rmarkdown, blogdown # might need knitr
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown","remotes"))'
        
       - name: Install hugo
         run: Rscript -e 'blogdown::install_hugo("0.88.1")'
@@ -29,9 +32,10 @@ jobs:
         run: Rscript -e "blogdown::build_site()"
  
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
           BRANCH: master # The branch the action should deploy to.
           FOLDER: public # The folder the action should deploy.
 

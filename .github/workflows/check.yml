@@ -21,17 +21,18 @@ jobs:
       - name: Setup Pandoc
         uses: r-lib/actions/setup-pandoc@v1
 
-      - name: Install rmarkdown, blogdown # might need knitr
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
+        
+      - name: Install rmarkdown and blogdown # might need knitr
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "remotes"))'
+
+      # The following can be delted after blogdown 1.6 is on CRAN ---
+      - name: Get development version of blogdown
+        run: Rscript -e 'remotes::install_github("rstudio/blogdown")'
+      # --------------------------------------------------------------
        
       - name: Install hugo
-        run: Rscript -e 'blogdown::install_hugo("0.88.1")'
+        run: Rscript -e 'blogdown::install_hugo()'
  
       - name: Build site with blogdown
         run: Rscript -e "blogdown::build_site()"
         
-      - name: Deploy ????
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
