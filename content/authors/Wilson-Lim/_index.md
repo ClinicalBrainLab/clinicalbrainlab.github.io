@@ -1,8 +1,4 @@
 ---
-title: Wilson Lim Peng Hian
-user_groups:
-- Research Assistants
-
 authors:
 - Wilson Lim
 bio: Wilson is currently a Research Assistant at the Clinical Brain Lab. 
@@ -43,6 +39,10 @@ social:
 
 
 superuser: false
+
+title: Wilson Lim Peng Hian
+user_groups:
+- Research Assistants
 
 ---
 
