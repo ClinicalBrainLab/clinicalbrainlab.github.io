@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Techniques | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/resources/tools/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/resources/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Techniques</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Techniques</title>
+      <link>https://clinicalbrainlab.github.io/resources/tools/</link>
+    </image>
+    
+    <item>
+      <title>E-Prime</title>
+      <link>https://clinicalbrainlab.github.io/resources/tools/eprime/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/tools/eprime/</guid>
+      <description>&lt;h2 id=&#34;what-is-e-prime&#34;&gt;What is E-Prime?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://pstnet.com/products/e-prime/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Prime®&lt;/a&gt; is a software with a graphical interface for creating experiments in behavioural research. It accommodates text, image, video, and audio stimuli, as well as multiple choice options.
+The data is exported in a text file and is compatible with SPSS, R, and Excel.&lt;/p&gt;
+&lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;
+&lt;p&gt;Researchers at Clinical Brain Lab make use of E-Prime to create cognitive experiments, such as to test bilingual abilities in participants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://clinicalbrainlab.github.io/resources/tools/python/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/tools/python/</guid>
+      <description>&lt;h2 id=&#34;what-is-python&#34;&gt;What is Python?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; is general-purpose, free and open-source programming language for both software developers and researchers.
+It is becoming increasingly 
+&lt;a href=&#34;https://www.apa.org/science/about/psa/2019/07/python-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;popular amongst psychology researchers&lt;/a&gt;, allowing
+researchers to create experiments, pre-process and clean data, as well as conduct statistical analyses and graphical visualization.&lt;/p&gt;
+&lt;h2 id=&#34;building-experiments&#34;&gt;Building Experiments&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.psychopy.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsychoPy&lt;/a&gt; is a Python package that has been used amongst psychology and neuroscientists to run cognitive experiments.
+Not only does it comprise of a graphical user interface (GUI) so that novices can easily create simple experiments, more advanced customization can be included using Python code.&lt;/p&gt;
+&lt;h2 id=&#34;data-wrangling&#34;&gt;Data Wrangling&lt;/h2&gt;
+&lt;p&gt;Base Python consists of a series of modules that accommodates different functionalities. For example, the 
+&lt;a href=&#34;https://pandas.pydata.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandas&lt;/a&gt; module allows for importing, manipulation and organization of
+text files, csv (comma-separated-values) files, or excel spreadsheets. The 
+&lt;a href=&#34;https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scipy&lt;/a&gt; module is also made for statistical analyses, and 
+&lt;a href=&#34;https://matplotlib.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matplotlib&lt;/a&gt;
+for graphical visualization of data.&lt;/p&gt;
+&lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;
+&lt;p&gt;Researchers at Clinical Brain Lab use Python to analyze EEG and physiological (e.g., ECG, EDA, respiration, EMG, EOG) data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://clinicalbrainlab.github.io/resources/tools/r/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/tools/r/</guid>
+      <description>&lt;h2 id=&#34;what-is-r&#34;&gt;What is R?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; is a free programming language and software environment that comprises of a suite of pre-processing abilities (e.g., data manipulation
+and cleaning), statistical analyses and modelling, and graphical visualization.&lt;/p&gt;
+&lt;h2 id=&#34;most-ideal-for&#34;&gt;Most Ideal For&lt;/h2&gt;
+&lt;p&gt;Behavioural Data&lt;/p&gt;
+&lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;
+&lt;p&gt;Researchers at the Clinical Brain Lab use R extensively to pre-process behavioural data and conduct statistical analyses e.g., factor analysis, linear mixed effects models. We have also used it to host presentations!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPM</title>
+      <link>https://clinicalbrainlab.github.io/resources/tools/spm/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/resources/tools/spm/</guid>
+      <description>&lt;h2 id=&#34;what-is-spm&#34;&gt;What is SPM?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.fil.ion.ucl.ac.uk/spm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPM&lt;/a&gt; or Statistical Parametric Mapping is a software package to analyze brain imaging sequences. It is designed to analyze data obtained from
+fMRI, PET, SPECT, EEG and MEG.&lt;/p&gt;
+&lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;
+&lt;p&gt;Researchers at the Clinical Brain Lab make use of SPM to analyze fMRI data when analyzing reading networks in bilingualism, as well as the neural correlates of deception.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
