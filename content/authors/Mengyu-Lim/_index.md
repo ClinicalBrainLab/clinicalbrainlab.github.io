@@ -10,7 +10,7 @@ education:
     institution: Nanyang Technological University, Singapore
     year: 2015 - 2019
 
-email: "MENGYU001@e.ntu.edu.sg"
+email: "mengyu001@e.ntu.edu.sg"
 interests:
 - Investigation of therapeutic properties of family- and community-based activities in the context of improving child and adolescent mental health
 
@@ -22,8 +22,8 @@ role: Ph.D. Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:MENGYU001@e.ntu.edu.sg
-  - icon: orcid
+  link: mailto:mengyu001@e.ntu.edu.sg
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4534-6123
 
