@@ -79,7 +79,9 @@ user_groups:
 - Research Scientists and Research Fellows
 ---
 
-Trained as clinical neuropsychologist, CBT psychotherapist <sub><sup>(*and* [***others***](https://dominiquemakowski.github.io/cv/))</sup></sub>, I am currently working as a postdoc at the Clinical Brain Lab in Singapore, in which I lead the [**Reality Bending Team**](https://realitybending.github.io/) 🧙 (ReBeL). I'm fluent in French, English, Polish, Python, and currently learning Italian. My main figures of reference are Marcus Aurelius, Sisyphus and Yoda. My interests include scientific methodology, history of art and religion, and philosophy. My research focuses on aspects of [**reality bending**](https://realitybending.github.io/research/) (e.g., fiction, deception, fake news, illusions, and altered states of consciousness such as through meditation or immersion). I also try to improve the access to advanced analysis techniques by developing open-source software and tools.
+Trained as clinical neuropsychologist, CBT psychotherapist <sub><sup>(*and* [***others***](https://dominiquemakowski.github.io/cv/))</sup></sub>, I am currently working as a postdoc at the Clinical Brain Lab in Singapore, in which I lead the [**Reality Bending Team**](https://realitybending.github.io/) 🧙 (ReBeL).
+
+Check-out my [**personal website**](https://dominiquemakowski.github.io/) for details, blog posts, publications and more :)
 
 {{% callout warning %}}
 
