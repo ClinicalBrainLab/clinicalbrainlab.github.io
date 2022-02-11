@@ -5,12 +5,46 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Part-time Student Assistant Position at The Clinical Brain Lab</title>
+      <link>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Clinical Brain Lab, led by Principal Investigator Prof. Annabel Chen, is looking to hire 3 part-time undergraduate research assistants (10 hours/week) to assist with the recruitment and data collection of two neuroimaging studies.&lt;/p&gt;
+&lt;p&gt;You will be part of a dynamic team of researchers who are using cutting-edge functional near-infrared spectroscopy (fNIRS) and magnetic resonance imaging (MRI) to investigate the brain and behaviour of adults and children when presented with different Singaporean cultural stimuli.&lt;/p&gt;
+&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;p&gt;Depending on your goals for joining us, you will be involved in some of the following activities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Administrative support for recruitment and screening of participants&lt;/li&gt;
+&lt;li&gt;Assist with data collection using fNIRS and MRI equipment&lt;/li&gt;
+&lt;li&gt;Assist with contacting participants and collating questionnaire responses&lt;/li&gt;
+&lt;li&gt;Data preprocessing of MRI and fNIRS datasets&lt;/li&gt;
+&lt;li&gt;Other activities that support the research studies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You must be a current undergraduate student at Nanyang Technological University (NTU)&lt;/li&gt;
+&lt;li&gt;Fast learner and eager to acquire advanced neuroimaging data collection skills&lt;/li&gt;
+&lt;li&gt;Ability to work on some weekends (for data collection)&lt;/li&gt;
+&lt;li&gt;Previous experience in neuroimaging research is an advantage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;If you are interested in this job opening, please contact:&lt;/p&gt;
+&lt;p&gt;Principal Investigator: Prof. Annabel Chen Shen-Hsing
+Tel: +65 6908 1457
+Email:annabelchen@ntu.edu.sg&lt;/p&gt;
+&lt;p&gt;Research Fellow: Dr. Atiqah Azhari
+Email:nuratiqah.azhari@ntu.edu.sg&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Calling for Submissions to Special Issue &#34;Brain Activity Monitoring and Measurement&#34;</title>
@@ -957,15 +991,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
