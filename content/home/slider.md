@@ -57,7 +57,7 @@ height = "390px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Find out about open positions"
-  cta_url = "http://www.clinicalbrain.org/join/join_cbl_Part Time RA/"
+  cta_url = "http://www.clinicalbrain.org/join/join_cbl_part-time-ra/"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
   
