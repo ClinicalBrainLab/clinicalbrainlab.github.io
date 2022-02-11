@@ -30,11 +30,11 @@ height = "390px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
-  
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
+
 [[item]]
   title = ""
   content = ""
@@ -43,7 +43,24 @@ height = "390px"
   overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/brain_images2.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
 
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/Job Ad Banner.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+ # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Find out about open positions"
+  cta_url = "http://www.clinicalbrain.org/join/join_cbl_Part Time RA/"
+  cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
+  
 [[item]]
   title = ""
   content = ""
@@ -61,5 +78,7 @@ height = "390px"
   overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/Lab photo Teams_22Oct2021_2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+
 +++
 o
