@@ -41,7 +41,7 @@ social:
   link: https://www.researchgate.net/profile/Wilson-Lim-12
 - icon: github
   icon_pack: fab
-  link: https://github.com/Wilph150
+  link: https://github.com/WilsonLimPH
 
 
 superuser: false
