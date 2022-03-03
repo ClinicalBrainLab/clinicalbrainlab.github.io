@@ -12,7 +12,7 @@ education:
     institution: University College London, United Kingdom
     year: 2017 - 2020
 
-email: "wilson.lim.17@ucl.ac.uk"
+email: "wilson.lim@ntu.edu.sg"
 interests:
 - Cognitive Neuroscience
 - Neuropsychology
@@ -26,7 +26,7 @@ role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wilson.lim.17@ucl.ac.uk
+  link: mailto:wilson.lim@ntu.edu.sg
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/WilsonLimPH
@@ -39,11 +39,14 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wilson-Lim-12
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Wilph150
 
 
 superuser: false
 
-title: Wilson Lim Peng Hian
+title: Wilson Lim
 user_groups:
 - Research Assistants
 
