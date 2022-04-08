@@ -2,6 +2,9 @@
 authors:
 - Ngoi Zi Liang
 
+alias: 
+- Max
+
 bio: Zi Liang is a psychology graduate, and currently a research assistant at the Clinical Brain Lab in NTU.
 
 education:
