@@ -28,7 +28,7 @@ interests:
 organizations:
 - name: Rehabilitation Research Institute of Singapore, Nanyang Tech University
   url: ""
-role: Research Fellow
+role: Collaborator
 social:
 
 

@@ -36,7 +36,7 @@ Candidates are expected to have good interpersonal skills and to have demonstrat
 
 ## Apply
 
-To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to annabelchen@ntu.edu.sg
+To apply, please use the [Workday platform](https://ntu.wd3.myworkdayjobs.com/Careers/job/NTU-Main-Campus-Singapore/Research-Fellow--Psychology-Cognitive-Neuroscience-Education-Science-of-Learning-_R00009385-1) or send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to annabelchen@ntu.edu.sg
 
 * **Contact information**: Professor S.H. Annabel Chen, PhD, Professor, of Psychology, School of Social Sciences, Nanyang Technological University, 48 Nanyang Drive, SHHK-04-19, Singapore 639818, phone +65-6316-8836
 

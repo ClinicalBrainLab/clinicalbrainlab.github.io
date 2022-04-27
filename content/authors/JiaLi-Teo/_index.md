@@ -16,7 +16,7 @@ email: "jiali.teo@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Ph.D Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,7 +30,7 @@ superuser: false
 
 title: Teo Jia Li
 user_groups:
-- Research Assistants
+- Graduate Students
 
 ---
 

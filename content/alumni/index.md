@@ -4,7 +4,7 @@ categories: []
 date: "2020-08-04"
 draft: false
 featured: false
-lastMod: "2021-10-28"
+lastMod: "2022-04-27"
 projects: []
 subtitle:  
 summary:  
@@ -93,12 +93,15 @@ Project Officers/Research Assistants
 - Adhya Neshaa Nedumaran
 - Alison Chew
 - Gan Su Ren
+- Lau Zen Juen
 - Low Li Tong
 - Marilyn Yeo
+- Tam Pham
 - Tan Bee Li
 
 Interns
 - Elaine Teo, Intern
+- Jonathan Tan
 - Max Yong, Trainee RA
 - Pavitraa Sundram, Trainee RA
 

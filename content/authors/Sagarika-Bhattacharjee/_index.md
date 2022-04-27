@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Ph.D. Student
+role: Collaborator
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +38,7 @@ superuser: false
 
 title: Sagarika Bhattacharjee
 user_groups:
-- Graduate Students
+- Collaborators
 
 ---
 
