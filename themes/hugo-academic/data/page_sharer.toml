@@ -42,6 +42,14 @@
   enable = true
 
 [[buttons]]
+  id = "telegram"
+  url = "https://t.me/clinicalbrainlab"
+  title = "Telegram"
+  icon_pack = "fab"
+  icon = "telegram"
+  enable = true
+
+[[buttons]]
   id = "weibo"
   url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
   title = "Weibo"
