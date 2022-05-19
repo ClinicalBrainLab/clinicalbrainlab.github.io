@@ -24,7 +24,7 @@ tags:
 title: 'A Parametric Framework to Generate Visual Illusions using Python'
 url_code: ""
 url_dataset: ""
-url_pdf: https://github.com/RealityBending/Pyllusion/blob/master/ecvp/poster.pdf
+url_pdf: "https://github.com/RealityBending/Pyllusion/blob/master/ecvp/poster.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

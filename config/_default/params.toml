@@ -115,7 +115,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow us", link = "https://twitter.com/cblntu"},
   {icon = "facebook", icon_pack = "fab", name = "Follow us", link = "https://www.facebook.com/Clinical-Brain-Lab-1025744954121571"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram us", link = "https://t.me/clinicalbrainlab"}
+  {icon = "telegram", icon_pack = "fab", name = "Telegram us", link = "https://t.me/clinicalbrainlab"},
   {icon = "github", icon_pack = "fab", name = "Our GitHub Organization", link = "https://github.com/ClinicalBrainLab"},
   
   
