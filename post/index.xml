@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/post/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://clinicalbrainlab.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Young Adults Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/role-play/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/role-play/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./Role-play.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese-English Bilingual Children Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./Mock_MRI_flyer.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese-English Bilinguals Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/dyslexia-biliteracy/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/dyslexia-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./dyslexia-biliteracy-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Healthy Adults Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/fnirs-biliteracy/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/fnirs-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./fNIRS-tDCS-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tamil-English Bilinguals Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/adult-biliteracy/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/adult-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./TE-biliteracy-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
