@@ -19,7 +19,7 @@ publication_types:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 - "1"
-publishDate:
+publishDate: "2022-06-19"
 tags:
 - Deception
 title: "A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control"

@@ -22,6 +22,7 @@ publication_types:
 publishDate: "2022-06-19"
 tags:
 - Deception
+- Complexity
 title: 'Fractal Dimensions of EEG Activity is Linked to Distinct Facets of Resting-State Cognition'
 url_code: ""
 url_dataset: ""
