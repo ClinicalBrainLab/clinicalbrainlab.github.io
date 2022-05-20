@@ -15,25 +15,25 @@ jobs:
 
       - name: Setup R
         uses: r-lib/actions/setup-r@master
-       
+
       - name: Setup Pandoc
         uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install rmarkdown, blogdown # might need knitr
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
-       
+
       - name: Install hugo
         run: Rscript -e 'blogdown::install_hugo()'
- 
+
       - name: Build site with blogdown
         run: Rscript -e "blogdown::build_site()"
- 
+
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: master # The branch the action should deploy to.
           FOLDER: public # The folder the action should deploy.
 
-  
+
 # site is built on sources branch, deploy on master branch
