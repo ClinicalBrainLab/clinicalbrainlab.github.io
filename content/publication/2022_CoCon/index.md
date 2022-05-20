@@ -22,7 +22,7 @@ publication_types:
 publishDate: "2022-06-19"
 tags:
 - Deception
-title: "A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control"
+title: 'A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
