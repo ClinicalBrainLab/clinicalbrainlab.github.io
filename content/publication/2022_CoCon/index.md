@@ -2,11 +2,11 @@
 abstract: 'Existing literature has found converging evidence that bodily states, such as cardiac or respiratory activity, have an influence on various cognitive domains. This association could be mechanistically explained by the structural and functional connections between the prefrontal cortex, which plays a central role in cognitive control, and the cardiovascular system. In this regard, the role of afferent neural activity from arterial baroreceptors during the two different cardiac phases (diastole and systole) has received great interest. According to the baroreceptor hypothesis, increased ventricular pressure during the systole phase intensifies the afferent signals from the baroreceptor, thereby depleting mental resources and inhibiting cortical activity. While some have indeed found the systole phase exhibiting an inhibiting effect, supporting the aforementioned hypothesis, other studies have observed that participants performed better in tasks of cognitive control when stimuli were presented in the systole phase. As such, this study aimed to clarify the conflicting findings regarding the impact of the cardiac phase on cognitive function. Instead of using the conventional dichotomous method that contrasts only the average performance indices of each phase, we adopt a continuous modeling approach to better capture its non-linear effect on cognitive control.'
 
 authors:
-- Dominique Makowski
-- ZenJuen Lau
-- Tam Pham
-- AnShu Te
-- Annabel Chen
+- Dominique-Makowski
+- ZenJuen-Lau
+- Tam-Pham
+- AnShu-Te
+- Annabel-Chen
 
 date: "2022-06-19"
 doi: ""
