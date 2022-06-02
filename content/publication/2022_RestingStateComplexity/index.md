@@ -1,5 +1,5 @@
 ---
-abstract: "Resting state electroencephalogram (rsEEG) is a non-invasive and inexpensive measure of neural activity, with rest presenting a unique, individual-specific condition (i.e., situation-independent) for tapping into the spontaneous cognitive processes associated with the organized baseline state of the brain. Neuronal dynamics during rest (i.e., in the absence of any stimuli or task) has revealed interesting associations with psychopathological disorders (such as schizophrenia and depression), neurodegeneration, executive functioning, and even stable inter-individual differences in personality traits and intelligence et cetera. In recent years, EEG analysis has advanced beyond spectral analyses to include methods drawn from nonlinear dynamics to capture the complexity of the brain. While there is an abundance of studies studying rsEEG complexity in neuropathology in the pursuit of achieving better diagnostic outcomes, its correlates with the conscious experience of individuals in healthy populations still remain unclear. In this study, we attempt to examine the relationship between interindividual differences in EEG complexity and individuals' subjective experiences at rest."
+abstract: 'Resting state electroencephalogram (rsEEG) is a non-invasive and inexpensive measure of neural activity, with rest presenting a unique, individual-specific condition (i.e., situation-independent) for tapping into the spontaneous cognitive processes associated with the organized baseline state of the brain. Neuronal dynamics during rest (i.e., in the absence of any stimuli or task) has revealed interesting associations with psychopathological disorders (such as schizophrenia and depression), neurodegeneration, executive functioning, and even stable inter-individual differences in personality traits and intelligence et cetera. In recent years, EEG analysis has advanced beyond spectral analyses to include methods drawn from nonlinear dynamics to capture the complexity of the brain. While there is an abundance of studies studying rsEEG complexity in neuropathology in the pursuit of achieving better diagnostic outcomes, its correlates with the conscious experience of individuals in healthy populations still remain unclear. In this study, we attempt to examine the relationship between interindividual differences in EEG complexity and subjective experiences at rest.'
 
 authors:
 - Dominique-Makowski
@@ -8,7 +8,7 @@ authors:
 - AnShu-Te
 - Annabel-Chen
 
-date: "2022-06-19"
+date: "2022-05-19"
 doi: ""
 featured: false
 projects: ["deception"]
@@ -19,7 +19,7 @@ publication_types:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 - "1"
-publishDate: "2022-06-19"
+publishDate: "2022-05-19"
 tags:
 - Deception
 - Complexity
