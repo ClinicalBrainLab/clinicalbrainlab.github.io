@@ -10,7 +10,7 @@ date: "2022-05-23"
 doi: ""
 featured: false
 projects: ""
-publication: "Heng, G. J., Chai, Q. H., & Chen, S. A. (2022, June 2). Theta Power Differences as a Function of Level of Familiarity with a Musical Style [Poster Presentation]. 28th Organization of Human Brain Mapping Annual Meeting.""
+publication: "Heng, G. J., Chai, Q. H., & Chen, S. A. (2022, June 2). Theta Power Differences as a Function of Level of Familiarity with a Musical Style [Poster Presentation]. 28th Organization of Human Brain Mapping Annual Meeting."
 publication_short: ""
 publication_types:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
