@@ -17,7 +17,7 @@ publication_types:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 - "1"
-publishDate: "2022-06-19"
+publishDate: "2022-05-23"
 tags:
 - EEG
 - Music
