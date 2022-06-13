@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant 
+role: Research Assistant & Coordinator for Deception Neuroscience Projects
 social:
 - icon: envelope
   icon_pack: fas

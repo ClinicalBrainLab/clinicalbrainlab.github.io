@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Research Associate & Coordinator for Educational Neuroscience Projects
 social:
 - icon: envelope
   icon_pack: fas

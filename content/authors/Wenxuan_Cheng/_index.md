@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Research Assistant & Coordinator for Active Aging Project
 social:
 - icon: envelope
   icon_pack: fas
