@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate
+role: Research Associate & Lab Manager
 social:
 - icon: envelope
   icon_pack: fas
