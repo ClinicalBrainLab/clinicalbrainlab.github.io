@@ -98,6 +98,16 @@ height = "390px"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/rescaled_lab_2022.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 +++
 o
