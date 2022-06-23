@@ -44,7 +44,7 @@ This repository contains the code to host the Clinical Brain Lab website: http:/
  
    - Fourth step: remember you copied the content of `_index.md` file of another member in second step? Now, you should paste everything in the `Edit new file` space. By reading through what you have just copied, you will see that the file contains a a number of sub-headings.
    
-   ![create-index](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/create_index.png)
+   ![create-index](static/media/Onboarding_Media/create_index.png)
    
    - Now, to make this `_index.md` file yours, you need to customize the content (*the order of the sub-headings doesn't matter):
         - *title*: your name (to appear in the Team members tab in home page). Full name is preferred here
