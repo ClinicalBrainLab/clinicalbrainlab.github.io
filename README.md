@@ -21,22 +21,22 @@ This repository contains the code to host the Clinical Brain Lab website: http:/
 
    -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`.
    
-   ![repo](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/your_repo.png)
+   ![repo](static/media/Onboarding_Media/your_repo.png)
 
  - **Step 2: Add your profile to the website**
    - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the content of the website is stored.
    - Can you guess which folder is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the `authors` folder. Here you will find each folder for each of our lab members. Now your task is to create one for yourself!
    
-   ![authors](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Mediaupdate_authors.png)
+   ![authors](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/update_authors.png)
    
    - First step: copy the url of the `authors` folder and open it in another tab. Have the two tabs side-by-side and from now on, we refer to them as `tab-left` and `tab-right`. Both of them are now at `your-username/clinicalbrainlab.github.io/content/authors`.
    - Second step: now, for `tab-left`, open the folder of any lab member that you would like to a take reference from. You will see 2 files in the folder: a filed called `_index.md` and a picture file named `avatar.png`. 
    
-   ![index-avatar](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/index_and_avatar.png)
+   ![index-avatar](static/media/Onboarding_Media/index_and_avatar.png)
    
    - Click on the `_index.md` file and click on the button `Raw` on the top right-hand corner. You should now see a plain file that looks like any other text files. Please copy the entire content of the `_index.md` file (hightlight everything and Ctr-C).
    
-   ![copy-raw](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/copy_raw.png)
+   ![copy-raw](static/media/Onboarding_Media/copy_raw.png)
    
    - Third step: so far, you have been working on `tab-left`. You will now need to go to `tab-right` and create a new folder for yourself. Make sure that `tab-right` is at `your-username/clinicalbrainlab.github.io/content/authors`. Look for the button `Add files` at the top right-hand corner, click on it and choose `Create new file`. In the box `Name your file ...`, please type the following: "yourfirstname-yourlastname/_index.md". As an example, I have named this new file as "Tam-Pham/_index.md". Do not leave any space in the name. 
  
@@ -61,7 +61,7 @@ This repository contains the code to host the Clinical Brain Lab website: http:/
         - Below the "---" is where you can write a short intro about yourself.
     - After you have finished making all the edits, scroll to the bottom and hit the green button `Commit changes`. This will save all the changes that you just made to your `_index.md` file.
     
-    ![commit](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/commit_change.png)
+    ![commit](static/media/Onboarding_Media/commit_change.png)
     
     - Now, in `your-username/clinicalbrainlab.github.io/content/authors`, you should see a new folder that you just created with an `_index.md` file.
   - **Step 3: Add your profile picture**
@@ -73,11 +73,11 @@ This repository contains the code to host the Clinical Brain Lab website: http:/
   - **Step 4: Make a Pull Request**
     - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
 
-      ![PR](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/create_pr.png)
+      ![PR](static/media/Onboarding_Media/create_pr.png)
 
     - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`.
     
-    ![sources](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/base_source.png)
+    ![sources](static/media/Onboarding_Media/base_source.png)
     
     - All the left for you to do is to click on that shiny green button to update your changes to the original repository.
 
