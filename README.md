@@ -27,7 +27,7 @@ This repository contains the code to host the Clinical Brain Lab website: http:/
    - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the content of the website is stored.
    - Can you guess which folder is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the `authors` folder. Here you will find each folder for each of our lab members. Now your task is to create one for yourself!
    
-   ![authors](https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/tree/sources/static/media/Onboarding_Media/update_authors.png)
+   ![authors](static/media/Onboarding_Media/update_authors.png)
    
    - First step: copy the url of the `authors` folder and open it in another tab. Have the two tabs side-by-side and from now on, we refer to them as `tab-left` and `tab-right`. Both of them are now at `your-username/clinicalbrainlab.github.io/content/authors`.
    - Second step: now, for `tab-left`, open the folder of any lab member that you would like to a take reference from. You will see 2 files in the folder: a filed called `_index.md` and a picture file named `avatar.png`. 
