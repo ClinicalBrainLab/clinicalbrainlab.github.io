@@ -1,8 +1,8 @@
 ---
 title: BrainConnects 2022
-subtitle:  Emotional Brain and Cognitive Brain 
+subtitle: Emotional Brain and Cognitive Brain
 event: In 2022, we will hold our 9th annual symposium - BrainConnects. We seek to establish global collaborations in ageing research that leverage our complementary and trans-disciplinary expertise to create novel and high impact innovations that improve the quality of life of our ageing population.
-event_url: 
+event_url:
 date: "2022-08-08"
 
 # change to false if there is timing
@@ -22,5 +22,4 @@ links:
 
 
 
-Follow [this](https://sites.google.com/view/brainconnects2022/) link to the official website of BrainConnects 2022. 
-	
+Follow [this](https://sites.google.com/view/brainconnects2022/) link to the official website of BrainConnects 2022.
