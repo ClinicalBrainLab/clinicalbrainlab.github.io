@@ -5,7 +5,7 @@ bio: Wilson is currently a Research Associate at the Clinical Brain Lab.
 
 education:
   courses:
-  - course: Master of Research (MRes) in Cogntiive Neuroscience
+  - course: Master of Research (MRes) in Cognitive Neuroscience
     institution: University College London, United Kingdom
     year: 2020 - 2021
   - course: Bachelor of Science (BSc) (Hons) in Psychology
