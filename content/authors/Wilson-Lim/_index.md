@@ -1,7 +1,7 @@
 ---
 authors:
 - Wilson Lim
-bio: Wilson is currently a Research Assistant at the Clinical Brain Lab. 
+bio: Wilson is currently a Research Associate at the Clinical Brain Lab. 
 
 education:
   courses:
@@ -48,7 +48,7 @@ superuser: false
 
 title: Wilson Lim
 user_groups:
-- Research Assistants
+- Research Associates
 
 ---
 
