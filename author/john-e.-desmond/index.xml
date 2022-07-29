@@ -5,12 +5,20 @@
     <link>https://clinicalbrainlab.github.io/author/john-e.-desmond/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/john-e.-desmond/index.xml" rel="self" type="application/rss+xml" />
     <description>John E. Desmond</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>John E. Desmond</title>
       <link>https://clinicalbrainlab.github.io/author/john-e.-desmond/</link>
     </image>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sex difference in tDCS current mediated by changes in cortical anatomy: A study across young, middle and older adults</title>
@@ -25,14 +33,6 @@
       <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
-      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
       <description></description>
     </item>
     
