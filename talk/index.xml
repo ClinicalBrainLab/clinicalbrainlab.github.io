@@ -5,12 +5,22 @@
     <link>https://clinicalbrainlab.github.io/talk/</link>
       <atom:link href="https://clinicalbrainlab.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://clinicalbrainlab.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>BrainConnects 2022</title>
+      <link>https://clinicalbrainlab.github.io/talk/2022_brainconnects/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2022_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/view/brainconnects2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2022.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Calling for Submissions to Special Issue &#34;Brain Activity Monitoring and Measurement&#34;</title>
