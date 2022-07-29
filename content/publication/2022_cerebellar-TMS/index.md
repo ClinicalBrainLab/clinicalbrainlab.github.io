@@ -10,7 +10,7 @@ authors:
 - John E. Desmond
 - Annabel-Chen
 
-date: "2021-03-31"
+date: "2022-03-31"
 doi: "https://doi.org/10.1007/s12311-022-01396-2"
 featured: false
 projects: ""
@@ -21,7 +21,7 @@ publication_types:
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 - "2"
-publishDate: "2021-03-31"
+publishDate: "2022-03-31"
 tags:
 - Cerebellum
 title: 'Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory'
