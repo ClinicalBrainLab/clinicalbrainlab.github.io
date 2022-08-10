@@ -21,10 +21,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:janet.tan@ntu.edu.sg
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-8828-8234?lang=en
-
 
 superuser: false
 
