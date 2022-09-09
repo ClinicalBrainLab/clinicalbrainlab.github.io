@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:KOHJ0074@e.ntu.edu.sg
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jia-Ying-Serene-Koh-2
 
 
 superuser: false
