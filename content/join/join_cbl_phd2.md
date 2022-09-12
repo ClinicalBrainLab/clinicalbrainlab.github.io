@@ -23,7 +23,7 @@ Research in the lab is focused on the neural basis of higher cognition in the ce
 
 We welcome applicants with a **Bachelors** or **Masters degree** in various backgrounds such as: **experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science**, and related fields.
 
-The successful applicant will be enrolled in the graduate psychology program by research. For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the [Graduate Program](http://psychology.hss.ntu.edu.sg/Programmes/Graduate/Pages/DoctorofPhilosophy.aspx) and its [Online Application](http://admissions.ntu.edu.sg/graduate/R-Programs/Pages/default.aspx)
+The successful applicant will be enrolled in the graduate psychology program by research. Competitive scholarships may be applied through the Graduate Psychology Program or the Interdisciplinary Graduate Program with CRADLE@NTU (CRADLE-IGP). For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the [Graduate Psychology Program](https://www.ntu.edu.sg/education/graduate-programme/ph.d.-in-psychology) and [GRADLE-IGP](https://www.ntu.edu.sg/cradle/home/interdisciplinary-graduate-programme-(igp)).
 
 
 ## Apply
