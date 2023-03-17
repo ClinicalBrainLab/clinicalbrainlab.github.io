@@ -5,12 +5,28 @@
     <link>https://clinicalbrainlab.github.io/author/vae-zhang-jiayi/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/vae-zhang-jiayi/index.xml" rel="self" type="application/rss+xml" />
     <description>Vae Zhang Jiayi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Vae Zhang Jiayi</title>
       <link>https://clinicalbrainlab.github.io/author/vae-zhang-jiayi/</link>
     </image>
+    
+    <item>
+      <title>Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRV mediates the relationship between isthmus cingulate thickness and inhibitory control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
