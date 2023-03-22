@@ -5,12 +5,20 @@
     <link>https://clinicalbrainlab.github.io/talk/</link>
       <atom:link href="https://clinicalbrainlab.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>https://clinicalbrainlab.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Our Bilingual Future</title>
+      <link>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BrainConnects 2022</title>
