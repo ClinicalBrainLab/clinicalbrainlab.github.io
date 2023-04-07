@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Ph.D. Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,7 +36,7 @@ superuser: false
 
 title: Kelly Sng Hwee Leng
 user_groups:
-- Research Assistants
+- Graduate Students
 
 ---
 
