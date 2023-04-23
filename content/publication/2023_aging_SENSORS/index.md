@@ -21,7 +21,7 @@ tags:
 title: 'Age-Related Changes in Episodic Processing of Scenes: A Functional Activation and Connectivity Study'
 url_code: ""
 url_dataset: ""
-url_pdf: https://clinicalbrainlab.github.io/content/publication/2023_aging-SENSORS/sensors-23-04107.pdf
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
