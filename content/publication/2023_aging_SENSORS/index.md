@@ -9,7 +9,7 @@ authors:
 date: "2023-04-20"
 doi: "https://doi.org/10.3390/s23084107"
 featured: false
-projects: []
+projects: ['ageing']
 publication: 'Sensors'
 publication_short: ""
 publication_types:
