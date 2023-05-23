@@ -34,4 +34,4 @@ superuser: false
 
 ---
 
-Bethany is an undergraduate student of Psychology at Nanyang Technological University. Her research interests lie in Educational Psychology, particulary with regards to supporting individuals with special educational needs and their families.
+Bethany is an undergraduate student of Psychology at Nanyang Technological University. Her research interests lie in Educational Psychology, particularly with regard to supporting individuals with special educational needs and their families.
