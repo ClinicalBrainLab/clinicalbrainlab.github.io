@@ -1,3 +1,4 @@
+---
 authors:
 - Nisha Syed Nasser
 bio: Nisha is currently a Research Associate at the Clinical Brain Lab. 
@@ -37,7 +38,7 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nisha-Syed-Nasser
-- icon: LinkedIn
+- icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/nisha-syednasser96
 
