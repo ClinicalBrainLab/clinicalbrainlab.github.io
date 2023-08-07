@@ -18,6 +18,7 @@ interests:
 - Neuropsychology
 - Affective Disorders
 - Emotion and Individual Differences
+- Brain-body Interactions
 
 organizations:
 - name: Nanyang Technological University
@@ -52,4 +53,4 @@ user_groups:
 
 ---
 
-Wilson most recently graduated from University College London (UCL) with a Master of Research in Cognitive Neuroscience (Distinction) in 2021, having previously attained a Bachelor of Science in Psychology (First Class Honours) at UCL in 2020. His research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating cognition, emotion, and mental health, particularly from an individual differences and developmental perspective. 
+Wilson most recently graduated from University College London (UCL) with a Master of Research in Cognitive Neuroscience (Distinction) in 2021, having previously attained a Bachelor of Science in Psychology (First Class Honours) at UCL in 2020. His research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating cognition, emotion, mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective. 
