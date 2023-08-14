@@ -39,9 +39,8 @@ subtitle = ""
     tag = "Learning"
 	
   [[content.filter_button]]
-    name = "Deception & Trust"
-    tag = "Deception"
-
+    name = "Social Neuroscience"
+    tag = "Social Neuroscience"
 	
 
 [design]
@@ -53,7 +52,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
