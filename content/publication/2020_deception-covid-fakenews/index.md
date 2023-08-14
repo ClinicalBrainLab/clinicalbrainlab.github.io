@@ -19,6 +19,7 @@ publication_types:
 publishDate: ""
 tags:
 - Deception
+- Social Neuroscience
 title: 'Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic'
 url_code: ""
 url_dataset: ""

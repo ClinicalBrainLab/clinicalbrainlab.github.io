@@ -15,9 +15,10 @@ summary: "An investigation of deception and trust."
 profile: true
 
 tags:
+- Social Neuroscience
 - Deception 
 
-title: Behevioural and Neural Correlates of Deception
+title: Behavioural and Neural Correlates of Deception
 url_code: ""
 url_pdf: "https://psyarxiv.com/t7s32/"
 url_slides: ""
