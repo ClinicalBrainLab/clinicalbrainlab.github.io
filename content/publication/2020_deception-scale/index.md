@@ -21,6 +21,7 @@ publishDate: "2021-04-22"
 # summary: While deception is considered as a common phenomenon with important implications, its conceptualization and study as a dispositional trait is under-represented in the literature. Critically, and despite scientific evidence supporting the existence of individual differences in lying, a validated measure of dispositional deception is still lacking.
 tags:
 - Deception
+- Social Neuroscience
 title: 'The Structure of Deception: Validation of the Lying Profile Questionnaire'
 url_code: ""
 url_dataset: ""
