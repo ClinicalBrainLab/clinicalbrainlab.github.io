@@ -19,7 +19,7 @@ title: Promoting Effective Biliteracy
 authors: ["ChiaoYi-Wu", "Michelle-Yap", "HsinYu-Lin", "Annabel-Chen"]
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.learningbrain.org/pebble"
 url_slides: ""
 url_video: ""
 ---
