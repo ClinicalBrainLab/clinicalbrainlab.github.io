@@ -12,7 +12,7 @@ menu:
     weight: 2
 ---
 
-![jpg](/resources/info/SoRblog.jpg)
+![jpg](/resources/info/SoRblog.png)
 
 From research to practice, we communicate latest research findings, share suggestiosn for positive reading based on what we know, to cultivate interest in reading in children. Click [here](https://blogs.ntu.edu.sg/reading/welcome/) to visit our blog.
 
