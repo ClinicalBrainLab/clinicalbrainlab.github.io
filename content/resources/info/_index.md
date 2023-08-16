@@ -5,7 +5,7 @@ summary:
 weight: 1
 
 # Page metadata.
-title: Research Techniques
+title: Information for Parents and Kids
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
