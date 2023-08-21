@@ -12,7 +12,7 @@ authors:
 date: "2023-03-16"
 doi: ""
 featured: false
-projects: ""
+projects: ['ageing']
 publication: "Goodwill, A. M., Lim, W., Bashir, S., Kitada, R., Cheng, W., Chen, S. A. (2023, July 22-26). Theta-burst stimulation-induced cortical plasticity in younger and older adults: a TMS-EEG study [Poster presentation]. Organization for Human Brain Mapping 29th Annual Meeting, Montréal, QC, Canada."
 publication_short: ""
 publication_types:
@@ -29,7 +29,7 @@ title: "Theta-burst stimulation-induced cortical plasticity in younger and older
 url_code: ""
 url_dataset: ""
 url_pdf: ""
-url_poster: ""
+url_poster: "https://www.researchgate.net/publication/372720775_Theta-burst_stimulation-induced_cortical_plasticity_in_younger_and_older_adults_a_TMS-EEG_study"
 url_project: ""
 url_slides: ""
 url_source: ""

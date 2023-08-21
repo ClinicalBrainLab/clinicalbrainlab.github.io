@@ -10,7 +10,7 @@ authors:
 date: "2023-03-16"
 doi: ""
 featured: false
-projects: ""
+projects: ['ageing']
 publication: "Lim, W., Zhang, J., Teo, I., & Chen, S. A. (2023, July 22-26). Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample [Poster presentation]. Organization for Human Brain Mapping 29th Annual Meeting, Montréal, QC, Canada."
 publication_short: ""
 publication_types:
@@ -28,7 +28,7 @@ title: "Associations between brain structure, HRV, and depression and anxiety in
 url_code: ""
 url_dataset: ""
 url_pdf: ""
-url_poster: ""
+url_poster: "https://www.researchgate.net/publication/372720608_Associations_between_brain_structure_heart_rate_variability_and_depression_and_anxiety_in_a_non-clinical_sample"
 url_project: ""
 url_slides: ""
 url_source: ""

@@ -2,7 +2,7 @@
 date: "2020-08-22"
 external_link: ""
 image:
-  caption: Freepik
+  caption: 
   focal_point: Smart
 links:
 #- icon: twitter

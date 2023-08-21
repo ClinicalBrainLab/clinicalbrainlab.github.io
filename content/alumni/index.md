@@ -4,7 +4,7 @@ categories: []
 date: "2020-08-04"
 draft: false
 featured: false
-lastMod: "2022-04-27"
+lastMod: "2023-08-16"
 projects: []
 subtitle:  
 summary:  
@@ -75,27 +75,31 @@ Graduate Students
 Research Fellows
 - Adrian Galang, PhD
 - Belle Yick, PhD
+- Dominique Makowski, PhD
 - Jo Archer, PhD
 - Lee Shu Hui, PhD
 - Liu Heng Shuang, PhD
 - Monika Sobczak-Edmans, PhD
+- Nestor Vinas-Guasch, PhD
 - Rajan Kashyap, PhD
 - Tommy Ng, PhD
 
 Research Associates
 - Alvin Lim, MA
 - Cathy Kao, MS
-- Hoki Fung,  MS
-- Ilang Kumaran Yuvadarshini,  MS
-- Meenakshi Siddharthan,  MS
+- Hoki Fung, MS
+- Ilang Kumaran Yuvadarshini, MS
+- Meenakshi Siddharthan, MS
 
 Project Officers/Research Assistants
 - Adhya Neshaa Nedumaran
 - Alison Chew
+- Cheng Wenxuan
 - Gan Su Ren
 - Lau Zen Juen
 - Low Li Tong
 - Marilyn Yeo
+- Ngoi Zi Liang
 - Tam Pham
 - Tan Bee Li
 

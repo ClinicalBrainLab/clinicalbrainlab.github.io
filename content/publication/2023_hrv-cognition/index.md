@@ -14,7 +14,7 @@ authors:
 date: "2023-03-16"
 doi: ""
 featured: false
-projects: ""
+projects: ['ageing']
 publication: "Zhang, J., Lim, W., Tang, A., Tan, E., Ho, C. W., Teo, I., Chen, K., & Chen, S. A. (2023, July 22-26). HRV mediates the relationship between isthmus cingulate thickness and inhibitory control [Poster presentation]. Organization for Human Brain Mapping 29th Annual Meeting, Montréal, QC, Canada."
 publication_short: ""
 publication_types:
@@ -32,7 +32,7 @@ title: "HRV mediates the relationship between isthmus cingulate thickness and in
 url_code: ""
 url_dataset: ""
 url_pdf: ""
-url_poster: ""
+url_poster: "https://www.researchgate.net/publication/372720826_HRV_mediates_the_relationship_between_isthmus_cingulate_thickness_and_inhibitory_control"
 url_project: ""
 url_slides: ""
 url_source: ""
