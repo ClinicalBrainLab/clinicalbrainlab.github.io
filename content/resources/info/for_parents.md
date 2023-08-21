@@ -1,5 +1,5 @@
 ---
-title: Information for Parents
+title: Information for Parents and Kids 
 linktitle: Reading 
 toc: true
 type: docs
@@ -12,9 +12,9 @@ menu:
     weight: 2
 ---
 
-![png](/resources/info/SoRblog.png)
+[![png](/resources/info/SoRblog.png)](https://blogs.ntu.edu.sg/reading/)
 
-From research to practice, we communicate latest research findings, share suggestiosn for positive reading based on what we know, to cultivate interest in reading in children. Click [here](https://blogs.ntu.edu.sg/reading/welcome/) to visit our blog.
+From research to practice, we communicate latest research findings, share suggestions for positive reading based on what we know, to cultivate interest for reading in children. Click [here](https://blogs.ntu.edu.sg/reading/welcome/) to visit our blog.
 
 Learn more about Reading by exploring our blog: 
 1. [Science of Reading - Sharing what we know about reading](https://blogs.ntu.edu.sg/reading/category/science-of-reading/)
