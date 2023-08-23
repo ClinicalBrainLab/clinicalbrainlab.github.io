@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/publication-type/2/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://clinicalbrainlab.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Defining the Science of Learning: A Scoping Review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age-Related Changes in Episodic Processing of Scenes: A Functional Activation and Connectivity Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain entropy, fractal dimensions and predictability: A review of complexity measures for EEG in healthy and neuropsychiatric populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the effects of background noise and music on cognitive test performance in introverts and extraverts: A cross-cultural study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_background-music/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_background-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focality-Oriented Selection of Current Dose for Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_hrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-fMRI-approaches reveal cerebellum and visual communities to be functionally connected in obsessive compulsive disorder</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i-SATA: A MATLAB based toolbox to estimate current density generated by transcranial direct current stimulation in an individual brain</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_isata/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_isata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of primary motor cortex: More than movement execution</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_m1-review/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_m1-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indices of effect existence and significance in the Bayesian framework</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_bayesian/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximizing dissimilarity in resting state detects heterogeneous subtypes in healthy population associated with high substance use and problems in antisocial personality</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_rsfmri-subtypes/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_rsfmri-subtypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating education neuroscience for teachers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_learning-translating/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_learning-translating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain literacy empowers educators to meet diverse learner needs</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_learning-brain-literacy/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_learning-brain-literacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation analyses of tDcS montages for the investigation of dorsal and ventral pathways</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_tdcs-montages-simulation/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_tdcs-montages-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebro-cerebellar pathways for verbal working memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_cerebellum-working-memory-pathways/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_cerebellum-working-memory-pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working memory, age and education: A lifespan fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_ageing-education/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_ageing-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional connectivity of resting-state, working memory and inhibition networks in perceived stress</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_stress-working-memory/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_stress-working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of regional heterogeneity in age-related differences in functional hemispheric asymmetry: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_ageing-asymmetry/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_ageing-asymmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontal-subcortical circuitry in social attachment and relationships: A cross-sectional fMRI ALE meta-analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2017_meta-analysis-hot-cool/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2017_meta-analysis-hot-cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling individual differences with collective needs: The juxtaposition of sociopolitical and neuroscience perspectives on remediation and compensation of student skill deficits</title>
+      <link>https://clinicalbrainlab.github.io/publication/2016_learning-remediation-compensation/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2016_learning-remediation-compensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modality specificity in the cerebro-cerebellar neurocircuitry during working memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-modality/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive analysis of connectivity and aging over the adult life span</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_ageing-connectivity/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_ageing-connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of visual working memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-dynamics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
