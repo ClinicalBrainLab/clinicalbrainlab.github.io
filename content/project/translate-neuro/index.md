@@ -31,6 +31,7 @@ This work has important implications in developing educator’s brain literacy a
 Ongoing Project: 
 
 - Understanding functional relationships between socio-affective and neurocognitive brain networks in adults with ASD and ADHD to better inform learning for learners and educators: Towards maximising the adult learning potential
+- Developing educator’s Brain Literacy: BrainMap for Teacher Professional Development (DEV 01/21 AMG) (Funded by MOE-ERFP)
 
 Completed Project: 
 - [Developing a translating educational neuroscience clearinghouse (TENC) for the differentiated instruction of diverse learners](https://www.nie.edu.sg/research/projects/project/afd-07-16-zw)
