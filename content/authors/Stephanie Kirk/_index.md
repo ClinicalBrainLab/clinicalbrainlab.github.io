@@ -1,7 +1,7 @@
 ---
 title: Stephanie Kirk
 user_groups:
-- Research Assistants
+- Research Associates
 
 authors:
 - Stephanie Kirk
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant 
+role: Research Associate 
 social:
 - icon: envelope
   icon_pack: fas
