@@ -18,7 +18,7 @@ tags:
 - Deception
 
 title: Perception of Real vs. Fake Information
-authors: ["Dominique-Makowski", "Stephanie Kirk", "Wilson-Lim", "Annabel-Chen"]
+authors: ["Dominique-Makowski", "Stephanie-Kirk", "Wilson-Lim", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
