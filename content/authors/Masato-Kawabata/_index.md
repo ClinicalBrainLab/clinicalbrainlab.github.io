@@ -2,7 +2,7 @@
 authors:
 - Kawabata, M.
 
-bio: Dr. Masato Kawabata is currently a Faculty member of Exercise and Sport Psychology at Physical Education and Sports Science (PESS), National Institute of Education.
+bio: Dr. Masato Kawabata is currently a Professor of Sport and Exercise Psychology at Rikkyo University.
 
 education:
   courses:
@@ -22,9 +22,9 @@ interests:
 
 
 organizations:
-- name: National Institute of Education
+- name: Rikkyo University
   url: ""
-role: Assistant Professor
+role: Professor
 social:
 - icon: envelope
   icon_pack: fas

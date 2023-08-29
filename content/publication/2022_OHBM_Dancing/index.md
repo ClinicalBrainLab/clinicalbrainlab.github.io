@@ -12,7 +12,7 @@ authors:
 date: "2023-03-16"
 doi: ""
 featured: false
-projects: ""
+projects: ["INDAK"]
 publication: "Lin H.-Y., Wu, C.-Y., Guzman M. F., Yu, J., Dominguez, J., & Chen, S.H. A. (2023). Social Dance to Maintain Cognitive Performance and Cortical Morphology in Older Adults with MCI. The 29th Annual Meeting of the Organization for Human Brain Mapping, Montreal, Canada."
 publication_short: ""
 publication_types:

@@ -1,11 +1,11 @@
 ---
 title: Stephanie Kirk
 user_groups:
-- Research Assistants
+- Research Associates
 
 authors:
 - Stephanie Kirk
-bio: 
+bio:
 
 education:
   courses:
@@ -15,19 +15,19 @@ education:
   - course: BA Psychology
     institution: University of British Columbia
     year: 2017-2019
- 
 
-email: "stephani003@e.ntu.edu.sg"
+
+email: "stephanie.kirk@staff.main.ntu.edu.sg"
 interests:
 
 
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant 
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:stephani003@e.ntu.edu.sg
-  
+  link: mailto:stephanie.kirk@staff.main.ntu.edu.sg
+
 ---

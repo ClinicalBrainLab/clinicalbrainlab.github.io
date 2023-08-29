@@ -35,8 +35,8 @@ subtitle = ""
 [[feature]]
   icon = "heartbeat"
   icon_pack = "fas"
-  name = "Deception and Trust"
-  description = "We use neuroimaging techniques to understand the behavioural and neural correlates of deception."
+  name = "Social Neuroscience"
+  description = "We use neuroimaging techniques to understand the biological mechanisms of social experiences and processes."
 
 
 # Uncomment to use custom SVG icons.
