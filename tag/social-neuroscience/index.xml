@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Neuroscience | The Clinical Brain Lab</title>
+    <title>social-neuroscience | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/tag/social-neuroscience/</link>
       <atom:link href="https://clinicalbrainlab.github.io/tag/social-neuroscience/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social Neuroscience</description>
+    <description>social-neuroscience</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
-      <title>Social Neuroscience</title>
+      <title>social-neuroscience</title>
       <link>https://clinicalbrainlab.github.io/tag/social-neuroscience/</link>
     </image>
     
@@ -19,6 +19,15 @@
       <guid>https://clinicalbrainlab.github.io/project/fake-news/</guid>
       <description>&lt;p&gt;Deception, or in other words, information that does not reflect reality, created or delivered with the intention of duping the receiver, is increasingly prevalent in the age of social media. With virtual reality, augmented reality, uncontrolled mass communication, and new forms of fiction, it becomes increasingly difficult to separate truth from deception. Moreover, brain mechanisms and other physiological correlates underlying the processing and acceptance of deceptive information remain largely unknown. This study will be a critical first step in understanding how deceitful information becomes endorsed by individuals susceptible to fake news beliefs and conspiracy theories, consequently facilitating counteract measures in the future.&lt;/p&gt;
 &lt;p&gt;The first aim of this study is to establish and validate a strong experimental paradigm for investigating the neurocognitive processes underlying the belief in deceptive (i.e., Fake/Real) information. It should be noted that real and fake in this study is defined by the factual accuracy of the information based on current credible news. The second aim is to investigate how these processes can be experimentally modulated and the extent of their impact on one&amp;rsquo;s deception appraisal. This paradigm will then help to build a computational model of reality belief which in turn will be used to predict the effect of specific interventions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participants Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/proof/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/proof/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./proof.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
