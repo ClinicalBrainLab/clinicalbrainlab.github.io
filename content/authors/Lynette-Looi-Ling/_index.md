@@ -6,34 +6,26 @@ bio:
 
 education:
   courses:
-  - course: Ph.D.
-    institution: 
-    #year:
-  - course: 
-    institution: 
-    #year: 
+  - course: Doctor of Philosophy, Neuroscience
+    institution: Aston University, United Kingdom
+    year: 2018-2022
+  - course: Master of Science (MSc) in Brain Imaging and Cognitive Neuroscience
+    institution: University of Birmingham, United Kingdom
+    year: 2016-2017
 
-email: 
+email: lynette.looi@ntu.edu.sg
 
 
 organizations:
-- name: 
+- name: Nanyang Technological University
   url: ""
-role: 
+role: Research Fellow
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
-- icon: orcid
-  icon_pack: ai
-  link: 
-- icon: researchgate
-  icon_pack: ai
-  link: 
+  link: mailto:lynette.looi@ntu.edu.sg
+
 
 
 superuser: false
@@ -43,6 +35,6 @@ user_groups:
 - Research Scientists and Research Fellows
 
 ---
-Adam John Privitera is a Research Fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. His research focuses on how differences in language experience influence cognitive processes, as well as the application of findings from the cognitive and neural sciences to educational practice and policy.
+Lynette Looi Ling is a Research Fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include combining the use of advanced neuroimaging methods with neuropsychological techniques in cognitive research in both healthy and diseased paediatric brains.
 
 --- 
