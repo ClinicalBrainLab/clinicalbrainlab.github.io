@@ -15,7 +15,7 @@ profile: true
 tags:
 - Learning
 title: Understanding Brain Networks of Reading and Math 
-authors: ["Lynette-Looi", "Darren-Yeo", "ChiaoYi-Wu", "HsinYu-Lin", "Chua-Wei-Ting-Serena", "Wilson-Lim", "Annabel-Chen"]
+authors: ["Lynette-Looi-Ling", "Darren-Yeo", "ChiaoYi-Wu", "HsinYu-Lin", "Chua-Wei-Ting-Serena", "Wilson-Lim", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
