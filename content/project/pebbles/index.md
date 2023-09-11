@@ -28,6 +28,5 @@ Using a multimodal approach, we will identify early neural, cognitive, and envir
 We will evaluate the neurocognitive effects of different training programmes on enhancing biliteracy development. The knowledge gained from the project will broaden our understanding of the neurocognitive development of language and reading networks in young bilinguals. 
 The findings will have significant implications for early screening and effective training for promoting balanced bilingual and biliteracy development.
 
-Ongoing project:
-
+<u>Ongoing Project:</u> 
 - Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development - *funded by Singapore Millennium Foundation*
