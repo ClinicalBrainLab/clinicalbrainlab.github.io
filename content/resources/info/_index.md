@@ -18,3 +18,4 @@ type: docs  # Do not modify.
 
 ---
 
+At Clinical Brain Lab, we communicate latest research findings to parents and children that are relevant, useful, and informative.
