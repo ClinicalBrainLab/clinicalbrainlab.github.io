@@ -1,7 +1,7 @@
 ---
 title: Chua Wei Ting Serena 
 user_groups:
-- Undergraduate Students
+- Research Assistants
 
 authors:
 - Chua Wei Ting Serena
@@ -13,10 +13,10 @@ education:
     institution: Nanyang Technological University, Singapore
     year: 2019 - 2023
 
-email: "schua043@e.ntu.edu.sg"
+email: "serena.chuawt@ntu.edu.sg"
 interests:
 - Neuroimaging Techniques 
-- Atypical development in language 
+- Atypical development  
 
 
 organizations:
@@ -26,9 +26,10 @@ role: Undergraduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:schua043@e.ntu.edu.sg
+  link: mailto:serena.chuawt@ntu.edu.sg
 
 
 superuser: false
 
 ---
+Serena is currently a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). Serena has an interest in understanding the neuroscience behind reading, and language, and consequently the neurocircuity underlying key learning disorders. In the future, she hopes to apply such knowledge in the development of interventions for such disorders. 
