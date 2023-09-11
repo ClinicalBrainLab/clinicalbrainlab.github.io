@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Information for Parents and Kids
-summary:
+summary: At the Clinical Brain Lab, we communicate latest research findings to parents and children that are relevant, useful, and informative.
 weight: 1
 
 # Page metadata.
