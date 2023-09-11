@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Undergraduate Student
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
