@@ -25,5 +25,5 @@ Cerebellum has increasingly been recognized for its contributions beyond motor c
 
 The findings highlight the role of the cerebellum in reading networks. The implications underscore the need for further research on heterogeneity of cerebellar functions and cerebro-cerebellar functional connectivity to develop a comprehensive understanding of the neural correlates of reading.
 
-Research Output: 
-1. Mapping the Cerebellum to the Neural Network of Reading in Bilinguals 
+<u>Research Output:</u> 
+1. <b>Conference:</b> [Mapping the Cerebellum to the Neural Network of Reading in Bilinguals](https://www.clinicalbrain.org/publication/2023_ohbm_cerebellum-reading/)

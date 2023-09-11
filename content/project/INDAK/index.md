@@ -27,5 +27,6 @@ The project aims to provide scientific evidence on a public health intervention 
 The primary outcome is cognitive performance assessed by several behavioral tasks. Secondary outcomes are functional connectivity assessed through brain imaging, and measures of behavioral, functional level, and quality of life. This model can be an ecological, low-cost, and effective program, thereby conducive to widespread implementation in the Philippines as well as in other low-resource settings with similar public health challenges. 
 This project is a collaboration with St. Luke's Medical Center, Institute for Neurosciences, Quezon City, Philippines.
 
-Ongoing projects:
+<u>Ongoing Project:</u> 
+
 - [FINOMAIN: FIlipiNO Dance Intervention to MAINtain Cognitive Performance in High Risk Population](https://pubmed.ncbi.nlm.nih.gov/34557142/)

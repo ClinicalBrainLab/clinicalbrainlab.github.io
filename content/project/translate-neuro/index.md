@@ -28,12 +28,11 @@ The broad goals of our research are to encourage and strengthen dialogue between
 To achieve these goals we utilise a range of approaches, including language translations, open database platforms, meta-analyses and meta-analytic brain connectivity modelling, data-visualisation and focus group discussions. 
 This work has important implications in developing educator’s brain literacy and informing teaching and learning to support the growing population of diverse child and adult learners.
 
-Ongoing Project: 
-
+<u>Ongoing Project:</u> 
 - Understanding functional relationships between socio-affective and neurocognitive brain networks in adults with ASD and ADHD to better inform learning for learners and educators: Towards maximising the adult learning potential
 - Developing educator’s Brain Literacy: BrainMap for Teacher Professional Development (DEV 01/21 AMG) (Funded by MOE-ERFP)
 
-Completed Project: 
+<u>Completed Project:</u> 
 - [Developing a translating educational neuroscience clearinghouse (TENC) for the differentiated instruction of diverse learners](https://www.nie.edu.sg/research/projects/project/afd-07-16-zw)
 
 

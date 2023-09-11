@@ -29,7 +29,7 @@ As technology and globalisation are changing the nature of labour markets and in
 
 The Centre for Lifelong Learning and Individualised Cognition (CLIC) programme aims to address this gap by developing innovative research in the science of learning and translating it to educational and real-life applications across the life course. We will adopt an integrated interdisciplinary approach that marries cross-disciplinary expertise and methodologies across Cambridge and NTU to target three life periods (early years, adolescence, middle age) when flexible behaviour is critical for coping with highly changing circumstances. Working together, we aspire to provide Singapore with a competitive leading edge in the Science of Learning through its transformative theory, methodological innovation, and high-impact practical outcomes.
 
-Ongoing Project: 
+<u>Ongoing Project:</u> 
 
 - Understanding and promoting individual cognitive flexibility – funded by National Research Foundation, Prime Minister’s Office Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) programme.
 
