@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam John Privitera | The Clinical Brain Lab</title>
-    <link>https://clinicalbrainlab.github.io/author/adam-john-privitera/</link>
-      <atom:link href="https://clinicalbrainlab.github.io/author/adam-john-privitera/index.xml" rel="self" type="application/rss+xml" />
-    <description>Adam John Privitera</description>
+    <title>Yanjun Wei | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/yanjun-wei/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/yanjun-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanjun Wei</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
-      <title>Adam John Privitera</title>
-      <link>https://clinicalbrainlab.github.io/author/adam-john-privitera/</link>
+      <title>Yanjun Wei</title>
+      <link>https://clinicalbrainlab.github.io/author/yanjun-wei/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://clinicalbrainlab.github.io/publication/2023_chinese-syntax-semantics/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_chinese-syntax-semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defining the Science of Learning: A Scoping Review</title>
-      <link>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</link>
-      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2023_science-of-learning_review/</guid>
       <description></description>
     </item>
     
