@@ -7,7 +7,7 @@ date: "2023-08-19"
 
 # change to false if there is timing
 all_day: true
-location: Virtual Event
+location: Hybrid (Vietnam / Zoom)
 address: ""
 tags: [BrainConnects]
 draft: false
