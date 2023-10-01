@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 
 ---
 
-[Nanyang Technological University](www.ntu.edu.sg) is a research intensive university currently ranked 13th globally and placed 1st amongst the world’s best young universities.
+[Nanyang Technological University](www.ntu.edu.sg) is a research intensive university ranked 26th globally (QS 2024) and placed 1st amongst the world’s best young universities (THE 2023).
 
 The university has colleges of Engineering, Business, Science, Humanities, Arts, & Social Sciences, and an Interdisciplinary Graduate School. It also has a medical school, Lee Kong Chian School of Medicine, set up jointly with Imperial College London.
 
