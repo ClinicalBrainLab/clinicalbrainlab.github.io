@@ -5,12 +5,21 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Reading and Math in Young Children</title>
+      <link>https://clinicalbrainlab.github.io/post/brainnorm/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/brainnorm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;brainnorm.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tracking gaze position from EEG: Exploring the possibility of an EEG-based virtual eye-tracker</title>
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>Participants Needed</title>
+      <title>Creative Writing</title>
       <link>https://clinicalbrainlab.github.io/post/proof/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/post/proof/</guid>
@@ -113,7 +122,7 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
     </item>
     
     <item>
-      <title>Chinese-English Bilingual Children Needed</title>
+      <title>MRI Space Mission</title>
       <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
@@ -175,15 +184,6 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Participants Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/nice-lab/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/nice-lab/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./NICElab21.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -258,15 +258,6 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Young Adults Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/role-play/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/role-play/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./Role-play.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -662,24 +653,6 @@ Our projects will shed light on the impact of critical factors (e.g., orthograph
     </item>
     
     <item>
-      <title>Chinese-English Bilinguals Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/dyslexia-biliteracy/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/dyslexia-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./dyslexia-biliteracy-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Healthy Adults Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/fnirs-biliteracy/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/fnirs-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./fNIRS-tDCS-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Promoting Effective Biliteracy</title>
       <link>https://clinicalbrainlab.github.io/project/pebbles/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
@@ -692,15 +665,6 @@ The findings will have significant implications for early screening and effectiv
 &lt;ul&gt;
 &lt;li&gt;Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development - &lt;em&gt;funded by Singapore Millennium Foundation&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tamil-English Bilinguals Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/adult-biliteracy/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/adult-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./TE-biliteracy-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
