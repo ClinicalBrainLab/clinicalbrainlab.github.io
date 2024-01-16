@@ -2,7 +2,7 @@
 authors:
 - Zhong Miao
 
-bio: Zhong Miao is a research fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include cognitive biases (e.g., curse of knowledge) in adults, and neural mechanisms of social cognition and stress processing. She also examines cognitive and social-emotional development in preschoolers. 
+bio: 
 
 education:
   courses:
@@ -38,3 +38,6 @@ user_groups:
 - Research Scientists and Research Fellows
 
 ---
+Zhong Miao is a research fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include cognitive biases (e.g., curse of knowledge) in adults, and neural mechanisms of social cognition and stress processing. She also examines cognitive and social-emotional development in preschoolers. 
+
+--- 
