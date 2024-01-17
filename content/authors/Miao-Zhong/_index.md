@@ -15,9 +15,9 @@ education:
 
 email: "miao.zhong@ntu.edu.sg"
 interests:
-- Cognitive Biases (e.g., curse of knowledge)
+- Cognitive biases in adults (e.g., curse of knowledge)
 - Neural mechanisms of social cognition and stress processing
-- Cognitiive and social-emotional development in preschoolers
+- Cognitive and social-emotional development in preschoolers
 
 organizations:
 - name: Nanyang Technological University
