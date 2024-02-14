@@ -5,12 +5,28 @@
     <link>https://clinicalbrainlab.github.io/publication/</link>
       <atom:link href="https://clinicalbrainlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://clinicalbrainlab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Subjective versus objective language proficiency measures in the investigation of bilingual effects on cognitive control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bilingual-cognitive-control/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bilingual-cognitive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Music and Aging through the lens of Bayesian Inference</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is there a foreign language effect on academic integrity?</title>
