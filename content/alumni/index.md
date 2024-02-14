@@ -90,6 +90,7 @@ Research Associates
 - Hoki Fung, MS
 - Ilang Kumaran Yuvadarshini, MS
 - Meenakshi Siddharthan, MS
+- Stephanie Kirk, MA
 
 Project Officers/Research Assistants
 - Adhya Neshaa Nedumaran
@@ -102,6 +103,7 @@ Project Officers/Research Assistants
 - Ngoi Zi Liang
 - Tam Pham
 - Tan Bee Li
+- Te An Shu
 
 Interns
 - Elaine Teo, Intern
