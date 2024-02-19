@@ -50,6 +50,23 @@ height = "390px"
   align = "right"
 
   overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/PROOF_RA_job-banner.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+ # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Find out about open positions"
+  cta_url = "https://www.clinicalbrain.org/join/join_cbl_proof_ra/"
+  cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
+
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+
+  overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/science_of_learning.PNG"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
    
@@ -75,23 +92,6 @@ height = "390px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Link to paper"
   cta_url = "https://www.mdpi.com/1424-8220/23/8/4107"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-  
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/Job Ad Banner.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-  
- # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Find out about open positions"
-  cta_url = "http://www.clinicalbrain.org/join/join_cbl_part-time-ra/"
   cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
   
