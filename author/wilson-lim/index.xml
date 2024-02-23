@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilson Lim | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/wilson-lim/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/wilson-lim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wilson Lim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Wilson Lim</title>
+      <link>https://clinicalbrainlab.github.io/author/wilson-lim/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Music and Aging through the lens of Bayesian Inference</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Real vs. Fake Information</title>
+      <link>https://clinicalbrainlab.github.io/project/fake-news/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/fake-news/</guid>
+      <description>&lt;p&gt;Deception, or in other words, information that does not reflect reality, created or delivered with the intention of duping the receiver, is increasingly prevalent in the age of social media. With virtual reality, augmented reality, uncontrolled mass communication, and new forms of fiction, it becomes increasingly difficult to separate truth from deception. Moreover, brain mechanisms and other physiological correlates underlying the processing and acceptance of deceptive information remain largely unknown. This study will be a critical first step in understanding how deceitful information becomes endorsed by individuals susceptible to fake news beliefs and conspiracy theories, consequently facilitating counteract measures in the future.&lt;/p&gt;
+&lt;p&gt;The first aim of this study is to establish and validate a strong experimental paradigm for investigating the neurocognitive processes underlying the belief in deceptive (i.e., Fake/Real) information. It should be noted that real and fake in this study is defined by the factual accuracy of the information based on current credible news. The second aim is to investigate how these processes can be experimentally modulated and the extent of their impact on one&amp;rsquo;s deception appraisal. This paradigm will then help to build a computational model of reality belief which in turn will be used to predict the effect of specific interventions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Brain Networks of Reading and Math</title>
+      <link>https://clinicalbrainlab.github.io/project/brain-norm/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/brain-norm/</guid>
+      <description>&lt;p&gt;Tapping on the advancements of neuroimaging, the project aims to develop a combination of behavioural measures that may be as sensitive as neuroimaging measures to delineate the different learning disabilities subgroups in young children. There is a growing prevalence of learning disabilities (LD) in Reading Difficulties (RD), Math Difficulties (MD) and their comorbidity (Reading-Math Difficulties; RMD) in young children. Given the important roles math and reading play in the development of emerging skills during early school years, early identification is crucial.&lt;/p&gt;
+&lt;p&gt;Using advanced neuroimaging methods, we aim to better understand the extent to which reading, math and working memory are subserved by common neural substrates at the individual level. We will then further examine these networks in combination with learning disabilities screeners, which will help to distinguish children with RD, MD and RMD at the neural level. We aim to then identify existing sensitive screening tools to delineate the LD subgroups, which will allow prediction to intervention responsiveness, and enable better tailoring of the intervention these young children will receive from the onset.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Ongoing Projects:&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Project 1:&lt;/b&gt; Cognitive Screen and Characterization of Reading and Math Skills&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Project 2:&lt;/b&gt; Differentiating the Brain Networks underpinning Reading and Math (Structural MRI, Diffusion MRI, Resting-state Functional MRI, Task-based Functional MRI)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Project 3:&lt;/b&gt; Examining the functional brain networks supporting reading using fNIRS&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Project 4:&lt;/b&gt; Examining the functional brain networks supporting math using fNIRS&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Project 5:&lt;/b&gt; Learning Support in Action&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRV mediates the relationship between isthmus cingulate thickness and inhibitory control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta-burst stimulation-induced cortical plasticity in younger and older adults: a TMS-EEG study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the effects of background noise and music on cognitive test performance in introverts and extraverts: A cross-cultural study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_background-music/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_background-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Aging Lifestyle</title>
+      <link>https://clinicalbrainlab.github.io/project/ageing/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/ageing/</guid>
+      <description>&lt;p&gt;Combining both cognitive and exercise training in an intervention program may be advantageous to enhance cognitive and physical functions.
+However, this approach has yet to be well researched and implemented. Given the hot and humid climate and community environments (e.g., sidewalks and street traffic) in Singapore, common aerobic exercises such as walking and jogging may not be the first choice for sedentary older adults in Singapore.
+Therefore, we proposed and developed an intervention program (&lt;strong&gt;ExCITE: Exercise-Cognition Integrated Training for Enhancement&lt;/strong&gt;) that incorporates both cognitive and physical exercise components that can be easily implemented and weaved into the lifestyles of our aging population.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Research Output:&lt;/u&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Publication:&lt;/b&gt; 
+&lt;a href=&#34;https://doi.org/10.1186/s13102-021-00309-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acute effects of Square Stepping Exercise on cognitive and social functions in sedentary young adults: A home-based online trial.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Publication:&lt;/b&gt; 
+&lt;a href=&#34;https://doi.org/10.15294/ajpesh.v2i2.62184&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Short-term effects of Square Stepping Exercise on cognitive and social functions in sedentary older adults: A home-based online trial.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Conference Poster:&lt;/b&gt; 
+&lt;a href=&#34;http://www.clinicalbrain.org/publication/2023_tmseeg-youngold/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theta-burst stimulation-induced cortical plasticity in younger and older adults: a TMS-EEG study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Conference Poster:&lt;/b&gt; 
+&lt;a href=&#34;http://www.clinicalbrain.org/publication/2023_hrv-affective/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Conference Poster:&lt;/b&gt; 
+&lt;a href=&#34;http://www.clinicalbrain.org/publication/2023_hrv-cognition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HRV mediates the relationship between isthmus cingulate thickness and inhibitory control&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

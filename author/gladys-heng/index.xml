@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gladys Heng | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/gladys-heng/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/gladys-heng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gladys Heng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Gladys Heng</title>
+      <link>https://clinicalbrainlab.github.io/author/gladys-heng/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Music and Aging through the lens of Bayesian Inference</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-music-aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta Power Differences as a Function of Level of Familiarity with a Musical Style</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of regional heterogeneity in age-related differences in functional hemispheric asymmetry: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2018_ageing-asymmetry/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2018_ageing-asymmetry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
