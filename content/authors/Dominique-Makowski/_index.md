@@ -17,7 +17,7 @@ organizations:
   url: https://www.sussex.ac.uk/
   
 # Short bio (displayed in user profile at end of posts)
-bio: Trained as neuropsychologist and CBT psychotherapist, I am currently working as a lecturer at the University of Sussex, UNited Kingdom, where where we study the neurophysiological underpinnings of reality perception.
+bio: Trained as neuropsychologist and CBT psychotherapist, I am currently working as a lecturer at the University of Sussex, United Kingdom, where where we study the neurophysiological underpinnings of reality perception.
 
 # Interests to show in About widget
 interests:
