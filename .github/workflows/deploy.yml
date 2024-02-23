@@ -23,7 +23,7 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
 
       - name: Install hugo
-        run: Rscript -e 'blogdown::install_hugo(arch = "universal")'
+        run: Rscript -e 'blogdown::install_hugo(version = "0.122.0", arch = "universal")'
 
       - name: Build site with blogdown
         run: Rscript -e "blogdown::build_site()"
