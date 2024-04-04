@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Visiting PhD Student
+role: Visiting Ph.D Student
 social:
 - icon: researchgate
   icon_pack: ai
@@ -42,3 +42,4 @@ user_groups:
 
 ---
 
+Yifan Wang is a visiting Ph.D student from Shaanxi Normal University. She mainly engages in the investigation and intervention of creative cognitive processing under the effect of stress and drug addiction by combining multiple cognitive neuroscience methods, such as fNIRS, EEG, tDCS and eye-tracking technology. 
