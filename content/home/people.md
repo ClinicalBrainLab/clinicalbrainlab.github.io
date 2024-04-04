@@ -16,12 +16,11 @@ subtitle = "Check out our [open positions](/join/) or find out more about our [a
   user_groups = ["Principal Investigators",
                  "Research Scientists and Research Fellows",
                  "Collaborators",
-                 "Graduate Students",
-				 "Research Associates",
+				         "Research Associates",
                  "Research Assistants",
                  "Graduate Students",
                  "Undergraduate Students",
-				 "Interns",
+				         "Interns",
                  "System Administrators"]
 
 [design]
