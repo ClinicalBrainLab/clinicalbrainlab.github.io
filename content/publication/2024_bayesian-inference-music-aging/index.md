@@ -4,10 +4,10 @@ abstract: "Bayesian inference has recently gained momentum in explaining music p
 authors:
 - Gladys-Heng
 - Jiayi-Zhang
-- Leonardo-Bonetti
+- Leonardo Bonetti
 - Wilson-Lim
-- Peter-Vuust
-- Kat-Agres
+- Peter Vuust
+- Kat Agres
 - Annabel-Chen
 
 date: "2024-02-02"
