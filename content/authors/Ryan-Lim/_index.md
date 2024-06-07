@@ -15,7 +15,7 @@ email: "limh0175@e.ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Intern
+role: Undergraduate Student
 
 social:
 - icon: envelope
@@ -29,7 +29,6 @@ superuser: false
 
 title: Lim Hon Hwa, Ryan
 user_groups:
-- Interns
 - Undergraduate Students
 
 ---

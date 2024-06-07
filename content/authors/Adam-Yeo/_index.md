@@ -27,7 +27,7 @@ role: Undergraduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bhavya004@e.ntu.edu.sg
+  link: mailto:ayeo024@e.ntu.edu.sg
 
 
 
