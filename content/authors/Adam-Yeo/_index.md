@@ -35,4 +35,4 @@ superuser: false
 
 ---
 
-Adam is an undergraduate student of Psychology at Nanyang Technological Univeristy and is interning at The Clinicial Brain Lab. He is passionate about special needs education and aspires to contribute to the sector in the future. He is assisting with work on the neural networks in reading and math.
+Adam is an undergraduate student of Psychology at Nanyang Technological University and is interning at The Clinicial Brain Lab. He is passionate about special needs education and aspires to contribute to the sector in the future. He is assisting with work on the neural networks in reading and math.
