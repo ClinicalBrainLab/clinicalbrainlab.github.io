@@ -16,7 +16,7 @@ email: "aloh009@e.ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Undergraduate
+role: Undergraduate student
 
 social:
 - icon: envelope
@@ -29,6 +29,8 @@ superuser: false
 
 title: Aquila Loh
 user_groups:
-- Undergraduate
+- Undergraduate Students
   
 --- 
+
+Aquila Loh is an undergraduate student at Nanyang University of Technology interested in furthering her studies in criminal and forensic psychology.
