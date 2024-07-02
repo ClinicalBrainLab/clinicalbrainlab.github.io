@@ -10,18 +10,18 @@ authors:
 - Kat Agres
 - Annabel-Chen
 
-date: "2024-02-02"
-doi: "https://doi.org/10.31219/osf.io/aetbg"
+date: "2024-07-01"
+doi: "https://doi.org/10.1016/j.neubiorev.2024.105768"
 featured: false
 projects: ""
-publication: ""
+publication: "Neuroscience & Biobehavioural Reviews"
 publication_short: ""
 publication_types:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-- "3"
-publishDate: "2024-02-02"
+- "2"
+publishDate: "2024-07-01"
 tags:
 - Ageing
 - Music
