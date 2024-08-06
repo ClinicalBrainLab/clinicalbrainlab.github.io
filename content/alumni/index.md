@@ -19,9 +19,11 @@ Nanyang Technological University (Singapore):
 Undergraduate Students
 - Amos Law 
 - Arumugam Ramaswamy 
+- Bhavya Arya
 - Cheng Wenxuan 
 - Chia Kai Xin 
 - Chui Yingqi 
+- Claire Chang
 - Dawn Lim 
 - Derric Eng 
 - Ebenezer Chan 
@@ -49,6 +51,7 @@ Undergraduate Students
 - Rachel Tham 
 - Randal Lee Zhisheng 
 - Regine Lau 
+- Ryan Lim
 - Samuel Chong 
 - Seanna Neo 
 - Serene Koh 
@@ -63,6 +66,7 @@ Undergraduate Students
 - Yap Jia Yu 
 - Yeo Jia Ying 
 - Yeo Siok Peng 
+- Yip Jiamin (Bethany)
 
 Graduate Students
 - Chan Yee Pei
@@ -97,6 +101,7 @@ Project Officers/Research Assistants
 - Alison Chew
 - Cheng Wenxuan
 - Gan Su Ren
+- Janet Tan
 - Lau Zen Juen
 - Low Li Tong
 - Marilyn Yeo
