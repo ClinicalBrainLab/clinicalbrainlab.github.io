@@ -5,12 +5,20 @@
     <link>https://clinicalbrainlab.github.io/tag/ageing/</link>
       <atom:link href="https://clinicalbrainlab.github.io/tag/ageing/index.xml" rel="self" type="application/rss+xml" />
     <description>Ageing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Ageing</title>
       <link>https://clinicalbrainlab.github.io/tag/ageing/</link>
     </image>
+    
+    <item>
+      <title>Differential neural activity across Hierarchical Bayesian inference under uncertainty in Older and Younger adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Music and Aging through the lens of Bayesian Inference</title>
