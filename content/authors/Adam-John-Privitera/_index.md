@@ -19,7 +19,7 @@ email: "adam.privitera@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Fellow
+role: ‎Collaborator‎
 
 social:
 - icon: envelope
@@ -43,6 +43,7 @@ user_groups:
 - Research Scientists and Research Fellows
 
 ---
-Adam John Privitera is a Research Fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. His research focuses on how differences in language experience influence cognitive processes, as well as the application of findings from the cognitive and neural sciences to educational practice and policy.
+
+Adam John Privitera is a Research Scientist in the Science of Learning in Education Centre, National Institute of Education, Nanyang Technological University. His research focuses on how differences in language experience influence cognitive processes, as well as the application of findings from the cognitive and neural sciences to educational practice and policy.
 
 --- 
