@@ -40,7 +40,7 @@ superuser: false
 
 title: Adam John Privitera
 user_groups:
-- Research Scientists and Research Fellows
+- Collaborators
 
 ---
 
