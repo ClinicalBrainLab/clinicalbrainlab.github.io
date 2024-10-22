@@ -32,7 +32,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/catherine_wsh
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0006-6510-5358
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Catherine-wsh
 
 
 superuser: false
