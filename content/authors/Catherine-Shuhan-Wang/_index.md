@@ -2,7 +2,7 @@
 title: Catherine (Shuhan) Wang
 authors:
 - Catherine(Shuhan) Wang
-bio: Catherine is currently a Research Assistant at the Clinical Brain Lab. 
+bio: Catherine is currently a Research Associate at the Clinical Brain Lab. 
 
 education:
   courses:
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,7 +43,7 @@ social:
 superuser: false
 
 user_groups:
-- Research Assistants
+- Research Associates
 
 ---
 
