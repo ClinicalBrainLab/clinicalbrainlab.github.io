@@ -1,10 +1,10 @@
 ---
-title: Research Assistant Position at the Clinical Brain Lab
-linktitle: Research Assistant
+title: Part-time Student Assistant Position at the Clinical Brain Lab
+linktitle: Part-time Student Assistant
 toc: true
 type: docs
-date: "2024-02-18T00:00:00+01:00"
-lastmod: "2024-02-18"
+date: "2024-11-01T00:00:00+01:00"
+lastmod: "2024-11-03"
 draft: false
 menu:
   join:
@@ -14,39 +14,38 @@ menu:
 
 <span style="background-color: #FFFF00">**Now Open for Applications**</span>
 
-The Clinical Brain Lab within the School of Social Sciences is seeking applications for the position of Research Assistant. The Research Assistant will be an integral member of an inter-disciplinary research lab developing and carrying out neuroimaging methodologies to investigate the neurocognitive processes underlying the belief of deceptive information.
+The Clinical Brain Lab within the School of Social Sciences is looking to hire several part-time undergraduate research assistants. The Research Assistant will be an integral member of an inter-disciplinary research lab developing and carrying out neuroimaging methodologies to investigate the neurocognitive processes underlying the belief of deceptive information.
 
-The successful candidate will be responsible for overseeing the day-to-day operations of research projects. This position requires task-orientation, excellent organizational skills, attention to details and accuracy, flexibility in responding to fluid situations, good interpersonal skills, as well as the ability to work independently. The main research modalities in our lab include neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), electroencephalography (EEG), Transcranial Magnetic Stimulation (TMS).
+You will be part of a dynamic team of researchers who apply multi-modal approaches, including neurocognitive assessments, and neuroimaging techniques such as neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), electroencephalography (EEG), Transcranial Magnetic Stimulation (TMS).
 
 
 ## Job Scope
 
-* Day to day coordination of funded projects.
-* Preparation of ethics documents to institutional review boards.
-* Participant recruitment.
-* Data collection using neurophysiological recordings, such as electroencephalography.
-* Liaise with stakeholders and project collaborators.
-* Systems administration, including maintenance of network servers and data security.
-* Contribute to the production of research reports.
-* Perform other tasks as required by the Principal Investigators relevant to the research.
-
+* Assisting with participant recruitment and participant handling.
+* Assisting with neurophysiological and behavioral testing of participants.
+* Assisting with qualitative data collection and analysis.
+* Conducting transcription, coding, and entry of qualitative data from collected datasets.
+* Supporting/performing other research-related tasks as required by the principal investigators.
 
 ## Requirements
 
-* Bachelors (Honours) degree in Psychology, Cognitive Neuroscience or related field from University of good standing.
-* Experience with electroencephalography is preferred.
-* Good project coordination and administration skills, including data management and storage.
-* Strong oral and written communication skills.
-* Excellent organizational skills and able to work within given deadlines.
-* Self-directed learner who effectively picks up relevant skills as needed.
+* You must be a current undergraduate student at Nanyang Technological University (NTU)
+* Good interpersonal, written, listening, and verbal communication skills.
+* Good organizational skills and ability to work within given deadlines.
+* Prior experience with EEG or qualitative experiments is preferred.
+* Prior experience with transcribing and coding qualitative data is preferred.
 
 
 ## Apply
 
 If you are interested in this job opening, please contact:
 
-Principal Investigator: Prof. Annabel Chen
+Research Associate: Catherine (Shuhan) Wang
 
-Email: AnnabelChen@ntu.edu.sg
+Email: shuhan.wang@ntu.edu.sg
+
+## Flyer
+
+![png](/join/PROOFPTRA.png)
 
 
