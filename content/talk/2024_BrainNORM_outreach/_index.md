@@ -4,10 +4,9 @@ subtitle: Exploring Children's Reading with Brain-NORM: From Brain to Books
 event: In collaboration with the National Library Board (NLB), we are hosting a public outreach event focused on exploring young children's reading. Led by researchers from Nanyang Technological University (NTU) and the National Institute of Education (NIE), participants will gain insights into current research on reading, including its importance, the brain’s role in reading and numeracy learning, and key developmental milestones for children. Researchers will also share practical strategies based on recent findings that participants can use to help foster young children's reading interests.
 event_url:
 date: "2024-12-14"
-
+time: "14:00 PM - 16:00 PM"
 # change to false if there is timing
 all_day: false
-timing: 14:00 PM - 16:00 PM
 location: Central Public Library, Singapore
 address: ""
 tags: [Learning]
