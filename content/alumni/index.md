@@ -87,6 +87,7 @@ Research Fellows
 - Nestor Vinas-Guasch, PhD
 - Rajan Kashyap, PhD
 - Tommy Ng, PhD
+- Miao Zhong, PhD
 
 Research Associates
 - Alvin Lim, MA
@@ -95,6 +96,7 @@ Research Associates
 - Ilang Kumaran Yuvadarshini, MS
 - Meenakshi Siddharthan, MS
 - Stephanie Kirk, MA
+- Wilson Lim
 
 Project Officers/Research Assistants
 - Adhya Neshaa Nedumaran
