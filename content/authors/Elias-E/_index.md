@@ -58,7 +58,7 @@ superuser: false
 
 title: Elias Ebrahimzadeh
 user_groups:
-- Alumni
+- Research Scientists and Research Fellows
 
 ---
 
