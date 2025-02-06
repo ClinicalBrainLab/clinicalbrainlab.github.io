@@ -4,9 +4,8 @@ authors:
 bio: Elias is an alumnus of CLIC.
 
 education:
-  courses:
-    - course: Postdoctoral Research Fellow
-    institution:IPM, Tehran, Iran
+  - course: Postdoctoral Research Fellow
+    institution: IPM, Tehran, Iran
     year: 2020 - 2023
   - course: Postdoctoral Research Fellow
     institution: Nanyang Technological University, Singapore
