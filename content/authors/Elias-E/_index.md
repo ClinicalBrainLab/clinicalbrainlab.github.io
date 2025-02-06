@@ -1,6 +1,6 @@
 ---
 authors:
-- Elias Ebrahimzadeh
+- Elias E
 bio: Elias is an alumnus of CLIC.
 
 education:
@@ -58,7 +58,7 @@ superuser: false
 
 title: Elias Ebrahimzadeh
 user_groups:
-- Research Scientists and Research Fellows
+- Alumni
 
 ---
 
