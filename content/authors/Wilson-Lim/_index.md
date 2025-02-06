@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate & Coordinator for Educational Neuroscience Projects
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,7 +49,7 @@ superuser: false
 
 title: Wilson Lim
 user_groups:
-- Research Associates
+- Alumni
 
 ---
 
