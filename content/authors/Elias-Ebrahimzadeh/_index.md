@@ -1,7 +1,7 @@
 ---
 authors:
 - Elias Ebrahimzadeh
-bio: Elias is an alumnus of CLIC.
+bio: Dr. Elias Ebrahimzadeh is an alumnus of CLIC. He is currently working in the Neuroimaging Laboratory, School of Cognitive Sciences, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran as a postdoctoral research fellow and an Assistant Professor.
 
 education:
   - course: Postdoctoral Research Fellow
