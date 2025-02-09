@@ -1,24 +1,26 @@
 ---
 authors:
 - Elias Ebrahimzadeh
+
 bio: Dr. Elias Ebrahimzadeh is an alumnus of CLIC. He is currently working in the Neuroimaging Laboratory, School of Cognitive Sciences, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran as a postdoctoral research fellow and an Assistant Professor.
 
 education:
-  - course: Postdoctoral Research Fellow
-    institution: IPM, Tehran, Iran
-    year: 2020 - 2023
-  - course: Postdoctoral Research Fellow
-    institution: Nanyang Technological University, Singapore
-    year: 2022
-  - course: Postdoctoral Research Fellow
-    institution: University of Cambridge, England
-    year: 2022
-  - course: Visiting Ph.D. Researcher
-    institution: University of Calgary, Canada
-    year: 2017 - 2019
-  - course: Ph.D. in Biomedical Engineering
-    institution: University of Tehran, Iran
-    year: 2014 - 2019
+  courses:
+    - course: Postdoctoral Research Fellow
+      institution: IPM, Tehran, Iran
+      year: 2020 - 2023
+    - course: Postdoctoral Research Fellow
+      institution: Nanyang Technological University, Singapore
+      year: 2022
+    - course: Postdoctoral Research Fellow
+      institution: University of Cambridge, England
+      year: 2022
+    - course: Visiting Ph.D. Researcher
+      institution: University of Calgary, Canada
+      year: 2017 - 2019
+    - course: Ph.D. in Biomedical Engineering
+      institution: University of Tehran, Iran
+      year: 2014 - 2019
 
 
 email: "elias.ebrahimzadeh@yahoo.com"
