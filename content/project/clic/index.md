@@ -1,5 +1,5 @@
 ---
-date: "2025-2-10"
+date: "2025-02-10"
 external_link: ""
 image:
   caption: 
