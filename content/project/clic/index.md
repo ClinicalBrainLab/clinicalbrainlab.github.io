@@ -17,7 +17,7 @@ tags:
 - Learning
 
 title: Centre for Lifelong Learning and Individualised Cognition
-authors: ["Annabel-Chen", "XiaoQin", "Elias-Ebrahimzadeh", "ChiaLun-Liu", "JiaLi-Teo", "Winlynn","Wei-Ler-Koo"]
+authors: ["Annabel-Chen", "JiaLi-Teo", "Wei-Ler-Koo", "Cheng-Xiao-qin", "Elias-Ebrahimzadeh", "Chia-Lun-Liu", "Eleanor-Koo-Wei-Shi", "Hong-Min", "Janet-Tan", "Marisha-Barth-Ubrani"]
 
 url_code: ""
 url_pdf: ""
