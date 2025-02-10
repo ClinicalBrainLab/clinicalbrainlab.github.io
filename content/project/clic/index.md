@@ -1,4 +1,5 @@
 ---
+date: ""
 external_link: ""
 image:
   caption: 
@@ -16,8 +17,7 @@ tags:
 - Learning
 
 title: Centre for Lifelong Learning and Individualised Cognition
-all_authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo", "Cheng-Xiao-qin", "Elias-Ebrahimzadeh", "Chia-Lun-Liu", "Eleanor-Koo-Wei-Shi", "Hong-Min", "Janet-Tan", "Marisha-Barth-Ubrani"]
-displayed_authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo"]
+authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo", "Cheng-Xiao-qin", "Elias-Ebrahimzadeh", "Chia-Lun-Liu", "Eleanor-Koo-Wei-Shi", "Hong-Min", "Janet-Tan", "Marisha-Barth-Ubrani"]
 
 url_code: ""
 url_pdf: ""
