@@ -1,5 +1,5 @@
 ---
-#date: "2025-2-10"
+#- date: "2025-2-10"
 external_link: ""
 image:
   caption: 
@@ -17,7 +17,7 @@ tags:
 - Learning
 
 title: Centre for Lifelong Learning and Individualised Cognition
-authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo", "Cheng-Xiao-qin", "Elias-Ebrahimzadeh", "Chia-Lun-Liu", "Eleanor-Koo-Wei-Shi", "Hong-Min", "Janet-Tan"]
+authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo", </u> "Cheng-Xiao-qin", "Elias-Ebrahimzadeh", "Chia-Lun-Liu", "Eleanor-Koo-Wei-Shi", "Hong-Min", "Janet-Tan"</u> ]
 alumni: ["Marisha-Barth-Ubrani"]
 
 url_code: ""
