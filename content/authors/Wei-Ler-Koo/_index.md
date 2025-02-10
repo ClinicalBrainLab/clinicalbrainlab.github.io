@@ -2,7 +2,7 @@
 authors:
 - Wei Ler Koo
 
-bio: 
+bio: Koo Wei Ler is a research assistant in the Centre for Lifelong Learning and Individualised Cognition (CLIC).
 
 education:
   courses:
@@ -16,6 +16,7 @@ email: "weiler.koo@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
+role: Research Assistant
 
 social:
 - icon: envelope
