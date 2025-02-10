@@ -33,9 +33,10 @@ The Centre for Lifelong Learning and Individualised Cognition (CLIC) programme a
 
 - Understanding and promoting individual cognitive flexibility – funded by the National Research Foundation, Prime Minister’s Office Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) programme.
 
-For more information on the CLIC programme, please visit the official webpage at this link: [CLIC](https://www.cares.cam.ac.uk/research/clic/)
+For more information on the CLIC programme, please visit the official webpage at this link: [CLIC](https://www.cares.cam.ac.uk/research/clic/)<br>
 
-Alumni:
+
+**Alumni:**
 
 Research Fellows:
 - [Cheng Xiao qin, PhD](https://www.clinicalbrain.org/author/cheng-xiaoqin/)
@@ -48,4 +49,4 @@ Research Associate:
 
 Research Assistants:
 - [Janet Tan Jia Yuan](https://www.clinicalbrain.org/author/tan-jia-yuan-janet/)
-- [Marisha Barth Ubrani](https://www.clinicalbrain.org/author/Marisha-Barth-Ubrani)
+- [Marisha Barth Ubrani](https://www.clinicalbrain.org/author/Marisha-Barth-Ubrani/)
