@@ -2,7 +2,7 @@
 title: Cheng Xiaoqin
 authors:
 - Cheng Xiaoqin
-bio: Xiaoqin is an alumnae of CLIC.
+bio: Dr. Cheng Xiaoqin is an alumnae of CLIC.
 
 email: "xiaoqin.cheng@uibk.ac.at"
 

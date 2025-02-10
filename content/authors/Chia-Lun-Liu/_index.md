@@ -1,8 +1,8 @@
 ---
-title: Chia Lun Liu
+title: Chia-Lun Liu
 authors:
-- Chia Lun Liu
-bio: Chia Lun Liu is an alumnus of CLIC.
+- Chia-Lun Liu
+bio: Dr. Chia-Lun Liu is an alumnus of CLIC.
 
 organizations:
 - name: Nanyang Technological University
