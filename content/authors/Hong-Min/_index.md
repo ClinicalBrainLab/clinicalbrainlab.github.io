@@ -2,7 +2,7 @@
 title: Hong Min
 authors:
 - Hong Min
-bio: Hong Min is an Alumnus of CLIC.
+bio: Hong Min is an alumnae of CLIC.
 
 organizations:
 - name: Nanyang Technological University
