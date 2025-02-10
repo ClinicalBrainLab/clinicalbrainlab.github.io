@@ -1,7 +1,7 @@
 ---
 authors:
 - Wilson Lim
-bio: Wilson is currently a Research Associate at the Clinical Brain Lab. 
+bio: Wilson was a Research Associate at the Clinical Brain Lab. He is currently undertaking a PhD at the Institute of Cognitive Neuroscience at UCL.
 
 education:
   courses:
@@ -21,13 +21,13 @@ interests:
 - Brain-body Interactions
 
 organizations:
-- name: Nanyang Technological University
+- name: University College London
   url: ""
 role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wilson.lim@ntu.edu.sg
+  link: mailto:wilson.lim.17@ucl.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/WilsonLimPH
@@ -53,4 +53,4 @@ user_groups:
 
 ---
 
-Wilson most recently graduated from University College London (UCL) with a Master of Research in Cognitive Neuroscience (Distinction) in 2021, having previously attained a Bachelor of Science in Psychology (First Class Honours) at UCL in 2020. His research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating cognition, emotion, mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective. 
+Wilson is currently a PhD student at the Institute of Cognitive Neuroscience at University College London (UCL) under the [Clinical and Affective Neuroscience Group](https://www.ucl.ac.uk/icn/research/research-groups/clinical-and-affective-neuroscience). He most recently graduated from University College London (UCL) with a Master of Research in Cognitive Neuroscience (Distinction) in 2021, having previously attained a Bachelor of Science in Psychology (First Class Honours) at UCL in 2020. His research interests include neuropsychology and cognitive neuroscience research, with a keen interest in investigating cognition, emotion, mental health, and their interactions with the brain and body, particularly from an individual differences and developmental perspective. 
