@@ -177,6 +177,9 @@ highlight_superuser = false
 # Link authors to their profile page? (true/false)
 link_authors = true
 
+# Link alumni to their profile page? (true/false)
+link_alumni = true
+
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
 
