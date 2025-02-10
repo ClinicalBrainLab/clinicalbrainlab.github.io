@@ -17,7 +17,7 @@ tags:
 - Learning
 
 title: Centre for Lifelong Learning and Individualised Cognition
-authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo"]
+authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo","Marisha-Barth-Ubrani"]
 
 url_code: ""
 url_pdf: ""
@@ -49,4 +49,4 @@ Research Associate:
 
 Research Assistants:
 - [Janet Tan Jia Yuan](https://www.clinicalbrain.org/author/tan-jia-yuan-janet/)
-- [Marisha Barth Ubrani](https://www.clinicalbrain.org/author/Marisha-Barth-Ubrani/)
+- Marisha Barth Ubrani
