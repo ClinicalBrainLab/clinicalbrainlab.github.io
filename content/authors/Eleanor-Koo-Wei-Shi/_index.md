@@ -2,7 +2,7 @@
 title: Eleanor Koo Wei Shi
 authors:
 - Eleanor Koo Wei Shi
-bio: Eleanor is an alumnae of CLIC.
+bio: Dr. Eleanor is an alumnae of CLIC.
 
 email: "eleanor.koo@nie.edu.sg"
 
