@@ -8,7 +8,7 @@ lastmod: "2023-08-15"
 draft: false
 menu:
   BrainHack:
-    parent: BrainHack_Software
+    parent: BrainHack
     weight: 2
 ---
 
