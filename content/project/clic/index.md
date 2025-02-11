@@ -14,10 +14,10 @@ summary: "From neuroscience to the practice of learning: an in-depth investigati
 profile: true
 
 tags:
-- Learning
+- CLIC
 
 title: Centre for Lifelong Learning and Individualised Cognition
-authors: ["Annabel-Chen", "Deepika-Shukla", "JiaLi-Teo", "Wei-Ler-Koo"]
+authors: ["Annabel-Chen", "Deepika-Shukla", "Wei-Ler-Koo"]
 
 url_code: ""
 url_pdf: ""
@@ -33,7 +33,7 @@ The Centre for Lifelong Learning and Individualised Cognition (CLIC) programme a
 
 - Understanding and promoting individual cognitive flexibility – funded by the National Research Foundation, Prime Minister’s Office Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) programme.
 
-For more information on the CLIC programme, please visit the official webpage at this link: [CLIC](https://www.cares.cam.ac.uk/research/clic/)<br>
+For more information on the CLIC programme, please visit CLIC at CARES at this link: [CLIC](https://www.cares.cam.ac.uk/research/clic/)<br>
 
 
 **Alumni:**
@@ -50,3 +50,6 @@ Research Associate:
 Research Assistants:
 - [Janet Tan Jia Yuan](https://www.clinicalbrain.org/author/tan-jia-yuan-janet/)
 - [Marisha Barth Ubrani](https://www.clinicalbrain.org/author/marisha-barth-ubrani/)
+
+PhD Student:
+- [Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)
