@@ -1,11 +1,11 @@
 ---
 title: Gabriel Keefe Ang
 user_groups:
-- Research Assistant
+- Research Assistants
 
 authors:
 - Gabriel Ang
-bio: Gabriel Ang is a research assistant in the Centre for Lifelong Learning and Individualised Cognition (CLIC).
+bio: Gabriel Ang is a research assistant at the Centre for Lifelong Learning and Individualised Cognition (CLIC).
 
 education:
   courses:
@@ -36,4 +36,4 @@ superuser: false
 
 ---
 
-Gabriel Ang is a research assistant in the Centre for Lifelong Learning and Individualised Cognition (CLIC).
+Gabriel Ang is a research assistant at the Centre for Lifelong Learning and Individualised Cognition (CLIC).
