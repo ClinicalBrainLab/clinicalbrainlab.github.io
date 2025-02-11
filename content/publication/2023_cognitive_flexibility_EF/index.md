@@ -4,7 +4,7 @@ Cognitive flexibility (CF) enables individuals to readily shift from one concept
 Methods:<br />
 This study will recruit up to 400 healthy Singaporean young adults (age 18–30) to complete a wide range of cognitive tasks and social questionnaires/tasks. The richness of the task/questionnaire battery and within-participant administration enables us to use computational modelling and structural equation modelling to examine connections between the latent constructs of interest.<br /><br />
 Significance and Impact:<br />
-The current study is the first systematic investigation into the construct validity of CF and its interrelationship with other important cognitive skills such as learning and creativity, within an Asian context. The study will further explore the concept of CF as a non-unitary construct, a novel theoretical proposition in the field. The inclusion of a structure learning paradigm is intended to inform future development of a novel intervention paradigm to enhance CF. Finally, the results of the study will be useful for informing classroom pedagogy and the design of lifelong learning policies and curricula, as part of the wider remit of the Cambridge-NTU Centre for Lifelong Learning and Individualised Cognition (CLIC).<br /><br />
+The current study is the first systematic investigation into the construct validity of CF and its interrelationship with other important cognitive skills such as learning and creativity, within an Asian context. The study will further explore the concept of CF as a non-unitary construct, a novel theoretical proposition in the field. The inclusion of a structure learning paradigm is intended to inform future development of a novel intervention paradigm to enhance CF. Finally, the results of the study will be useful for informing classroom pedagogy and the design of lifelong learning policies and curricula, as part of the wider remit of the Cambridge-NTU Centre for Lifelong Learning and Individualised Cognition (CLIC).<br /><br />"
 
 
 authors:
@@ -19,8 +19,9 @@ authors:
 - Balázs Gulyás
 - Natalie Hoo
 - David Hung
+- ...
 - Annabel-Chen
-- et al.
+- ...
 
 date: "2023-07-20"
 doi: "https://doi.org/10.1371/journal.pone.0286208"
