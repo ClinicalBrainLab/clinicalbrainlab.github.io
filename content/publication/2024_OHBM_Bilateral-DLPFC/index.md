@@ -27,7 +27,7 @@ authors:
 date: "2024-06-23"
 doi: ""
 featured: false
-projects: ""
+projects: "CLIC"
 publication: "Deepika Shukla, Chia‑Lun Liu, Xiaoqin Cheng, Chie Takahashi, SH Annabel Chen, John Suckling, Zoe Kourtzi, Balázs Gulyás, Eleanor Koo, Wei Ler Koo, Jia Yuan Janet Tan, Marisha Ubrani, Boon Linn Choo, Min Hong, CLIC Consortium, "Neurochemical Alterations in Bilateral DLPFC after Structure Learning Training in Healthy Adults", Annual Meeting Organization for Human Brain Mapping (OHBM), June 23-June 27, 2024, Seoul, South Korea. "
 publication_short: ""
 publication_types:
