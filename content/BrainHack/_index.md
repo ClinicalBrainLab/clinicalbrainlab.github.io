@@ -13,8 +13,8 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar
-# - name: BrainHack School NTU.
-# - weight: 2.
+name: BrainHack School NTU
+weight: 2.
 
 ---
 
