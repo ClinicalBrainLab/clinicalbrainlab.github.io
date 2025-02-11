@@ -5,14 +5,7 @@ lastmod: "2025-02-10T00:00:00Z"
 draft: false
 type: "docs"
 toc: true
-
-menu:
-  BrainHack:
-    parent: "brainhack"
-    name: "Software"
-    weight: 2
-
-weight: 2
+weight: 1
 ---
 
 
