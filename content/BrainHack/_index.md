@@ -2,7 +2,7 @@
 # title, summary, and position.
 linktitle:
 summary:
-weight: 2
+weight: 1
 
 # Page metadata.
 title: BrainHack School NTU
