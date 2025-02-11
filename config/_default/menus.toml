@@ -55,7 +55,7 @@ weight = 100
 
 [[main]]
 name = "BrainHack"
-url = "#BrainHack"
+url = "BrainHack/"
 weight = 110
 
 # Link to a PDF of your resume/CV from the menu.
