@@ -7,9 +7,9 @@ type: "docs"
 toc: true
 
 menu:
-  main:
+  NTU-BrainHack:
     parent: "brainhack"
-    name: "Example1"
+    name: "Software"
     weight: 2
 
 weight: 2
