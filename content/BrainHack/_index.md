@@ -14,7 +14,7 @@ type: docs  # Do not modify.
 
 # Add menu entry to sidebar
 name: BrainHack School NTU
-weight: 2.
+weight: 1
 
 ---
 
