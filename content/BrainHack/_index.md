@@ -1,26 +1,19 @@
 ---
-# title, summary, and position.
-linktitle:
-summary:
-weight: 1
-
-# Page metadata.
-title: BrainHack School NTU
+title: "BrainHack"
 date: "2025-02-10T00:00:00Z"
 lastmod: "2025-02-10T00:00:00Z"
-draft: false  # Is this a draft? true/false
-title: "BrainHack"
+draft: false
+layout: "docs"
+toc: true
 menu:
   main:
-    parent: BrainHack
+    identifier: "brainhack"   
+    name: "BrainHack"         
     weight: 1
+
+
 weight: 1
-
-
-# Add menu entry to sidebar
-# name: BrainHack School NTU
-# weight: 1
-
 ---
+
 
 NTU-BrainHack school
