@@ -7,13 +7,13 @@ date: "2019-05-05T00:00:00+01:00"
 lastmod: "2023-08-15"
 draft: false
 menu:
-  BrainHack:
-    parent: BrainHack
+  brainhack:
+    parent: BrainHack_Software
     weight: 2
 ---
-
+ 
 ## Description
-
+ 
 This is an example for Software.
-
+ 
 ## Reference
