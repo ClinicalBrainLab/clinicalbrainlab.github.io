@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +16,9 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/join/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
