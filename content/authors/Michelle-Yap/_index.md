@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,8 +36,8 @@ superuser: false
 
 title: Michelle Yap
 user_groups:
-- Research Assistants
+- Alumni
 
 ---
 
-Michelle is currently a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). She aims to continue learning and applying neuropsychology and developmental psychology knowledge to research and practice.
+Michelle was a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). She aims to continue learning and applying neuropsychology and developmental psychology knowledge to research and practice.
