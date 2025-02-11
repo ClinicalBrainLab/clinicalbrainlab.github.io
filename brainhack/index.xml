@@ -12,5 +12,16 @@
       <link>https://clinicalbrainlab.github.io/brainhack/</link>
     </image>
     
+    <item>
+      <title>Example_Software</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/e_software/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/e_software/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This is an example for Software.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
