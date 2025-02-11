@@ -99,7 +99,6 @@ Research Associates
 - Wilson Lim
 
 Project Officers/Research Assistants
-- Adhya Neshaa Nedumaran
 - Alison Chew
 - Cheng Wenxuan
 - Gan Su Ren
@@ -112,6 +111,8 @@ Project Officers/Research Assistants
 - Tam Pham
 - Tan Bee Li
 - Te An Shu
+- Chua Wei Ting Serena
+- Michelle Yap
 
 Interns
 - Elaine Teo, Intern
