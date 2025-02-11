@@ -17,7 +17,7 @@ tags:
 - CLIC
 
 title: Centre for Lifelong Learning and Individualised Cognition
-authors: ["Annabel-Chen", "Deepika-Shukla", "Wei-Ler-Koo"]
+authors: ["Annabel-Chen", "Deepika-Shukla", "Wei-Ler-Koo", "Gabriel-Ang"]
 
 url_code: ""
 url_pdf: ""
