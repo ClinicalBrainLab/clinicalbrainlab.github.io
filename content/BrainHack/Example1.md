@@ -1,6 +1,6 @@
 ---
 title: Example for Software
-linktitle:Example for Software
+linktitle: Example1
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
