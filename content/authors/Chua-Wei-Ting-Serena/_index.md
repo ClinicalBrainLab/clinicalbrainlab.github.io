@@ -1,7 +1,7 @@
 ---
 title: Chua Wei Ting Serena 
 user_groups:
-- Research Assistants
+- Alumni
 
 authors:
 - Chua Wei Ting Serena
@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant & Lab Coordinator
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
