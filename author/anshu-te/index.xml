@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AnShu-Te | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/anshu-te/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/anshu-te/index.xml" rel="self" type="application/rss+xml" />
+    <description>AnShu-Te</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>AnShu-Te</title>
+      <link>https://clinicalbrainlab.github.io/author/anshu-te/</link>
+    </image>
+    
+    <item>
+      <title>The Heart Can Lie: A Preliminary Investigation of the Role of Interoception and Theory of Mind in Deception</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_deception-tom/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_deception-tom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cocon/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Dimensions of EEG Activity is Linked to Distinct Facets of Resting-State Cognition</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
