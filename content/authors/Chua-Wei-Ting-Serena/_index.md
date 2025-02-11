@@ -32,4 +32,4 @@ social:
 superuser: false
 
 ---
-Serena is currently a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). Serena has an interest in understanding the neuroscience behind reading, and language, and consequently the neurocircuity underlying key learning disorders. In the future, she hopes to apply such knowledge in the development of interventions for such disorders. 
+Serena was a Research Assistant in the Centre for Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU). Serena has an interest in understanding the neuroscience behind reading, and language, and consequently the neurocircuity underlying key learning disorders. In the future, she hopes to apply such knowledge in the development of interventions for such disorders. 
