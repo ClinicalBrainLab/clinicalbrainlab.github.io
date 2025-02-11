@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoe Kourtzi | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/zoe-kourtzi/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/zoe-kourtzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zoe Kourtzi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Zoe Kourtzi</title>
+      <link>https://clinicalbrainlab.github.io/author/zoe-kourtzi/</link>
+    </image>
+    
+    <item>
+      <title>Neurochemical Alterations in Bilateral DLPFC after Structure Learning Training in Healthy Adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive flexibility training for impact in real-world settings</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_cognitive-flexibility-training/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_cognitive-flexibility-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential cognitive and neural benefits of a computerised cognitive training programme based on Structure Learning in healthy adults: study protocol for a randomised controlled trial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Remote Guided Method for Supervised Web-Based Cognitive Testing to Ensure High-Quality Data: Development and Usability Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

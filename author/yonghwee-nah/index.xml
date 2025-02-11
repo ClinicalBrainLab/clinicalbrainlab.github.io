@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YongHwee-Nah | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/yonghwee-nah/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/yonghwee-nah/index.xml" rel="self" type="application/rss+xml" />
+    <description>YongHwee-Nah</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>YongHwee-Nah</title>
+      <link>https://clinicalbrainlab.github.io/author/yonghwee-nah/</link>
+    </image>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
