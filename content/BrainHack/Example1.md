@@ -1,13 +1,16 @@
 ---
-title: "Example1"
-date: "2025-02-10T00:00:00Z"
-lastmod: "2025-02-10T00:00:00Z"
-draft: false
-type: "docs"
+title: Example for Software
+linktitle:Example for Software
 toc: true
-weight: 1
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+lastmod: "2023-08-15"
+draft: false
+menu:
+  BrainHack:
+    parent: BrainHack_Software
+    weight: 2
 ---
-
 
 ## Description
 
