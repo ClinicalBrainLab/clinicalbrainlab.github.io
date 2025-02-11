@@ -6,9 +6,8 @@ draft: false
 type: "docs"
 toc: true
 menu:
-  main:
-    identifier: "brainhack"   
-    name: "BrainHack"         
+  NTU-BrainHack:
+    identifier: "brainhack"       
     weight: 1
 
 
