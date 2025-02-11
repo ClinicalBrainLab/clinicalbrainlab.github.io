@@ -19,9 +19,8 @@ authors:
 - Balázs Gulyás
 - Natalie Hoo
 - David Hung
-- "..."
 - Annabel-Chen
-- "..."
+- et al.
 
 date: "2023-07-20"
 doi: "https://doi.org/10.1371/journal.pone.0286208"
