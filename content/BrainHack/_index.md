@@ -6,7 +6,7 @@ draft: false
 type: "docs"
 toc: true
 menu:
-  NTU-BrainHack:
+  BrainHack:
     identifier: "brainhack"       
     weight: 1
 
