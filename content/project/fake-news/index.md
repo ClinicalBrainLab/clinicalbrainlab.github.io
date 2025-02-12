@@ -33,8 +33,8 @@ The first aim of this study is to establish and validate a strong experimental p
 
 Alumni:
 
-Research Fellow:
-[Zhong Miao](https://www.clinicalbrain.org/author/zhong-miao/)
+Research Fellows:
+- [Zhong Miao, PhD](https://www.clinicalbrain.org/author/zhong-miao/)
 
 Research Associate:
-[Wilson Lim](https://www.clinicalbrain.org/author/wilson-lim/)
+- [Wilson Lim](https://www.clinicalbrain.org/author/wilson-lim/)
