@@ -18,7 +18,7 @@ tags:
 - Deception
 
 title: Perception of Real vs. Fake Information
-authors: ["Dominique-Makowski", "Sarah-Ayub", "Catherine-Shuhan-Wang", "Tanisha-Annamalai", "Annabel-Chen"]
+authors: ["Dominique-Makowski", "Sarah-Ayub", "Catherine-Shuhan-Wang", "Tanisha-Annamalai", "Adhya-Neshaa", "Annabel-Chen"]
 
 url_code: ""
 url_pdf: ""
