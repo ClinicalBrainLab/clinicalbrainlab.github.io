@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/studentproject/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +22,9 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/join/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
@@ -48,9 +54,6 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/authors/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/winlynn-choo/</loc>
@@ -1120,6 +1123,8 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/adam-yeo-yufeng/</loc>
   </url><url>

@@ -1,0 +1,15 @@
+---
+title: Example for Student Project
+linktitle: Example for Student Project
+toc: true
+type: docs
+date: "2025-02-13T00:00:00+01:00"
+lastmod: "2025-02-13"
+draft: false
+menu:
+  studentproject:
+    parent: Student Projects
+    weight: 2
+---
+
+Example
