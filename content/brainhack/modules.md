@@ -1,6 +1,6 @@
 ---
-title: BrainHack School Software
-linktitle: BrainHack School Software
+title: BrainHack School Modules
+linktitle: BrainHack School Modules
 toc: true
 type: docs
 date: "2025-02-17T00:00:00+01:00"
@@ -8,14 +8,16 @@ lastmod: "2025-02-17"
 draft: false
 menu:
   brainhack:
-    parent: BrainHack_Software
-    weight: 2
+    parent: Modules
+    weight: 4
 ---
  
 ## Description
+Brainhack school provide [pre-made tutorial on modules](https://school-brainhack.github.io/modules/) that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topic. 
 
 
 Here is the list of training modules for brainhack school:
+
 
 [A Brief Introduction to the Bash Shell](https://school.brainhackmtl.org/modules/introduction_to_terminal/)
 
@@ -45,6 +47,3 @@ Here is the list of training modules for brainhack school:
 
 
 [Introduction to Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis/)
-
-
-**You can find all the detailed information [here](https://school.brainhackmtl.org/modules/)**
