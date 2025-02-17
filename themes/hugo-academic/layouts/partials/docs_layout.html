@@ -1,84 +1,56 @@
 {{ $current_page := . }}
-
+ 
 <div class="container-fluid docs">
-  <div class="row flex-xl-nowrap">
-    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+<div class="row flex-xl-nowrap">
+<div class="col-12 col-md-3 col-xl-2 docs-sidebar">
       {{ partial "docs_sidebar" . }}
-    </div>
-
+</div>
+ 
     {{ if .Params.toc }}
-    <div class="d-none d-xl-block col-xl-2 docs-toc">
-      <ul class="nav toc-top">
-        <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
-      </ul>
-
+<div class="d-none d-xl-block col-xl-2 docs-toc">
+<ul class="nav toc-top">
+<li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+</ul>
+ 
       {{ .TableOfContents }}
-
+ 
       {{ partial "docs_toc_foot" . }}
-    </div>
+</div>
     {{ end }}
-
+ 
     <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
-      
-      <!-- Check if this is the BrainHack homepage (_index.md) -->
-      {{ if and (eq .Section "brainhack") (eq .File.BaseFileName "_index") }}
-
-        <!-- Custom BrainHack Homepage Layout -->
-        <article class="article">
-          <div class="brainhack-header text-center">
-            <h1 class="display-4">Welcome to BrainHack</h1>
-            <p class="lead">A community-driven initiative for open neuroscience.</p>
-          </div>
-
-          <div class="brainhack-content article-style">
+ 
+      <article class="article">
+ 
+        <div class="docs-article-container">
+<h1>{{ .Title }}</h1>
+ 
+          <div class="article-style">
             {{ .Content }}
-          </div>
-
-          <!-- Meet the Team Section -->
-          <h2 class="mt-5 text-center">Meet the Team</h2>
-          <p class="text-center">
-            Meet our BrainHack School Students!
-          </p>
-
-          {{ partial "brainhack_team.html" . }}
-
-        </article>
-
-      {{ else }}
-
-        <!-- Default Documentation Page Layout for Other BrainHack Pages -->
-        <article class="article">
-          <div class="docs-article-container">
-            <h1>{{ .Title }}</h1>
-
-            <div class="article-style">
-              {{ .Content }}
-            </div>
-
-            {{ partial "tags.html" . }}
-
-            {{ if site.Params.docs_section_pager }}
-            <div class="article-widget">
-              {{ partial "section_pager" . }}
-            </div>
-            {{ end }}
-          </div>
-
-          <div class="body-footer">
-            <p>{{ i18n "last_updated" }} {{ $.Lastmod.Format site.Params.date_format }}</p>
-
-            {{ partial "page_edit" . }}
-
-            {{ partial "comments" . }}
-
-            {{ partial "page_related" . }}
-          </div>
-        </article>
-
-      {{ end }}
-
+</div>
+          {{ partial "tags.html" . }}
+ 
+          {{ if site.Params.docs_section_pager }}
+<div class="article-widget">
+            {{ partial "section_pager" . }}
+</div>
+          {{ end }}
+</div>
+ 
+        <div class="body-footer">
+<p>{{ i18n "last_updated" }} {{ $.Lastmod.Format site.Params.date_format }}</p>
+ 
+          {{ partial "page_edit" . }}
+ 
+          {{ partial "comments" . }}
+ 
+          {{ partial "page_related" . }}
+</div>
+ 
+      </article>
+ 
       {{ partial "site_footer" . }}
-
+ 
     </main>
-  </div>
+</div>
 </div>
