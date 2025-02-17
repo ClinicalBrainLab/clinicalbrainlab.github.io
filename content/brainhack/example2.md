@@ -9,7 +9,7 @@ draft: false
 menu:
   brainhack:
     parent: BrainHack_Project
-    weight: 3
+    weight: 5
 ---
  
 ## Description
