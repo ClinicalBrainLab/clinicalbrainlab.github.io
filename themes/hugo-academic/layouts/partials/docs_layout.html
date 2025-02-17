@@ -34,10 +34,14 @@
             {{ .Content }}
           </div>
 
-          <!-- Meet the Team Section (Only on BrainHack Homepage) -->
-          <h2 class="mt-5">Meet the BrainHack Team</h2>
-          {{ partial "people" (dict "user_groups" (slice "BrainHack Team" "Principal Investigators")) }}
-          {{ end }}
+          <!-- Meet the Team Section -->
+          <h2 class="mt-5 text-center">Meet the Team</h2>
+          <p class="text-center">
+            Meet our BrainHack School Students!
+          </p>
+
+          {{ partial "brainhack_team.html" . }}
+
         </article>
 
       {{ else }}
