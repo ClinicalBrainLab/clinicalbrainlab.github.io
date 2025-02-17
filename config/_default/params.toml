@@ -307,3 +307,8 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
