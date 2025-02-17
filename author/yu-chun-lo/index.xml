@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Chun Lo | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/yu-chun-lo/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/yu-chun-lo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Chun Lo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>Yu-Chun Lo</title>
+      <link>https://clinicalbrainlab.github.io/author/yu-chun-lo/</link>
+    </image>
+    
+    <item>
+      <title>Cerebro-cerebellar pathways for verbal working memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2019_cerebellum-working-memory-pathways/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2019_cerebellum-working-memory-pathways/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
