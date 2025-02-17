@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
@@ -20,7 +20,11 @@
     <loc>https://clinicalbrainlab.github.io/join/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/people/</loc>
+    <loc>https://clinicalbrainlab.github.io/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/brainhack_software/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
@@ -50,9 +54,6 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/authors/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/winlynn-choo/</loc>
@@ -966,9 +967,6 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/techniques/eeg/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/example1/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/brainhack/example2/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
