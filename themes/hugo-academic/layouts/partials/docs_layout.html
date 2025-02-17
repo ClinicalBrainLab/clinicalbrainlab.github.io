@@ -29,6 +29,8 @@
             {{ .Content }}
           </div>
 
+          {{ partial "brainhack_team.html" . }}
+          
           {{ partial "tags.html" . }}
 
           {{ if site.Params.docs_section_pager }}
