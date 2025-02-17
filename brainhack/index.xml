@@ -13,11 +13,13 @@
     </image>
     
     <item>
-      <title>BrainHack School Software</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/brainhack_software/</link>
+      <title>BrainHack School Modules</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/modules/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/brainhack_software/</guid>
+      <guid>https://clinicalbrainlab.github.io/brainhack/modules/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Brainhack school provide 
+&lt;a href=&#34;https://school-brainhack.github.io/modules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-made tutorial on modules&lt;/a&gt; that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topic.&lt;/p&gt;
 &lt;p&gt;Here is the list of training modules for brainhack school:&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://school.brainhackmtl.org/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Brief Introduction to the Bash Shell&lt;/a&gt;&lt;/p&gt;
@@ -39,8 +41,96 @@
 &lt;a href=&#34;https://school.brainhackmtl.org/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://school.brainhackmtl.org/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python for data analysis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;You can find all the detailed information 
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructors</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/instructors/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/instructors/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;nav_order-2&#34;&gt;layout: default
+title: Instructors
+nav_order: 2&lt;/h2&gt;
+&lt;h1 id=&#34;instructors&#34;&gt;Instructors&lt;/h1&gt;
+&lt;h2 id=&#34;brainhack-school-taiwan&#34;&gt;Brainhack School Taiwan&lt;/h2&gt;
+&lt;p&gt;Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. The Brainhack School, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice.&lt;/p&gt;
+&lt;h3 id=&#34;directors&#34;&gt;Directors&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;
+&lt;a href=&#34;https://www.clinicalbrain.org/author/annabel-chen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Annabel Chen&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;The Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology at School of Social Sciences, Nanyang Technological University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;annabelchen at ntu.edu.sg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;teaching-assistants&#34;&gt;Teaching Assistants&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Affiliation&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Email&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Wong Yi Sheng&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nanyang Technological University&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;wong.yisheng at ntu.edu.sg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;
+&lt;a href=&#34;https://www.clinicalbrain.org/author/teo-jia-li/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiali Teo&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nanyang Technological University&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;jiali003 at e.ntu.edu.sg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;
+&lt;a href=&#34;https://www.clinicalbrain.org/author/lin-hsin-yu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiffany Lin Hsin-Yu&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nanyang Technological University&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;linhy at ntu.edu.sg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;list-of-brainhack-school-around-the-world&#34;&gt;List of Brainhack School around the world&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NTU/ICNNCU,Taipei/Taoyuan,Taiwan&lt;/li&gt;
+&lt;li&gt;Universidad de la Republica,Montevideo,Uruguay&lt;/li&gt;
+&lt;li&gt;Humai,Buenos Aires,Argentina&lt;/li&gt;
+&lt;li&gt;Polytechnique Montreal,Montreal,Canada&lt;/li&gt;
+&lt;li&gt;University of Montreal,Montreal,Canada&lt;/li&gt;
+&lt;li&gt;TMU/CAMH,Toronto,Canada&lt;/li&gt;
+&lt;li&gt;Université de Paris Cité,Paris,France&lt;/li&gt;
+&lt;li&gt;McGill&lt;/li&gt;
+&lt;li&gt;Concordia&lt;/li&gt;
+&lt;li&gt;Chile&lt;/li&gt;
+&lt;li&gt;(And More To Be Confirmed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;special-thanks&#34;&gt;Special thanks&lt;/h2&gt;
+&lt;p&gt;We appriciate Brainhack School Organization team:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Useful Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Self-study of online modules)[https://school.brainhackmtl.org/modules/]&lt;/p&gt;
+&lt;p&gt;You are recommended to follow the sequence as listed (here)[https://school.brainhackmtl.org/weeks/].&lt;/p&gt;
 </description>
     </item>
     
