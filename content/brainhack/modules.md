@@ -8,8 +8,8 @@ lastmod: "2025-02-17"
 draft: false
 menu:
   brainhack:
-    parent: Modules
-    weight: 4
+    parent: Information
+    weight: 3
 ---
  
 ## Description

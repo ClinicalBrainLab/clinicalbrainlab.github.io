@@ -8,19 +8,16 @@ lastmod: "2025-02-17"
 draft: false
 menu:
   brainhack:
-    parent: Instructors
+    parent: Information
     weight: 2
 ---
  
----
-layout: default
-title: Instructors
-nav_order: 2
+
 ---
 
 # Instructors
 
-## Brainhack School Taiwan
+## Brainhack School NTU
 
 Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. The Brainhack School, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice.
 
@@ -37,6 +34,9 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 | Wong Yi Sheng  | Nanyang Technological University | wong.yisheng at ntu.edu.sg |
 | [Jiali Teo](https://www.clinicalbrain.org/author/teo-jia-li/) | Nanyang Technological University | jiali003 at e.ntu.edu.sg  |
 | [Tiffany Lin Hsin-Yu](https://www.clinicalbrain.org/author/lin-hsin-yu/) | Nanyang Technological University | linhy at ntu.edu.sg   |
+
+
+### Students
 
 ---
 
