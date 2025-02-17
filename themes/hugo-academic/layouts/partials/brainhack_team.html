@@ -1,0 +1,25 @@
+{{ $categories := slice "Principal Investigators""Research Scientists and Research Fellows"}}
+
+<div class="team-section">
+  {{ range $categories }}
+    <h3 class="mt-4 text-center">{{ . }}</h3>
+    <div class="row justify-content-center">
+      {{ range where site.Pages "Section" "authors" }}
+        {{ if in .Params.user_groups . }}
+          <div class="col-md-4 text-center">
+            <div class="team-member">
+              {{ with .Params.avatar }}
+                <img src="{{ . | relURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle team-avatar">
+              {{ end }}
+              <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+              <p>{{ .Params.role }}</p>
+              <div class="team-social">
+                {{ partial "social_links" . }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
