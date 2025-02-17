@@ -9,6 +9,6 @@ draft: false
 menu:
   brainhack:
     parent: Schedule
-    weight: 4
+    weight: 3
 ---
  
