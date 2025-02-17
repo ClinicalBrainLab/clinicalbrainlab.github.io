@@ -9,8 +9,4 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 ---
 
-## BrainHack School NTU  
 NTU-BrainHack school  
-
-### Meet the BrainHack School Team  
-{{< people user_groups="Principal Investigators,BrainHack Students" show_social=true >}}
