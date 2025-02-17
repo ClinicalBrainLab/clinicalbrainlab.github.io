@@ -1,0 +1,4 @@
+{{ if eq .File.BaseFileName "brainhack" }}
+  <h2>Meet the BrainHack Team</h2>
+  {{< people user_groups="Principal Investigators,BrainHack Students" show_social=true >}}
+{{ end }}
