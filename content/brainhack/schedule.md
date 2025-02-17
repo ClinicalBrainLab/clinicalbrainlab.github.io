@@ -11,4 +11,9 @@ menu:
     parent: Schedule
     weight: 3
 ---
+**Useful Links:**
  
+(Self-study of online modules)[https://school.brainhackmtl.org/modules/]
+
+
+You are recommended to follow the sequence as listed (here)[https://school.brainhackmtl.org/weeks/].
