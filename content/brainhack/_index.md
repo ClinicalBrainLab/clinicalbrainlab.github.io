@@ -1,8 +1,3 @@
-+++
-# Homepage
-type = "widget_page"
-headless = false  # Homepage is headless, other widget pages are not.
-
 # Course title, summary, and position.
 linktitle: 
 summary: 
@@ -18,4 +13,3 @@ type: docs  # Do not modify.
  
  
 NTU-BrainHack school
-+++
