@@ -13,7 +13,10 @@ menu:
 ---
 **Useful Links:**
  
-(Self-study of online modules)[https://school.brainhackmtl.org/modules/]
+[Self-study of online modules](https://school.brainhackmtl.org/modules/)
 
 
-You are recommended to follow the sequence as listed (here)[https://school.brainhackmtl.org/weeks/].
+You are recommended to follow the sequence as listed [here](https://school.brainhackmtl.org/weeks/).
+
+
+![png](/brainhack/schedule.png)
