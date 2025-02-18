@@ -45,17 +45,6 @@
     </item>
     
     <item>
-      <title>Example for Project</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/example2/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/example2/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;This is an example for Project.&lt;/p&gt;
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Instructors</title>
       <link>https://clinicalbrainlab.github.io/brainhack/instructors/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
@@ -143,6 +132,17 @@
 &lt;p&gt;You are recommended to follow the sequence as listed 
 &lt;a href=&#34;https://school.brainhackmtl.org/weeks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/schedule.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Projects at BrainHack School NTU</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/brainhack-project/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/brainhack-project/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Here is a session for students to upload their projects.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 </description>
     </item>
     
