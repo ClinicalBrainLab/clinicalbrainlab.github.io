@@ -12,10 +12,10 @@ menu:
     weight: 7
 ---
 
-# Brainhack school
+## Brainhack school
 [Brainhack school website](https://school-brainhack.github.io/)
 
-# Open Data
+## Open Data
 [NeuroVault](https://neurovault.org/)
 
 [OpenfMRI](https://openfmri.org/)
