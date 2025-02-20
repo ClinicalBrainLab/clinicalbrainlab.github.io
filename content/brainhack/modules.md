@@ -1,10 +1,10 @@
 ---
-title: BrainHack School Modules
-linktitle: BrainHack School Modules
+title: Modules
+linktitle: Modules
 toc: true
 type: docs
 date: "2025-02-17T00:00:00+01:00"
-lastmod: "2025-02-17"
+lastmod: "2025-02-20"
 draft: false
 menu:
   brainhack:
@@ -13,7 +13,7 @@ menu:
 ---
  
 ## Description
-Brainhack school provide [pre-made tutorial on modules](https://school-brainhack.github.io/modules/) that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topic. 
+Brainhack school provide [pre-made tutorial on modules](https://school-brainhack.github.io/modules/) that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topics. 
 
 
 Here is the list of training modules for brainhack school:

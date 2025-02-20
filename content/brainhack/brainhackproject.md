@@ -12,8 +12,6 @@ menu:
     weight: 5
 ---
 ---
-
-# Projects
 This is wrap-ups from [Brainhack school offical website](https://school-brainhack.github.io/project_guide/)
 
 ## Goals

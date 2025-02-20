@@ -12,7 +12,7 @@ menu:
     weight: 6
 ---
 
-# NTUCOOL & ee-class
+## NTUCOOL & ee-class
 
 We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.
 
@@ -21,9 +21,9 @@ We will use local/international Discord servers to post announcements, facilitat
 We hope to meet you on Discord, please check [Discord guide]({% link docs/technical/discordguide.md %}).
 
 
-# Github guide
+## Github guide
 
-## Create Github account
+### Create Github account
 Please use the [Github](https://github.com/) official webpage and follow the instruction to signup a account. (It is free!)
 ![png](/brainhack/githubfrontpage.png)
 
@@ -32,11 +32,11 @@ P.S. If you are a student or teacher, don't forget to join [Github Global Campus
 
 ---
 
-## Learn to use Github
+### Learn to use Github
 You can learn [how to use github](https://school-brainhack.github.io/modules/git_github) from one of our learning modules. (It is mandatory.)
 
 
-# Windows Installation Guide
+## Windows Installation Guide
 
 You can see the detailed guide [here](https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html)
 
