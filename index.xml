@@ -5,12 +5,119 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Project</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;p&gt;This is wrap-ups from 
+&lt;a href=&#34;https://school-brainhack.github.io/project_guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school offical website&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;p&gt;We expect each participants have different data analysis experience and distinct interests. Some participants without experience on brain data would like to learn baisc brain data analysis, but others might seek for advanced analystic techinique that will be beneficial to their research. No matter what the experience you have, your project should contain the new skills you have never learned. You should intensively implement your project in the 4-weeks Brainhack school and acquire these new skills. TAs will help you to build up the project that fit your needs. In the end of course, you should have &lt;strong&gt;two major outcomes&lt;/strong&gt; for a project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Submit your project codes, website report, and slides on a Github repository. (The website report can be easily achieved by 
+&lt;a href=&#34;https://jupyter.org/install&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jupyter notebook&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Video recorded presentation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;{: .note }
+Looking for example of project? You can find that from the past Brainhack School 
+&lt;a href=&#34;https://school-brainhack.github.io/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-progress&#34;&gt;Project Progress&lt;/h2&gt;
+&lt;h3 id=&#34;pre-school-preparation&#34;&gt;Pre-school preparation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You will need to fill a form about your experience on brain data analysis, and keyword your are interesting. This information will help us to arrange TAs that will fit to your interests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;week-1&#34;&gt;Week 1:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0% of time on project. 100% on learning modules.&lt;/li&gt;
+&lt;li&gt;If you already completed all the modules before the Brainhack school, you should move to next progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;week-2&#34;&gt;Week 2:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You will spend 50% of time on thinking about your project.&lt;/li&gt;
+&lt;li&gt;Based on the keyword you&amp;rsquo;re interesting, we will assign 1 or 2 TAs and create &lt;strong&gt;pods&lt;/strong&gt; for your project.&lt;/li&gt;
+&lt;li&gt;1 hr project clinic sessions per day (or 5 hrs/a week): TAs will discuss with you to build fundamental ideas for project.&lt;/li&gt;
+&lt;li&gt;At end of the week, you have to present your project proposal to your peers and instructors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;week-3&#34;&gt;Week 3:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You will spend 75% of time on implementing project.&lt;/li&gt;
+&lt;li&gt;1 hr project clinic sessions per day (or 5 hrs/a week)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;week-4&#34;&gt;Week 4:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You will spend 100% of time to wrap-up your project.&lt;/li&gt;
+&lt;li&gt;Submit your project on a Github repository.&lt;/li&gt;
+&lt;li&gt;Record a video to present your project.&lt;/li&gt;
+&lt;li&gt;Review and comment others project presentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-evaluation&#34;&gt;Project Evaluation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use of open-science best practices&lt;/li&gt;
+&lt;li&gt;Skills and technologies learnt&lt;/li&gt;
+&lt;li&gt;Project is relevant to brain data analysis&lt;/li&gt;
+&lt;li&gt;Clarity of code and presentation&lt;/li&gt;
+&lt;li&gt;Bonus: highly reproducible project, technological achievement, exciting presentation, nice brain picture.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Help</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
+      <description>&lt;h1 id=&#34;ntucool--ee-class&#34;&gt;NTUCOOL &amp;amp; ee-class&lt;/h1&gt;
+&lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cool.ntu.edu.tw/courses/22213&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU COOL Technology of Brain Science GIBMS7005&lt;/a&gt;, 
+&lt;a href=&#34;https://cool.ntu.edu.tw/courses/22938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurolinguistics Seminar (LING7430)&lt;/a&gt; and 
+&lt;a href=&#34;https://ncueeclass.ncu.edu.tw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCU ee-class&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
+&lt;p&gt;We hope to meet you on Discord, please check [Discord guide]({% link docs/technical/discordguide.md %}).&lt;/p&gt;
+&lt;h1 id=&#34;github-guide&#34;&gt;Github guide&lt;/h1&gt;
+&lt;h2 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h2&gt;
+&lt;p&gt;Please use the 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; official webpage and follow the instruction to signup a account. (It is free!)
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/githubfrontpage.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{: .note }
+P.S. If you are a student or teacher, don&amp;rsquo;t forget to join 
+&lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Global Campus&lt;/a&gt; to get some gift from github.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h2&gt;
+&lt;p&gt;You can learn 
+&lt;a href=&#34;https://school-brainhack.github.io/modules/git_github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to use github&lt;/a&gt; from one of our learning modules. (It is mandatory.)&lt;/p&gt;
+&lt;h1 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h1&gt;
+&lt;p&gt;You can see the detailed guide 
+&lt;a href=&#34;https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful Links</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/usefullinks/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/usefullinks/</guid>
+      <description>&lt;h1 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school website&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;open-data&#34;&gt;Open Data&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://neurovault.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroVault&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openfmri.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenfMRI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/meagmohit/EEG-Datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEG-Datasets&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BrainHack School Modules</title>
@@ -50,10 +157,7 @@
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/instructors/</guid>
       <description>&lt;hr&gt;
-&lt;h1 id=&#34;instructors&#34;&gt;Instructors&lt;/h1&gt;
-&lt;h2 id=&#34;brainhack-school-ntu&#34;&gt;Brainhack School NTU&lt;/h2&gt;
-&lt;p&gt;Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. The Brainhack School, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice.&lt;/p&gt;
-&lt;h3 id=&#34;directors&#34;&gt;Directors&lt;/h3&gt;
+&lt;h3 id=&#34;instructors&#34;&gt;Instructors&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -132,17 +236,6 @@
 &lt;p&gt;You are recommended to follow the sequence as listed 
 &lt;a href=&#34;https://school.brainhackmtl.org/weeks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/schedule.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Student Projects at BrainHack School NTU</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/brainhack-project/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/brainhack-project/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Here is a session for students to upload their projects.&lt;/p&gt;
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 </description>
     </item>
     
