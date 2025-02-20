@@ -8,7 +8,7 @@ lastmod: "2025-02-17"
 draft: false
 menu:
   brainhack:
-    parent: Information
+    parent: BrainHack School NTU
     weight: 3
 ---
  
