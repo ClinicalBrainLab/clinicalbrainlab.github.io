@@ -8,25 +8,19 @@ lastmod: "2025-02-17"
 draft: false
 menu:
   brainhack:
-    parent: Information
+    parent: BrainHack School NTU
     weight: 2
 ---
  
 
 ---
-
-# Instructors
-
-## Brainhack School NTU
-
-Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. The Brainhack School, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice.
-
-### Directors
+### Instructors
 
 | [Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)                                                         
 |:--------------------------------------------------------------------------:|
 | The Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology at School of Social Sciences, Nanyang Technological University | 
 | annabelchen at ntu.edu.sg                                            |                            
+
 ### Teaching Assistants
 
 | Name            | Affiliation                 | Email                     |
