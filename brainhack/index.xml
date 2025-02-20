@@ -18,7 +18,6 @@
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</guid>
       <description>&lt;hr&gt;
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
 &lt;p&gt;This is wrap-ups from 
 &lt;a href=&#34;https://school-brainhack.github.io/project_guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school offical website&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
@@ -76,15 +75,15 @@ Looking for example of project? You can find that from the past Brainhack School
       <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
-      <description>&lt;h1 id=&#34;ntucool--ee-class&#34;&gt;NTUCOOL &amp;amp; ee-class&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;ntucool--ee-class&#34;&gt;NTUCOOL &amp;amp; ee-class&lt;/h2&gt;
 &lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://cool.ntu.edu.tw/courses/22213&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU COOL Technology of Brain Science GIBMS7005&lt;/a&gt;, 
 &lt;a href=&#34;https://cool.ntu.edu.tw/courses/22938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurolinguistics Seminar (LING7430)&lt;/a&gt; and 
 &lt;a href=&#34;https://ncueeclass.ncu.edu.tw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCU ee-class&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
 &lt;p&gt;We hope to meet you on Discord, please check [Discord guide]({% link docs/technical/discordguide.md %}).&lt;/p&gt;
-&lt;h1 id=&#34;github-guide&#34;&gt;Github guide&lt;/h1&gt;
-&lt;h2 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h2&gt;
+&lt;h2 id=&#34;github-guide&#34;&gt;Github guide&lt;/h2&gt;
+&lt;h3 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h3&gt;
 &lt;p&gt;Please use the 
 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; official webpage and follow the instruction to signup a account. (It is free!)
 &lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/githubfrontpage.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -92,10 +91,10 @@ Looking for example of project? You can find that from the past Brainhack School
 P.S. If you are a student or teacher, don&amp;rsquo;t forget to join 
 &lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Global Campus&lt;/a&gt; to get some gift from github.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h2&gt;
+&lt;h3 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h3&gt;
 &lt;p&gt;You can learn 
 &lt;a href=&#34;https://school-brainhack.github.io/modules/git_github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to use github&lt;/a&gt; from one of our learning modules. (It is mandatory.)&lt;/p&gt;
-&lt;h1 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h1&gt;
+&lt;h2 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h2&gt;
 &lt;p&gt;You can see the detailed guide 
 &lt;a href=&#34;https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -106,48 +105,16 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
       <link>https://clinicalbrainlab.github.io/brainhack/usefullinks/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/usefullinks/</guid>
-      <description>&lt;h1 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school website&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;open-data&#34;&gt;Open Data&lt;/h1&gt;
+&lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://neurovault.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroVault&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://openfmri.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenfMRI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/meagmohit/EEG-Datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEG-Datasets&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BrainHack School Modules</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/modules/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/modules/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Brainhack school provide 
-&lt;a href=&#34;https://school-brainhack.github.io/modules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-made tutorial on modules&lt;/a&gt; that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topic.&lt;/p&gt;
-&lt;p&gt;Here is the list of training modules for brainhack school:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Brief Introduction to the Bash Shell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applications of Deep Learning in Neuroimaging&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Containers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Connectivity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Parcellation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Performance Computing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Visualization in Python&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python for data analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -222,6 +189,38 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;hr&gt;
 &lt;h2 id=&#34;special-thanks&#34;&gt;Special thanks&lt;/h2&gt;
 &lt;p&gt;We appriciate Brainhack School Organization team:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/modules/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/modules/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Brainhack school provide 
+&lt;a href=&#34;https://school-brainhack.github.io/modules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-made tutorial on modules&lt;/a&gt; that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topics.&lt;/p&gt;
+&lt;p&gt;Here is the list of training modules for brainhack school:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Brief Introduction to the Bash Shell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applications of Deep Learning in Neuroimaging&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Containers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Connectivity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Parcellation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Performance Computing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Visualization in Python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python for data analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
