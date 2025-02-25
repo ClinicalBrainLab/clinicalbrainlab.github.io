@@ -5,7 +5,7 @@ weight: 1
 date: "2025-02-17T00:00:00Z"
 lastmod: "2025-02-17T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 menu:
   brainhack:
