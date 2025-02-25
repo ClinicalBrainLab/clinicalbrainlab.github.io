@@ -29,9 +29,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:shuhan.wang@ntu.edu.sg
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/catherine_wsh
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0006-6510-5358
