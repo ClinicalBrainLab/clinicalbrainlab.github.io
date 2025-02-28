@@ -9,7 +9,7 @@ draft: false
 menu:
   brainhack:
     parent: BrainHack School NTU
-    weight: 5
+    weight: 6
 ---
 ---
 This is wrap-ups from [Brainhack school offical website](https://school-brainhack.github.io/project_guide/)
