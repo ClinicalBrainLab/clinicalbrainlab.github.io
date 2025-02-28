@@ -18,7 +18,8 @@ menu:
 
 ### Singapore Directors
 
-
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/Annabel.png)       | **[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)** <br>
 |                                          | - **Role**: Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology <br>
 |                                          | - **Affiliation**: Centre of Research and Development in Learning, Nanyang Technological University, Singapore <br>
@@ -29,6 +30,8 @@ menu:
 
  <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/Joyce.png) |             **[Dr. Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)**<br>
 |                                              | - **Role**: Research Scientist <br>
 |                                              | - **Affiliation**: National Institute of Education, Singapore <br>
@@ -39,6 +42,8 @@ menu:
 
 <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/Lisa.png)        | **[Dr Luo Lizhu (Lisa)](https://dr.ntu.edu.sg/cris/rp/rp02340)**<br>
 |                                        | - **Role**: Assistant Professor <br>
 |                                        | - **Affiliation**: School of Social Sciences, Nanyang Technological University, Singapore <br>
@@ -48,6 +53,8 @@ menu:
 
 <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/Darren.png)          | **[Dr Darren Yeo](https://dr.ntu.edu.sg/cris/rp/rp01327)**<br>
 |                                            | - **Role**: Assistant Professor <br>
 |                                            | - **Affiliation**: School of Social Sciences, Nanyang Technological University, Singapore <br>
@@ -59,6 +66,8 @@ menu:
 
 ### Singapore Teaching Assistants
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/WongYiSheng.png)     | **Wong Yi Sheng**<br>
 |                                            | - **Role**: Research Fellow <br>
 |                                            | - **Affiliation**: Psychology Department, Nanyang Technological University, Singapore <br>
@@ -68,6 +77,8 @@ menu:
 
 <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/Tiffany.png)         | **[Hsin-Yu Lin (Tiffany)](https://www.clinicalbrain.org/author/lin-hsin-yu/)**<br>
 |                                            | - **Role**: Research Associate <br>
 |                                            | - **Affiliation**: Centre of Research and Development in Learning, Nanyang Technological University, Singapore <br>
@@ -77,6 +88,8 @@ menu:
 
  <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/JiaLi.png)           | **[Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)**<br>
 |                                            | - **Role**:  Doctoral Student <br>
 |                                            | - **Affiliation**: Psychology Department, Nanyang Technological University, Singapore <br>
@@ -97,6 +110,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 ### Taiwan Directors
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TWJoshua.png)        | **Dr Joshua O.S. Goh**<br>
 |                                            | - **Role**: Associate Professor <br>
 |                                            | - **Affiliation**: Graduate Institute of Brain and Mind Sciences, National Taiwan University, Taiwan <br>
@@ -106,6 +121,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
  <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TWChiaLin.png)       | **Dr Chia-Lin Charlene Lee**<br>
 |                                            | - **Role**: Associate Professor <br>
 |                                            | - **Affiliation**: Graduate Institute of Linguistics, National Taiwan University, Taiwan <br>
@@ -115,6 +132,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
  <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TW-ChunHsienHsu.png) | **Dr Chun-Hsien Hsu**<br>
 |                                            | - **Role**: Assistant Professor <br>
 |                                            | - **Affiliation**: Institute of Cognitive Neuroscience, National Central University, Taiwan <br>
@@ -126,6 +145,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 ### Taiwan Teaching Assistants 
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TW-Hannah.png)       | **Hannah Lin-Han Huang**<br>
 |                                            | - **Role**: Research Assistant <br>
 |                                            | - **Affiliation**: Brain and Mind Laboratory, National Taiwan University, Taiwan <br>
@@ -135,6 +156,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TW-YongShengTan.png) |**Yong Sheng Tan**<br>
 |                                            | - **Role**: Doctoral Student <br>
 |                                            | - **Affiliation**: Taiwan International Graduate Program, National Taiwan University, Taiwan <br>
@@ -144,6 +167,8 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 <br>
 
+|Photo  | Profile                                                                                                                                                                                   |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![png](/brainhack/pfp/TW-Ruo-ChiYao.png)   |**Ruo-Chi Yao**<br>
 |                                            | - **Role**: Research Assistant <br>
 |                                            | - **Affiliation**: Institute of Cognitive Neuroscience, National Central University, Taiwan <br>
