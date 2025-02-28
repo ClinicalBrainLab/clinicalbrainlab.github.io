@@ -18,7 +18,7 @@ menu:
 
 ### Singapore Directors
 
-![jpg](/brainhack/pfp/ACHEN.jpg)
+![jpg](/brainhack/pfp/AChen.jpg)
 **[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)**
 - Role: Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology
 - Affiliation: Centre of Research and Development in Learning, Nanyang Technological University, Singapore
@@ -93,7 +93,7 @@ Tiffany is currently a Research Associate at CRADLE@NTU, involved in several fMR
 She is also a trained radiographer from NYMU. 
 
 
- ![jpg](/brainhack/pfp/jiali.jpg)
+ ![jpg](/brainhack/pfp/Jiali.jpg)
 **[Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)**
 - Role: Doctoral Student
 - Affiliation: Psychology Department, Nanyang Technological University, Singapore
@@ -108,7 +108,7 @@ Her main interests are in neuroscience.
 We are happy to join the Brainhack School Taiwan hub this year and we will actively work with the Taiwan hub to kick off the program. We will conduct our course in parallel to the Taiwan local hub, and we plan to have an in-person exchange visit to Taiwan for the final week round of research presentations and symposium.
 
 ## The BrainHack School Taiwan Team
-
+ ![png](/brainhack/pfp/logoTaiWan.png)
 Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. [Brainhack School](https://school-brainhack.github.io/), which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice. Brainhack School Taiwan joined the international consortium in 2023, which brought together experts from National Central University and National Taiwan University to team up with Brainhack Schools around the world.
 
 
@@ -159,7 +159,7 @@ Hannah is a research assistant at the NTU-Taiwan Dr. Goh's Brain and Mind Lab, w
 Her research explores the cultural impact on resting-state functional connectivity in young adults in the U.S. and Taiwan, in collaboration with Dr. Angela Gutchess from Brandeis University, utilizing advanced fMRI analysis. Additionally, her continuous involvement in the lab's LEGO Intervention and Resilience project has sparked her interest in aging-related research. 
 
 
-
+ ![jpg](/brainhack/pfp/YongSheng.jpg)
 **Yong Sheng Tan**
 - Role: Doctoral Student
 - Affiliation: Taiwan International Graduate Program, National Taiwan University, Taiwan
