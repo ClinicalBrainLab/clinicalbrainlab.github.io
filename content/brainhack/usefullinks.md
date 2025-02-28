@@ -9,7 +9,7 @@ draft: false
 menu:
   brainhack:
     parent: BrainHack School NTU
-    weight: 7
+    weight: 8
 ---
 
 ## Brainhack school
