@@ -20,27 +20,27 @@ menu:
 
 |                                                         | Profile                                                                                                                                                                                   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/brainhack/pfp/Annabel.png" width="120" />    | **[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)** 
+| ![png](/brainhack/pfp2/Annabel.png)                     | **[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)** 
 |                                                         | *Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology*
 |                                                         | Centre of Research and Development in Learning, Nanyang Technological University, Singapore 
 |                                                         | annabelchen@ntu.edu.sg 
 |                                                         | Prof Annabel is a Clinical Neuropsychologist specializing in neuroimaging techniques (MRI, EEG, fNIRS, TMS, tDCS) to understand brain and behavior.
 |                                                         | Her [ClinicalBrainLab](https://www.clinicalbrain.org) investigates the role of the cerebellum in higher cognition, healthy aging, and socioaffective neuroscience, as well as the Science of Learning.
 |                                                         | She is the director for the Centre of Research and Development in Learning (CRADLE) at the Nanyang Technological University (NTU.SG) and the director for the Centre of Lifelong Learning and Individualised Cognition (CLIC), a collaborative effort with the University of Cambridge. |
-| <img src="/brainhack/pfp/Joyce.png" width="120" />      |**[Dr Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)** 
+| ![png](/brainhack/pfp2/Joyce.png)                       |**[Dr Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)** 
 |                                                         | *Research Scientist*
 |                                                         | National Institute of Education, Singapore
 |                                                         | chiao-yi.wu@nie.edu.sg
 |                                                         | Dr. Wu is a Research Scientist at the Centre for Research in Child Development, National Institute of Education (NTU.SG).
 |                                                         | Her research is situated at the intersection of psychology, neuroscience, and education within the science of learning.
 |                                                         | She employs magnetic resonance imaging and functional near-infrared spectroscopy to study the neural networks of language, reading, and executive function across the lifespan, with a particular emphasis on understanding the development of emerging skills (including literacy and bilingualism) to enhance learning outcomes for learners with various needs. |
-| <img src="/brainhack/pfp/Lisa.png" width="120" />       | **[Dr Luo Lizhu (Lisa)](https://dr.ntu.edu.sg/cris/rp/rp02340)** 
+| ![png](/brainhack/pfp2/Lisa.png)                        | **[Dr Luo Lizhu (Lisa)](https://dr.ntu.edu.sg/cris/rp/rp02340)** 
 |                                                         | *Assistant Professor*
 |                                                         | School of Social Sciences, Nanyang Technological University, Singapore 
 |                                                         | lizhu.luo@ntu.edu.sg
 |                                                         | Dr. Luo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. She conducts interdisciplinary research in psychology, neuroscience, and psychopathology.
 |                                                         | Her research employs psychological and neuroimaging methods, primarily functional Magnetic Resonance Imaging (fMRI), to investigate the behavioral and neural mechanisms of youth psychopathology, focusing on the dysfunctions in emotional and cognitive processing associated with youth depression. |
-| <img src="/brainhack/pfp/Darren.png" width="120" />     | **[Dr Darren Yeo](https://dr.ntu.edu.sg/cris/rp/rp01327)** 
+| ![png](/brainhack/pfp2/Darren.png)                      | **[Dr Darren Yeo](https://dr.ntu.edu.sg/cris/rp/rp01327)** 
 |                                                         | *Assistant Professor*
 |                                                         | School of Social Sciences, Nanyang Technological University, Singapore
 |                                                         | darrenyeo@ntu.edu.sg 
@@ -53,19 +53,19 @@ menu:
 
 |                                                         | Profile                                                                                                                                                                                   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/brainhack/pfp/WongYiSheng.png" width="120" />| **Wong Yi Sheng**
+| ![png](/brainhack/pfp2/WongYiSheng.png)                 | **Wong Yi Sheng**
 |                                                         | *Research Fellow*
 |                                                         | Psychology Department, Nanyang Technological University, Singapore
 |                                                         | wong.yisheng@ntu.edu.sg
 |                                                         | Dr Wong Yi Sheng is a research fellow at the Nanyang Technological University, Singapore.
 |                                                         | His primary research interests include mind wandering, cognitive flexibility, and attentional control. He has extensive experience conducting research using EEG, fNIRS, and fMRI. |
-| <img src="/brainhack/pfp/Tiffany.png" width="120" />    | **[Hsin-Yu Lin (Tiffany)](https://www.clinicalbrain.org/author/lin-hsin-yu/)**
+| ![png](/brainhack/pfp2/Tiffany.png)                     | **[Hsin-Yu Lin (Tiffany)](https://www.clinicalbrain.org/author/lin-hsin-yu/)**
 |                                                         | *Research Associate*
 |                                                         | Centre of Research and Development in Learning, Nanyang Technological University, Singapore 
 |                                                         | linhy@ntu.edu.sg  
 |                                                         | Tiffany is currently a Research Associate at CRADLE@NTU, involved in several fMRI projects, and is responsible for the structural and functional MRI analyses. 
 |                                                         | She is also a trained radiographer from NYMU. |
-| <img src="/brainhack/pfp/JiaLi.png" width="120" />      | **[Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)**
+| ![png](/brainhack/pfp2/JiaLi.png)                       | **[Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)**
 |                                                         | *Doctoral Student*
 |                                                         | Psychology Department, Nanyang Technological University, Singapore 
 |                                                         | jiali003@e.ntu.edu.sg  
@@ -87,19 +87,19 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 |                                                         | Profile                                                                                                                                                                                   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<img src="/brainhack/pfp/TWJoshua.png" width="120" />    | **Dr Joshua O.S. Goh**
+| ![png](/brainhack/pfp2/TWJoshua.png)                    | **Dr Joshua O.S. Goh**
 |                                                         | *Associate Professor*
 |                                                         | Graduate Institute of Brain and Mind Sciences, National Taiwan University, Taiwan 
 |                                                         | joshuagoh@ntu.edu.tw 
 |                                                         | Josh focuses on understanding intelligence functions in the brain and the biological and experiential constraints.
 |                                                         | His methodological approaches involve cognitive experiments, brain imaging, and formal modeling with considerations of age and cultural differences, as well as artificial intelligence operations.|
-| <img src="/brainhack/pfp/TWChiaLin.png" width="120" />  | **Dr Chia-Lin Charlene Lee**
+| ![png](/brainhack/pfp2/TWChiaLin.png)                   | **Dr Chia-Lin Charlene Lee**
 |                                                         | *Associate Professor*
 |                                                         | Graduate Institute of Linguistics, National Taiwan University, Taiwan
 |                                                         | chialinlee@ntu.edu.tw
 |                                                         | Charlene focuses on semantic and syntactic language processing in the brain as well as contextual influences such as sentence constraints and emotional information.
 |                                                         | Her primary experimental approach uses electroencephalography (EEG) and event-related potentials (ERP) applied on younger to older adults. |
-|<img src="/brainhack/pfp/TW-ChunHsienHsu.png" width="120" />  | **Dr Chun-Hsien Hsu**
+| ![png](/brainhack/pfp2/TW-ChunHsienHsu.png)             | **Dr Chun-Hsien Hsu**
 |                                                         | *Assistant Professor*
 |                                                         | Institute of Cognitive Neuroscience, National Central University, Taiwan 
 |                                                         | kevinhsu@ncu.edu.tw 
@@ -112,19 +112,19 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 
 |                                                         | Profile                                                                                                                                                                                   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/brainhack/pfp/TW-Hannah.png" width="120" />  | **Hannah Lin-Han Huang**
+| ![png](/brainhack/pfp2/TW-Hannah.png)                   | **Hannah Lin-Han Huang**
 |                                                         | *Research Assistant*
 |                                                         | Brain and Mind Laboratory, National Taiwan University, Taiwan 
 |                                                         | hannah82633@gmail.com 
 |                                                         | Hannah is a research assistant at the NTU-Taiwan Dr. Goh's Brain and Mind Lab, where she earned her M.Sc. in Brain and Mind Sciences in 2023. 
 |                                                         | Her research explores the cultural impact on resting-state functional connectivity in young adults in the U.S. and Taiwan, in collaboration with Dr. Angela Gutchess from Brandeis University, utilizing advanced fMRI analysis. Additionally, her continuous involvement in the lab's LEGO Intervention and Resilience project has sparked her interest in aging-related research.|
-| <img src="/brainhack/pfp/TW-YongShengTan.png" width="120" />  |**Yong Sheng Tan**
+| ![png](/brainhack/pfp2/TW-YongShengTan.png)             |**Yong Sheng Tan**
 |                                                         | *Doctoral Student*
 |                                                         | Taiwan International Graduate Program, National Taiwan University, Taiwan 
 |                                                         | d12b49005@ntu.edu.tw 
 |                                                         | Yong Sheng is a 2nd year PhD student under the supervision of Dr. Joshua Goh at the Brain and Mind Laboratory, National Taiwan University.
 |                                                         | His research interests are in the neuroscience and psychology of aging and culture. He employs fMRI to study the neural mechanisms underlying probabilistic processing and decision making, and how these processes differ between Americans and Taiwanese from various age cohorts. His project is conducted in collaboration with Dr. Angela Gutchess at Brandeis University.|
-| <img src="/brainhack/pfp/TW-Ruo-ChiYao.png" width="120" /> |**Ruo-Chi Yao**
+| ![png](/brainhack/pfp2/TW-Ruo-ChiYao.png)               |**Ruo-Chi Yao**
 |                                                         | *Research Assistant*
 |                                                         | Institute of Cognitive Neuroscience, National Central University, Taiwan
 |                                                         | kireiyvette@gmail.com 
