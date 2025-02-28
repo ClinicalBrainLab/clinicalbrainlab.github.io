@@ -14,54 +14,48 @@ menu:
  
 
 ---
-### Instructors
+## Singapore Instructors
 
-**[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)**
-- Affiliation: Nanyang Technological University
-- E-mail: annabelchen at ntu.edu.sg
+### Singapore Directors
 
-Prof Annabel is a Clinical Neuropsychologist specializing in neuroimaging techniques (MRI, EEG, fNIRS, TMS, tDCS) to understand brain and behavior. 
-
-Her [ClinicalBrainLab](www.clinicalbrain.org) investigates the role of the cerebellum in higher cognition, healthy aging and socioaffective neuroscience, as well as the Science of Learning. 
-
-She is the director for the Centre of Research and Development in Learning (CRADLE) at the Nanyang Technological University (NTU.SG) and the director for the Centre of Lifelong Learning and Individualised Cognition (CLIC), a collaborative effort with the University of Cambridge.
-
-![png](/brainhack/ACHEN_MRI.png)
-
-
-**[Dr. Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)**
-- Affiliation: Nanyang Technological University
-- E-mail: chiao-yi.wu at nie.edu.sg
-
-Dr. Wu is a Research Scientist at the Centre for Research in Child Development, National Institute of Education (NTU.SG). 
-
-Her research is situated at the intersection of psychology, neuroscience, and education within the science of learning. 
-
-She employs magnetic resonance imaging and functional near-infrared spectroscopy to study the neural networks of language, reading, and executive function across the lifespan, with a particular emphasis on understanding the development of emerging skills including literacy and bilingualism to enhance learning outcomes for learners with various needs.
-
-![png](/brainhack/Photo_Chiao-Yi_Wu.png)
+| ![jpg](/brainhack/pfp/AChen.jpg)       | **[Professor Annabel Chen](https://www.clinicalbrain.org/author/annabel-chen/)**  
+|                                        | - **Affiliation**: Nanyang Technological University  
+|                                        | - **Email**: annabelchen at ntu.edu.sg  
+|                                        |   
+|                                        | Prof Annabel is a Clinical Neuropsychologist specializing in neuroimaging techniques (MRI, EEG, fNIRS, TMS, tDCS) to understand brain and behavior.  
+|                                        |   
+|                                        | Her [ClinicalBrainLab](www.clinicalbrain.org) investigates the role of the cerebellum in higher cognition, healthy aging, and socioaffective neuroscience, as well as the Science of Learning.  
+|                                        |   
+|                                        | She is the director for the Centre of Research and Development in Learning (CRADLE) at Nanyang Technological University (NTU.SG) and the director for the Centre of Lifelong Learning and Individualised Cognition (CLIC), a collaborative effort with the University of Cambridge. 
 
 
-**[Dr Luo Lizhu (Lisa)](https://dr.ntu.edu.sg/cris/rp/rp02340)**
-- Affiliation: Nanyang Technological University
-- E-mail: lizhu.luo at ntu.edu.sg
+| ![jpg](/brainhack/pfp/WuChiao-Yi.jpg)  | **[Dr. Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)**
+|                                        | - **Affiliation**: Nanyang Technological University  
+|                                        | - **Email**: chiao-yi.wu at nie.edu.sg  
+|                                        |   
+|                                        | Dr. Wu is a Research Scientist at the Centre for Research in Child Development, National Institute of Education (NTU.SG). 
+|                                        |   
+|                                        | Her research is situated at the intersection of psychology, neuroscience, and education within the science of learning.   
+|                                        |   
+|                                        | She employs magnetic resonance imaging and functional near-infrared spectroscopy to study the neural networks of language, reading, and executive function across the lifespan, with a particular emphasis on understanding the development of emerging skills including literacy and bilingualism to enhance learning outcomes for learners with various needs.
 
-Dr. Luo  is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. She conducts interdisciplinary research in psychology, neuroscience, and psychopathology. 
 
-Her research employs psychological and neuroimaging methods, primarily functional Magnetic Resonance Imaging (fMRI), to investigate the behavioral and neural mechanisms of youth psychopathology, focusing specifically on the dysfunctions in emotional and cognitive processing associated with youth depression.
+| ![png](/brainhack/pfp/LisaLuo.png)     | **[Dr Luo Lizhu (Lisa)](https://dr.ntu.edu.sg/cris/rp/rp02340)**  
+|                                        | - **Affiliation**: Nanyang Technological University  
+|                                        | - **Email**: lizhu.luo at ntu.edu.sg
+|                                        |   
+|                                        | Dr. Luo  is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. She conducts interdisciplinary research in psychology, neuroscience, and psychopathology. 
+|                                        |   
+|                                        | Her research employs psychological and neuroimaging methods, primarily functional Magnetic Resonance Imaging (fMRI), to investigate the behavioral and neural mechanisms of youth psychopathology, focusing specifically on the dysfunctions in emotional and cognitive processing associated with youth depression.
 
-![png](/brainhack/LisaLuo.png)
 
-
-**[Dr Darren Yeo](https://dr.ntu.edu.sg/cris/rp/rp01327)**
-- Affiliation: Nanyang Technological University
-- E-mail: darrenyeo at ntu.edu.sg
-
-Dr Yeo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. 
-
-He is an expert in using fMRI to study neurocognitive processes involved in numeracy and amthematical abilities across the lifespan.
-
-![png](/brainhack/DarrenYeo.png)
+| ![jpg](/brainhack/pfp/DarrenYeo.jpg)   | **[Dr Darren Yeo](https://dr.ntu.edu.sg/cris/rp/rp01327)**
+|                                        | - **Affiliation**: Nanyang Technological University  
+|                                        | - **Email**: darrenyeo at ntu.edu.sg  
+|                                        |   
+|                                        | Dr Yeo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG.  
+|                                        |   
+|                                        | He is an expert in using fMRI to study neurocognitive processes involved in numeracy and amthematical abilities across the lifespan.  
 
 
 ### Teaching Assistants
