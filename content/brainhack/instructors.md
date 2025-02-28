@@ -14,7 +14,7 @@ menu:
  
 
 ---
-## Singapore Instructors
+## The BrainHack School NTU Team
 
 ### Singapore Directors
 
@@ -29,7 +29,7 @@ menu:
 
  <br>
 
-| ![png](/brainhack/pfp/joyce.png) |             **[Dr. Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)**<br>
+| ![png](/brainhack/pfp/Joyce.png) |             **[Dr. Wu Chiao-Yi](https://www.clinicalbrain.org/author/chiao-yi-wu/)**<br>
 |                                              | - **Role**: Research Scientist <br>
 |                                              | - **Affiliation**: National Institute of Education, Singapore <br>
 |                                              | - **E-mail**: chiao-yi.wu@nie.edu.sg <br><br>
