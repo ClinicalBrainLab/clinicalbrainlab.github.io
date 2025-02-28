@@ -9,7 +9,7 @@ draft: false
 menu:
   brainhack:
     parent: BrainHack School NTU
-    weight: 6
+    weight: 7
 ---
 
 ## NTULearn & NTU.SG discord
