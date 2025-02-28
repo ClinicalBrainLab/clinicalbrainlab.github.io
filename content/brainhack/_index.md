@@ -1,5 +1,5 @@
 ---
-title: "Main Page"
+title: "Welcome"
 summary: "BrainHack School NTU"
 weight: 1
 date: "2025-02-17T00:00:00Z"
@@ -36,6 +36,8 @@ We have no hard restrictions, but backgrounds in cognitive neuroscience and codi
 | Week 2                  | 2023/05/15-2023/05/21 | Think about your project (Keyword based Pod Assignment, 50% tutorial, 50% project)   |
 | Week 3                  | 2023/05/22-2023/05/28 | Implement your project (Assigned to Project Pods and TAs, 25% tutorial, 75% project) |
 | Week 4                  | 2023/05/29-2023/06/04 | Project wrap-up presentation and communication (100% project)                        |
+| Week 5                  | 2023/06/05-2023/06/11 | BrainHack Symposium at National Taiwan University (Optional)                         |
+
 
 ## Grading
 - 10%: Completing all required tutorials in weeks 1 to 3.
