@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Main Page | The Clinical Brain Lab</title>
+    <title>Welcome | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/brainhack/</link>
       <atom:link href="https://clinicalbrainlab.github.io/brainhack/index.xml" rel="self" type="application/rss+xml" />
-    <description>Main Page</description>
+    <description>Welcome</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
-      <title>Main Page</title>
+      <title>Welcome</title>
       <link>https://clinicalbrainlab.github.io/brainhack/</link>
     </image>
     
@@ -75,13 +75,13 @@ Looking for example of project? You can find that from the past Brainhack School
       <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
-      <description>&lt;h2 id=&#34;ntucool--ee-class&#34;&gt;NTUCOOL &amp;amp; ee-class&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;ntulearn--ntusg-discord&#34;&gt;NTULearn &amp;amp; NTU.SG discord&lt;/h2&gt;
 &lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://cool.ntu.edu.tw/courses/22213&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU COOL Technology of Brain Science GIBMS7005&lt;/a&gt;, 
 &lt;a href=&#34;https://cool.ntu.edu.tw/courses/22938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurolinguistics Seminar (LING7430)&lt;/a&gt; and 
 &lt;a href=&#34;https://ncueeclass.ncu.edu.tw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCU ee-class&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
-&lt;p&gt;We hope to meet you on Discord, please check [Discord guide]({% link docs/technical/discordguide.md %}).&lt;/p&gt;
+&lt;p&gt;We hope to meet you on Discord, the NTU.SG discord link will be sent to registered students and announced in NTULearn.&lt;/p&gt;
 &lt;h2 id=&#34;github-guide&#34;&gt;Github guide&lt;/h2&gt;
 &lt;h3 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h3&gt;
 &lt;p&gt;Please use the 
