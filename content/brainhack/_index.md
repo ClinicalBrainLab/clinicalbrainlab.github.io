@@ -18,7 +18,7 @@ menu:
 This course focuses on advanced data preprocessing and analytical techniques for human brain neurophysiological data including electroencephalography/event-related potentials (EEG/ERP), magnetoencephalography (MEG), and structural/functional magnetic resonance imaging (MRI). 
 
 ## Learning Format
-The course is conducted with the international [BrainHack School Links to an external site](https://school-brainhack.github.io/). We combine *self-paced module learning with tutorials* and *project-based practical work* under Teaching Assistant (TA) advising over two phases during the semester.
+The course is conducted with the international [BrainHack School](https://school-brainhack.github.io/). We combine *self-paced module learning with tutorials* and *project-based practical work* under Teaching Assistant (TA) advising over two phases during the semester.
 
 ### Preparation Phase (Mid-March to early May)
 Singapore students in the BrainHack School Singapore NTU (BHS-SG-NTU) hub will do self-paced module learning with primary advising by local TAs.
