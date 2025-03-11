@@ -49,7 +49,7 @@ menu:
 We are happy to join the Brainhack School Taiwan hub this year and we will actively work with the Taiwan hub to kick off the program. We will conduct our course in parallel to the Taiwan local hub, and we plan to have an in-person exchange visit to Taiwan for the final week round of research presentations and symposium.
 
 ## The BrainHack School Taiwan Team
- ![png](/brainhack/pfp/logoTaiWan.png)
+ ![png](/brainhack/pfp2/logoTaiWan.png)
 Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. [Brainhack School](https://school-brainhack.github.io/), which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice. Brainhack School Taiwan joined the international consortium in 2023, which brought together experts from National Central University and National Taiwan University to team up with Brainhack Schools around the world.
 
 
