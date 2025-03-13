@@ -78,16 +78,14 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 |                                                         | Ruo-Chi is affiliated with the Institute of Cognitive Neuroscience at National Central University. Her research interests are in linguistics, speech-language pathology, and neuroimaging.|
 
 
-## Students
-
 ---
 
-## List of Brainhack School around the world
-- NTU/ICNNCU,Taipei/Taoyuan,Taiwan
+## List of Brainhack Schools around the world
+- NTU/ICNNCU ,Taipei/Taoyuan, Taiwan
 - Universidad de la Republica,Montevideo,Uruguay
 - Humai,Buenos Aires,Argentina
-- Polytechnique Montreal,Montreal,Canada
-- University of Montreal,Montreal,Canada
+- Polytechnique Montreal, Montreal,Canada
+- University of Montreal ,Montreal, Canada
 - TMU/CAMH,Toronto,Canada
 - Université de Paris Cité,Paris,France
 - McGill
@@ -98,4 +96,4 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 ---
 
 ## Special thanks
-We appriciate Brainhack School Organization team:
+We appreciate the Brainhack School Organization team.
