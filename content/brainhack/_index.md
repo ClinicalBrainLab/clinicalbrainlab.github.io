@@ -27,7 +27,7 @@ Singapore students in the BrainHack School Singapore NTU (BHS-SG-NTU) hub will d
 We will join with the BHS international hub. Students submit weekly module tutorials to the local hub courses. In addition, students propose, work on, and submit progress reports on their own practical projects, *working collaboratively with students and TAs from local or other hubs*. The final week will be a mini-symposium for students to share their research findings. There will also be talks by faculty and other professionals as schedule permits.
 
 ## Teaching platforms
-We will use [Discord](https://discord.com/) as the main communication platform for posting announcements, raising questions, sharing resources, networking, and comments on tutorials and projects. For Taiwan, we will primarily use the [BrainHack.School.Singapore](https://discord.gg/bEaZwawa), [Discord server](https://discord.gg/GaDpYkqNzJ) before and after the Brainhack school. During the **International Phase**, we will shift primary engagement to the **international Discord server** (link provided later in course) to foster collaborative work.
+We will use [Discord](https://discord.com/) as the main communication platform for posting announcements, raising questions, sharing resources, networking, and comments on tutorials and projects. For Singapore, we will primarily use the [BrainHack.School.Singapore](https://discord.gg/bEaZwawa), [Discord server](https://discord.gg/GaDpYkqNzJ) before and after the Brainhack school. During the **International Phase**, we will shift primary engagement to the **international Discord server** (link provided later in course) to foster collaborative work.
 
 ## Course Requirement
 * Personal computer with installed softwares as needed for your own project.
