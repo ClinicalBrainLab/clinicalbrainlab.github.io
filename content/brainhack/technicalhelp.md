@@ -16,7 +16,7 @@ menu:
 
 We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.
 
-[NTU COOL Technology of Brain Science GIBMS7005](https://cool.ntu.edu.tw/courses/22213), [Neurolinguistics Seminar (LING7430)](https://cool.ntu.edu.tw/courses/22938) and [NCU ee-class](https://ncueeclass.ncu.edu.tw/) will be used to log your grades when the Brainkhack school is close. 
+[NTU learn](https://ntulearn.ntu.edu.sg/ultra/courses/_2673042_1/cl/outline) will be used to log your grades when the Brainkhack school is close. 
 
 We hope to meet you on Discord, the NTU.SG discord link will be sent to registered students and announced in NTULearn.
 
