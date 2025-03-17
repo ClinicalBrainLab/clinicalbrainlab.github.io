@@ -12,7 +12,7 @@ menu:
     weight: 4
 ---
 
-<span style="background-color: #FFFF00">**Now Open for Applications**</span>
+<span style="background-color: #FFFF00">**Now CLosed for Applications**</span>
 
 The Clinical Brain Lab within the School of Social Sciences is looking to hire several part-time undergraduate research assistants. The Research Assistant will be an integral member of an inter-disciplinary research lab developing and carrying out neuroimaging methodologies to investigate the neurocognitive processes underlying the belief of deceptive information.
 
