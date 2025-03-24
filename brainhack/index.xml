@@ -360,53 +360,92 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
       <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
       <description>&lt;h2 id=&#34;-preparation-phase-feb---april&#34;&gt;📅 Preparation Phase (Feb - April)&lt;/h2&gt;
 &lt;table&gt;
-  &lt;tr style=&#34;background-color: #cce5ff;&#34;&gt;
-    &lt;td&gt;1&lt;/td&gt;
-    &lt;td&gt;Mar 26 (10.30AM)&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;&lt;br&gt;Presentation by OGEM on travel grant application&lt;/td&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;1&lt;/td&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;Mar 26 (10.30AM)&lt;/td&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;&lt;br&gt;
+      Presentation by OGEM on travel grant application
+    &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td&gt;2 to 5&lt;/td&gt;
-    &lt;td&gt;Mar 31 - May 2 &lt;br&gt; (Preparation, general discussion in NTULearn)&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Self-study&lt;/strong&gt; (videos + assignments + hands-on practices) of 24 online tutorials categorized into: &lt;br&gt;1. Data Science (e.g., terminal, containers, python scripting/testing, git/github, HPC)&lt;br&gt;2. Neuro data science (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;br&gt;&lt;br&gt;You are recommended to follow the sequence as ordered in &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/modules/&#34;&gt;Modules&lt;/a&gt; section, the &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/tutorials/&#34;&gt;Tutorials&lt;/a&gt; page, or the &lt;a href=&#34;https://discord.com/channels/1338385565804134430/1338399220729643018&#34;&gt;BHS-SG Discord server modules channel&lt;/a&gt;.&lt;/td&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;2 to 5&lt;/td&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;
+      Mar 31 - May 2&lt;br&gt;(Preparation, general discussion in NTULearn)
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Self-study&lt;/strong&gt; (videos + assignments + hands-on practices) of 24 online tutorials categorized into:
+      &lt;ul&gt;
+        &lt;li&gt;Data Science (e.g., terminal, containers, python scripting/testing, git/github, HPC)&lt;/li&gt;
+        &lt;li&gt;Neuro data science (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;/li&gt;
+      &lt;/ul&gt;
+      You are recommended to follow the sequence as ordered in
+      &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/modules/&#34;&gt;Modules&lt;/a&gt; section, the
+      &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/tutorials/&#34;&gt;Tutorials&lt;/a&gt; page, or the
+      &lt;a href=&#34;https://discord.com/channels/1338385565804134430/1338399220729643018&#34;&gt;BHS-SG Discord server modules channel&lt;/a&gt;.
+    &lt;/td&gt;
   &lt;/tr&gt;
-  &lt;tr style=&#34;background-color: #cce5ff;&#34;&gt;
-    &lt;td&gt;6&lt;/td&gt;
-    &lt;td&gt;May 7 (10:30AM)&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Introduction to BrainHack School materials&lt;/strong&gt;&lt;br&gt;(Pod assignment with Taiwan students)&lt;br&gt;&lt;strong&gt;Cultural Intelligence Talk&lt;/strong&gt;&lt;br&gt;Pre-trip briefing by OGEM&lt;/td&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;6&lt;/td&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 7 (10:30AM)&lt;/td&gt;
+    &lt;td bgcolor=&#34;#cce5ff&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Introduction to BrainHack School materials&lt;/strong&gt;&lt;br&gt;
+      (Pod assignment with Taiwan students)&lt;br&gt;
+      &lt;strong&gt;Cultural Intelligence Talk&lt;/strong&gt;&lt;br&gt;
+      Pre-trip briefing by OGEM
+    &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;br&gt;
 &lt;h2 id=&#34;-international-phase-may---june&#34;&gt;🌍 International Phase (May - June)&lt;/h2&gt;
 &lt;table&gt;
-  &lt;tr style=&#34;background-color: #d4edda;&#34;&gt;
-    &lt;td&gt;7&lt;/td&gt;
-    &lt;td&gt;May 12 - May 16&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Tool Exploration&lt;/strong&gt; for neural data science; Complete 6 tutorials online (submit via NTULearn)&lt;br&gt;&lt;strong&gt;Check-in meeting (14 May Wednesday 10:30am)&lt;/strong&gt;&lt;br&gt;Active Q&amp;A consultation hours (up to 2 hours a day)&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr style=&#34;background-color: #d4edda;&#34;&gt;
-    &lt;td&gt;8&lt;/td&gt;
-    &lt;td&gt;May 19 - May 23&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Project Definition &amp; Piloting;&lt;/strong&gt; Complete 3 online modules (submit via NTULearn) &lt;br&gt; &lt;strong&gt;Project Pitch (21 May Wednesday 10:30am) TBC&lt;/strong&gt;&lt;br&gt;Active Q&amp;A consultation hours (up to 2 hours a day)&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr style=&#34;background-color: #d4edda;&#34;&gt;
-    &lt;td&gt;9&lt;/td&gt;
-    &lt;td&gt;May 26 - May 30&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Project Implementation;&lt;/strong&gt; Complete 1 online module (submit via NTULearn) &lt;br&gt;&lt;strong&gt;Talk Sharing (28 May Wednesday 10:30am)&lt;/strong&gt; &lt;br&gt; Project Clinics with TAs&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr style=&#34;background-color: #d4edda;&#34;&gt;
-    &lt;td&gt;10&lt;/td&gt;
-    &lt;td&gt;June 2 - June 6&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;Project Wrap-Up&lt;/strong&gt; Project Clinics with TAs &lt;br&gt; Wrap-up Presentations (TBC)&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr style=&#34;background-color: #e6c2f1;&#34;&gt;
-    &lt;td&gt;11&lt;/td&gt;
-    &lt;td&gt;June 9 - June 13&lt;/td&gt;
-    &lt;td&gt;&lt;strong&gt;BrainHack Symposium at National Taiwan University (Visit NTU.Taiwan, optional)&lt;/strong&gt; &lt;br&gt; Submission of project description and video to the International BrainHack Site&lt;/td&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;7&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 12 - May 16&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Tool Exploration&lt;/strong&gt; for neural data science; Complete 6 tutorials online (submit via NTULearn)&lt;br&gt;
+      &lt;strong&gt;Check-in meeting (14 May Wednesday 10:30am)&lt;/strong&gt;&lt;br&gt;
+      Active Q&amp;A consultation hours (up to 2 hours a day)
+    &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td&gt;12&lt;/td&gt;
-    &lt;td&gt;June 18 (5pm)&lt;/td&gt;
-    &lt;td&gt;Submission of Reflection Essay via NTULearn&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;8&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 19 - May 23&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Project Definition &amp;amp; Piloting;&lt;/strong&gt; Complete 3 online modules (submit via NTULearn)&lt;br&gt;
+      &lt;strong&gt;Project Pitch (21 May Wednesday 10:30am) TBC&lt;/strong&gt;&lt;br&gt;
+      Active Q&amp;amp;A consultation hours (up to 2 hours a day)
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;9&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 26 - May 30&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Project Implementation;&lt;/strong&gt; Complete 1 online module (submit via NTULearn)&lt;br&gt;
+      &lt;strong&gt;Talk Sharing (28 May Wednesday 10:30am)&lt;/strong&gt;&lt;br&gt;
+      Project Clinics with TAs
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;10&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 2 - June 6&lt;/td&gt;
+    &lt;td bgcolor=&#34;#d4edda&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;Project Wrap-Up&lt;/strong&gt; Project Clinics with TAs&lt;br&gt;
+      Wrap-up Presentations (TBC)
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td bgcolor=&#34;#e6c2f1&#34; valign=&#34;top&#34; width=&#34;5%&#34;&gt;11&lt;/td&gt;
+    &lt;td bgcolor=&#34;#e6c2f1&#34; valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 9 - June 13&lt;/td&gt;
+    &lt;td bgcolor=&#34;#e6c2f1&#34; valign=&#34;top&#34; width=&#34;75%&#34;&gt;
+      &lt;strong&gt;BrainHack Symposium at National Taiwan University (Visit NTU.Taiwan, optional)&lt;/strong&gt;&lt;br&gt;
+      Submission of project description and video to the International BrainHack Site
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;12&lt;/td&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 18 (5pm)&lt;/td&gt;
+    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;Submission of Reflection Essay via NTULearn&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 </description>
