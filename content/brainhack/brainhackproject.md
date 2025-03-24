@@ -19,42 +19,20 @@ We expect each participants have different data analysis experience and distinct
 1. Submit your project codes, website report, and slides on a Github repository. (The website report can be easily achieved by [Jupyter notebook](https://jupyter.org/install)).
 2. Video recorded presentation
 
-{: .note }
+**Note:**
 Looking for example of project? You can find that from the past Brainhack School [here](https://school-brainhack.github.io/project/).
 
 ## Project Progress
 
-### Pre-school preparation
+### preparation
 - You will need to fill a form about your experience on brain data analysis, and keyword your are interesting. This information will help us to arrange TAs that will fit to your interests.
 
-### Week 1:
+## Assessments
 
-- 0% of time on project. 100% on learning modules.
-- If you already completed all the modules before the Brainhack school, you should move to next progress.
+| Item                                                     | Weightage | Team / Individual               | Details                                                                                                                                                                  |
+|----------------------------------------------------------|-----------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Final Project Report (Web-based Showcase)                | 40%       | Team (20%)<br>Individual (20%)  | Final Project Video (about 5–10 min) of the group project completed                                                                                                       |
+| Project Proposal Pitch (Data Blitz)                      | 20%       | Team (10%)<br>Individual (10%)  | 5-minute Pitch by group regarding proposed project                                                                                                                       |
+| Assignment (Reflection Essay)                            | 20%       | Individual                      | 2-page Essay to be submitted by the end of the course. Content is on the experience of the course (open to various forms) in terms of learning and perspectives on cultural intelligence |
+| Class Participation (tutorial, module assignments)       | 20%       | Individual                      | For consistent attendance and active participation across the intensive 4–5 weeks of the course                                                                          |
 
-### Week 2: 
-
-- You will spend 50% of time on thinking about your project.
-- Based on the keyword you're interesting, we will assign 1 or 2 TAs and create **pods** for your project.
-- 1 hr project clinic sessions per day (or 5 hrs/a week): TAs will discuss with you to build fundamental ideas for project.
-- At end of the week, you have to present your project proposal to your peers and instructors.
-
-### Week 3:
-
-- You will spend 75% of time on implementing project.
-- 1 hr project clinic sessions per day (or 5 hrs/a week)
-
-### Week 4:
-
-- You will spend 100% of time to wrap-up your project.
-- Submit your project on a Github repository.
-- Record a video to present your project.
-- Review and comment others project presentation.
-
-## Project Evaluation
-
-- Use of open-science best practices
-- Skills and technologies learnt
-- Project is relevant to brain data analysis
-- Clarity of code and presentation
-- Bonus: highly reproducible project, technological achievement, exciting presentation, nice brain picture.
