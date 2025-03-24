@@ -29,8 +29,6 @@ Looking for example of project? You can find that from the past Brainhack School
 
 ## Assessments
 
-## Assessments
-
 <table>
   <!-- Header row -->
   <tr>
