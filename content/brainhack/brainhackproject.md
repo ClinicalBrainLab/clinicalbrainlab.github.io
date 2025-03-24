@@ -29,10 +29,64 @@ Looking for example of project? You can find that from the past Brainhack School
 
 ## Assessments
 
-| Item                                                     | Weightage | Team / Individual               | Details                                                                                                                                                                  |
-|----------------------------------------------------------|-----------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Final Project Report (Web-based Showcase)                | 40%       | Team (20%)<br>Individual (20%)  | Final Project Video (about 5–10 min) of the group project completed                                                                                                       |
-| Project Proposal Pitch (Data Blitz)                      | 20%       | Team (10%)<br>Individual (10%)  | 5-minute Pitch by group regarding proposed project                                                                                                                       |
-| Assignment (Reflection Essay)                            | 20%       | Individual                      | 2-page Essay to be submitted by the end of the course. Content is on the experience of the course (open to various forms) in terms of learning and perspectives on cultural intelligence |
-| Class Participation (tutorial, module assignments)       | 20%       | Individual                      | For consistent attendance and active participation across the intensive 4–5 weeks of the course                                                                          |
+## Assessments
+
+<table>
+  <!-- Header row -->
+  <tr>
+    <th valign="top" width="25%">Item</th>
+    <th valign="top" width="10%">Weightage</th>
+    <th valign="top" width="20%">Team / Individual</th>
+    <th valign="top" width="45%">Details</th>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td valign="top">Final Project Report (Web-based Showcase)</td>
+    <td valign="top">40%</td>
+    <td valign="top">
+      Team (20%)<br>
+      Individual (20%)
+    </td>
+    <td valign="top">
+      Final Project Video (about 5–10 min) of the group project completed
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td valign="top">Project Proposal Pitch (Data Blitz)</td>
+    <td valign="top">20%</td>
+    <td valign="top">
+      Team (10%)<br>
+      Individual (10%)
+    </td>
+    <td valign="top">
+      5-minute Pitch by group regarding proposed project
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td valign="top">Assignment (Reflection Essay)</td>
+    <td valign="top">20%</td>
+    <td valign="top">Individual</td>
+    <td valign="top">
+      2-page Essay to be submitted by the end of the course. 
+      Content is on the experience of the course (open to various forms) 
+      in terms of learning and perspectives on cultural intelligence
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td valign="top">Class Participation (tutorial, module assignments)</td>
+    <td valign="top">20%</td>
+    <td valign="top">Individual</td>
+    <td valign="top">
+      For consistent attendance and active participation 
+      across the intensive 4–5 weeks of the course
+    </td>
+  </tr>
+</table>
 
