@@ -24,9 +24,9 @@ menu:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">2 to 5</td>
+    <td valign="top" width="5%">2 to 6</td>
     <td valign="top" width="20%">
-      Mar 31 - May 2<br>(Preparation, general discussion in NTULearn)
+      Mar 31 - May 2<br><br>(Preparation, general discussion in NTULearn)
     </td>
     <td valign="top" width="75%">
       <strong>Self-study</strong> (videos + assignments + hands-on practices) of 24 online tutorials categorized into:
@@ -41,8 +41,8 @@ menu:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">6</td>
-    <td valign="top" width="20%">May 7 (10:30AM)</td>
+    <td valign="top" width="5%">7</td>
+    <td valign="top" width="20%">May 9 (1:20PM)</td>
     <td valign="top" width="75%">
       <strong>Introduction to BrainHack School materials</strong><br>
       (Pod assignment with Taiwan students)<br>
@@ -58,34 +58,34 @@ menu:
 
 <table>
   <tr>
-    <td valign="top" width="5%">7</td>
+    <td valign="top" width="5%">8</td>
     <td valign="top" width="20%">May 12 - May 16</td>
     <td valign="top" width="75%">
       <strong>Tool Exploration</strong> for neural data science; Complete 6 tutorials online (submit via NTULearn)<br>
-      <strong>Check-in meeting (14 May Wednesday 10:30am)</strong><br>
+      <strong>Check-in meeting (16 May Friday 1:20pm)</strong><br>
       Active Q&A consultation hours (up to 2 hours a day)
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">8</td>
+    <td valign="top" width="5%">9</td>
     <td valign="top" width="20%">May 19 - May 23</td>
     <td valign="top" width="75%">
       <strong>Project Definition &amp; Piloting;</strong> Complete 3 online modules (submit via NTULearn)<br>
-      <strong>Project Pitch (21 May Wednesday 10:30am) TBC</strong><br>
+      <strong>Project Pitch (23 May Friday 1:20pm) TBC</strong><br>
       Active Q&amp;A consultation hours (up to 2 hours a day)
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">9</td>
+    <td valign="top" width="5%">10</td>
     <td valign="top" width="20%">May 26 - May 30</td>
     <td valign="top" width="75%">
       <strong>Project Implementation;</strong> Complete 1 online module (submit via NTULearn)<br>
-      <strong>Talk Sharing (28 May Wednesday 10:30am)</strong><br>
+      <strong>Talk Sharing (30 May Friday 1:20pm))</strong><br>
       Project Clinics with TAs
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">10</td>
+    <td valign="top" width="5%">11</td>
     <td valign="top" width="20%">June 2 - June 6</td>
     <td valign="top" width="75%">
       <strong>Project Wrap-Up</strong> Project Clinics with TAs<br>
@@ -93,7 +93,7 @@ menu:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">11</td>
+    <td valign="top" width="5%">12</td>
     <td valign="top" width="20%">June 9 - June 13</td>
     <td valign="top" width="75%">
       <strong>BrainHack Symposium at National Taiwan University (Visit NTU.Taiwan, optional)</strong><br>
@@ -101,7 +101,7 @@ menu:
     </td>
   </tr>
   <tr>
-    <td valign="top" width="5%">12</td>
+    <td valign="top" width="5%">13</td>
     <td valign="top" width="20%">June 18 (5pm)</td>
     <td valign="top" width="75%">Submission of Reflection Essay via NTULearn</td>
   </tr>
