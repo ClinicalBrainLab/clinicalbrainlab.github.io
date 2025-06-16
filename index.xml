@@ -98,6 +98,105 @@ Looking for example of project? You can find that from the past Brainhack School
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;h2 id=&#34;project-submission-guide&#34;&gt;Project Submission Guide&lt;/h2&gt;
+&lt;p&gt;To submit your project, you should (1) upload your slides of wrap-up presentation, and have (2) a public repository that contains your deliverables, such as code and report (or Jupyter notebook). Then, you should (3) prepare a introductory page and send a pull request to 
+&lt;a href=&#34;https://school-brainhack.github.io/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School project pages&lt;/a&gt;.&lt;strong&gt;NEW! (4) Post your project (GitHub repository link and same introductory page) to the BHS International Discord server &amp;ldquo;Project- 2025&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-1-upload-your-slides&#34;&gt;Step 1: Upload your slides&lt;/h2&gt;
+&lt;p&gt;Please upload your slides 
+&lt;a href=&#34;https://drive.google.com/drive/folders/1ToaThg46__bcNoiqcG-aPN_kqlEmDtbM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-2-prepare-a-public-repository-on-github-for-your-project&#34;&gt;Step 2: Prepare a public repository on Github for your project&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;On your Github, create a public repository named &lt;code&gt;&amp;lt;your_name&amp;gt;_project&lt;/code&gt;, and initialize with a &lt;code&gt;README&lt;/code&gt; and &lt;code&gt;LICENSE&lt;/code&gt; file. (You already did this step in Git and Github module.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clone your remote repository to your local drive. For example, I would like to clone the files on the repository to my &lt;code&gt;Documents&lt;/code&gt; folder under home directory, I can type the following code in terminal. Then, I shall found the files under &lt;code&gt;~/Documents/&amp;lt;your_name&amp;gt;_project&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd ~/Documents
+# change the &amp;lt;USERNAME&amp;gt; to your github account, and &amp;lt;your_name&amp;gt; to your name on your Github repository
+git clone https://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;your_name&amp;gt;_project.git 
+cd &amp;lt;your_name&amp;gt;_project
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open the &lt;code&gt;README.md&lt;/code&gt; file. Copy and paste all the contents from 
+&lt;a href=&#34;https://raw.githubusercontent.com/brainhack-school2023/project_template/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School Project template&lt;/a&gt;. Follow the template and modify the text to show the necessary details for your project. This &lt;code&gt;README.md&lt;/code&gt; is a markdown file, so you should prepare it as markdown format, then Github and our website will render this markdown file on webpage as shown 
+&lt;a href=&#34;https://github.com/school-brainhack/project_template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
+&lt;a href=&#34;https://school-brainhack.github.io/project/template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. You can learn more about markdown format 
+&lt;a href=&#34;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;Please ensure your page header is in markdown format, starting with three dashes (&amp;mdash;) in the first row.&lt;/strong&gt;  You can embed your result figures in the README.md. However, please note that you should copy your figure files into the same folder and use the relative path to embed your figures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Copy all your deliverables into this folder, stage and commit your changes and push to repository. You have to input your Github username and 
+&lt;a href=&#34;https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalized token&lt;/a&gt; as password when it prompt.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# You should copy all your deliverables to this folder before these lines
+# Otherwise, none of your files were uploaded
+git add -A
+git commit -m &amp;quot;upload my deliverables&amp;quot;
+git push -u origin main
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Check your repository, you should find that all your deliverables were uploaded and &lt;code&gt;README.md&lt;/code&gt; was updated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Please fill out the 
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf-6_cvIzuIk_1aVq_4zaeZAVpfB0ZJf7hNVmewbxgnh3C3aA/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt; here to let us know the links for your repository and slides. We will evaluate your performance accordingly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;step-3-fork-the-website-and-send-a-pull-request-for-your-project&#34;&gt;Step 3: Fork the website and send a pull request for your project&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Go to the 
+&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;. Click the &lt;code&gt;Fork&lt;/code&gt; on the page to fork this repository to your account.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Leave everything as defaults, and click &lt;code&gt;create fork&lt;/code&gt;.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You should see that you forked the repository to your account.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clone the forked repository to your local drive. Here, we demonstrated how to clone the repository to &lt;code&gt;Documents&lt;/code&gt; folder.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd ~/Documents
+# change the &amp;lt;USERNAME&amp;gt; to your github account
+git clone https://github.com/&amp;lt;USERNAME&amp;gt;/school-brainhack.github.io.git
+cd school-brainhack.github.io
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the school-brainhack.github.io folder, navigate to school-brainhack.github.io/content/en/project
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a folder for your project. The folder name should not have a space! You should replace any spaces with _. Then, copy your README.md (and your figure files if you embedded them in README) to the folder. Importantly, please &lt;strong&gt;rename the README.md to index.md.&lt;/strong&gt;
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stage, commit and push to your forked repository.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# change the &amp;lt;your_folder_name&amp;gt; to the folder name for your project
+cd content/en/project
+git add ./&amp;lt;your_folder_name&amp;gt;
+git commit -m &amp;quot;upload a page for my project&amp;quot;
+git push -u origin main
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You should see that you commit the changes for your project on the forked repository.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then, get back to the original 
+&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;.  We will send a pull request. (step 1:) First, click the pull request, (step 2:) then click an option called compare across forks, (step 3:) select your &lt;USERNAME&gt;/school-brainhack.github.io.git as the head repository. (step 4:) Check all the commits are correct. (step 5:) Then the final step is click the create pull request and confirm the pull request.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We will review your pull request, and some revisions might be needed. Please be patient and help us to revise your request accordingly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
