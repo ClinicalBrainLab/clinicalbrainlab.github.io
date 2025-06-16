@@ -90,13 +90,14 @@ Looking for example of project? You can find that from the past Brainhack School
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;project-submission-guide&#34;&gt;Project Submission Guide&lt;/h2&gt;
 &lt;p&gt;To submit your project, you should (1) upload your slides of wrap-up presentation, and have (2) a public repository that contains your deliverables, such as code and report (or Jupyter notebook). Then, you should (3) prepare a introductory page and send a pull request to 
 &lt;a href=&#34;https://school-brainhack.github.io/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School project pages&lt;/a&gt;.&lt;strong&gt;NEW! (4) Post your project (GitHub repository link and same introductory page) to the BHS International Discord server &amp;ldquo;Project- 2025&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;step-1-upload-your-slides&#34;&gt;Step 1: Upload your slides&lt;/h2&gt;
+&lt;h3 id=&#34;step-1-upload-your-slides&#34;&gt;Step 1: Upload your slides&lt;/h3&gt;
 &lt;p&gt;Please upload your slides 
 &lt;a href=&#34;https://drive.google.com/drive/folders/1ToaThg46__bcNoiqcG-aPN_kqlEmDtbM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;step-2-prepare-a-public-repository-on-github-for-your-project&#34;&gt;Step 2: Prepare a public repository on Github for your project&lt;/h2&gt;
+&lt;h3 id=&#34;step-2-prepare-a-public-repository-on-github-for-your-project&#34;&gt;Step 2: Prepare a public repository on Github for your project&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On your Github, create a public repository named &lt;code&gt;&amp;lt;your_name&amp;gt;_project&lt;/code&gt;, and initialize with a &lt;code&gt;README&lt;/code&gt; and &lt;code&gt;LICENSE&lt;/code&gt; file. (You already did this step in Git and Github module.)&lt;/p&gt;
@@ -136,7 +137,7 @@ git push -u origin main
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf-6_cvIzuIk_1aVq_4zaeZAVpfB0ZJf7hNVmewbxgnh3C3aA/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt; here to let us know the links for your repository and slides. We will evaluate your performance accordingly.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;step-3-fork-the-website-and-send-a-pull-request-for-your-project&#34;&gt;Step 3: Fork the website and send a pull request for your project&lt;/h2&gt;
+&lt;h3 id=&#34;step-3-fork-the-website-and-send-a-pull-request-for-your-project&#34;&gt;Step 3: Fork the website and send a pull request for your project&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Go to the 
