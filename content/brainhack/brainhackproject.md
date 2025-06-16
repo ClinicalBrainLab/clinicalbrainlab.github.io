@@ -123,12 +123,13 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg4
 
 ## Step 3: Fork the website and send a pull request for your project
 1. Go to the [Github repository for Brainhack School website](https://github.com/school-brainhack/school-brainhack.github.io). Click the `Fork` on the page to fork this repository to your account.
+![](/brainhack/submfigures/subm1.png)
 
 2. Leave everything as defaults, and click `create fork`.
-   
+![](/brainhack/submfigures/subm2.png)   
 
 3. You should see that you forked the repository to your account.
-  
+![](/brainhack/submfigures/subm3.png) 
 
 4. Clone the forked repository to your local drive. Here, we demonstrated how to clone the repository to `Documents` folder.
    ```
@@ -139,10 +140,10 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg4
    ```
 
 5. In the school-brainhack.github.io folder, navigate to school-brainhack.github.io/content/en/project 
-   
+![](/brainhack/submfigures/subm4.png) 
 
 6. Create a folder for your project. The folder name should not have a space! You should replace any spaces with _. Then, copy your README.md (and your figure files if you embedded them in README) to the folder. Importantly, please **rename the README.md to index.md.**
-   ![](../../assets/submission/subm5.png)
+![](/brainhack/submfigures/subm5.png)
 
 7. Stage, commit and push to your forked repository.
     ```
@@ -154,10 +155,10 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg4
     ```
 
 8. You should see that you commit the changes for your project on the forked repository.
-  
+![](/brainhack/submfigures/subm6.png)
 
 9.  Then, get back to the original [Github repository for Brainhack School website](https://github.com/school-brainhack/school-brainhack.github.io).  We will send a pull request. (step 1:) First, click the pull request, (step 2:) then click an option called compare across forks, (step 3:) select your <USERNAME>/school-brainhack.github.io.git as the head repository. (step 4:) Check all the commits are correct. (step 5:) Then the final step is click the create pull request and confirm the pull request. 
-    
+![](/brainhack/submfigures/subm7.png)
 
 10. We will review your pull request, and some revisions might be needed. Please be patient and help us to revise your request accordingly.
 
