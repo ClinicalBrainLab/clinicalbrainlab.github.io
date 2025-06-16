@@ -88,14 +88,14 @@ Looking for example of project? You can find that from the past Brainhack School
   </tr>
 </table>
 
-
+<br><br>
 ## Project Submission Guide
 To submit your project, you should (1) upload your slides of wrap-up presentation, and have (2) a public repository that contains your deliverables, such as code and report (or Jupyter notebook). Then, you should (3) prepare a introductory page and send a pull request to [Brainhack School project pages](https://school-brainhack.github.io/project/).**NEW! (4) Post your project (GitHub repository link and same introductory page) to the BHS International Discord server "Project- 2025"**
 
-## Step 1: Upload your slides
+### Step 1: Upload your slides
 Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg46__bcNoiqcG-aPN_kqlEmDtbM)
 
-## Step 2: Prepare a public repository on Github for your project
+### Step 2: Prepare a public repository on Github for your project
 1. On your Github, create a public repository named `<your_name>_project`, and initialize with a `README` and `LICENSE` file. (You already did this step in Git and Github module.)
 
 2. Clone your remote repository to your local drive. For example, I would like to clone the files on the repository to my `Documents` folder under home directory, I can type the following code in terminal. Then, I shall found the files under `~/Documents/<your_name>_project`.
@@ -121,7 +121,7 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg4
 
 7. Please fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSf-6_cvIzuIk_1aVq_4zaeZAVpfB0ZJf7hNVmewbxgnh3C3aA/viewform) here to let us know the links for your repository and slides. We will evaluate your performance accordingly.
 
-## Step 3: Fork the website and send a pull request for your project
+### Step 3: Fork the website and send a pull request for your project
 1. Go to the [Github repository for Brainhack School website](https://github.com/school-brainhack/school-brainhack.github.io). Click the `Fork` on the page to fork this repository to your account.
 ![](/brainhack/submfigures/subm1.png)
 
