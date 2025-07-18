@@ -1,5 +1,5 @@
 ---
-date: "2024-02-01"
+date: "2025-07-18"
 external_link: ""
 image:
   caption: Image by macrovector on Freepik
@@ -36,5 +36,6 @@ Alumni:
 Research Fellows:
 - [Zhong Miao, PhD](https://www.clinicalbrain.org/author/zhong-miao/)
 
-Research Associate:
+Research Associates:
 - [Wilson Lim](https://www.clinicalbrain.org/author/wilson-lim/)
+- [Nisha Syed Nasser](https://www.clinicalbrain.org/author/nisha-syed-nasser/)
