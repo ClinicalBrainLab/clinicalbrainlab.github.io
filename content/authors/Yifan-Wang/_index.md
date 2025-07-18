@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Visiting Ph.D Student
+role: Alumni
 social:
 - icon: researchgate
   icon_pack: ai
@@ -38,7 +38,7 @@ superuser: false
 
 title: Wang Yifan
 user_groups:
-- Graduate Students
+- Alumni
 
 ---
 
