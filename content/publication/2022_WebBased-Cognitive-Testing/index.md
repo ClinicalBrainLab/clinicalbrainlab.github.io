@@ -41,7 +41,7 @@ tags:
 - executive functions
 - learning
 - neurocognitive assessment
-- web-based testing.
+- web-based testing
 title: "A New Remote Guided Method for Supervised Web-Based Cognitive Testing to Ensure High-Quality Data: Development and Usability Study"
 url_code: ""
 url_dataset: ""
