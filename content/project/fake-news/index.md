@@ -36,5 +36,6 @@ Alumni:
 Research Fellows:
 - [Zhong Miao, PhD](https://www.clinicalbrain.org/author/zhong-miao/)
 
-Research Associate:
+Research Associates:
 - [Wilson Lim](https://www.clinicalbrain.org/author/wilson-lim/)
+- [Nisha Syed Nasser](https://www.clinicalbrain.org/author/nisha-syed-nasser/)
