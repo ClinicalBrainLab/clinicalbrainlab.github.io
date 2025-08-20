@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,7 +47,7 @@ superuser: false
 
 title: Nisha Syed Nasser
 user_groups:
-- Research Associates
+- Alumni
 
 ---
 

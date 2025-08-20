@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant for Project PROOF
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,7 +40,7 @@ superuser: false
 
 title: Sarah Ayub
 user_groups:
-- Research Assistants
+- Alumni
 
 ---
 
