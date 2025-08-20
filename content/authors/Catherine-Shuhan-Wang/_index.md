@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,7 +40,7 @@ social:
 superuser: false
 
 user_groups:
-- Research Associates
+- Alumni
 
 ---
 
