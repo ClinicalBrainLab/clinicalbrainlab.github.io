@@ -33,7 +33,7 @@ superuser: false
 
 title: Seeni Sabrin Fathima
 user_groups:
-- Undergraduate Students
+- Alumni
 
 ---
 
