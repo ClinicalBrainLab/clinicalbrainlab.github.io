@@ -27,8 +27,8 @@ social:
 superuser: false
 
 title: Mayanee Chai 
-user_groups: Undergraduate Students
-- Collaborators
+user_groups: 
+- Undergraduate Students
 
 ---
 
