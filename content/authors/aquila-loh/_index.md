@@ -16,7 +16,7 @@ email: "aloh009@e.ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Undergraduate student
+role: Alumni
 
 social:
 - icon: envelope
@@ -29,7 +29,7 @@ superuser: false
 
 title: Aquila Loh
 user_groups:
-- Undergraduate Students
+- Alumni
   
 --- 
 
