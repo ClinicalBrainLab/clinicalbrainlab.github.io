@@ -16,7 +16,7 @@ email: "anth0023@e.ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Undergraduate student
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,7 +30,7 @@ superuser: false
 
 title: Anthony Hew Joon Kit
 user_groups:
-- Undergraduate Students
+- Alumni
 
 ---
 
