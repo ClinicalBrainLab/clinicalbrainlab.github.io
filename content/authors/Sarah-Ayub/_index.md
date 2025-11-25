@@ -39,7 +39,7 @@ social:
 superuser: false
 
 title: Sarah Ayub
-user_groups: Alumni
+user_groups: Research Assistants
 
 ---
 
