@@ -34,8 +34,8 @@ social:
 superuser: false
 
 title: Zhong Miao
-user_groups: Research Fellows
-- Alumni
+user_groups:
+- Research Fellows
 
 ---
 Zhong Miao is a research fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include cognitive biases (e.g., curse of knowledge) in adults, and neural mechanisms of social cognition and stress processing. She also examines cognitive and social-emotional development in preschoolers. 
