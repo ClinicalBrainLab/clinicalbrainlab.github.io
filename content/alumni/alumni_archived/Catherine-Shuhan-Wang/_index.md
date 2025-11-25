@@ -40,7 +40,7 @@ social:
 superuser: false
 
 user_groups:
-- Alumni
+- Research Associates
 
 ---
 
