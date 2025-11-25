@@ -75,6 +75,7 @@ Graduate Students
 - Kwok Fu Yu
 - Tan Jiat Chow
 - Wu Chiao-Yi (Joyce)
+- Serene Koh
 
 Research Fellows
 - Adrian Galang, PhD
@@ -97,6 +98,8 @@ Research Associates
 - Meenakshi Siddharthan, MS
 - Stephanie Kirk, MA
 - Wilson Lim
+- Catherine Shuhan Wang
+- Nisha Syed Nasser
 
 Project Officers/Research Assistants
 - Alison Chew
@@ -113,12 +116,14 @@ Project Officers/Research Assistants
 - Te An Shu
 - Chua Wei Ting Serena
 - Michelle Yap
+- Sarah Ayub
 
 Interns
 - Elaine Teo, Intern
 - Jonathan Tan
 - Max Yong, Trainee RA
 - Pavitraa Sundram, Trainee RA
+- Chew Hong Ern
 
 System Admin
 - Lua Rui Ping, PhD
