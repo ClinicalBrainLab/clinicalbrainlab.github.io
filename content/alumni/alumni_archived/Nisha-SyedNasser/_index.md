@@ -47,7 +47,7 @@ superuser: false
 
 title: Nisha Syed Nasser
 user_groups:
-- Alumni
+- Research Associates
 
 ---
 
