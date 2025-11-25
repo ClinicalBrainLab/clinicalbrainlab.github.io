@@ -36,4 +36,6 @@ user_groups:
 
 ---
 Joshua is currently a final year undergraduate student of Psychology at Nanyang Technological University. His reasearch interests include inter-brain synchrony, music cognition, and abnormal psychology.
---- 
+
+---
+
