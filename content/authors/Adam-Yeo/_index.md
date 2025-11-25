@@ -1,7 +1,7 @@
 ---
 title: Adam Yeo Yufeng
 user_groups:
-- Undergraduate Students
+- Alumni
 
 authors:
 - Adam Yeo Yufeng
