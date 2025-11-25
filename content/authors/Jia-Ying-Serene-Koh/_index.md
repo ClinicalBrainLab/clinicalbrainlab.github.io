@@ -37,6 +37,6 @@ superuser: false
 
 title: Serene Koh
 user_groups:
-- Graduate Students
+- Alumni
 
 ---
