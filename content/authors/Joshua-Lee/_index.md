@@ -14,7 +14,7 @@ email: "jlee338@e.ntu.edu.sg"
 interests: 
 - Inter-brain synchrony
 - Music cognition
-- Abnormal psychology.
+- Abnormal psychology
 
 
 organizations:
