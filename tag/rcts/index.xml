@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCTs | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/rcts/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/rcts/index.xml" rel="self" type="application/rss+xml" />
+    <description>RCTs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>RCTs</title>
+      <link>https://clinicalbrainlab.github.io/tag/rcts/</link>
+    </image>
+    
+    <item>
+      <title>Potential cognitive and neural benefits of a computerised cognitive training programme based on Structure Learning in healthy adults: study protocol for a randomised controlled trial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_computerised_rcts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. H. Annabel Chen | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. H. Annabel Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <title>S. H. Annabel Chen</title>
+      <link>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</link>
+    </image>
+    
+    <item>
+      <title>Brain entropy, fractal dimensions and predictability: A review of complexity measures for EEG in healthy and neuropsychiatric populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
