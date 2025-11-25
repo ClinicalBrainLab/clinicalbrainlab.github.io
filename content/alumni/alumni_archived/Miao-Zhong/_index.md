@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Alumni
+role: Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +34,7 @@ social:
 superuser: false
 
 title: Zhong Miao
-user_groups:
+user_groups: Research Fellows
 - Alumni
 
 ---
