@@ -34,8 +34,12 @@ The first aim of this study is to establish and validate a strong experimental p
 Alumni:
 
 Research Fellows:
-- [Zhong Miao, PhD](https://www.clinicalbrain.org/author/zhong-miao/)
+- [Zhong Miao, PhD](https://www.clinicalbrain.org/alumni/alumni_archived/zhong-miao/)
 
 Research Associates:
-- [Wilson Lim](https://www.clinicalbrain.org/author/wilson-lim/)
-- [Nisha Syed Nasser](https://www.clinicalbrain.org/author/nisha-syed-nasser/)
+- [Wilson Lim](https://www.clinicalbrain.org/alumni/alumni_archived/wilson-lim/)
+- [Nisha Syed Nasser](https://www.clinicalbrain.org/alumni/alumni_archived/nisha-syed-nasser/)
+- [Catherine Shuhan Wang](https://www.clinicalbrain.org/alumni/alumni_archived/catherine-shuhan-wang/)
+
+Research Assistant:
+- [Sarah Ayub](https://www.clinicalbrain.org/alumni/alumni_archived/sarah-ayub/)
