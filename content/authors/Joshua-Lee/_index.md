@@ -2,15 +2,19 @@
 authors:
 - Lee Jing Yang, Joshua
 
-bio: Joshua is a final year undergraduate student of Psychology at Nanyang Technological University. His reasearch interests include inter-brain synchrony, music cognition, and abnormal psychology.
+bio: Joshua is currently a final year undergraduate student of Psychology at NTU. 
 
 education:
   courses:
   - course: Bachelor of Social Science (Honours) in Psychology
     institution: Nanyang Technological University
-    #year: 2022 to 2026
+    year: 2022 to 2026
 
 email: "jlee338@e.ntu.edu.sg"
+interests: 
+- Inter-brain synchrony
+- Music cognition
+- Abnormal psychology.
 
 
 organizations:
@@ -31,5 +35,5 @@ user_groups:
 - Undergraduate Students
 
 ---
-
+Joshua is currently a final year undergraduate student of Psychology at Nanyang Technological University. His reasearch interests include inter-brain synchrony, music cognition, and abnormal psychology.
 --- 
