@@ -1,11 +1,8 @@
 ---
 title: Stephanie Kirk
-user_groups:
-- Research Associates
-
 authors:
 - Stephanie Kirk
-bio:
+bio: Stephanie Kirk is currently a Research Associate at the Clinical Brain Lab. 
 
 education:
   courses:
@@ -30,4 +27,10 @@ social:
   icon_pack: fas
   link: mailto:stephanie.kirk@staff.main.ntu.edu.sg
 
+superuser: false
+
+user_groups:
+- Research Associates
+  
 ---
+Stephanie completed her Master of Arts in Museum Studies and Curatorial Practices at Nanyang Technological University in 2021, after earning her Bachelor of Arts in Psychology from the University of British Columbia in 2019.
