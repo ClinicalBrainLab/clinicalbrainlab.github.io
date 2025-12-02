@@ -16,6 +16,10 @@ education:
 
 email: "stephanie.kirk@staff.main.ntu.edu.sg"
 interests:
+- Clinical Psychology
+- Stress
+- Coping
+- Post-traumatic growth
 
 
 organizations:
@@ -33,4 +37,5 @@ user_groups:
 - Research Associates
   
 ---
-Stephanie completed her Master of Arts in Museum Studies and Curatorial Practices at Nanyang Technological University in 2021, after earning her Bachelor of Arts in Psychology from the University of British Columbia in 2019.
+Stephanie earned her B.A. in Psychology from the University of British Columbia (2019) and M.A. in Museum Studies & Curatorial Practices from Nanyang Technological University (2021).
+She has contributed to several projects which examine the neurocognitive processes underlying belief in deceptive (real versus fake) information, in addition to interdisciplinary work examining the interaction between environment aesthetics, typology, and psychological outcomes using EEG. Presently she is involved in Brain-NORM Project 5 which uses cognitive behavioural measures to examine the relationship between literacy, numeracy and working memory.
