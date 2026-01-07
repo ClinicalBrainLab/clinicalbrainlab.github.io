@@ -16,7 +16,7 @@ email: "jaceling88@hotmail.com"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: FYP student
+role: Undergraduate Student
 
 
 
