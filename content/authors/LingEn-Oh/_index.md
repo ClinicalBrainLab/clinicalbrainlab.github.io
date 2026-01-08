@@ -17,12 +17,14 @@ organizations:
   url: ""
 role: Undergraduate Student
 social:
-- link: mailto:OH0002EN@e.ntu.edu.sg
+- icon: envelope
+  icon_pack: fas
+  link: mailto:OH0002EN@e.ntu.edu.sg
 
 superuser: false
 
 user_groups:
-- Undergraduate Student
+- Undergraduate Students
 
 ---
 Ling En is a final-year undergraduate studying Psychology at Nanyang Technological University. Her research interests lie in abnormal psychology, with a focus on obsessive-compulsive disorder, anxiety disorders and eating disorders. She is also interested in Forensics and Criminal Psychology.  
