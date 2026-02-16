@@ -1,5 +1,8 @@
 ---
 title: Genevieve Lim
+user_groups:
+- Undergraduate Students
+
 authors:
 - Genevieve Lim
 bio: Genevieve is currently a final-year undergraduate studying Psychology at Nanyang Technological University. Her research interests include mental health and mental health conditions, with a focus on anxiety disorders.  
@@ -11,7 +14,7 @@ education:
     year: 2022-2026
 
 email: "glim069@e.ntu.edu.sg"
-
+  
 organizations:
 - name: Nanyang Technological University
   url: ""
@@ -22,9 +25,6 @@ social:
   link: mailto:glim069@e.ntu.edu.sg
 
 superuser: false
-
-user_groups:
-- Undergraduate Students
 
 ---
 Genevieve is currently a final-year undergraduate studying Psychology at Nanyang Technological University. Her research interests include mental health and mental health conditions, with a focus on anxiety disorders.  
