@@ -8,7 +8,7 @@ education:
   courses:
   - course: Ph.D.Candidate, Cradle
     institution: NTU
-    year: 2020 -
+    year: 2020 - 2026
   - course: Bachelor of Psychology (Hons)
     institution: State University of New York, Buffalo
     year: 2012 -2015
