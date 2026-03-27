@@ -16,7 +16,7 @@ email: "weiler.koo@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Assistant
+role: Alumni
 
 social:
 - icon: envelope
@@ -32,7 +32,7 @@ superuser: false
 
 title: Koo Wei Ler
 user_groups:
-- Research Assistants
+- Alumni
 
 ---
 
