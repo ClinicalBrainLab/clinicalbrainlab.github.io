@@ -20,17 +20,17 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 <table> 
   <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th valign="middle" style="width: 10%; text-align: center;">Week</th>
-<th valign="middle" style="width: 25%; text-align: center;">Date</th>
+    <th valign="middle" style="width: 15%; text-align: center;">Week</th>
+<th valign="middle" style="width: 20%; text-align: center;">Date</th>
 <th valign="middle" style="width: 50%; text-align: center;">Topic</th>
 <th valign="middle" style="width: 15%; text-align: center;">Delivery<br>Mode</th>
   </tr>
   <tr>
     <td align="center">   W12 SEM2 </td>
     <td valign="top">
-  6 April - 10 April
+  6 April -10 April
   <br><br>
-    <strong>10 April 2026</strong>
+    <strong>10 April 2026</strong> <br>
     <strong>10:30 AM - 1:20 PM</strong>
 </td>
     <td valign="top">
@@ -64,8 +64,14 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 <br>
 <br>
 <Strong>🌍 International Phase (May - July)</Strong> 
-
 <table>
+   <table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th valign="middle" style="width: 15%; text-align: center;">Week</th>
+<th valign="middle" style="width: 20%; text-align: center;">Date</th>
+<th valign="middle" style="width: 50%; text-align: center;">Topic</th>
+<th valign="middle" style="width: 15%; text-align: center;">Delivery<br>Mode</th>
+  </tr>
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
     <td valign="top">
@@ -104,7 +110,7 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W4-ST</td>
-    <td valign="top">01 June - 05 June</td>
+    <td valign="top">1 June - 05 June</td>
     <td valign="top">
       Assigned to Project Pods ~ TAs.
       <strong>Project Implementation. Project Clinics.</strong>
