@@ -3,8 +3,8 @@ title: Project
 linktitle: Project
 toc: true
 type: docs
-date: "2025-02-2000:00:00+01:00"
-lastmod: "2025-02-20"
+date: "2026-04-07:00:00+01:00"
+lastmod: "2026-04-07"
 draft: false
 menu:
   brainhack:
@@ -78,7 +78,7 @@ Looking for example of project? You can find that from the past Brainhack School
 
   <!-- Row 4 -->
   <tr>
-    <td valign="top">Class Participation (tutorial, module assignments)</td>
+    <td valign="top">Class Participation <br> (tutorial, module assignments)</td>
     <td valign="top">20%</td>
     <td valign="top">Individual</td>
     <td valign="top">
