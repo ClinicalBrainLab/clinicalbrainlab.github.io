@@ -18,10 +18,10 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 <table> 
   <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" valign="middle" style="width: 10%; ">Week</th>
-    <th align="center" valign="middle" style="width: 25%;">Date</th>
-    <th align="center" valign="middle" style="width: 50%;">Topic</th>
-    <th align="center" valign="middle" style="width: 15%;">Delivery<br>Mode</th>
+    <th valign="middle" style="width: 10%; text-align: center;">Week</th>
+<th valign="middle" style="width: 25%; text-align: center;">Date</th>
+<th valign="middle" style="width: 50%; text-align: center;">Topic</th>
+<th valign="middle" style="width: 15%; text-align: center;">Delivery<br>Mode</th>
   </tr>
   <tr>
     <td align="center">   W12 SEM2 </td>
