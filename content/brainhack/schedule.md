@@ -15,7 +15,7 @@ menu:
 ## <Strong>Course Schedule</strong>
 _Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST)._
 
-## 📅 Preparation Phase (April - May)
+<strong>📅 Preparation Phase (April - May)</strong>
 
 <table> 
   <table style="width: 100%; border-collapse: collapse;">
@@ -61,8 +61,10 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     <td valign="top" align="center" style="white-space: nowrap;">Online</td>
   </tr>
 </table> 
+<br>
+<br>
+<Strong>🌍 International Phase (May - July)</Strong> 
 
-## 🌍 International Phase (May - July)
 <table>
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
