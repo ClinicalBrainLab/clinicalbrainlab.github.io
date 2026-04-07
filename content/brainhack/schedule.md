@@ -18,16 +18,21 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 <table> 
   <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" valign="middle" style="width: 5%; ">Week</th>
-    <th align="center" valign="middle" style="width: 30%;">Date</th>
+    <th align="center" valign="middle" style="width: 10%; ">Week</th>
+    <th align="center" valign="middle" style="width: 25%;">Date</th>
     <th align="center" valign="middle" style="width: 50%;">Topic</th>
     <th align="center" valign="middle" style="width: 15%;">Delivery<br>Mode</th>
   </tr>
   <tr>
-    <td align="center" style=text-align: left;"> W12 SEM2 </td>
-    <td valign="top" style="text-align: left;"> 6 April - 10 April <br>
-    <strong>April 10</strong> <strong>10:30 AM - 1:20 PM</strong>
-    </td>
+    <td align="center">   W12 SEM2 </td>
+    <td valign="top"> 6 April - 10 April <br>
+  <div align="center">
+    <strong> 6 April</strong>
+  </div>
+  <div>
+    <strong>10:30 AM - 1:20 PM</strong>
+  </div>
+</td>
     <td valign="top">
       <strong>Introduction to Data Analytics for Neuroimaging</strong>
     </td>
@@ -59,12 +64,18 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
-    <td valign="top" style="text-align: left;">
-      11 May - 15 May
-      <br><br>
-      <p style="text-align: center; margin: 0;"><strong>15 May</strong></p>
-      <p style="text-align: left; margin: 0;"><strong>10:30 AM - 1:20 PM</strong></p>
-    </td>
+    <td valign="top">
+  11 May - 15 May
+  <br><br>
+
+  <div align="center">
+    <strong>15 May</strong>
+  </div>
+
+  <div>
+    <strong>10:30 AM - 1:20 PM</strong>
+  </div>
+</td>
     <td valign="top">
       <strong>Introduction</strong> to BrainHack School materials
     </td>
@@ -146,8 +157,3 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     <td valign="top" align="center" style="white-space: nowrap;">In-Person</td>
   </tr>
 </table>
-
-
-
-
-
