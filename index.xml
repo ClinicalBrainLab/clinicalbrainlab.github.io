@@ -204,17 +204,17 @@ git push -u origin main
 &lt;table&gt; 
   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
   &lt;tr&gt;
-    &lt;th valign=&#34;middle&#34; style=&#34;width: 10%; text-align: center;&#34;&gt;Week&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 25%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
 &lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
 &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
-  6 April - 10 April
+  6 April -10 April
   &lt;br&gt;&lt;br&gt;
-    &lt;strong&gt;10 April 2026&lt;/strong&gt;
+    &lt;strong&gt;10 April 2026&lt;/strong&gt; &lt;br&gt;
     &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
@@ -248,6 +248,13 @@ git push -u origin main
 &lt;br&gt;
 &lt;Strong&gt;🌍 International Phase (May - July)&lt;/Strong&gt; 
 &lt;table&gt;
+   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+  &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
@@ -283,7 +290,7 @@ git push -u origin main
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W4-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;01 June - 05 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;1 June - 05 June&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       Assigned to Project Pods ~ TAs.
       &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;
