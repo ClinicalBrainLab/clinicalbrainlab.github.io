@@ -27,13 +27,13 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     <td align="center">   W12 SEM2 </td>
     <td valign="top">
   6 April - 10 April
-  <br> <br>
-  <p align="center" style="margin: 0;">
-    <strong>April 10</strong>
-  <p style="margin: 0;">
+  <br><br>
+  <span style="display:block; text-align:center;">
+    <strong>10 April</strong>
+  </span>
+  <span style="display:block;">
     <strong>10:30 AM - 1:20 PM</strong>
-  </p>
-  </p>
+  </span>
 </td>
     <td valign="top">
       <strong>Introduction to Data Analytics for Neuroimaging</strong>
@@ -69,12 +69,12 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
   11 May - 15 May
   <br><br>
 
-  <p align="center" style="margin: 0;">
+  <span style="display:block; text-align:center;">
     <strong>15 May</strong>
-  </p>
-  <p style="margin: 0;">
+  </span>
+  <span style="display:block;">
     <strong>10:30 AM - 1:20 PM</strong>
-  </p>
+  </span>
 </td>
     <td valign="top">
       <strong>Introduction</strong> to BrainHack School materials
