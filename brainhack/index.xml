@@ -31,13 +31,13 @@
     &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
   6 April - 10 April
-  &lt;br&gt; &lt;br&gt;
-  &lt;p align=&#34;center&#34; style=&#34;margin: 0;&#34;&gt;
-    &lt;strong&gt;April 10&lt;/strong&gt;
-  &lt;p style=&#34;margin: 0;&#34;&gt;
+  &lt;br&gt;&lt;br&gt;
+  &lt;span style=&#34;display:block; text-align:center;&#34;&gt;
+    &lt;strong&gt;10 April&lt;/strong&gt;
+  &lt;/span&gt;
+  &lt;span style=&#34;display:block;&#34;&gt;
     &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-  &lt;/p&gt;
-  &lt;/p&gt;
+  &lt;/span&gt;
 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
@@ -70,12 +70,12 @@
     &lt;td valign=&#34;top&#34;&gt;
   11 May - 15 May
   &lt;br&gt;&lt;br&gt;
-  &lt;p align=&#34;center&#34; style=&#34;margin: 0;&#34;&gt;
+  &lt;span style=&#34;display:block; text-align:center;&#34;&gt;
     &lt;strong&gt;15 May&lt;/strong&gt;
-  &lt;/p&gt;
-  &lt;p style=&#34;margin: 0;&#34;&gt;
+  &lt;/span&gt;
+  &lt;span style=&#34;display:block;&#34;&gt;
     &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-  &lt;/p&gt;
+  &lt;/span&gt;
 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
