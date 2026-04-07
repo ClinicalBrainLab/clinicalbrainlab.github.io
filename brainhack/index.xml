@@ -194,202 +194,9 @@ git push -u origin main
     </item>
     
     <item>
-      <title>Schedule</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
-      <description>&lt;h2 id=&#34;strongcourse-schedulestrong&#34;&gt;&lt;Strong&gt;Course Schedule&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;📅 Preparation Phase (April - May)&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt; 
-  &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
-  &lt;tr&gt;
-    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-  6 April -10 April
-  &lt;br&gt;&lt;br&gt;
-    &lt;strong&gt;10 April 2026&lt;/strong&gt; &lt;br&gt;
-    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
-      In-person/&lt;br&gt;Online
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td align=&#34;center&#34;&gt;
-  W13 SEM2 onwards&lt;br&gt;
-  (SEM2 exam weeks and break - 7 weeks)
-&lt;/td&gt;
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;13 April - 8 May&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Self-study&lt;/strong&gt; of online modules (https://school.brainhackmtl.org/modules/). 
-      20 modules (videos + assignments + hands-on practices) categorized into:
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt; (e.g., terminal, containers, python scripting/testing, git/github, hpc)&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Neuro data science&lt;/strong&gt; (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;/li&gt;
-      &lt;/ul&gt;
-      You are recommended to follow the sequence as listed here: (https://school.brainhackmtl.org/weeks/)
-      or the modules as ordered in &lt;strong&gt;NTU Learn&lt;/strong&gt; or the &lt;strong&gt;Discord&lt;/strong&gt; server.
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt; 
-&lt;br&gt;
-&lt;br&gt;
-&lt;Strong&gt;🌍 International Phase (May - July)&lt;/Strong&gt; 
-&lt;table&gt;
-   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
-  &lt;tr&gt;
-    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
-&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-  11 May - 15 May
-  &lt;br&gt;&lt;br&gt;
-    &lt;strong&gt;15 May 2026&lt;/strong&gt;
-    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
-      In-person/&lt;br&gt;Online
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W2-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;18 May - 22 May&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Exploration&lt;/strong&gt; of tools for neural data science. &lt;br&gt;
-      Q&amp;amp;A hours. Modules submission.
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W3-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;25 May - 29 May&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Project Definition &amp;amp; Piloting;&lt;/strong&gt; Keyword based Pod Assignment. Modules submission Q&amp;amp;A hours &lt;br&gt;
-      Project Pitch on 29 May (Friday) at 1:20pm (TBC)
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W4-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;1 June - 05 June&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      Assigned to Project Pods ~ TAs.
-      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;
-      Inspirational Presentations by TAs.
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W5-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;8 June - 12 June&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;&lt;br&gt;
-      Wrap-up Presentations.
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W6-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;15 June - 19 June&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Work Preparation and Group Discussion Week&lt;/strong&gt; for students to discuss group projects, preparation of assignments for submission.
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W7-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;22 June - 26 June&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Submission of deliverables&lt;/strong&gt;&lt;br&gt;
-      Participants will have to produce a written deliverable for their project, which will be published on the BrainHack School website.&lt;br&gt;
-      &lt;strong&gt;Submission of Final Video for International BrainHack School Deadline: 26 June at 5 pm&lt;/strong&gt;
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W8-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;29 June - 3 July&lt;/td&gt;
-    &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Proposed Symposium Week&lt;/strong&gt; (Visit from NTU Taiwan Students)&lt;br&gt;
-      We will host a small conference (symposium) regarding the projects (via presentations and posters).&lt;br&gt;
-      Students will present their projects for discussion.&lt;br&gt;
-      &lt;strong&gt;Submission of Reflection Essay Deadline: 03 July at 5 pm on NTULearn&lt;/strong&gt;
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-Person&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Technical Help</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
-      <description>&lt;h2 id=&#34;ntulearn--ntusg-discord&#34;&gt;NTULearn &amp;amp; NTU.SG discord&lt;/h2&gt;
-&lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://ntulearn.ntu.edu.sg/ultra/courses/_2673042_1/cl/outline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU learn&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
-&lt;p&gt;We hope to meet you on Discord, the NTU.SG discord link will be sent to registered students and announced in NTULearn.&lt;/p&gt;
-&lt;h2 id=&#34;github-guide&#34;&gt;Github guide&lt;/h2&gt;
-&lt;h3 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h3&gt;
-&lt;p&gt;Please use the 
-&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; official webpage and follow the instruction to signup a account. (It is free!)
-&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/githubfrontpage.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;{: .note }
-P.S. If you are a student or teacher, don&amp;rsquo;t forget to join 
-&lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Global Campus&lt;/a&gt; to get some gift from github.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h3&gt;
-&lt;p&gt;You can learn 
-&lt;a href=&#34;https://school-brainhack.github.io/modules/git_github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to use github&lt;/a&gt; from one of our learning modules. (It is mandatory.)&lt;/p&gt;
-&lt;h2 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h2&gt;
-&lt;p&gt;You can see the detailed guide 
-&lt;a href=&#34;https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Links</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/usefullinks/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/usefullinks/</guid>
-      <description>&lt;h2 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school website&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://neurovault.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroVault&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://openfmri.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenfMRI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/meagmohit/EEG-Datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEG-Datasets&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Instructors</title>
       <link>https://clinicalbrainlab.github.io/brainhack/instructors/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/instructors/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;the-brainhack-school-ntu-team&#34;&gt;The BrainHack School NTU Team&lt;/h2&gt;
@@ -616,6 +423,199 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 &lt;hr&gt;
 &lt;h2 id=&#34;special-thanks&#34;&gt;Special thanks&lt;/h2&gt;
 &lt;p&gt;We appreciate the Brainhack School Organization team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
+      <description>&lt;h2 id=&#34;strongcourse-schedulestrong&#34;&gt;&lt;Strong&gt;Course Schedule&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📅 Preparation Phase (April - May)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt; 
+  &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+  6 April -10 April
+  &lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;10 April 2026&lt;/strong&gt; &lt;br&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
+      In-person/&lt;br&gt;Online
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;center&#34;&gt;
+  W13 SEM2 onwards&lt;br&gt;
+  (SEM2 exam weeks and break - 7 weeks)
+&lt;/td&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;13 April - 8 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Self-study&lt;/strong&gt; of online modules (https://school.brainhackmtl.org/modules/). 
+      20 modules (videos + assignments + hands-on practices) categorized into:
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt; (e.g., terminal, containers, python scripting/testing, git/github, hpc)&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Neuro data science&lt;/strong&gt; (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;/li&gt;
+      &lt;/ul&gt;
+      You are recommended to follow the sequence as listed here: (https://school.brainhackmtl.org/weeks/)
+      or the modules as ordered in &lt;strong&gt;NTU Learn&lt;/strong&gt; or the &lt;strong&gt;Discord&lt;/strong&gt; server.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+&lt;br&gt;
+&lt;br&gt;
+&lt;Strong&gt;🌍 International Phase (May - July)&lt;/Strong&gt; 
+&lt;table&gt;
+   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+  11 May - 15 May
+  &lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;15 May 2026&lt;/strong&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
+      In-person/&lt;br&gt;Online
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W2-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;18 May - 22 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Exploration&lt;/strong&gt; of tools for neural data science. &lt;br&gt;
+      Q&amp;amp;A hours. Modules submission.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W3-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;25 May - 29 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Project Definition &amp;amp; Piloting;&lt;/strong&gt; Keyword based Pod Assignment. Modules submission Q&amp;amp;A hours &lt;br&gt;
+      Project Pitch on 29 May (Friday) at 1:20pm (TBC)
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W4-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;1 June - 05 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      Assigned to Project Pods ~ TAs.
+      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;
+      Inspirational Presentations by TAs.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W5-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;8 June - 12 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;&lt;br&gt;
+      Wrap-up Presentations.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W6-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;15 June - 19 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Work Preparation and Group Discussion Week&lt;/strong&gt; for students to discuss group projects, preparation of assignments for submission.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W7-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;22 June - 26 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Submission of deliverables&lt;/strong&gt;&lt;br&gt;
+      Participants will have to produce a written deliverable for their project, which will be published on the BrainHack School website.&lt;br&gt;
+      &lt;strong&gt;Submission of Final Video for International BrainHack School Deadline: 26 June at 5 pm&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W8-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;29 June - 3 July&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Proposed Symposium Week&lt;/strong&gt; (Visit from NTU Taiwan Students)&lt;br&gt;
+      We will host a small conference (symposium) regarding the projects (via presentations and posters).&lt;br&gt;
+      Students will present their projects for discussion.&lt;br&gt;
+      &lt;strong&gt;Submission of Reflection Essay Deadline: 03 July at 5 pm on NTULearn&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-Person&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Help</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
+      <description>&lt;h2 id=&#34;ntulearn--ntusg-discord&#34;&gt;NTULearn &amp;amp; NTU.SG discord&lt;/h2&gt;
+&lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ntulearn.ntu.edu.sg/ultra/courses/_2673042_1/cl/outline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU learn&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
+&lt;p&gt;We hope to meet you on Discord, the NTU.SG discord link will be sent to registered students and announced in NTULearn.&lt;/p&gt;
+&lt;h2 id=&#34;github-guide&#34;&gt;Github guide&lt;/h2&gt;
+&lt;h3 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h3&gt;
+&lt;p&gt;Please use the 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; official webpage and follow the instruction to signup a account. (It is free!)
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/githubfrontpage.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{: .note }
+P.S. If you are a student or teacher, don&amp;rsquo;t forget to join 
+&lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Global Campus&lt;/a&gt; to get some gift from github.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h3&gt;
+&lt;p&gt;You can learn 
+&lt;a href=&#34;https://school-brainhack.github.io/modules/git_github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to use github&lt;/a&gt; from one of our learning modules. (It is mandatory.)&lt;/p&gt;
+&lt;h2 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h2&gt;
+&lt;p&gt;You can see the detailed guide 
+&lt;a href=&#34;https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful Links</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/usefullinks/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/usefullinks/</guid>
+      <description>&lt;h2 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school website&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://neurovault.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroVault&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openfmri.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenfMRI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/meagmohit/EEG-Datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEG-Datasets&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
