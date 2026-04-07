@@ -25,12 +25,15 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
   </tr>
   <tr>
     <td align="center">   W12 SEM2 </td>
-    <td valign="top"> 6 April - 10 April <br>
-  <div align="center">
-    <strong> 6 April</strong>
-  </div>
-  <div>
-    <strong>10:30 AM - 1:20 PM</strong>
+    <td valign="top"> 6 April - 10 April
+  <br><br>
+  <div style="width: 70%; margin: 0 auto;">
+    <div style="text-align: center;">
+      <strong>April 10</strong>
+    </div>
+    <div style="text-align: left;">
+      <strong>10:30 AM - 1:20 PM</strong>
+    </div>
   </div>
 </td>
     <td valign="top">
@@ -64,16 +67,15 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
-    <td valign="top">
-  11 May - 15 May
+    <td valign="top">  11 May - 15 May
   <br><br>
-
-  <div align="center">
-    <strong>15 May</strong>
-  </div>
-
-  <div>
-    <strong>10:30 AM - 1:20 PM</strong>
+  <div style="width: 70%; margin: 0 auto;">
+    <div style="text-align: center;">
+      <strong>15 May</strong>
+    </div>
+    <div style="text-align: left;">
+      <strong>10:30 AM - 1:20 PM</strong>
+    </div>
   </div>
 </td>
     <td valign="top">
