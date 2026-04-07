@@ -198,8 +198,9 @@ git push -u origin main
       <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
-      <description>&lt;h2 id=&#34;-course-schedule&#34;&gt;📅 Course Schedule&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;strongcourse-schedulestrong&#34;&gt;&lt;Strong&gt;Course Schedule&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST).&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-preparation-phase-april---may&#34;&gt;📅 Preparation Phase (April - May)&lt;/h2&gt;
 &lt;table&gt; 
   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
   &lt;tr&gt;
@@ -213,12 +214,8 @@ git push -u origin main
     &lt;td valign=&#34;top&#34;&gt;
   6 April - 10 April
   &lt;br&gt;&lt;br&gt;
-  &lt;span style=&#34;display:block; text-align:center;&#34;&gt;
-    &lt;strong&gt;10 April&lt;/strong&gt;
-  &lt;/span&gt;
-  &lt;span style=&#34;display:block;&#34;&gt;
+    &lt;strong&gt;10 April 2026&lt;/strong&gt;
     &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-  &lt;/span&gt;
 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
@@ -246,17 +243,16 @@ git push -u origin main
     &lt;/td&gt;
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
   &lt;/tr&gt;
+&lt;/table&gt; 
+&lt;h2 id=&#34;-international-phase-may---july&#34;&gt;🌍 International Phase (May - July)&lt;/h2&gt;
+&lt;table&gt;
   &lt;tr&gt;
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
   11 May - 15 May
   &lt;br&gt;&lt;br&gt;
-  &lt;span style=&#34;display:block; text-align:center;&#34;&gt;
-    &lt;strong&gt;15 May&lt;/strong&gt;
-  &lt;/span&gt;
-  &lt;span style=&#34;display:block;&#34;&gt;
+    &lt;strong&gt;15 May 2026&lt;/strong&gt;
     &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-  &lt;/span&gt;
 &lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
