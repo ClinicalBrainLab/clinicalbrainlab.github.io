@@ -25,16 +25,15 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
   </tr>
   <tr>
     <td align="center">   W12 SEM2 </td>
-    <td valign="top"> 6 April - 10 April
-  <br><br>
-  <div style="width: 70%; margin: 0 auto;">
-    <div style="text-align: center;">
-      <strong>April 10</strong>
-    </div>
-    <div style="text-align: left;">
-      <strong>10:30 AM - 1:20 PM</strong>
-    </div>
-  </div>
+    <td valign="top">
+  6 April - 10 April
+  <br> <br>
+  <p align="center" style="margin: 0;">
+    <strong>April 10</strong>
+  <p style="margin: 0;">
+    <strong>10:30 AM - 1:20 PM</strong>
+  </p>
+  </p>
 </td>
     <td valign="top">
       <strong>Introduction to Data Analytics for Neuroimaging</strong>
@@ -67,16 +66,16 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
 
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
-    <td valign="top">  11 May - 15 May
+    <td valign="top">
+  11 May - 15 May
   <br><br>
-  <div style="width: 70%; margin: 0 auto;">
-    <div style="text-align: center;">
-      <strong>15 May</strong>
-    </div>
-    <div style="text-align: left;">
-      <strong>10:30 AM - 1:20 PM</strong>
-    </div>
-  </div>
+
+  <p align="center" style="margin: 0;">
+    <strong>15 May</strong>
+  </p>
+  <p style="margin: 0;">
+    <strong>10:30 AM - 1:20 PM</strong>
+  </p>
 </td>
     <td valign="top">
       <strong>Introduction</strong> to BrainHack School materials
