@@ -22,16 +22,21 @@
 &lt;table&gt; 
   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
   &lt;tr&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 5%; &#34;&gt;Week&lt;/th&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 30%;&#34;&gt;Date&lt;/th&gt;
+    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 10%; &#34;&gt;Week&lt;/th&gt;
+    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 25%;&#34;&gt;Date&lt;/th&gt;
     &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 50%;&#34;&gt;Topic&lt;/th&gt;
     &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 15%;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td align=&#34;center&#34; style=text-align: left;&#34;&gt; W12 SEM2 &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; style=&#34;text-align: left;&#34;&gt; 6 April - 10 April &lt;br&gt;
-    &lt;strong&gt;April 10&lt;/strong&gt; &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
-    &lt;/td&gt;
+    &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt; 6 April - 10 April &lt;br&gt;
+  &lt;div align=&#34;center&#34;&gt;
+    &lt;strong&gt; 6 April&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
     &lt;/td&gt;
@@ -61,12 +66,16 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; style=&#34;text-align: left;&#34;&gt;
-      11 May - 15 May
-      &lt;br&gt;&lt;br&gt;
-      &lt;p style=&#34;text-align: center; margin: 0;&#34;&gt;&lt;strong&gt;15 May&lt;/strong&gt;&lt;/p&gt;
-      &lt;p style=&#34;text-align: left; margin: 0;&#34;&gt;&lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;&lt;/p&gt;
-    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+  11 May - 15 May
+  &lt;br&gt;&lt;br&gt;
+  &lt;div align=&#34;center&#34;&gt;
+    &lt;strong&gt;15 May&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
       &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
     &lt;/td&gt;
