@@ -51,14 +51,13 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     </td>
     <td valign="top">13 April - 8 May</td>
     <td valign="top">
-      <strong>Self-study</strong> of online modules [https://school.brainhackmtl.org/modules/] (https://school.brainhackmtl.org/modules/). 
+      <strong>Self-study</strong> of online modules (https://school.brainhackmtl.org/modules/). 
       20 modules (videos + assignments + hands-on practices) categorized into:
       <ul>
         <li><strong>Data Science</strong> (e.g., terminal, containers, python scripting/testing, git/github, hpc)</li>
         <li><strong>Neuro data science</strong> (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)</li>
       </ul>
-      You are recommended to follow the sequence as listed here:
-      [https://school.brainhackmtl.org/weeks/](https://school.brainhackmtl.org/weeks/)
+      You are recommended to follow the sequence as listed here: (https://school.brainhackmtl.org/weeks/)
       or the modules as ordered in <strong>NTU Learn</strong> or the <strong>Discord</strong> server.
     </td>
     <td valign="top" align="center" style="white-space: nowrap;">Online</td>
