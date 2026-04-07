@@ -12,8 +12,10 @@ menu:
     weight: 5
 ---
 
-## 📅 Course Schedule 
+## <Strong>Course Schedule</strong>
 _Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST)._
+
+## 📅 Preparation Phase (April - May)
 
 <table> 
   <table style="width: 100%; border-collapse: collapse;">
@@ -28,12 +30,8 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     <td valign="top">
   6 April - 10 April
   <br><br>
-  <span style="display:block; text-align:center;">
-    <strong>10 April</strong>
-  </span>
-  <span style="display:block;">
+    <strong>10 April 2026</strong>
     <strong>10:30 AM - 1:20 PM</strong>
-  </span>
 </td>
     <td valign="top">
       <strong>Introduction to Data Analytics for Neuroimaging</strong>
@@ -62,19 +60,17 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     </td>
     <td valign="top" align="center" style="white-space: nowrap;">Online</td>
   </tr>
+</table> 
 
+## 🌍 International Phase (May - July)
+<table>
   <tr>
     <td valign="top" align="center" style="white-space: nowrap;">W1-ST</td>
     <td valign="top">
   11 May - 15 May
   <br><br>
-
-  <span style="display:block; text-align:center;">
-    <strong>15 May</strong>
-  </span>
-  <span style="display:block;">
+    <strong>15 May 2026</strong>
     <strong>10:30 AM - 1:20 PM</strong>
-  </span>
 </td>
     <td valign="top">
       <strong>Introduction</strong> to BrainHack School materials
