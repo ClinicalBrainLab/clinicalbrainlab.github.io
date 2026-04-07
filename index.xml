@@ -22,10 +22,10 @@
 &lt;table&gt; 
   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
   &lt;tr&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 10%; &#34;&gt;Week&lt;/th&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 25%;&#34;&gt;Date&lt;/th&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 50%;&#34;&gt;Topic&lt;/th&gt;
-    &lt;th align=&#34;center&#34; valign=&#34;middle&#34; style=&#34;width: 15%;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 10%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 25%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
