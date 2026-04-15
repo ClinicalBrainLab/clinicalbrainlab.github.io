@@ -150,5 +150,22 @@ height = "390px"
   overlay_img = "headers/rescaled_lab_2022.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = ""
+  content = ""
+  align = "right"
+
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/pnaspublication.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+ # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Link to Special Issue"
+  cta_url = "https://www.pnas.org/doi/10.1073/pnas.2531563123"
+  cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
+
 +++
 o
