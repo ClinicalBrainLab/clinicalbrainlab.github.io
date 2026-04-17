@@ -668,9 +668,7 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;tr&gt;
 &lt;th style=&#34;text-align:right&#34;&gt;No.&lt;/th&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;Tutorial&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;TA 1&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;TA2&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;TA3&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Primary TAs&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -678,72 +676,56 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Software Installation&lt;/strong&gt; (
 &lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Xiaoan&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ting, Jia Li, Xiaoan&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;A Brief Introduction to the Bash Shell&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394241_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Xiaoan&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ting, Jia Li, Xiaoan&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;3&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Using Git and GitHub&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/git_github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394243_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Wei-lin&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Ting, Wei-lin&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;4&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Introduction to Python for Data Analysis&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394245_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Wei-lin&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Johanna&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Wei-lin, Johanna&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;5&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Writing Scripts in Python&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/python_scripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394247_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Tzu Yun&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Wei-lin&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Tzu Yun, Wei-lin&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;6&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Project Management&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/project_management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394249_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Johanna&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ting, Johanna, Yong Sheng&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;7&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Open Data&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394250_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Trevor&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ting, Trevor, Yong Sheng&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;8&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Machine Learning Basics&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/machine_learning_basics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394251_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Ting, Jia Li&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;9&lt;/td&gt;
@@ -751,26 +733,20 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394253_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Wei-lin&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;10&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;The Brain Imaging Data Standards and Applications (BIDS)&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/bids/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396917_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Tzu Yun&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Tzu Yun, Jia Li&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;11&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Introduction to Deep Learning&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396918_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Xiaoan&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda,  Xiaoan&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;12&lt;/td&gt;
@@ -778,8 +754,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/machine_learning_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396919_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;13&lt;/td&gt;
@@ -787,8 +761,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396920_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;14&lt;/td&gt;
@@ -796,8 +768,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396921_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tzu Yun, Wei-lin, Johanna&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;15&lt;/td&gt;
@@ -805,8 +775,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396922_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Wei-lin, Johanna&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;16&lt;/td&gt;
@@ -814,8 +782,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396923_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda, Ting, Xiaoan&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;17&lt;/td&gt;
@@ -823,17 +789,13 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396983_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;TBD&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;18&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Neuroimaging Data and File Structure in Python&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/nibabel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396924_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Jia li, Trevor&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;19&lt;/td&gt;
@@ -841,8 +803,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/dmri_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396925_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;20&lt;/td&gt;
@@ -850,8 +810,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/spinal_cord&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396926_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;21&lt;/td&gt;
@@ -859,8 +817,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396992_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;22&lt;/td&gt;
@@ -868,8 +824,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/packaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396993_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda, Jia Li&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;23&lt;/td&gt;
@@ -877,8 +831,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/testing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396994_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Ting&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;24&lt;/td&gt;
@@ -886,8 +838,6 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396995_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Amanda&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
