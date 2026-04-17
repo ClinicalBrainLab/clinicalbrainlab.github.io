@@ -12,8 +12,8 @@ menu:
     weight: 4
 ---
 
-| No.   | Tutorial                                                                                                                                                                                                   |    Primary TAs    |
-|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
+| No.   | Tutorial                                                                                                                                                                                              |    Primary TAs    |
+|------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
 | 1     | **Software Installation** ([Page](https://school.brainhackmtl.org/modules/installation/)) | Ting, Jia Li, Xiaoan |
 | 2     | **A Brief Introduction to the Bash Shell** ([Page](https://school-brainhack.github.io/modules/introduction_to_terminal/) \| [Video](https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&content_id=_4394241_1)) | Ting, Jia Li, Xiaoan |
 | 3     | **Using Git and GitHub** ([Page](https://school-brainhack.github.io/modules/git_github/) \| [Video](https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&content_id=_4394243_1)) | Amanda, Ting, Wei-lin |
