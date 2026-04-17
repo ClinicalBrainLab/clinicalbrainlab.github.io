@@ -19,31 +19,31 @@ Brainhack school provide [pre-made tutorial on modules](https://school-brainhack
 Here is the list of training modules for brainhack school:
 
 
-[A Brief Introduction to the Bash Shell](https://school.brainhackmtl.org/modules/introduction_to_terminal/)
+[A Brief Introduction to the Bash Shell](https://school-brainhack.github.io/modules/introduction_to_terminal/)
 
 
-[Applications of Deep Learning in Neuroimaging](https://school.brainhackmtl.org/modules/dl_for_neuroimaging/)
+[Applications of Deep Learning in Neuroimaging](https://school-brainhack.github.io/modules/dl_for_neuroimaging/)
 
 
-[Containers](https://school.brainhackmtl.org/modules/containers/)
+[Containers](https://school-brainhack.github.io/modules/containers/)
 
 
-[fMRI Connectivity](https://school.brainhackmtl.org/modules/fmri_connectivity/)
+[fMRI Connectivity](https://school-brainhack.github.io/modules/fmri_connectivity/)
 
 
-[fMRI Parcellation](https://school.brainhackmtl.org/modules/fmri_parcellation/)
+[fMRI Parcellation](https://school-brainhack.github.io/modules/fmri_parcellation/)
 
 
-[High Performance Computing](https://school.brainhackmtl.org/modules/hpc/)
+[High Performance Computing](https://school-brainhack.github.io/modules/hpc/)
 
 
-[Installation](https://school.brainhackmtl.org/modules/installation/)
+[Software Installation](https://school.brainhackmtl.org/modules/installation/)
 
 
-[Introduction to Data Visualization in Python](https://school.brainhackmtl.org/modules/python_visualization/)
+[Introduction to Data Visualization in Python](https://school-brainhack.github.io/modules/python_visualization/)
 
 
-[Introduction to Deep Learning](https://school.brainhackmtl.org/modules/deep_learning_intro/)
+[Introduction to Deep Learning](https://school-brainhack.github.io/modules/deep_learning_intro/)
 
 
-[Introduction to Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis/)
+[Introduction to Python for data analysis](https://school-brainhack.github.io/modules/python_data_analysis/)
