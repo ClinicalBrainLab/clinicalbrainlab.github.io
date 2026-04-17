@@ -15,6 +15,10 @@ menu:
 ## Brainhack school
 [Brainhack school website](https://school-brainhack.github.io/)
 
+## NTU COOL
+[https://cool.ntu.edu.tw/login/portal](https://cool.ntu.edu.tw/login/portal) <br>
+Mainly for official grade logging.
+
 ## Open Data
 [NeuroVault](https://neurovault.org/)
 
@@ -22,10 +26,6 @@ menu:
 
 [EEG-Datasets](https://github.com/meagmohit/EEG-Datasets)
 
-## NTU COOL 
-[NTU Cool](https://cool.ntu.edu.tw/login/portal)
-Mainly for official grade logging.
-
 ## Email 
-[Email](brainhacktwsg@gmail.com)
+[brainhacktwsg@gmail.com](brainhacktwsg@gmail.com) <br>
 Email this for logistics inquiries; for questions about course content/ final projects, please contact TAs on Discord. 
