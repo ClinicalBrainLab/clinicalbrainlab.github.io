@@ -21,3 +21,11 @@ menu:
 [OpenfMRI](https://openfmri.org/)
 
 [EEG-Datasets](https://github.com/meagmohit/EEG-Datasets)
+
+## NTU COOL 
+[NTU Cool](https://cool.ntu.edu.tw/login/portal)
+Mainly for official grade logging.
+
+## Email 
+[Email](brainhacktwsg@gmail.com)
+Email this for logistics inquiries; for questions about course content/ final projects, please contact TAs on Discord. 
