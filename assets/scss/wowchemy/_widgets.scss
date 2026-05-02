@@ -150,7 +150,7 @@
   font-size: 1.60rem;
   margin-top: 0;
   text-align: center;
-  line-height: 0.2;
+  line-height: 1.15;
 }
 
 .hero-lead {
@@ -234,6 +234,102 @@ a.hero-cta-alt:hover {
 .carousel-inner .wg-hero {
   animation: none;
   clear: none;
+}
+
+.home-section.wg-slider .hero-title,
+.home-section.wg-slider .hero-lead {
+  display: none;
+}
+
+.home-section.wg-slider .btn-light {
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.13);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0;
+  backdrop-filter: blur(10px);
+  transition: background-color 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.home-section.wg-slider .btn-light:hover,
+.home-section.wg-slider .btn-light:focus {
+  border-color: rgba(255, 255, 255, 0.72);
+  background: rgba(255, 255, 255, 0.21);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.home-section.wg-slider .wg-hero .container {
+  position: relative;
+  height: 100%;
+}
+
+.home-section.wg-slider .wg-hero .cta-btns {
+  margin-bottom: 0;
+}
+
+.home-section.wg-slider .wg-hero p:has(.btn) {
+  position: absolute;
+  right: 24px;
+  bottom: 6px;
+  z-index: 3;
+  margin: 0;
+}
+
+.home-section.wg-slider .wg-hero .btn {
+  padding: 0.32rem 0.64rem;
+}
+
+.home-section.wg-slider .wg-hero .btn-lg {
+  font-size: 0.78rem;
+}
+
+.home-section.wg-slider .wg-hero .btn i {
+  padding-right: 0.38rem !important;
+}
+
+@include media-breakpoint-down(sm) {
+  .home-section.wg-slider .wg-hero {
+    background-position: right center;
+  }
+
+  .home-section.wg-slider .container {
+    height: auto;
+    text-align: left !important;
+  }
+
+  .home-section.wg-slider .wg-hero p:has(.btn) {
+    position: static;
+    margin: 0.2rem 0 0 !important;
+  }
+
+  .home-section.wg-slider .hero-title {
+    display: block;
+    max-width: 88%;
+    margin: 0.5rem 0 0.4rem;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    background: rgba(0, 0, 0, 0.42);
+    font-size: 1.15rem;
+    line-height: 1.15;
+    text-align: left;
+  }
+
+  .home-section.wg-slider .hero-lead {
+    display: inline-block;
+    margin: 0 0 0.5rem !important;
+    padding: 0.35rem 0.55rem;
+    background: rgba(0, 0, 0, 0.38);
+    font-size: 0.85rem;
+    line-height: 1.25;
+  }
+
+  .home-section.wg-slider .btn-lg {
+    font-size: 0.82rem;
+  }
 }
 
 /*************************************************

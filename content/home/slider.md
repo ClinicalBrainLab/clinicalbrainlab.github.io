@@ -36,6 +36,174 @@ height = "390px"
   #cta_icon = "graduation-cap"
 
 [[item]]
+  title = "National Identity and Brain Responses"
+  content = "2026 | PNAS"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2026-national-identity-brain-responses.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1073/pnas.2531563123"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Personalized tDCS Outcomes"
+  content = "2025 | JAMA Network Open"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-personalized-tdcs.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1001/jamanetworkopen.2025.26148"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Reading and Working Memory in Youth"
+  content = "2026 | Educational Psychology Review"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2026-reading-working-memory.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1007/s10648-026-10151-6"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Multisensory Emotion Perception"
+  content = "2025 | Neuroscience & Biobehavioral Reviews"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-multisensory-emotion.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1016/j.neubiorev.2025.106118"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Set-Shifting and Divergent Thinking"
+  content = "2026 | BMC Psychology"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2026-set-shifting-divergent-thinking.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1186/s40359-026-04584-5"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Brain Networks in Primary Progressive Aphasia"
+  content = "2025 | Alzheimer's Research & Therapy"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-ppa-brain-networks.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1186/s13195-025-01800-z"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Defining and Measuring Inventive Thinking"
+  content = "2026 | Thinking Skills and Creativity"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2026-inventive-thinking.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1016/j.tsc.2026.102176"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Hot and Cool Executive Functions"
+  content = "2025 | Sensors"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-hot-cool-executive-functions.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.3390/s25030806"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "In-Group and Out-Group fMRI Meta-Analysis"
+  content = "2026 | Brain and Behavior"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2026-ingroup-outgroup-fmri-meta.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1002/brb3.71314"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "CILD-Q and Linguistic Diversity"
+  content = "2025 | International Journal of Multilingualism"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-cildq-linguistic-diversity.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1080/14790718.2025.2570205"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Learning Mechanisms Across the Adult Lifespan"
+  content = "2025 | Neuroscience & Biobehavioral Reviews"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-lifespan-learning-review.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1016/j.neubiorev.2025.106281"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Measuring Depression and Anxiety with Four Items"
+  content = "2025 | Collabra: Psychology"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-phq4-depression-anxiety.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1525/collabra.143431"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Pathology-Specific tDCS Protocols for PPA"
+  content = "2025 | Alzheimer's Research & Therapy"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-ppa-tdcs-protocols.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1186/s13195-025-01737-3"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "Stimulation Targets for PPA"
+  content = "2025 | Brain Disorders"
+  align = "right"
+  overlay_color = "#000000"
+  overlay_img = "headers/pub-2025-ppa-stimulation-targets.png"
+  overlay_filter = 0.05
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1016/j.dscb.2025.100255"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
   title = ""
   content = ""
   align = ""
@@ -53,74 +221,6 @@ height = "390px"
   overlay_img = "headers/brain_images2.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/BrainSciences_2024.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-  
- # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Link to Special Issue"
-  cta_url = "https://www.mdpi.com/2076-3425/14/12/1162"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/trends-in-neuroscience-edu-editorial.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-  
- # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Link to Special Issue"
-  cta_url = "https://www.sciencedirect.com/special-issue/10054VJ6HG3"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/science_of_learning.PNG"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-   
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Link to paper"
-  cta_url = "https://www.sciencedirect.com/science/article/abs/pii/S2211949323000091"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/sensors_2023.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-   
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Link to paper"
-  cta_url = "https://www.mdpi.com/1424-8220/23/8/4107"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-  
 [[item]]
   title = ""
   content = ""
@@ -149,23 +249,6 @@ height = "390px"
   overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/rescaled_lab_2022.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/pnaspublication.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-  
- # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Link to Special Issue"
-  cta_url = "https://www.pnas.org/doi/10.1073/pnas.2531563123"
-  cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
 
 +++
 o
