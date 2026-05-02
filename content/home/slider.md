@@ -16,26 +16,6 @@ height = "390px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
-  content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/brain_images.png"  # Image path relative to your `static/media/` folder.
-  # overlay_img = "headers/lab-photo.jpeg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-
-[[item]]
   title = "National Identity and Brain Responses"
   content = "2026 | PNAS"
   align = "right"
@@ -202,6 +182,27 @@ height = "390px"
   cta_url = "https://doi.org/10.1016/j.dscb.2025.100255"
   cta_icon_pack = "fas"
   cta_icon = "external-link-alt"
+
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/brain_images.png"  # Image path relative to your `static/media/` folder.
+  # overlay_img = "headers/lab-photo.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 [[item]]
   title = ""
