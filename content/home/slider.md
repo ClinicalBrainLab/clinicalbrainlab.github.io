@@ -211,7 +211,7 @@ height = "390px"
 
   overlay_color = "#000000"  # An HTML color value.
   overlay_img = "headers/group-ohbm-2024-1.jpg"  # Image path relative to your `static/media/` folder. 
-  overlay_position = "center 72%"
+  overlay_position = "center 62%"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
