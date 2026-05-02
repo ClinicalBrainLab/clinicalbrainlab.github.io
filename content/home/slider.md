@@ -210,7 +210,8 @@ height = "390px"
   align = ""
 
   overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/Congrats_Jiali.png"  # Image path relative to your `static/media/` folder. 
+  overlay_img = "headers/group-ohbm-2024-1.jpg"  # Image path relative to your `static/media/` folder. 
+  overlay_position = "center 72%"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -228,7 +229,7 @@ height = "390px"
   align = ""
 
   overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/Lab photo Teams_22Oct2021_1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/group-ohbm-2024-2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -237,7 +238,7 @@ height = "390px"
   align = ""
 
   overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/Lab photo Teams_22Oct2021_2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/group-clic-2025-1.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -248,7 +249,7 @@ height = "390px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/rescaled_lab_2022.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/group-bilingual-future-2025.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 +++

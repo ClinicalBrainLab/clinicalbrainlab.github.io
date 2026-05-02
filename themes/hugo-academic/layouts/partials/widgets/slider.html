@@ -21,6 +21,9 @@
     background-image:
     {{ if $item.overlay_filter }}linear-gradient(rgba(0, 0, 0, {{ $item.overlay_filter }}), rgba(0, 0, 0, {{ $item.overlay_filter }})), {{ end }}
     url('{{ printf "%s/%s" $media_dir $item.overlay_img | absURL }}');
+    {{ with $item.overlay_position }}
+    background-position: {{ . }};
+    {{ end }}
     {{ end }}
     ;">
     <div class="container" style="text-align: {{$item.align | default "left"}};">
