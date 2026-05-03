@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>biliteracy | The Clinical Brain Lab</title>
+    <title>Biliteracy | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/tag/biliteracy/</link>
       <atom:link href="https://clinicalbrainlab.github.io/tag/biliteracy/index.xml" rel="self" type="application/rss+xml" />
-    <description>biliteracy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <description>Biliteracy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu6d4d947ac8a7b66d4470128c3d99ab67_46638_300x300_fit_lanczos_3.png</url>
-      <title>biliteracy</title>
+      <title>Biliteracy</title>
       <link>https://clinicalbrainlab.github.io/tag/biliteracy/</link>
     </image>
-    
-    <item>
-      <title>MRI Space Mission</title>
-      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;main.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Mapping the Cerebellum to the Neural Network of Reading in Bilinguals</title>

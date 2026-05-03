@@ -2,8 +2,8 @@
   "name": "The Clinical Brain Lab",
   "short_name": "The Clinical Brain Lab",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#0f6c6d",
+  "background_color": "#0f6c6d",
   "icons": [{
     "src": "/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

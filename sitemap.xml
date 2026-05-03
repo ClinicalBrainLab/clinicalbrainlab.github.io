@@ -5,20 +5,23 @@
     <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <loc>https://clinicalbrainlab.github.io/join/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/techniques/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/resources/tools/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/software/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/</loc>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/resources/software/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication-type/2/</loc>
     <lastmod>2026-12-01T00:00:00+00:00</lastmod>
@@ -464,10 +467,10 @@
     <loc>https://clinicalbrainlab.github.io/tag/social-competition/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/talk/</loc>
+    <loc>https://clinicalbrainlab.github.io/talk/2024_brainnorm_outreach/</loc>
     <lastmod>2024-12-14T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/talk/2024_brainnorm_outreach/</loc>
+    <loc>https://clinicalbrainlab.github.io/talk/</loc>
     <lastmod>2024-12-14T14:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_tdcs/</loc>
@@ -731,9 +734,6 @@
     <loc>https://clinicalbrainlab.github.io/author/yingjuan-tang/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/post/proof/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -800,12 +800,6 @@
     <loc>https://clinicalbrainlab.github.io/publication/2023_cognitive_flexibility_ef/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/biliteracy/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/post/kid-biliteracy/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -834,6 +828,9 @@
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/biliteracy/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/wenxuan-cheng/</loc>
@@ -976,9 +973,6 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/yee-cheun-chan/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
@@ -1235,9 +1229,6 @@
     <loc>https://clinicalbrainlab.github.io/software/neurokit2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/join_cbl_phd2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/software/pyllusion/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
@@ -1248,10 +1239,10 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/info/for_parents/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/software/sata/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>

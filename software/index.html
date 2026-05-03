@@ -52,7 +52,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#0f6c6d">
   
 
   
@@ -249,7 +249,7 @@
   <link rel="alternate" href="/software/index.xml" type="application/rss+xml" title="The Clinical Brain Lab">
   
 
-  <link rel="manifest" href="/index.webmanifest">
+  <link rel="manifest" href="/manifest.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_192x192_fill_lanczos_center_3.png">
 
@@ -419,8 +419,8 @@
           
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/#home"><span>Home</span></a>
+        <li class="nav-item nav-item-home">
+          <a class="nav-link " href="/#slider"><span>Home</span></a>
         </li>
 
         
@@ -456,7 +456,7 @@
           
         
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-research">
           <a class="nav-link " href="/#research_theme"><span>Research</span></a>
         </li>
 
@@ -493,7 +493,7 @@
           
         
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-team">
           <a class="nav-link " href="/#people"><span>Team</span></a>
         </li>
 
@@ -530,7 +530,7 @@
           
         
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-publications">
           <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
@@ -567,8 +567,8 @@
           
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/#participate"><span>Participate</span></a>
+        <li class="nav-item nav-item-participate--events">
+          <a class="nav-link " href="/#participate"><span>Participate & Events</span></a>
         </li>
 
         
@@ -597,8 +597,8 @@
           
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/resources/"><span>Resources</span></a>
+        <li class="nav-item nav-item-resources--software">
+          <a class="nav-link " href="/resources/"><span>Resources & Software</span></a>
         </li>
 
         
@@ -627,45 +627,8 @@
           
         
 
-        <li class="nav-item">
-          <a class="nav-link  active" href="/software/"><span>Software</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#event"><span>Events</span></a>
+        <li class="nav-item nav-item-join-us">
+          <a class="nav-link " href="/join/"><span>Join Us</span></a>
         </li>
 
         
@@ -701,7 +664,7 @@
           
         
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-contact">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
@@ -731,7 +694,7 @@
           
         
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-brainhack">
           <a class="nav-link " href="/brainhack/"><span>BrainHack</span></a>
         </li>
 
@@ -838,7 +801,14 @@
 <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
 </ul>
  
-      <nav id="TableOfContents"></nav>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#sata-and-i-sata">SATA and i-SATA</a></li>
+    <li><a href="#complex-span">Complex Span</a></li>
+    <li><a href="#neurokit2">NeuroKit2</a></li>
+    <li><a href="#pyllusion">Pyllusion</a></li>
+  </ul>
+</nav>
  
       
 </div>
@@ -852,8 +822,22 @@
 <h1>Software Development</h1>
  
           <div class="article-style">
-            <p>At Clinical Brain Lab, our researchers actively develop new tools and software to support and ensure rigor in our data collection and analyses.</p>
-<p>Some of these tools can also be found in our publications.</p>
+            <p>Clinical Brain Lab researchers develop and maintain software for cognitive task administration, tDCS simulation analysis, psychophysiological signal processing, and reproducible perceptual experiments.</p>
+<h2 id="sata-and-i-sata">SATA and i-SATA</h2>
+<p>
+<a href="/software/sata/">SATA</a> is a MATLAB-based toolbox developed by the lab for post-processing transcranial direct current stimulation (tDCS) simulation outputs. It supports systematic analysis of simulated tDCS montages after current-flow modeling in tools such as COMETS or ROAST, helping researchers estimate current density across cortical regions and compare stimulation montages.</p>
+<p>
+<a href="https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi%3A10.21979%2FN9%2F5W3RIM" target="_blank" rel="noopener">i-SATA</a> extends this approach to individual head models, allowing researchers to estimate current density generated by tDCS in an individual brain. The i-SATA work is described in the lab&rsquo;s 
+<a href="/publication/2020_isata/">Journal of Neural Engineering publication</a>, and the software dataset is available through DR-NTU.</p>
+<h2 id="complex-span">Complex Span</h2>
+<p>
+<a href="/software/complexspan/">Complex Span</a> is a PsychoPy implementation of a working memory span task. It combines simple recall with interleaved processing and recall demands, supporting behavioural assessment of the ability to store and manipulate information at the same time.</p>
+<h2 id="neurokit2">NeuroKit2</h2>
+<p>
+<a href="/software/neurokit2/">NeuroKit2</a> is an open-source Python toolbox for neurophysiological signal processing. It supports analysis workflows for signals such as ECG, electrodermal activity, respiration, electromyography, and electrooculography, including heart rate and heart rate variability measures that can complement behavioural and brain imaging data.</p>
+<h2 id="pyllusion">Pyllusion</h2>
+<p>
+<a href="/software/pyllusion/">Pyllusion</a> is a Python toolbox for generating visual illusions using a parametric framework. It helps researchers create and manipulate illusion stimuli reproducibly, including for behavioural and cognitive neuroscience experiments where stimulus properties need to be controlled systematically.</p>
 
 </div>
           
