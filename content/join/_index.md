@@ -32,7 +32,7 @@ hide_docs_search: true
 </section>
 
 <section class="cbl-s05-join-section" aria-labelledby="join-status-heading">
-  <h2 id="join-status-heading">Graduate Students</h2>
+  <h2 id="join-status-heading">Graduate Studies</h2>
   <p>We are not advertising full-time research assistant or postdoctoral openings at the moment. Prospective PhD and graduate students are welcome to write if their interests connect clearly with the lab's current research themes and methods.</p>
   <p>Strong candidates usually show disciplined learning, clear writing, care for participants and teammates, and interest in rigorous, reproducible analysis.</p>
   <div class="cbl-s05-signal-grid" aria-label="Signals of fit for the Clinical Brain Lab">
