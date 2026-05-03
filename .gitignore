@@ -15,6 +15,8 @@ hugo.linux
 .bg-shell/
 .DS_Store
 Thumbs.db
+.Rhistory
+.rodney/
 *.swp
 *.swo
 *~

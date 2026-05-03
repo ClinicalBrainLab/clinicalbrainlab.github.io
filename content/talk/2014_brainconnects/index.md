@@ -21,8 +21,4 @@ links:
 ---
 {{< gallery album="2014gallery" >}}
 
-
-<!-- TODO: fix broken link -->
-<!-- Please click [here](https://clinicalbrain.org/events/brainconnects/Brain%20Connects%202014%20Workshop%20Program.pdf) for the workshop outline. -->
-
 Follow [this](https://sites.google.com/view/brainconnects2014/) link to the official website of BrainConnects 2014.
