@@ -192,7 +192,7 @@ code {
   font-family: $sta-font-mono, monospace;
   color: #0f6c6d;
   /* Match bg of default highlight theme. */
-  background-color: #f4fbfb;
+  background-color: #eefafa;
 }
 
 pre {
@@ -234,7 +234,7 @@ blockquote p:last-child {
 
 .markup-quote {
   background-color: transparent;
-  background-image: linear-gradient(to bottom, #f4fbfb, #f4fbfb);
+  background-image: linear-gradient(to bottom, #eefafa, #eefafa);
 }
 
 .space-below {
@@ -369,7 +369,7 @@ a[data-fancybox] {
 .badge-light {
   border: 1px solid rgba(44, 141, 130, 0.18);
   color: #0d5658;
-  background: #f4fbfb;
+  background: #eefafa;
   font-weight: normal;
   border-radius: 3px;
   padding: 5px 10px;
@@ -383,7 +383,7 @@ a[data-fancybox] {
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: #f4fbfb;
+  background: #eefafa;
 }
 
 a.badge:focus,
@@ -521,13 +521,13 @@ table table {
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
-  background-color: #f4fbfb;
+  background-color: #eefafa;
 }
 
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-  background-color: #f4fbfb;
+  background-color: #eefafa;
 }
 
 /*************************************************
@@ -589,12 +589,12 @@ div.alert a {
 .article-style aside,
 .alert-note {
   color: #0d5658;
-  background-color: #f4fbfb;
+  background-color: #eefafa;
   border-color: #4a9f97;
 }
 
 .alert-warning {
   color: #0d5658;
-  background-color: #f4fbfb;
+  background-color: #eefafa;
   border-color: #2c8d82;
 }

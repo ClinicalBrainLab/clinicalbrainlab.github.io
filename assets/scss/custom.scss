@@ -14,6 +14,12 @@
   white-space: nowrap;
 }
 
+:root {
+  --pink: #4a9f97;
+  --danger: #0f6c6d;
+  --warning: #2c8d82;
+}
+
 #navbar-main .nav-item-participate--events .nav-link,
 #navbar-main .nav-item-resources--software .nav-link,
 #navbar-main .nav-item-join-us .nav-link {
@@ -78,7 +84,7 @@ body {
 .home-section:nth-of-type(even),
 .wg-blank:nth-of-type(even),
 .cbl-home-cta-section {
-  background-color: #f4fbfb;
+  background-color: #eefafa;
 }
 
 a {
@@ -145,7 +151,7 @@ a:hover {
 .alert-warning,
 .alert-danger {
   color: #0d5658;
-  background-color: #f4fbfb;
+  background-color: #eefafa;
   border-color: #2c8d82;
 }
 
@@ -185,7 +191,7 @@ mark,
 .text-warning,
 .text-danger {
   color: #0d5658 !important;
-  background-color: #f4fbfb !important;
+  background-color: #eefafa !important;
   border-color: #2c8d82 !important;
 }
 
@@ -223,7 +229,7 @@ mark,
   padding: 1.35rem 1.1rem 1.25rem;
   color: #475569;
   text-decoration: none;
-  background: #f4fbfb;
+  background: #eefafa;
   border: 1px solid rgba(74, 159, 151, 0.24);
   border-radius: 8px;
   box-shadow: 0 10px 26px rgba(74, 159, 151, 0.12);
@@ -540,7 +546,7 @@ mark,
 
 .cbl-s05-secondary-cta:hover {
   color: #0b5252;
-  background: #f4fbfb;
+  background: #eefafa;
   border-color: rgba(44, 141, 130, 0.45);
   text-decoration: none;
   transform: translateY(-2px);
@@ -728,7 +734,7 @@ mark,
 
 .cbl-tool-row:hover {
   color: #20333a;
-  background: #f4fbfb;
+  background: #eefafa;
   text-decoration: none;
 }
 
