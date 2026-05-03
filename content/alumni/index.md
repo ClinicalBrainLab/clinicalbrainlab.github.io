@@ -89,7 +89,7 @@ Research Fellows
 - [Elias Ebrahimzadeh, PhD](/author/elias-ebrahimzadeh/)
 - [Jo Archer, PhD](https://loop.frontiersin.org/people/1588798/bio)
 - [Lee Shu Hui, PhD](https://cge.site.nthu.edu.tw/p/16-1573-252065.php?Lang=zh-tw)
-- Liu Heng Shuang, PhD
+- [Liu Heng Shuang, PhD](https://clal.gdufs.edu.cn/info/1212/3627.htm)
 - [Monika Sobczak-Edmans, PhD](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/monika-sobczak-edmans/monika-sobczak-edmans.aspx)
 - [Nestor Vinas-Guasch, PhD](https://loop.frontiersin.org/people/470355/overview)
 - [Rajan Kashyap, PhD](/author/rajan-kashyap/)
