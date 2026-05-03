@@ -93,7 +93,7 @@ Research Fellows
 - [Monika Sobczak-Edmans, PhD](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/monika-sobczak-edmans/monika-sobczak-edmans.aspx)
 - [Nestor Vinas-Guasch, PhD](https://loop.frontiersin.org/people/470355/overview)
 - [Rajan Kashyap, PhD](/author/rajan-kashyap/)
-- Tommy Ng, PhD
+- [Tommy Ng, PhD](https://dr.ntu.edu.sg/entities/person/Ng-Hock-Beng-Tommy)
 - [Miao Zhong, PhD](/author/miao-zhong/)
 
 Research Associates
