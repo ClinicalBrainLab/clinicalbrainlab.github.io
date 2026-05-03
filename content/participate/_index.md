@@ -23,6 +23,6 @@ Past talks, outreach activities, workshops, and conferences are archived in Prev
 
 ## Gallery
 
-Research visits, lab activities, outreach sessions, and conference moments are collected on the homepage Gallery section, directly below Participate & Events.
+Research visits, lab activities, outreach sessions, and conference moments are being reorganised under Participate & Events.
 
-[View the gallery](/#gallery)
+[Return to Participate & Events](/participate/)

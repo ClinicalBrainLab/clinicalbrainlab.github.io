@@ -3,7 +3,7 @@
 
 widget = "blank"
 headless = true
-active = true
+active = false
 weight = 120
 
 title = "Join Us"

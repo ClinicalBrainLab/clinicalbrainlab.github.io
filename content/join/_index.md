@@ -27,7 +27,7 @@ hide_docs_search: true
   <p>The Clinical Brain Lab welcomes enquiries about PhD and graduate studies from people interested in exploration and discovery, while staying grounded in rigorous brain research that can translate to clinical, educational, community, or other applied settings.</p>
   <div class="cbl-s05-join-actions" aria-label="Explore Clinical Brain Lab pathways">
     <a class="cbl-s05-secondary-cta" href="#join-contact-heading">How to contact us</a>
-    <a class="cbl-s05-secondary-cta" href="/#research_theme">Explore our research themes</a>
+    <a class="cbl-s05-secondary-cta" href="/research/">Explore our research themes</a>
   </div>
 </section>
 
@@ -72,7 +72,7 @@ hide_docs_search: true
     </article>
   </div>
   <div class="cbl-s05-route-grid" aria-label="Clinical Brain Lab research routes">
-    <a class="cbl-link-card" href="/#research_theme">
+    <a class="cbl-link-card" href="/research/">
       <strong>Research themes and projects</strong>
       <span>Start with the homepage research-theme cards, where projects are grouped under cerebellum, active ageing, science of learning, and socioaffective neuroscience.</span>
     </a>
