@@ -38,6 +38,14 @@ height = "390px"
   cta_icon = "external-link-alt"
 
 [[item]]
+  title = ""
+  content = ""
+  align = ""
+  overlay_color = "#000000"
+  overlay_img = "headers/brain_images2.png"
+  overlay_filter = 0.2
+
+[[item]]
   title = "Personalized Transcranial Direct Current Stimulation for Behavioral and Neurophysiologic Outcomes"
   content = "2025 | JAMA Network Open"
   align = "right"
@@ -251,13 +259,5 @@ height = "390px"
   doi = "10.1016/j.dscb.2025.100255"
   cta_icon_pack = "fas"
   cta_icon = "external-link-alt"
-
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-  overlay_color = "#000000"
-  overlay_img = "headers/brain_images2.png"
-  overlay_filter = 0.2
 
 +++
