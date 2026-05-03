@@ -1,5 +1,8 @@
 {{- define "main" -}}
 
+{{ if eq .Title "Join Us" }}
+{{ partial "docs_layout.html" . }}
+{{ else }}
 {{ partial "page_header.html" . }}
 
 <div class="universal-wrapper">
@@ -14,5 +17,6 @@
     {{end}}
   </ul>
 </div>
+{{ end }}
 
 {{- end -}}

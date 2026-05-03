@@ -48,6 +48,31 @@ name = "BrainHack"
 url = "brainhack/"
 weight = 90
 
+[[join]]
+name = "Overview"
+url = "/join/#join-cbl-heading"
+weight = 10
+
+[[join]]
+name = "Graduate Students"
+url = "/join/#join-status-heading"
+weight = 20
+
+[[join]]
+name = "Research Fit"
+url = "/join/#join-roles-heading"
+weight = 30
+
+[[join]]
+name = "Interdisciplinary Brain Science"
+url = "/join/#join-ntu-heading"
+weight = 40
+
+[[join]]
+name = "Get in Touch"
+url = "/join/#join-contact-heading"
+weight = 50
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

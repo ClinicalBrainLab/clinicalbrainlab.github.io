@@ -15,6 +15,7 @@
   {{ errorf "Please define menu items named `menu: %s:` in your %s front matter or define `[[menu.%s]]` in `config/default/menus.toml`. See https://wowchemy.com/docs/managing-content/#menus" $menu_name .Path $menu_name }}
 {{ end }}
 
+{{ if not .Params.hide_docs_search }}
 <form class="docs-search d-flex align-items-center">
   <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
     <span><i class="fas fa-bars"></i></span>
@@ -24,6 +25,11 @@
   <input name="q" type="search" class="form-control" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">
   {{ end }}
 </form>
+{{ else }}
+<button class="btn docs-toggle d-md-none p-0 mb-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+  <span><i class="fas fa-bars"></i></span>
+</button>
+{{ end }}
 
 <nav class="collapse docs-links" id="docs-nav">
   {{ with (index site.Menus $menu_name) }}

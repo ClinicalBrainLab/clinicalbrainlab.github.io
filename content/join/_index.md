@@ -9,8 +9,11 @@ title: Join Us
 date: "2018-09-09T00:00:00Z"
 lastmod: "2026-05-03T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
+layout: docs
+menu_name: join
+hide_docs_search: true
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -29,9 +32,8 @@ type: docs  # Do not modify.
 </section>
 
 <section class="cbl-s05-join-section" aria-labelledby="join-status-heading">
-  <p class="cbl-card-kicker">Current status and fit</p>
-  <h2 id="join-status-heading">PhD and graduate enquiries are welcome.</h2>
-  <p>We are not advertising fixed research assistant or postdoctoral openings at the moment. Prospective PhD and graduate students are welcome to write if their interests connect clearly with the lab's current research themes and methods.</p>
+  <h2 id="join-status-heading">Graduate Students</h2>
+  <p>We are not advertising full-time research assistant or postdoctoral openings at the moment. Prospective PhD and graduate students are welcome to write if their interests connect clearly with the lab's current research themes and methods.</p>
   <p>Strong candidates usually show disciplined learning, clear writing, care for participants and teammates, and interest in rigorous, reproducible analysis.</p>
   <div class="cbl-s05-signal-grid" aria-label="Signals of fit for the Clinical Brain Lab">
     <article class="cbl-s05-signal-card">
@@ -54,14 +56,13 @@ type: docs  # Do not modify.
 </section>
 
 <section class="cbl-s05-join-section" aria-labelledby="join-roles-heading">
-  <p class="cbl-card-kicker">Paths into the lab</p>
-  <h2 id="join-roles-heading">Connect your interests to the lab</h2>
+  <h2 id="join-roles-heading">Research Fit</h2>
   <p>We are interested in people who can bring a clear question, a willingness to learn across methods, and an appetite for work that matters beyond the lab. Your question might begin with cognition, learning, ageing, emotion, the cerebellum, rehabilitation, or brain stimulation; the important part is whether it can be shaped into careful, testable research with a path toward clinical or real-world relevance.</p>
   <p>Before writing, review the lab's current themes, projects, and publications. The strongest notes connect your skills and questions to work already underway.</p>
   <div class="cbl-s05-role-grid">
     <article class="cbl-s05-role-card">
       <span class="cbl-card-kicker">Graduate research</span>
-      <h3>Graduate and PhD students</h3>
+      <h3>PhD Applicants</h3>
       <p>Develop a research direction that connects your interests to ongoing lab themes, methods, and outputs in clinical cognitive neuroscience, learning, ageing, cerebellum, or socioaffective neuroscience.</p>
     </article>
     <article class="cbl-s05-role-card">
@@ -83,8 +84,7 @@ type: docs  # Do not modify.
 </section>
 
 <section class="cbl-s05-join-section" aria-labelledby="join-ntu-heading">
-  <p class="cbl-card-kicker">NTU context and contact</p>
-  <h2 id="join-ntu-heading">Interdisciplinary brain science at NTU</h2>
+  <h2 id="join-ntu-heading">Interdisciplinary Brain Science at NTU</h2>
   <p>NTU is a strong home for ambitious researchers who want to build rigorous science across disciplinary boundaries. Graduate students can draw on a research-intensive environment spanning psychology, neuroscience, medicine, education, engineering, social sciences, and translational research.</p>
   <p>Through the Cognitive Neuroimaging Centre (CoNiC), students can work with advanced neuroimaging and neuromodulation facilities, including MRI, EEG, MEG, fNIRS, TMS, and tDCS. This ecosystem is well suited for students who want deep methodological training while developing research with clinical, educational, or community impact.</p>
   <h3>Application and scholarship routes</h3>
