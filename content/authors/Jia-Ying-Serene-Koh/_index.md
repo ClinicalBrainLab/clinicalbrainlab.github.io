@@ -40,3 +40,5 @@ user_groups:
 - Alumni
 
 ---
+
+Serene Koh is an alumnae of the Clinical Brain Lab. Her background spans psychology, education, occupational health psychology, industrial-organisational psychology, and neuropsychology.

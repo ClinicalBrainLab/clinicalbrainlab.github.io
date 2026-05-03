@@ -82,8 +82,8 @@ Graduate Students
 Research Fellows
 - Adrian Galang, PhD
 - Belle Yick, PhD
-- [Cheng Xiaoqin, PhD](/author/cheng-xiaoqin/)
-- [Chia-Lun Liu, PhD](/author/chia-lun-liu/)
+- Cheng Xiaoqin, PhD
+- Chia-Lun Liu, PhD
 - [Dominique Makowski, PhD](/author/dominique-makowski/)
 - [Eleanor Koo Wei Shi, PhD](/author/eleanor-koo-wei-shi/)
 - [Elias Ebrahimzadeh, PhD](/author/elias-ebrahimzadeh/)
@@ -99,7 +99,7 @@ Research Fellows
 Research Associates
 - Alvin Lim, MA
 - Cathy Kao, MS
-- [Hong Min](/author/hong-min/)
+- Hong Min
 - Hoki Fung, MS
 - [Ilang Kumaran Yuvadarshini, MS](https://in.linkedin.com/in/yuvadarshiniik)
 - [Meenakshi Siddharthan, MS](/author/meenakshi-siddharthan/)
@@ -115,7 +115,7 @@ Project Officers/Research Assistants
 - [Janet Tan](/author/tan-jia-yuan-janet/)
 - [Lau Zen Juen](/author/zenjuen-lau/)
 - [Low Li Tong](/author/litong-low/)
-- [Marisha Barth Ubrani](/author/marisha-barth-ubrani/)
+- Marisha Barth Ubrani
 - Marilyn Yeo
 - Ngoi Zi Liang
 - [Phoebe Chia](/author/phoebe-chia/)
@@ -124,7 +124,7 @@ Project Officers/Research Assistants
 - [Te An Shu](/author/an-shu-te/)
 - [Chua Wei Ting Serena](/author/chua-wei-ting-serena/)
 - [Michelle Yap](/author/michelle-yap/)
-- [Sarah Ayub](/author/sarah-ayub/)
+- Sarah Ayub
 
 Interns
 - [Elaine Teo](/author/elaine-teo/), Intern

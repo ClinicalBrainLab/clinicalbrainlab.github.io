@@ -2,7 +2,7 @@
 title: Eleanor Koo Wei Shi
 authors:
 - Eleanor Koo Wei Shi
-bio: Dr. Eleanor is an alumnae of CLIC.
+bio: Eleanor Koo Wei Shi is an alumnae of CLIC.
 
 email: "eleanor.koo@nie.edu.sg"
 
@@ -13,7 +13,7 @@ role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
-  link: eleanor.koo@nie.edu.sg
+  link: mailto:eleanor.koo@nie.edu.sg
 
 superuser: false
 
@@ -22,4 +22,4 @@ user_groups:
 
 ---
 
-Dr. Eleanor Koo Wei Shi is an alumnae of CLIC.
+Eleanor Koo Wei Shi is an alumnae of CLIC. Her research background spans vision science, neuroscience, psychology, and neuroimaging, with doctoral training at the University of Wollongong.
