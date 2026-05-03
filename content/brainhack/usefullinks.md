@@ -27,5 +27,5 @@ Mainly for official grade logging.
 [EEG-Datasets](https://github.com/meagmohit/EEG-Datasets)
 
 ## Email 
-[brainhacktwsg@gmail.com](brainhacktwsg@gmail.com) <br>
+[brainhacktwsg@gmail.com](mailto:brainhacktwsg@gmail.com) <br>
 Email this for logistics inquiries; for questions about course content/ final projects, please contact TAs on Discord. 

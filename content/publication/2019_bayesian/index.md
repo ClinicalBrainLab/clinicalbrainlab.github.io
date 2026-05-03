@@ -21,7 +21,7 @@ tags:
 title: 'Indices of effect existence and significance in the Bayesian framework'
 url_code: ""
 url_dataset: ""
-url_pdf: "Makowski-2019.pdf"
+url_pdf: "/publication/Makowski-2019.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

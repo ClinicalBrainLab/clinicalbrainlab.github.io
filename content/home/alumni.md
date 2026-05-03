@@ -13,7 +13,7 @@ subtitle = ""
   columns = "1"
 
 [design.background]
-  color = "#eefafa"
+  # color = "#eefafa"
   text_color_light = false
 
 [design.spacing]

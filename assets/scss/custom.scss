@@ -77,14 +77,49 @@ body {
   border-color: rgba(74, 159, 151, 0.2);
 }
 
+.avatar {
+  object-fit: contain;
+  background-color: #ffffff;
+}
+
+.people-widget .avatar {
+  width: 150px;
+  max-width: 80%;
+  height: 150px;
+}
+
+.author-card .avatar {
+  width: 96px;
+  height: 96px;
+}
+
+#profile .avatar {
+  width: 270px;
+  height: 270px;
+}
+
 .home-section {
   background-color: #ffffff;
 }
 
 .home-section:nth-of-type(even),
-.wg-blank:nth-of-type(even),
-.cbl-home-cta-section {
+.wg-blank:nth-of-type(even) {
   background-color: #eefafa;
+}
+
+#about_us,
+#people,
+#publications,
+#gallery,
+#contact {
+  background-color: #ffffff !important;
+}
+
+#research_theme,
+#alumni,
+#participate,
+#join {
+  background-color: #eefafa !important;
 }
 
 a {

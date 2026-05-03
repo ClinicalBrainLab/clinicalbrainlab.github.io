@@ -57,7 +57,7 @@ height = "390px"
   align = ""
   overlay_color = "#eefafa"
   overlay_img = "headers/group-ohbm-2024-1.jpg"
-  overlay_position = "center 62%"
+  overlay_position = "center 65%"
   overlay_filter = 0.2
 
 [[item]]
@@ -94,6 +94,7 @@ height = "390px"
   align = ""
   overlay_color = "#eefafa"
   overlay_img = "headers/group-ohbm-2024-2.jpg"
+  overlay_position = "center 35%"
   overlay_filter = 0.2
 
 [[item]]
@@ -130,6 +131,7 @@ height = "390px"
   align = ""
   overlay_color = "#eefafa"
   overlay_img = "headers/group-clic-2025-1.jpg"
+  overlay_position = "center 50%"
   overlay_filter = 0.2
 
 [[item]]
@@ -194,6 +196,7 @@ height = "390px"
   align = "center"
   overlay_color = "#eefafa"
   overlay_img = "headers/group-bilingual-future-2025.jpg"
+  overlay_position = "center 42%"
   overlay_filter = 0.2
 
 [[item]]

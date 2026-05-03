@@ -24,7 +24,7 @@ role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
-  link: litong.low@ntu.edu.sg
+  link: mailto:litong.low@ntu.edu.sg
 
 
 superuser: false
@@ -34,4 +34,3 @@ user_groups:
 - Research Assistants
 
 ---
-
