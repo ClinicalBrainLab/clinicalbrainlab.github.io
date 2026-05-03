@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brain stimulation | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/brain-stimulation/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/brain-stimulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>brain stimulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu6d4d947ac8a7b66d4470128c3d99ab67_46638_300x300_fit_lanczos_3.png</url>
+      <title>brain stimulation</title>
+      <link>https://clinicalbrainlab.github.io/tag/brain-stimulation/</link>
+    </image>
+    
+    <item>
+      <title>Identifying target regions for non-invasive brain stimulation of the language network in primary progressive aphasia: A narrative review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

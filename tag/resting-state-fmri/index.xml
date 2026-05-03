@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resting-state fMRI | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/resting-state-fmri/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/resting-state-fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>resting-state fMRI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu6d4d947ac8a7b66d4470128c3d99ab67_46638_300x300_fit_lanczos_3.png</url>
+      <title>resting-state fMRI</title>
+      <link>https://clinicalbrainlab.github.io/tag/resting-state-fmri/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal evaluation of common and unique brain-networks in variants of primary progressive aphasia</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

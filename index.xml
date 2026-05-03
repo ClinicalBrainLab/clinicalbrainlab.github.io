@@ -5,12 +5,44 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu6d4d947ac8a7b66d4470128c3d99ab67_46638_300x300_fit_lanczos_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Relationship Between Reading and Working Memory in Children and Adolescents: A Meta-Analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</link>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining and measuring inventive thinking: A scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set-shifting and task-switching make differential contributions to divergent thinking in adolescence</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National identity reconfigures brain responses from them to us</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Instructors</title>
@@ -581,6 +613,62 @@ git push -u origin main
     </item>
     
     <item>
+      <title>A Meta-Analysis of Functional Magnetic Resonance Imaging Studies on In-Group and Out-Group Categorization</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-ingroup-outgroup-fmri-meta/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-ingroup-outgroup-fmri-meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of the CILD-Q for measuring contextual linguistic diversity in Singapore</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive and neural mechanisms of learning and interventions for improvement across the adult lifespan: A systematic review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-lifespan-learning-review/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-lifespan-learning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying target regions for non-invasive brain stimulation of the language network in primary progressive aphasia: A narrative review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Transcranial Direct Current Stimulation for Behavioral and Neurophysiologic Outcomes</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-personalized-tdcs-outcomes/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-personalized-tdcs-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Depression and Anxiety With 4 Items? Adaptation of the PHQ-4 to Increase Its Sensitivity to Subclinical Variability</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-phq4-depression-anxiety/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-phq4-depression-anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal evaluation of common and unique brain-networks in variants of primary progressive aphasia</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Perception of Real vs. Fake Information</title>
       <link>https://clinicalbrainlab.github.io/project/fake-news/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
@@ -608,6 +696,14 @@ git push -u origin main
 &lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/sarah-ayub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarah Ayub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The role of structural and functional parameters in designing pathology-specific tDCS protocols for primary progressive aphasia</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-tdcs-protocols/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-tdcs-protocols/</guid>
+      <description></description>
     </item>
     
     <item>
