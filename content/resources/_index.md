@@ -1,6 +1,7 @@
 ---
 title: Resources & Software
 layout: docs  # Do not modify.
+type: resources
 
 # Optional header image (relative to `static/media/` folder).
 header:

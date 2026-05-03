@@ -1,0 +1,29 @@
+{{- define "main" -}}
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ range sort .Data.Pages "Weight" "asc" }}
+    <div>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="article-style">
+        {{ if .Params.summary }}
+          {{ .Params.summary | plainify | emojify }}
+        {{ else if .Summary }}
+          {{ .Summary | plainify | emojify }}
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+
+  <div>
+    <h2><a href="/software/">Software Development</a></h2>
+    <div class="article-style">
+      Lab-developed software for cognitive task administration, tDCS simulation analysis, psychophysiological signal processing, and reproducible perceptual experiments.
+    </div>
+  </div>
+</div>
+{{- end -}}

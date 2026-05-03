@@ -1,6 +1,7 @@
 ---
 title: Participate & Events
 summary: Ongoing studies, previous events, and research visit highlights from the Clinical Brain Lab.
+type: participate
 ---
 
 ## Participate in Ongoing Studies
@@ -23,6 +24,6 @@ Past talks, outreach activities, workshops, and conferences are archived in Prev
 
 ## Gallery
 
-Research visits, lab activities, outreach sessions, and conference moments are being reorganised under Participate & Events.
+Pictures from conferences, research visits, lab activities, outreach sessions, and celebrations.
 
-[Return to Participate & Events](/participate/)
+[View the gallery](/participate/gallery/)
