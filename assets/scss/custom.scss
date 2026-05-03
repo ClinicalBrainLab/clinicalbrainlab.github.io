@@ -200,6 +200,65 @@ a:hover {
   color: #123d4a;
 }
 
+.cbl-participate-study {
+  margin: 1.35rem 0 2rem;
+  padding: 0.95rem 1.05rem;
+  border-left: 5px solid #0f6c6d;
+  background-color: #f2fbfb;
+}
+
+.cbl-participate-study a {
+  display: inline-block;
+  margin-bottom: 0.35rem;
+  color: #0d5658;
+  font-size: 1.18rem;
+  font-weight: 900;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.cbl-participate-study a:hover {
+  color: #083f41;
+  text-decoration: underline;
+}
+
+.cbl-participate-study p {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.cbl-participate-study p:last-child {
+  margin-bottom: 0;
+}
+
+.cbl-participate-study-body {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.cbl-study-thumb {
+  flex: 0 0 88px;
+  width: 88px;
+  height: 88px;
+  border: 3px solid #bde8e4;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 8px 18px rgba(74, 159, 151, 0.18);
+}
+
+@media (max-width: 575.98px) {
+  .cbl-participate-study-body {
+    gap: 0.75rem;
+  }
+
+  .cbl-study-thumb {
+    flex-basis: 64px;
+    width: 64px;
+    height: 64px;
+  }
+}
+
 .alert-warning,
 .alert-danger {
   color: #0d5658;

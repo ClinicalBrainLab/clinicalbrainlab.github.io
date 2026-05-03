@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<section class="home-section">
+  <div class="container">
+    {{ partial "widgets/people.html" (dict "root" . "page" .) }}
+    <div class="cbl-home-cta team-alumni-cta">
+      <h2>Alumni</h2>
+      <p>Former members of the Clinical Brain Lab continue to contribute across academia, healthcare, education, research, and industry in Singapore and internationally.</p>
+      <a class="cbl-home-cta-button" href="/alumni/">View Alumni</a>
+    </div>
+  </div>
+</section>
+{{- end -}}

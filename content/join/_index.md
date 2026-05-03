@@ -97,10 +97,6 @@ hide_docs_search: true
       <strong>Interdisciplinary Graduate Programme</strong>
       <span>Use the Graduate College IGP application route for interdisciplinary PhD work across education, psychology, neuroscience, technology, and related areas.</span>
     </a>
-    <a class="cbl-link-card" href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme" target="_blank" rel="noopener">
-      <strong>LKCMedicine PhD by Research</strong>
-      <span>Review the LKCMedicine PhD programme, available research areas, application guidance, and graduate scholarship information.</span>
-    </a>
   </div>
   <h3 id="join-contact-heading">Get in touch</h3>
   <p>Please include a brief introduction to your academic and research background, the pathway you are considering, the lab research themes that interest you, and what you hope to learn or contribute. Attach an updated CV with your enquiry.</p>

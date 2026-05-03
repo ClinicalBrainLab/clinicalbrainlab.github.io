@@ -5,22 +5,22 @@
 
 [[main]]
 name = "Home"
-url = "#slider"
+url = "/"
 weight = 10
 
 [[main]]
 name = "Research"
-url = "#research_theme"
+url = "research/"
 weight = 20
 
 [[main]]
 name = "Team"
-url = "#people"
+url = "team/"
 weight = 30
 
 [[main]]
 name = "Publications"
-url = "#publications"
+url = "publication/"
 weight = 40
 
 [[main]]
@@ -30,7 +30,7 @@ weight = 75
 
 [[main]]
 name = "Participate & Events"
-url = "#participate"
+url = "participate/"
 weight = 50
 
 [[main]]
@@ -40,7 +40,7 @@ weight = 60
 
 [[main]]
 name = "Contact"
-url = "#contact"
+url = "contact/"
 weight = 80
 
 [[main]]
