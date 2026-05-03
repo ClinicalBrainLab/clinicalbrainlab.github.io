@@ -18,12 +18,12 @@ Nanyang Technological University (Singapore):
 </br></br>
 Undergraduate Students
 - Amos Law 
-- Arumugam Ramaswamy 
-- Bhavya Arya
-- Cheng Wenxuan 
+- [Arumugam Ramaswamy](/author/arum/)
+- [Bhavya Arya](/author/bhavya-arya/)
+- [Cheng Wenxuan](/author/wenxuan-cheng/)
 - Chia Kai Xin 
-- Chui Yingqi 
-- Claire Chang
+- [Chui Yingqi](/author/chui-yingqi/)
+- [Claire Chang](/author/claire-chang-see-ying/)
 - Dawn Lim 
 - Derric Eng 
 - Ebenezer Chan 
@@ -38,91 +38,99 @@ Undergraduate Students
 - Lean Jing Hui 
 - Leong Li An 
 - Lim Tech Yian 
-- Lin Xiaowen 
-- Low Jia Rong 
+- [Lin Xiaowen](/author/lin-xiaowen/)
+- [Low Jia Rong](/author/low-jia-rong/)
 - Mabel Ong 
 - Matthew Teo 
 - Megan Tay 
 - Michelle Mah 
 - Neo Shao Hoon 
-- Neo Yi Fang 
+- [Neo Yi Fang](/author/yifang-neo/)
 - Nur Diyanah 
 - Ong Zi Yan 
 - Rachel Tham 
-- Randal Lee Zhisheng 
+- [Randal Lee Zhisheng](/author/randall-lee-zhisheng/)
 - Regine Lau 
-- Ryan Lim
+- [Ryan Lim](/author/lim-hon-hwa-ryan/)
 - Samuel Chong 
 - Seanna Neo 
-- Serene Koh 
+- [Serene Koh](/author/serene-koh/)
 - Sharon Chan 
 - Shee Mei Ling 
 - Stephanie Lee 
 - Tan Suan Fong 
-- Tay Shi Ying 
+- [Tay Shi Ying](/author/tay-shi-ying/)
 - Teh Hui Chian 
 - Tony Lim
 - Vicki Chng Wei Qi 
 - Yap Jia Yu 
 - Yeo Jia Ying 
 - Yeo Siok Peng 
-- Yip Jiamin (Bethany)
+- [Yip Jiamin (Bethany)](/author/yip-jiamin-bethany/)
 
 Graduate Students
 - Chan Yee Pei
 - Eng Goi Khia
-- Gladys Heng 
+- [Gladys Heng](/author/gladys-heng/)
 - Kwok Fu Yu
+- [Mengyu Lim](/author/mengyu-lim/)
+- [Zhang Jiayi (Vae)](/author/jiayi-zhang/)
 - Tan Jiat Chow
-- Wu Chiao-Yi (Joyce)
-- Serene Koh
+- [Wu Chiao-Yi (Joyce)](/author/chiao-yi-wu/)
+- [Serene Koh](/author/serene-koh/)
 
 Research Fellows
 - Adrian Galang, PhD
 - Belle Yick, PhD
-- Dominique Makowski, PhD
-- Jo Archer, PhD
-- Lee Shu Hui, PhD
+- [Cheng Xiaoqin, PhD](/author/cheng-xiaoqin/)
+- [Chia-Lun Liu, PhD](/author/chia-lun-liu/)
+- [Dominique Makowski, PhD](/author/dominique-makowski/)
+- [Eleanor Koo Wei Shi, PhD](/author/eleanor-koo-wei-shi/)
+- [Elias Ebrahimzadeh, PhD](/author/elias-ebrahimzadeh/)
+- [Jo Archer, PhD](https://loop.frontiersin.org/people/1588798/bio)
+- [Lee Shu Hui, PhD](https://cge.site.nthu.edu.tw/p/16-1573-252065.php?Lang=zh-tw)
 - Liu Heng Shuang, PhD
-- Monika Sobczak-Edmans, PhD
-- Nestor Vinas-Guasch, PhD
-- Rajan Kashyap, PhD
+- [Monika Sobczak-Edmans, PhD](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/monika-sobczak-edmans/monika-sobczak-edmans.aspx)
+- [Nestor Vinas-Guasch, PhD](https://loop.frontiersin.org/people/470355/overview)
+- [Rajan Kashyap, PhD](/author/rajan-kashyap/)
 - Tommy Ng, PhD
-- Miao Zhong, PhD
+- [Miao Zhong, PhD](/author/miao-zhong/)
 
 Research Associates
 - Alvin Lim, MA
 - Cathy Kao, MS
+- [Hong Min](/author/hong-min/)
 - Hoki Fung, MS
-- Ilang Kumaran Yuvadarshini, MS
-- Meenakshi Siddharthan, MS
-- Stephanie Kirk, MA
-- Wilson Lim
-- Catherine Shuhan Wang
-- Nisha Syed Nasser
+- [Ilang Kumaran Yuvadarshini, MS](https://in.linkedin.com/in/yuvadarshiniik)
+- [Meenakshi Siddharthan, MS](/author/meenakshi-siddharthan/)
+- [Stephanie Kirk, MA](/author/stephanie-kirk/)
+- [Wilson Lim](/author/wilson-lim/)
+- [Catherine Shuhan Wang](/author/catherine-shuhan-wang/)
+- [Nisha Syed Nasser](/author/nisha-syed-nasser/)
 
 Project Officers/Research Assistants
 - Alison Chew
-- Cheng Wenxuan
+- [Cheng Wenxuan](/author/wenxuan-cheng/)
 - Gan Su Ren
-- Janet Tan
-- Lau Zen Juen
-- Low Li Tong
+- [Janet Tan](/author/tan-jia-yuan-janet/)
+- [Lau Zen Juen](/author/zenjuen-lau/)
+- [Low Li Tong](/author/litong-low/)
+- [Marisha Barth Ubrani](/author/marisha-barth-ubrani/)
 - Marilyn Yeo
 - Ngoi Zi Liang
-- Phoebe Chia
-- Tam Pham
+- [Phoebe Chia](/author/phoebe-chia/)
+- [Tam Pham](/author/tam-pham/)
 - Tan Bee Li
-- Te An Shu
-- Chua Wei Ting Serena
-- Michelle Yap
-- Sarah Ayub
+- [Te An Shu](/author/an-shu-te/)
+- [Chua Wei Ting Serena](/author/chua-wei-ting-serena/)
+- [Michelle Yap](/author/michelle-yap/)
+- [Sarah Ayub](/author/sarah-ayub/)
 
 Interns
-- Elaine Teo, Intern
-- Jonathan Tan
-- Max Yong, Trainee RA
-- Pavitraa Sundram, Trainee RA
+- [Elaine Teo](/author/elaine-teo/), Intern
+- [Jonathan Tan](/author/jonathan-tan/)
+- [Max Yong](/author/max-yong/), Trainee RA
+- [Pavitraa Sundram](/author/pavitraa-sundram/), Trainee RA
 - Chew Hong Ern
 
 System Admin

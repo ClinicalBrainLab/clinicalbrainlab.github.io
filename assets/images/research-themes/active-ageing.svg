@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" role="img" aria-label="Active ageing">
+  <defs>
+    <linearGradient id="aa-bg" x1="70" x2="760" y1="30" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2fbf6"/>
+      <stop offset="1" stop-color="#e2f1ef"/>
+    </linearGradient>
+    <linearGradient id="aa-accent" x1="220" x2="640" y1="90" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#217a70"/>
+      <stop offset="1" stop-color="#75b66f"/>
+    </linearGradient>
+    <filter id="aa-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1f4a3e" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="840" height="520" rx="42" fill="url(#aa-bg)"/>
+  <path d="M120 386c93-77 199-92 317-46 110 43 205 35 283-25" fill="none" stroke="#b8dfc7" stroke-width="18" stroke-linecap="round"/>
+  <path d="M132 424h576" stroke="#d7e9df" stroke-width="12" stroke-linecap="round"/>
+  <g filter="url(#aa-shadow)">
+    <circle cx="398" cy="126" r="44" fill="#fff" stroke="url(#aa-accent)" stroke-width="12"/>
+    <path d="M280 226c45-52 92-74 140-66 49 8 87 41 116 99" fill="none" stroke="#19485a" stroke-width="15" stroke-linecap="round"/>
+    <path d="m414 172-62 151-91 27m156-177 78 124 86 28" fill="none" stroke="url(#aa-accent)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m352 324-9 116m151-142-42 142" fill="none" stroke="#19485a" stroke-width="18" stroke-linecap="round"/>
+  </g>
+  <circle cx="676" cy="132" r="54" fill="#fff" opacity=".52"/>
+  <circle cx="201" cy="143" r="38" fill="#fff" opacity=".5"/>
+</svg>

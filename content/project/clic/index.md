@@ -15,6 +15,7 @@ profile: true
 
 tags:
 - CLIC
+- Learning
 
 title: Centre for Lifelong Learning and Individualised Cognition
 authors: ["Annabel-Chen", "Deepika-Shukla", "Winlynn-Choo", "Wei-Ler-Koo", "Gabriel-Ang", "Tanisha-Attri"]
@@ -39,17 +40,14 @@ For more information on the CLIC programme, please visit CLIC at CARES at this l
 **Alumni:**
 
 Research Fellows:
-- [Cheng Xiao qin, PhD](https://www.clinicalbrain.org/author/cheng-xiaoqin/)
-- [Elias Ebrahimzadeh, PhD](https://www.clinicalbrain.org/author/elias-ebrahimzadeh/)
-- [Chia-Lun Liu, PhD](https://www.clinicalbrain.org/author/chia-lun-liu/)
-- [Eleanor Koo Wei Shi, PhD](https://www.clinicalbrain.org/author/eleanor-koo-wei-shi/)
+- [Deepika Shukla](/author/deepika-shukla/)
+
+Research Scientist:
+- [Lin Hsin-Yu (Tiffany)](/author/lin-hsin-yu-tiffany/)
 
 Research Associate:
-- [Hong Min](https://www.clinicalbrain.org/author/hong-min/)
+- [Winlynn Choo](/author/winlynn-choo/)
 
 Research Assistants:
-- [Janet Tan Jia Yuan](https://www.clinicalbrain.org/author/tan-jia-yuan-janet/)
-- [Marisha Barth Ubrani](https://www.clinicalbrain.org/author/marisha-barth-ubrani/)
-
-PhD Student:
-- [Teo Jia Li](https://www.clinicalbrain.org/author/teo-jia-li/)
+- [Gabriel Keefe Ang](/author/gabriel-keefe-ang/)
+- [Tanisha Attri](/author/tanisha-attri/)

@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -55,4 +55,3 @@ Our brain plays an important role in how we perceive and interact with the world
 At the Clinical Brain lab, we apply clinical neuropsychological principles to uncover the enigma of the brain and work towards addressing these questions. Clinical neuropsychology examines the intricate relationship underlying the mental processes and our behavior. It allows us to understand how dysfunctions of the brain affect the way we perceive internal and external environments, communicate with others, make judgments, plan and execute ideas, and coordinate emotions.
 
 The main research modalities in our lab include traditional neuropsychological assessments, cognitive tests, functional Magnetic Resonance Imaging (fMRI), diffusion MRI and Transcranial Magnetic Stimulation (TMS). More recently, we have also included the use of electroencephalography (EEG) to answer research questions that require better temporal resolution and transcranial Direct Current Stimulation (tDCS) to investigate how we can modulate brain functions.
-

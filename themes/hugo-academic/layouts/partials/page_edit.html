@@ -8,7 +8,7 @@
   {{ $content_dir = site.Params.edit_page.content_dir }}
 {{else}}
   {{/* Attempt to get content dir from the LanguagePrefix URI, but defaultContentLanguageInSubdir can break this assumption. */}}
-  {{ $content_dir = cond site.IsMultiLingual (cond (ne .Site.LanguagePrefix "") (printf "%s%s" $content_dir .Site.LanguagePrefix) $content_dir) $content_dir }}
+  {{ $content_dir = cond (ne .Site.LanguagePrefix "") (printf "%s%s" $content_dir .Site.LanguagePrefix) $content_dir }}
 {{end}}
 <p class="edit-page">
   <a href="{{site.Params.edit_page.repo_url}}/edit/{{site.Params.edit_page.repo_branch | default "master"}}/{{$content_dir}}/{{.File.Path}}">

@@ -9,8 +9,8 @@ url = "#home"
 weight = 10
 
 [[main]]
-name = "Projects"
-url = "#projects"
+name = "Research"
+url = "#research_theme"
 weight = 20
 
 [[main]]

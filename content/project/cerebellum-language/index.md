@@ -2,7 +2,7 @@
 date: "2023-08-15"
 external_link: ""
 image:
-  caption: Getty
+  caption: 
   focal_point: Smart
 links:
 #- icon: twitter

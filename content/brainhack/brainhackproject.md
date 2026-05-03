@@ -3,7 +3,7 @@ title: Project
 linktitle: Project
 toc: true
 type: docs
-date: "2026-04-07:00:00+01:00"
+date: "2026-04-07T00:00:00+01:00"
 lastmod: "2026-04-07"
 draft: false
 menu:
@@ -161,5 +161,4 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1ToaThg4
 ![](/brainhack/submfigures/subm7.png)
 
 10. We will review your pull request, and some revisions might be needed. Please be patient and help us to revise your request accordingly.
-
 

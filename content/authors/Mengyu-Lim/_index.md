@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Ph.D. Student
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,7 +32,7 @@ superuser: false
 
 title: Mengyu Lim
 user_groups:
-- Graduate Students
+- Alumni
 
 ---
 Mengyu graduated from Nanyang Technological University with a BA (Hons) Highest Distinction in Psychology in 2019 and has since been doing research on the therapeutic properties of role-play. She also has strong interests in synchrony analysis, fNIRS and has secondary research interests in dyadic co-regulation, alexithymia and child development in low- and middle income countries (LMIC).

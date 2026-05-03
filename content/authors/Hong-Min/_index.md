@@ -15,3 +15,5 @@ user_groups:
 - Alumni
 
 ---
+
+Hong Min is an alumnae of CLIC.

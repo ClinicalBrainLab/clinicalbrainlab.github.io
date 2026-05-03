@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Science of learning icon">
+  <defs>
+    <linearGradient id="science-learning-gradient" x1="21" x2="75" y1="17" y2="79" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="43" fill="#eef5ff"/>
+  <path d="M24 28c8 0 15 2 22 7v39c-7-5-14-7-22-7V28Zm48 0c-8 0-15 2-22 7v39c7-5 14-7 22-7V28Z" fill="#fff" stroke="url(#science-learning-gradient)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M34 42h5m-5 10h5m23-10h-5m5 10h-5" fill="none" stroke="#174f63" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 34v41" fill="none" stroke="#9dcfd4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M38 22h20m-15-8h10" fill="none" stroke="url(#science-learning-gradient)" stroke-width="4" stroke-linecap="round"/>
+</svg>

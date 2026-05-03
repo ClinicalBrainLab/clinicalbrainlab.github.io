@@ -15,3 +15,5 @@ superuser: false
 user_groups:
 - Alumni
 ---
+
+Marisha Barth Ubrani is an alumnae of CLIC.

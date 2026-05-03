@@ -22,20 +22,95 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
   <div class="col-12 col-sm-3">
-    {{ with .icon }}
-    <div class="featurette-icon">
-      {{- if eq $pack "emoji" -}}
-        {{- . | emojify -}}
-      {{- else if eq $pack "custom" -}}
-        {{- $svg_icon := resources.Get (printf "images/icon-pack/%s.svg" .) -}}
-        {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
-      {{- else -}}
-        <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
-      {{- end -}}
+    <details class="featurette-card">
+    <summary class="featurette-theme-summary">
+      {{ with .image }}
+        {{ $theme_image := resources.Get . }}
+        {{ with $theme_image }}
+          <div class="featurette-theme-image"><img src="{{ .RelPermalink }}" alt=""></div>
+        {{ end }}
+      {{ else }}
+        {{ with .icon }}
+        <div class="featurette-icon">
+          {{- if eq $pack "emoji" -}}
+            {{- . | emojify -}}
+          {{- else if eq $pack "custom" -}}
+            {{- $svg_icon := resources.Get (printf "images/icon-pack/%s.svg" .) -}}
+            {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
+          {{- else -}}
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
+          {{- end -}}
+        </div>
+        {{ end }}
+      {{ end }}
+      <h3>{{ .name | markdownify | emojify }}</h3>
+      {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      <span class="featurette-expand-label">View projects</span>
+    </summary>
+    {{ with .project_links }}
+    <div class="featurette-projects">
+      <h4>Projects</h4>
+      <ul>
+        {{ range . }}
+        <li>
+          {{ $project_url := .url | relLangURL }}
+          {{ $project_page_scratch := newScratch }}
+          {{ $project_page_scratch.Set "project_page" false }}
+          {{ range where site.RegularPages "Type" "project" }}
+            {{ if eq .RelPermalink $project_url }}
+              {{ $project_page_scratch.Set "project_page" . }}
+            {{ end }}
+          {{ end }}
+          {{ $project_page := $project_page_scratch.Get "project_page" }}
+          <div class="featurette-project-summary">
+            {{ with .image }}
+              {{ $project_image := resources.Get . }}
+              {{ with $project_image }}
+                <a class="featurette-project-image" href="{{ $project_url }}"><img src="{{ .RelPermalink }}" alt=""></a>
+              {{ end }}
+            {{ else }}
+              {{ with $project_page }}
+              {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+              {{ with $resource }}
+                {{ $image := .Fill "96x96 Center" }}
+                <a class="featurette-project-image" href="{{ $project_url }}"><img src="{{ $image.RelPermalink }}" alt=""></a>
+              {{ end }}
+              {{ end }}
+            {{ end }}
+            <div class="featurette-project-copy">
+              <a class="featurette-project-link" href="{{ $project_url }}">{{ .name | markdownify | emojify }}</a>
+              {{ with $project_page }}
+                {{ with .Params.summary }}
+                  <p>{{ . | markdownify | emojify }}</p>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+          {{ with .key }}
+            {{ $project_key := . }}
+            {{ $study_scratch := newScratch }}
+            {{ $study_scratch.Set "studies" (slice) }}
+            {{ range where site.RegularPages "Type" "publication" }}
+              {{ if in .Params.projects $project_key }}
+                {{ $study_scratch.Add "studies" (slice .) }}
+              {{ end }}
+            {{ end }}
+            {{ $studies := sort ($study_scratch.Get "studies") "Date" "desc" }}
+            {{ if gt (len $studies) 0 }}
+            <span class="featurette-studies-label">Studies</span>
+            <ul class="featurette-studies">
+              {{ range first 4 $studies }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify | emojify }}</a></li>
+              {{ end }}
+            </ul>
+            {{ end }}
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
     </div>
     {{ end }}
-    <h3>{{ .name | markdownify | emojify }}</h3>
-    {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    </details>
   </div>
   {{ end }}
 </div>

@@ -21,3 +21,5 @@ user_groups:
 - Alumni
 
 ---
+
+Dr. Eleanor Koo Wei Shi is an alumnae of CLIC.

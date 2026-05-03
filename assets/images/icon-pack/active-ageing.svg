@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Active ageing icon">
+  <defs>
+    <linearGradient id="active-ageing-gradient" x1="24" x2="72" y1="18" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#6fbf73"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="43" fill="#f0f8f5"/>
+  <path d="M48 26a8 8 0 1 0 0-16 8 8 0 0 0 0 16Z" fill="#fff" stroke="url(#active-ageing-gradient)" stroke-width="4"/>
+  <path d="M32 42c6-7 12-10 18-9 6 0 11 4 15 11" fill="none" stroke="#174f63" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M49 34 42 54l-13 4m21-24 9 18 10 3" fill="none" stroke="url(#active-ageing-gradient)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m42 54-2 23m19-25-7 25" fill="none" stroke="#174f63" stroke-width="5" stroke-linecap="round"/>
+  <path d="M24 79h48" fill="none" stroke="#9dcfd4" stroke-width="3" stroke-linecap="round"/>
+</svg>

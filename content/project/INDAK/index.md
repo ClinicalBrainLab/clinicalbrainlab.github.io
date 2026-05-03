@@ -14,7 +14,7 @@ summary: "Improving Cognition through Dance in Older Filipinos with Mild Cogniti
 profile: true
 
 tags:
-- Learning
+- Ageing
 title: Improving Cognition through Dance in Older Filipinos with MCI
 authors: ["HsinYu-Lin", "ChiaoYi-Wu", "Annabel-Chen"]
 

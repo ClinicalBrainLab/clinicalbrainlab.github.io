@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Cerebellum and cognition icon">
+  <defs>
+    <linearGradient id="cerebellum-cognition-gradient" x1="20" x2="78" y1="18" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#39a6b2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="43" fill="#eef8f9"/>
+  <path d="M31 42c-4-1-7-5-7-10 0-6 5-11 11-11 2-6 8-10 15-10 8 0 14 5 16 12 6 1 10 6 10 12 0 7-5 12-12 12H33c-1 0-2 0-2-1Z" fill="#fff" stroke="url(#cerebellum-cognition-gradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 34c4-3 9-3 13 0m2-9c-2 4-2 9 0 14m11-7c-4 0-7 2-9 5" fill="none" stroke="#174f63" stroke-width="3" stroke-linecap="round"/>
+  <path d="M31 59c4-5 10-8 17-8s13 3 17 8M27 68c5-6 12-10 21-10s16 4 21 10M36 76c3-4 7-6 12-6s9 2 12 6" fill="none" stroke="url(#cerebellum-cognition-gradient)" stroke-width="4" stroke-linecap="round"/>
+</svg>

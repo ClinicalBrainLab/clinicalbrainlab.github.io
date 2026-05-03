@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Books and cerebellum">
+  <defs>
+    <linearGradient id="clb-bg" x1="24" x2="136" y1="18" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eef8fa"/>
+      <stop offset="1" stop-color="#e8f0fb"/>
+    </linearGradient>
+    <linearGradient id="clb-accent" x1="38" x2="124" y1="35" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#4b9fc9"/>
+    </linearGradient>
+    <filter id="clb-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#173b4a" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <circle cx="80" cy="80" r="76" fill="url(#clb-bg)"/>
+  <g filter="url(#clb-shadow)">
+    <path d="M38 58c20 0 36 6 50 17v51c-14-11-30-17-50-17V58Z" fill="#fff" stroke="url(#clb-accent)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M122 58c-20 0-36 6-50 17v51c14-11 30-17 50-17V58Z" fill="#fff" stroke="url(#clb-accent)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M80 75v51" stroke="#9ccfd7" stroke-width="4" stroke-linecap="round"/>
+    <path d="M52 78h14m-14 15h18m55-15h-14m14 15h-18" stroke="#19485a" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#clb-shadow)">
+    <path d="M58 49c-8-2-14-9-14-18 0-11 9-19 20-19 4-9 12-15 23-15 13 0 23 9 25 22 10 1 18 10 18 21 0 12-10 22-22 22H64c-2 0-4 0-6-1Z" fill="#fff" stroke="url(#clb-accent)" stroke-width="5" stroke-linejoin="round" transform="translate(4 14) scale(.82)"/>
+    <path d="M66 36c9-7 20-6 28 2m5-18c-4 9-4 19 1 29m18-14c-8 0-15 3-20 10" fill="none" stroke="#19485a" stroke-width="4" stroke-linecap="round" transform="translate(4 14) scale(.82)"/>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+{{/* Homepage Recent Publications widget. */}}
+
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+<div class="row {{ if not $st.Title | or (eq $columns "1") }}justify-content-center{{ end }}">
+  {{ if $st.Title }}
+    {{ if eq $columns "1" }}
+      <div class="col-12 col-lg-8 section-heading text-center">
+        {{ with $st.Title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+    {{ else }}
+      <div class="col-12 col-lg-4 section-heading">
+        {{ with $st.Title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+
+  <div class="col-12 col-lg-8">
+    {{ with $st.Content }}{{ . }}{{ end }}
+
+    {{ range $st.Params.content.items }}
+      {{ with site.GetPage . }}
+        {{ $page := . }}
+        {{ $doi := .Params.doi }}
+        {{ $doi_link := "" }}
+        {{ with $doi }}
+          {{ if hasPrefix . "http" }}
+            {{ $doi_link = . }}
+          {{ else }}
+            {{ $doi_link = printf "https://doi.org/%s" . }}
+          {{ end }}
+        {{ end }}
+
+        <div class="media stream-item recent-pub-item">
+          <div class="media-body">
+            <h3 class="article-title mb-1 mt-0">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+
+            {{ if .Params.authors }}
+              <div class="stream-meta article-metadata recent-pub-authors">
+                {{ partial "page_metadata_authors" . }}
+              </div>
+            {{ end }}
+
+            <div class="article-metadata recent-pub-venue">
+              {{ with .Params.publication }}{{ . | markdownify }}{{ end }}
+              {{ if .Date }}
+                {{ if .Params.publication }}<span class="middot-divider"></span>{{ end }}
+                {{ .Date.Format "2006" }}
+              {{ end }}
+            </div>
+
+            <div class="btn-links">
+              <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ .RelPermalink }}">Details</a>
+              {{ with $doi_link }}
+                <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ . }}" target="_blank" rel="noopener">DOI</a>
+              {{ end }}
+              {{ with .Params.url_pdf }}
+                <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ . | relURL }}" target="_blank" rel="noopener">PDF</a>
+              {{ end }}
+            </div>
+          </div>
+
+          {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+          {{ with $resource }}
+            {{ $image := .Resize "170x" }}
+            <div class="ml-3 recent-pub-image">
+              <a href="{{ $page.RelPermalink }}">
+                <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      {{ else }}
+        {{ warnf "Recent publications widget could not find page %q" . }}
+      {{ end }}
+    {{ end }}
+
+    <div class="see-all">
+      <a href="{{ (site.GetPage "Section" "publication").RelPermalink }}">
+        See all publications <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  </div>
+</div>

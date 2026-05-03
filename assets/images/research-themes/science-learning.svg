@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" role="img" aria-label="Science of learning">
+  <defs>
+    <linearGradient id="sl-bg" x1="90" x2="760" y1="40" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#e8f2f5"/>
+    </linearGradient>
+    <linearGradient id="sl-accent" x1="220" x2="650" y1="95" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#3f83e6"/>
+    </linearGradient>
+    <filter id="sl-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#19384c" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="840" height="520" rx="42" fill="url(#sl-bg)"/>
+  <circle cx="170" cy="135" r="70" fill="#fff" opacity=".55"/>
+  <circle cx="700" cy="390" r="90" fill="#fff" opacity=".48"/>
+  <g filter="url(#sl-shadow)">
+    <path d="M198 152c77 0 144 22 203 67v214c-59-45-126-67-203-67V152Z" fill="#fff" stroke="url(#sl-accent)" stroke-width="13" stroke-linejoin="round"/>
+    <path d="M642 152c-77 0-144 22-203 67v214c59-45 126-67 203-67V152Z" fill="#fff" stroke="url(#sl-accent)" stroke-width="13" stroke-linejoin="round"/>
+    <path d="M420 217v217" stroke="#9cc7d4" stroke-width="9" stroke-linecap="round"/>
+    <path d="M288 240h52m-52 56h62m202-56h-52m52 56h-62" stroke="#19485a" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <path d="M357 105h126m-92-46h58" stroke="url(#sl-accent)" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="558" cy="104" r="11" fill="#19485a"/>
+  <circle cx="589" cy="126" r="7" fill="#4a97c9"/>
+</svg>

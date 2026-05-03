@@ -15,28 +15,55 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Higher Cognition and the Cerebellum"
-  description = "We aim to understand how the cerebellum is involved in higher cognition through the use of various neuroimaging methods."
+  icon = "cerebellum-cognition"
+  icon_pack = "custom"
+  image = "images/research-themes/cerebellum-higher-cognition.png"
+  name = "Cerebellum & Higher Cognition"
+  description = "We investigate the cerebellum’s role in higher cognition using multimodal neuroimaging to map cerebellar-cortical networks. This work aims to identify precise neural targets for interventions that may improve cognitive and affective outcomes in neuropsychiatric conditions."
+  url = "/tag/cerebellum/"
+  project_links = [
+    {name = "Higher Cognition & the Cerebellum", url = "/project/cerebellum/", key = "cerebellum"},
+    {name = "Cerebellum & Language", url = "/project/cerebellum-language/", key = "cerebellum-language", image = "images/research-themes/cerebellum-language-books.png"}
+  ]
   
 [[feature]]
-  icon = "hand-holding-heart"
-  icon_pack = "fas"
+  icon = "active-ageing"
+  icon_pack = "custom"
+  image = "images/research-themes/active-ageing.png"
   name = "Active Ageing"
-  description = "We aim to promote brain health through developing exercise-cognition training."  
+  description = "Our previous work in aging neuroscience provides the foundation for our current focus on active aging and neuroplasticity. We draw on these findings to develop evidence-based strategies that promote brain health, cognitive vitality, and meaningful engagement in later life."
+  url = "/tag/ageing/"
+  project_links = [
+    {name = "Improving Cognition through Dance in Older Filipinos with MCI", url = "/project/indak/", key = "INDAK"},
+    {name = "Active Aging Lifestyle", url = "/project/ageing/", key = "ageing"}
+  ]
   
 [[feature]]
-  icon = "chalkboard-teacher"
-  icon_pack = "fas"
+  icon = "science-learning"
+  icon_pack = "custom"
+  image = "images/research-themes/science-learning.png"
   name = "Science of Learning"
-  description = "We use a combination of techniques to investigate the neural reading networks for bilingual readers."
+  description = "Our research examines learning and cognition across the lifespan through behavioural, cognitive, and neural approaches. We aim to uncover the processes that support learning in order to describe, understand, and enhance learning across developmental stages and diverse real-world contexts."
+  url = "/tag/learning/"
+  project_links = [
+    {name = "Centre for Lifelong Learning and Individualised Cognition", url = "/project/clic/", key = "clic"},
+    {name = "Understanding Brain Networks of Reading and Math", url = "/project/brain-norm/", key = "brain-norm"},
+    {name = "Bilingual Reading Networks", url = "/project/reading-network/", key = "reading-network"},
+    {name = "Promoting Effective Biliteracy", url = "/project/pebbles/", key = "pebbles"},
+    {name = "Translating neuroscience for educators", url = "/project/translate-neuro/", key = "translate-neuro"}
+  ]
 
 [[feature]]
-  icon = "heartbeat"
-  icon_pack = "fas"
-  name = "Social Neuroscience"
-  description = "We use neuroimaging techniques to understand the biological mechanisms of social experiences and processes."
+  icon = "social-neuroscience"
+  icon_pack = "custom"
+  image = "images/research-themes/social-neuroscience.png"
+  name = "Socioaffective Neuroscience"
+  description = "We use neuroimaging to investigate the neural mechanisms underlying social experience and social cognition. Our work focuses on how the brain processes deception, evaluates real versus false information, and represents ingroup and outgroup distinctions within broader superordinate identities, such as national identity. Through this research, we aim to better understand the biological bases of trust, bias, social belonging, and collective identity."
+  url = "/tag/social-neuroscience/"
+  project_links = [
+    {name = "Perception of Real vs. Fake Information", url = "/project/fake-news/", key = "fake-news"},
+    {name = "Behavioural and Neural Correlates of Deception", url = "/project/deception/", key = "deception"}
+  ]
 
 
 # Uncomment to use custom SVG icons.

@@ -15,3 +15,5 @@ user_groups:
 - Alumni
 
 ---
+
+Dr. Chia-Lun Liu is an alumnus of CLIC.

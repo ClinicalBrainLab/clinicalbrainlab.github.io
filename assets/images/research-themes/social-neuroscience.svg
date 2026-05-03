@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" role="img" aria-label="Social neuroscience">
+  <defs>
+    <linearGradient id="sn-bg" x1="90" x2="760" y1="40" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f5f4ff"/>
+      <stop offset="1" stop-color="#edf7f7"/>
+    </linearGradient>
+    <linearGradient id="sn-accent" x1="210" x2="650" y1="80" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f7a8c"/>
+      <stop offset="1" stop-color="#805ad5"/>
+    </linearGradient>
+    <filter id="sn-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#28304f" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="840" height="520" rx="42" fill="url(#sn-bg)"/>
+  <path d="M270 348 420 218l150 130" fill="none" stroke="#b8cadc" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 218v122" fill="none" stroke="#b8cadc" stroke-width="12" stroke-linecap="round"/>
+  <g filter="url(#sn-shadow)">
+    <circle cx="420" cy="164" r="64" fill="#fff" stroke="url(#sn-accent)" stroke-width="13"/>
+    <circle cx="248" cy="344" r="52" fill="#fff" stroke="#19485a" stroke-width="12"/>
+    <circle cx="592" cy="344" r="52" fill="#fff" stroke="#19485a" stroke-width="12"/>
+    <path d="M176 456c16-62 57-94 123-94s107 32 123 94M418 456c16-62 57-94 123-94s107 32 123 94" fill="none" stroke="url(#sn-accent)" stroke-width="15" stroke-linecap="round"/>
+  </g>
+  <circle cx="650" cy="120" r="46" fill="#fff" opacity=".55"/>
+  <circle cx="186" cy="125" r="58" fill="#fff" opacity=".42"/>
+</svg>

@@ -21,3 +21,5 @@ user_groups:
 - Alumni
 
 ---
+
+Dr. Cheng Xiaoqin is an alumnae of CLIC.

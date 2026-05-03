@@ -4,15 +4,6 @@ authors:
 
 bio: Dr. SH Annabel Chen is a clinical neuropsychologist, and currently a Faculty member of Psychology at the School of Social Sciences.
 
-education:
-  courses:
-  - course: Ph.D., Clinical Psychology (APA accredited)
-    institution: Purdue University
-    #year:
-  - course: M.S., Clinical Psychology
-    institution: Purdue University
-    #year: 
-
 email: "annabelchen@ntu.edu.sg"
 
 
