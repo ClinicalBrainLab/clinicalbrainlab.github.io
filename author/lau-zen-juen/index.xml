@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lau Zen Juen | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/lau-zen-juen/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/lau-zen-juen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lau Zen Juen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Lau Zen Juen</title>
+      <link>https://clinicalbrainlab.github.io/author/lau-zen-juen/</link>
+    </image>
+    
+    <item>
+      <title>Lau Zen Juen</title>
+      <link>https://clinicalbrainlab.github.io/author/zenjuen-lau/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/zenjuen-lau/</guid>
+      <description>&lt;p&gt;Zen Juen graduated from University of Edinburgh with a Master of Arts (Honours) in Psychology with First Class Honours in 2019. Her research interests lie in Clinical Neuropsychology, specifically regarding the interplay of memory, decision-making, and emotional dysfunction in mental and neurological disorders. At Clinical Brain Lab, she is currently working on projects investigating the
+cognitive neuroscience of deception and is also an avid contributor of several open-source softwares.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

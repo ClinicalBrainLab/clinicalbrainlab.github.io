@@ -7,10 +7,18 @@
     <description>Jonathan Tan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/logo_hu6d4d947ac8a7b66d4470128c3d99ab67_46638_300x300_fit_lanczos_3.png</url>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
       <title>Jonathan Tan</title>
       <link>https://clinicalbrainlab.github.io/author/jonathan-tan/</link>
     </image>
+    
+    <item>
+      <title>Jonathan Tan</title>
+      <link>https://clinicalbrainlab.github.io/author/jonathan-tan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/jonathan-tan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

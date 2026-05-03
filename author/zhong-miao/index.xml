@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong Miao | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/zhong-miao/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/zhong-miao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhong Miao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Zhong Miao</title>
+      <link>https://clinicalbrainlab.github.io/author/zhong-miao/</link>
+    </image>
+    
+    <item>
+      <title>Zhong Miao</title>
+      <link>https://clinicalbrainlab.github.io/author/miao-zhong/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/miao-zhong/</guid>
+      <description>&lt;p&gt;Zhong Miao is a research fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include cognitive biases (e.g., curse of knowledge) in adults, and neural mechanisms of social cognition and stress processing. She also examines cognitive and social-emotional development in preschoolers.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koh Jiaying Serene | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/koh-jiaying-serene/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/koh-jiaying-serene/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koh Jiaying Serene</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Koh Jiaying Serene</title>
+      <link>https://clinicalbrainlab.github.io/author/koh-jiaying-serene/</link>
+    </image>
+    
+    <item>
+      <title>Serene Koh</title>
+      <link>https://clinicalbrainlab.github.io/author/serene-koh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/serene-koh/</guid>
+      <description>&lt;p&gt;Serene Koh is an alumnae of the Clinical Brain Lab. Her background spans psychology, education, occupational health psychology, industrial-organisational psychology, and neuropsychology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

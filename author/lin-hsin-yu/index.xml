@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin Hsin-Yu | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/lin-hsin-yu/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/lin-hsin-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lin Hsin-Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Lin Hsin-Yu</title>
+      <link>https://clinicalbrainlab.github.io/author/lin-hsin-yu/</link>
+    </image>
+    
+    <item>
+      <title>Lin Hsin-Yu (Tiffany)</title>
+      <link>https://clinicalbrainlab.github.io/author/lin-hsin-yu-tiffany/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/lin-hsin-yu-tiffany/</guid>
+      <description>&lt;p&gt;Hsin-Yu is currently a Research Scientist at CRADLE@NTU, contributing to several ongoing research projects. She has worked on projects involving the application of neuroimaging techniques to investigate the aging brain and neuropsychiatric conditions using MRI, fMRI, and MRS. Her research focuses on cortical morphology in the aging human brain, including analyses of cortical thickness and gyrification. She also conducts neuroimaging research on bilingualism.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
