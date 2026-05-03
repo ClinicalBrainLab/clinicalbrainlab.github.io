@@ -264,7 +264,11 @@ a.hero-cta-alt:hover {
 
 .home-section.wg-slider .wg-hero .container {
   position: relative;
+  width: 100%;
+  max-width: none;
   height: 100%;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .home-section.wg-slider .wg-hero .cta-btns {
@@ -273,10 +277,33 @@ a.hero-cta-alt:hover {
 
 .home-section.wg-slider .wg-hero p:has(.btn) {
   position: absolute;
-  right: 24px;
-  bottom: 6px;
+  right: 35.4%;
+  bottom: 24px;
   z-index: 3;
   margin: 0;
+}
+
+.home-section.wg-slider .wg-hero p.pub-link-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  text-align: right;
+}
+
+.home-section.wg-slider .wg-hero .pub-doi-link {
+  color: rgba(240, 247, 250, 0.95);
+  font-size: 0.72rem;
+  font-weight: 400;
+  line-height: 1.15;
+  text-decoration: none;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.home-section.wg-slider .wg-hero .pub-doi-link:hover,
+.home-section.wg-slider .wg-hero .pub-doi-link:focus {
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 .home-section.wg-slider .wg-hero .btn {
