@@ -22,9 +22,9 @@ interests:
 
 
 organizations:
-- name: Nanyang Technological University
+- name: National University of Singapore
   url: ""
-role: Collaborator
+role: Research Fellow, National University of Singapore
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,4 +40,3 @@ user_groups:
 - Collaborators
 
 ---
-

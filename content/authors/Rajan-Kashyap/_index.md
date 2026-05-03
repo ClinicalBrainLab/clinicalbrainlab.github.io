@@ -25,9 +25,9 @@ interests:
 - Big Data, Machine Learning
 
 organizations:
-- name: Nanyang Technological University
+- name: National Institute of Mental Health and Neuro Sciences (NIMHANS)
   url: ""
-role: Collaborator
+role: Assistant Professor (Ramalingaswami Fellow), Department of Neuroimaging and Interventional Radiology
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,4 +47,3 @@ user_groups:
 - Collaborators
 
 ---
-

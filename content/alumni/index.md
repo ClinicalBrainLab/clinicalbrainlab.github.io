@@ -134,7 +134,7 @@ Interns
 - Chew Hong Ern
 
 System Admin
-- Lua Rui Ping, PhD
+- [Lua Rui Ping, PhD](/alumni/)
 
 </br></br>
 National Taiwan University (Taiwan):

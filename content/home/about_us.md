@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    color = "#FBFCFC "
+    color = "#f4fbfb"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -50,8 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Our brain plays an important role in how we perceive and interact with the world around us. What happens when development goes awry in our brain, or insult occurs to our brain? How do we harness neuroplasticity to ameliorate neuropsychiatric conditions, or to optimize learning during the natural progression of neurodegeneration? Can we enhance cognitive health through neuromodulations?
+The brain shapes how we perceive, learn, feel, communicate, and interact with the world. At the Clinical Brain Lab, we study how brain systems support cognition and behaviour across development, ageing, neuropsychiatric conditions, and learning contexts.
 
-At the Clinical Brain lab, we apply clinical neuropsychological principles to uncover the enigma of the brain and work towards addressing these questions. Clinical neuropsychology examines the intricate relationship underlying the mental processes and our behavior. It allows us to understand how dysfunctions of the brain affect the way we perceive internal and external environments, communicate with others, make judgments, plan and execute ideas, and coordinate emotions.
+We apply clinical neuropsychological principles to understand relationships between brain function, mental processes, and everyday behaviour. This perspective helps us examine how brain changes affect perception, communication, judgement, planning, emotion, and adaptation.
 
 The main research modalities in our lab include traditional neuropsychological assessments, cognitive tests, functional Magnetic Resonance Imaging (fMRI), diffusion MRI and Transcranial Magnetic Stimulation (TMS). More recently, we have also included the use of electroencephalography (EEG) to answer research questions that require better temporal resolution and transcranial Direct Current Stimulation (tDCS) to investigate how we can modulate brain functions.

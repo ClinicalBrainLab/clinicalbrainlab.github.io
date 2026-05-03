@@ -5,7 +5,7 @@
 
 [[main]]
 name = "Home"
-url = "#home"
+url = "#slider"
 weight = 10
 
 [[main]]
@@ -23,40 +23,30 @@ name = "Publications"
 url = "#publications"
 weight = 40
 
-#[[main]]
-#  name = "Join Us"
-#  url = "join/"
-#  weight = 50
+[[main]]
+name = "Join Us"
+url = "join/"
+weight = 75
 
 [[main]]
-name = "Participate"
+name = "Participate & Events"
 url = "#participate"
-weight = 60
+weight = 50
 
 [[main]]
-name = "Resources"
+name = "Resources & Software"
 url = "resources/"
-weight = 70
-
-[[main]]
-name = "Software"
-url = "software/"
-weight = 80
-
-[[main]]
-name = "Events"
-url = "#event"
-weight = 90
+weight = 60
 
 [[main]]
 name = "Contact"
 url = "#contact"
-weight = 100
+weight = 80
 
 [[main]]
 name = "BrainHack"
 url = "brainhack/"
-weight = 110
+weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

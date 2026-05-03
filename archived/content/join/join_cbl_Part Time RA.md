@@ -51,5 +51,3 @@ Email: lynette.looi@ntu.edu.sg
 ## Flyer
 
 ![png](/join/BrainNORM.png)
-
-

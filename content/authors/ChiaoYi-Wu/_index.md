@@ -26,9 +26,9 @@ interests:
 
 
 organizations:
-- name: National Institute of Education
+- name: National Institute of Education, Nanyang Technological University
   url: ""
-role: Lecturer <br /> Lead for SoL in Emerging Skills
+role: Research Scientist (Lecturer), National Institute of Education <br /> Lead for SoL in Emerging Skills
 
 social:
 - icon: envelope
@@ -49,10 +49,9 @@ superuser: false
 
 title: Chiao-Yi Wu
 user_groups:
-- Principal Investigators
+- Collaborators
 
 ---
 Chiao-Yi’s research interests revolve around the neurobiology of language, reading, and mathematical processing. Trained as a cognitive neuroscientist, she employs the science of learning approach combining behavioural assessment, neuroimaging techniques (e.g., MRI, fNIRS), and intervention to investigate typical and atypical development of emerging skills (e.g., literacy, numeracy). Her current projects focus on elucidating the neural reading networks of bilingual readers and promoting effective biliteracy development in early childhood. 
 
 Before joining the National Institute of Education, she was Research Scientist in the Centre for Research and Development in Learning at NTU (CRADLE@NTU) and Postdoctoral Researcher at the Max Planck Institute for Human Cognitive and Brain Sciences.
-

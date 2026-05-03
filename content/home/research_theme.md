@@ -31,11 +31,11 @@ subtitle = ""
   icon_pack = "custom"
   image = "images/research-themes/active-ageing.png"
   name = "Active Ageing"
-  description = "Our previous work in aging neuroscience provides the foundation for our current focus on active aging and neuroplasticity. We draw on these findings to develop evidence-based strategies that promote brain health, cognitive vitality, and meaningful engagement in later life."
+  description = "Our previous work in ageing neuroscience provides the foundation for our current focus on active ageing and neuroplasticity. We draw on these findings to develop evidence-based strategies that promote brain health, cognitive vitality, and meaningful engagement in later life."
   url = "/tag/ageing/"
   project_links = [
     {name = "Improving Cognition through Dance in Older Filipinos with MCI", url = "/project/indak/", key = "INDAK"},
-    {name = "Active Aging Lifestyle", url = "/project/ageing/", key = "ageing"}
+    {name = "Active Ageing Lifestyle", url = "/project/ageing/", key = "ageing"}
   ]
   
 [[feature]]

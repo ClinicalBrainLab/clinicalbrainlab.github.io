@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Events
+title: Previous Events
 view: 2
 ---

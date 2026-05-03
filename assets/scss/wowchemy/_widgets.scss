@@ -35,7 +35,7 @@
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-  color: rgb(248, 248, 242);
+  color: rgb(244, 251, 251);
 }
 
 /* Underline links in dark sections to separate them from text */
@@ -138,6 +138,7 @@
 .wg-hero {
   padding: 3em 0;
   clear: both;
+  background-color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -242,11 +243,11 @@ a.hero-cta-alt:hover {
 }
 
 .home-section.wg-slider .btn-light {
-  border: 1px solid rgba(255, 255, 255, 0.32);
+  border: 1px solid rgba(74, 159, 151, 0.32);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.13);
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
-  color: #ffffff;
+  background: rgba(244, 251, 251, 0.86);
+  box-shadow: 0 8px 18px rgba(74, 159, 151, 0.22);
+  color: #0d5658;
   font-weight: 700;
   letter-spacing: 0;
   backdrop-filter: blur(10px);
@@ -255,10 +256,10 @@ a.hero-cta-alt:hover {
 
 .home-section.wg-slider .btn-light:hover,
 .home-section.wg-slider .btn-light:focus {
-  border-color: rgba(255, 255, 255, 0.72);
-  background: rgba(255, 255, 255, 0.21);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
-  color: #ffffff;
+  border-color: rgba(74, 159, 151, 0.55);
+  background: rgba(244, 251, 251, 0.96);
+  box-shadow: 0 12px 24px rgba(74, 159, 151, 0.28);
+  color: #0d5658;
   transform: translateY(-1px);
 }
 
@@ -297,7 +298,7 @@ a.hero-cta-alt:hover {
   font-weight: 400;
   line-height: 1.15;
   text-decoration: none;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 1px 3px rgba(13, 86, 88, 0.65);
 }
 
 .home-section.wg-slider .wg-hero .pub-doi-link:hover,
@@ -338,20 +339,30 @@ a.hero-cta-alt:hover {
     max-width: 88%;
     margin: 0.5rem 0 0.4rem;
     padding: 0.7rem 0.8rem;
-    border: 1px solid rgba(255, 255, 255, 0.16);
-    background: rgba(0, 0, 0, 0.42);
+    border: 1px solid rgba(74, 159, 151, 0.24);
+    background: rgba(244, 251, 251, 0.92);
+    color: #0d5658;
     font-size: 1.15rem;
     line-height: 1.15;
     text-align: left;
+  }
+
+  .home-section.wg-slider .hero-title a {
+    color: #0d5658;
   }
 
   .home-section.wg-slider .hero-lead {
     display: inline-block;
     margin: 0 0 0.5rem !important;
     padding: 0.35rem 0.55rem;
-    background: rgba(0, 0, 0, 0.38);
+    background: rgba(244, 251, 251, 0.92);
+    color: #0d5658;
     font-size: 0.85rem;
     line-height: 1.25;
+  }
+
+  .home-section.wg-slider .hero-lead a {
+    color: #0d5658;
   }
 
   .home-section.wg-slider .btn-lg {
@@ -522,7 +533,7 @@ ul.ul-edu li .description p.institution {
 
 .dark .experience .card-text,
 .dark .experience .card-text p {
-  color: rgb(248, 248, 242) !important;
+  color: rgb(244, 251, 251) !important;
 }
 
 .card .card-text ul {

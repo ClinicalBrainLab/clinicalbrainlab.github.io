@@ -36,7 +36,7 @@ superuser: false
 
 title: Annabel Chen
 user_groups:
-- Principal Investigators
+- Principal Investigator
 
 ---
 Prof S.H. Annabel Chen is President's Chair Professor of Psychology at School of Social Sciences and has joint appointments at LKCMedicine and the National Institute of Education. 

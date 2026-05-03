@@ -29,4 +29,3 @@ The successful applicant will be enrolled in the graduate psychology program by 
 ## Apply
 
 Please address questions or send Curriculum Vita to annabelchen@ntu.edu.sg.
-

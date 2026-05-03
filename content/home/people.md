@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = "Check out our [open positions](/join/) or find out more about our [alumni](/alumni/)"
+subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Research Scientists and Research Fellows",
+  user_groups = ["Principal Investigator",
                  "Collaborators",
+                 "Research Scientists and Research Fellows",
 				         "Research Associates",
                  "Research Assistants",
                  "Graduate Students",

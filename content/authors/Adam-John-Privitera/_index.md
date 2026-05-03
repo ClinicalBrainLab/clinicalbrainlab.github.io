@@ -17,9 +17,9 @@ email: "adam.privitera@ntu.edu.sg"
 
 
 organizations:
-- name: Nanyang Technological University
+- name: National Institute of Education, Nanyang Technological University
   url: ""
-role: ‎Collaborator‎
+role: Research Scientist/Lecturer, SoLEC, National Institute of Education
 
 social:
 - icon: envelope

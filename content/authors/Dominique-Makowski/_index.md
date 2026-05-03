@@ -9,7 +9,7 @@ title: Dominique Makowski
 superuser: false
 
 # Role/position/tagline
-role: Collaborator
+role: Assistant Professor in Psychology, University of Sussex
 
 # Organizations/Affiliations to show in About widget
 organizations:

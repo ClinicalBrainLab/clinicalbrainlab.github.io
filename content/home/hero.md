@@ -17,7 +17,7 @@ title = "Welcome to the Clinical Brain Lab"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "black"
+  color = "#0d5658"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"

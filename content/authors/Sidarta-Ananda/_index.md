@@ -26,9 +26,9 @@ interests:
 - Neurorehabilitation
 
 organizations:
-- name: Rehabilitation Research Institute of Singapore, Nanyang Tech University
+- name: Rehabilitation Research Institute of Singapore, Nanyang Technological University
   url: ""
-role: Collaborator
+role: Senior Research Scientist, Rehabilitation Research Institute of Singapore
 social:
 
 

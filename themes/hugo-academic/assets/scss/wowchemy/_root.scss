@@ -190,15 +190,15 @@ figcaption.numbered {
 pre,
 code {
   font-family: $sta-font-mono, monospace;
-  color: #c7254e;
+  color: #0f6c6d;
   /* Match bg of default highlight theme. */
-  background-color: rgb(248, 248, 248);
+  background-color: #f4fbfb;
 }
 
 pre {
   margin: 0 0 1rem 0;
   /* Match bg of default highlight theme. */
-  border-color: rgb(248, 248, 248);
+  border-color: rgba(74, 159, 151, 0.2);
   font-size: 0.7rem;
   border-radius: 4px;
 }
@@ -211,8 +211,8 @@ pre code {
 hr {
   border: 0;
   height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  background: rgba(44, 141, 130, 0.28);
+  background-image: none;
 }
 
 /* Quotes */
@@ -220,7 +220,7 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  border-left: .25rem solid rgba(74, 159, 151, 0.28);
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -234,7 +234,7 @@ blockquote p:last-child {
 
 .markup-quote {
   background-color: transparent;
-  background-image: linear-gradient(to bottom, rgba(233, 231, 245, 1), rgba(233, 231, 245, 1));
+  background-image: linear-gradient(to bottom, #f4fbfb, #f4fbfb);
 }
 
 .space-below {
@@ -359,7 +359,7 @@ a[data-fancybox] {
 }
 
 .dark .post-nav-item a {
-  color: #ddd;
+  color: rgba(74, 159, 151, 0.18);
 }
 
 /**************************************************
@@ -367,9 +367,9 @@ a[data-fancybox] {
  **************************************************/
 
 .badge-light {
-  border: none;
-  color: rgba(0,0,0,.68);
-  background: rgba(0,0,0,.05);
+  border: 1px solid rgba(44, 141, 130, 0.18);
+  color: #0d5658;
+  background: #f4fbfb;
   font-weight: normal;
   border-radius: 3px;
   padding: 5px 10px;
@@ -383,12 +383,12 @@ a[data-fancybox] {
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: rgba(0,0,0,.1);
+  background: #f4fbfb;
 }
 
 a.badge:focus,
 a.badge:hover {
-  color: rgba(0,0,0,.68);
+  color: #0d5658;
 }
 
 .tag-cloud a {
@@ -493,12 +493,12 @@ table > tfoot > tr > td {
   padding: 8px;
   line-height: 1.43;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid rgba(74, 159, 151, 0.18);
 }
 
 table > thead > tr > th {
   vertical-align: bottom;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid rgba(74, 159, 151, 0.18);
 }
 
 table > caption + thead > tr:first-child > th,
@@ -511,7 +511,7 @@ table > thead:first-child > tr:first-child > td {
 }
 
 table > tbody + tbody {
-  border-top: 2px solid #ddd;
+  border-top: 2px solid rgba(74, 159, 151, 0.18);
 }
 
 table table {
@@ -521,13 +521,13 @@ table table {
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
-  background-color: #f9f9f9;
+  background-color: #f4fbfb;
 }
 
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-  background-color: #e5e5e5;
+  background-color: #f4fbfb;
 }
 
 /*************************************************
@@ -564,7 +564,7 @@ div.alert > div:first-child::before {
   top: -0.5rem;
   left: -2rem;
   font-size: 1.5rem;
-  color: #209cee;
+  color: #2c8d82;
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
@@ -575,7 +575,7 @@ div.alert > div:first-child::before {
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #ff3860;
+  color: #2c8d82;
   content: '\f071';
 }
 
@@ -588,13 +588,13 @@ div.alert a {
 
 .article-style aside,
 .alert-note {
-  color: #12537e;
-  background-color: #f6fbfe;
-  border-color: #209cee;
+  color: #0d5658;
+  background-color: #f4fbfb;
+  border-color: #4a9f97;
 }
 
 .alert-warning {
-  color: #cd0930;
-  background-color: #fff5f7;
-  border-color: #ff3860;
+  color: #0d5658;
+  background-color: #f4fbfb;
+  border-color: #2c8d82;
 }

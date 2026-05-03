@@ -21,9 +21,9 @@ interests:
 - Research translation
 
 organizations:
-- name: Nanyang Technological University
+- name: National Institute of Education, Nanyang Technological University
   url: ""
-role: Assistant Professor <br /> Lead for SoL in Active Lifestyle
+role: Assistant Professor, Physical Education and Sports Science, National Institute of Education <br /> Lead for SoL in Active Lifestyle
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,6 @@ superuser: false
 
 title: Alicia Goodwill
 user_groups:
-- Principal Investigators
+- Collaborators
 
 ---
-

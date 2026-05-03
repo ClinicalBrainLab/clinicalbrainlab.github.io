@@ -106,7 +106,7 @@
           {{ end }}
         {{end}}
 
-        <li class="nav-item">
+        <li class="nav-item nav-item-{{ .Name | anchorize }}">
           <a class="nav-link {{if and $highlight_active_link $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>

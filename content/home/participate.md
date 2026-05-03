@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Participate"
-subtitle = "Recruiting Participants for Ongoing Studies"
+title = "Participate & Events"
+subtitle = "Ongoing studies and [previous events](/talk/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

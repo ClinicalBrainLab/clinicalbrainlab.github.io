@@ -13,7 +13,9 @@
     {{ $target := "" }}
     {{ with .Params.external_link }}
       {{ $link = . }}
-      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ if or (strings.HasPrefix . "http://") (strings.HasPrefix . "https://") }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
     {{ end }}
     <div>
       <h2><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>

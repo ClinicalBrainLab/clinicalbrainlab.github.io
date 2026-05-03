@@ -47,9 +47,9 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: #0d5658;
   font-size: .7em;
-  background: #000;
+  background: rgba(244, 251, 251, 0.92);
   text-align: right;
   z-index: 5;
   opacity: 0.65;
@@ -62,7 +62,7 @@
 }
 
 .article-header-caption a {
-  color: #fff;
+  color: #0d5658;
   text-decoration: none;
 }
 
@@ -211,7 +211,7 @@ article .article-metadata {
 }
 
 .dark .li-cite-author a {
-  color: rgb(248, 248, 242);
+  color: rgb(244, 251, 251);
 }
 
 /*************************************************
@@ -221,7 +221,7 @@ article .article-metadata {
 .content-widget-hr {
   margin-top: 1.2rem;
   padding-top: 1.2rem;
-  border-top: 1px solid rgba(0,0,0,.05);
+  border-top: 1px solid rgba(74, 159, 151, 0.16);
 }
 
 .dark .content-widget-hr {
