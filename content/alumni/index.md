@@ -134,7 +134,7 @@ Interns
 - Chew Hong Ern
 
 System Admin
-- [Lua Rui Ping, PhD](/alumni/)
+- [Lua Rui Ping, PhD](https://www.sgdi.gov.sg/ministries/mddi/departments/sndg/departments/tc)
 
 </br></br>
 National Taiwan University (Taiwan):
