@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beth Ann O’Brien | The Clinical Brain Lab</title>
+    <title>Beth Ann O&#39;Brien | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/author/beth-ann-obrien/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/beth-ann-obrien/index.xml" rel="self" type="application/rss+xml" />
-    <description>Beth Ann O’Brien</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <description>Beth Ann O&#39;Brien</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
-      <title>Beth Ann O’Brien</title>
+      <title>Beth Ann O&#39;Brien</title>
       <link>https://clinicalbrainlab.github.io/author/beth-ann-obrien/</link>
     </image>
     
     <item>
-      <title>Sex difference in tDCS current mediated by changes in cortical anatomy: A study across young, middle and older adults</title>
-      <link>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
+      <title>Relationship Between Reading and Working Memory in Children and Adolescents: A Meta-Analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</link>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</guid>
       <description></description>
     </item>
     
