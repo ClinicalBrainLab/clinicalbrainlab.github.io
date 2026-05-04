@@ -82,6 +82,12 @@ body {
   background-color: #ffffff;
 }
 
+.avatar.avatar-circle {
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
 .people-widget .avatar {
   width: 150px;
   max-width: 80%;
