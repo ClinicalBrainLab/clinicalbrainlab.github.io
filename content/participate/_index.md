@@ -9,7 +9,7 @@ type: participate
 <div class="cbl-participate-study">
   <a href="/post/brainnorm/">Reading and Math in Young Children</a>
   <div class="cbl-participate-study-body">
-    <img class="cbl-study-thumb" src="/media/Astrocat.png" alt="Space cat saying meow">
+    <img class="cbl-study-thumb" src="/media/astrocat.png" alt="Space cat saying meow">
     <div>
       <p>This study invites families and children to help us understand how young minds develop reading, maths, attention, and learning skills. By combining brain, cognitive, and behavioural measures, the project examines individual learning profiles and supports research that can improve how we identify learning differences and build more effective educational and clinical support.</p>
     </div>
