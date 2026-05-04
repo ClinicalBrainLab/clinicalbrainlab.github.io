@@ -88,6 +88,14 @@ body {
   height: 150px;
 }
 
+.people-widget .avatar.avatar-circle {
+  width: 150px;
+  max-width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .author-card .avatar {
   width: 96px;
   height: 96px;
