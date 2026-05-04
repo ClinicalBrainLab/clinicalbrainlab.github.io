@@ -75,6 +75,7 @@ Graduate Students
 - Kwok Fu Yu
 - [Mengyu Lim](/author/mengyu-lim/)
 - [Zhang Jiayi (Vae)](/author/jiayi-zhang/)
+- [Sagarika Bhattacharjee](/author/sagarika-bhattacharjee/)
 - Tan Jiat Chow
 - [Wu Chiao-Yi (Joyce)](/author/chiao-yi-wu/)
 - [Serene Koh](/author/serene-koh/)
