@@ -76,7 +76,7 @@ Graduate Students
 - [Mengyu Lim](/author/mengyu-lim/)
 - [Zhang Jiayi (Vae)](/author/jiayi-zhang/)
 - [Sagarika Bhattacharjee](/author/sagarika-bhattacharjee/)
-- [Dayton Leow](https://www.researchgate.net/profile/Dayton_Leow2)
+- [Dayton Leow](/author/dayton-leow/)
 - Keren Happuch E
 - [Wu Chiao-Yi (Joyce)](/author/chiao-yi-wu/)
 - [Serene Koh](/author/serene-koh/)
