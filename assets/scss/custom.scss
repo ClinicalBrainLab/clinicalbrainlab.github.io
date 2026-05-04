@@ -238,13 +238,11 @@ a:hover {
 }
 
 .cbl-study-thumb {
-  flex: 0 0 88px;
-  width: 88px;
-  height: 88px;
-  border: 3px solid #bde8e4;
-  border-radius: 50%;
-  background: #ffffff;
-  box-shadow: 0 8px 18px rgba(74, 159, 151, 0.18);
+  flex: 0 0 168px;
+  width: 168px;
+  height: 140px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
 }
 
 @media (max-width: 575.98px) {
@@ -253,9 +251,9 @@ a:hover {
   }
 
   .cbl-study-thumb {
-    flex-basis: 64px;
-    width: 64px;
-    height: 64px;
+    flex-basis: 118px;
+    width: 118px;
+    height: 98px;
   }
 }
 
