@@ -58,15 +58,15 @@ menu:
       <div class="brainhack-registration-row">
         <a class="brainhack-symposium-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor">Register now</a>
         <div class="brainhack-registration-logos" aria-label="Partner organisations">
-          <img class="brainhack-logo-img brainhack-logo-cbl" src="/media/brainhack/cbl-logo-cropped.png" alt="Clinical Brain Lab logo">
-          <img class="brainhack-logo-img brainhack-logo-ntu-tw" src="/media/brainhack/ntu-tw-upload.jpeg" alt="National Taiwan University logo">
-          <img class="brainhack-logo-img brainhack-logo-ncu" src="/media/brainhack/ncu-upload.png" alt="National Central University logo">
-          <img class="brainhack-logo-img brainhack-logo-lkc" src="/media/brainhack/lkcmedicine-lockup-cropped.png" alt="NTU Lee Kong Chian School of Medicine logo">
+          <img class="brainhack-logo-img brainhack-logo-cbl" src="/media/brainhack/cbl-logo-transparent.png" alt="Clinical Brain Lab logo">
+          <img class="brainhack-logo-img brainhack-logo-ntu-tw" src="/media/brainhack/ntu-tw-transparent.png" alt="National Taiwan University logo">
+          <img class="brainhack-logo-img brainhack-logo-ncu" src="/media/brainhack/ncu-transparent.png" alt="National Central University logo">
+          <img class="brainhack-logo-img brainhack-logo-lkc" src="/media/brainhack/lkcmedicine-lockup-transparent.png" alt="NTU Lee Kong Chian School of Medicine logo">
         </div>
       </div>
     </div>
     <div class="brainhack-symposium-mark" aria-label="BrainHack School Taiwan Singapore">
-      <img src="/media/brainhack/bhs-taiwan-singapore-logo.png" alt="BrainHack School Taiwan x Singapore logo">
+      <img src="/media/brainhack/bhs-taiwan-singapore-transparent.png" alt="BrainHack School Taiwan x Singapore logo">
     </div>
   </div>
   <div class="brainhack-support-logos" aria-label="Supporting organisations">
