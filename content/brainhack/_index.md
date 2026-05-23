@@ -36,7 +36,8 @@ menu:
         can move discovery toward meaningful real-world impact.
       </p>
       <p>
-        This year's symposium is organised as part of BrainHack School, jointly run by NTU
+        This year's symposium is organised as part of BrainHack School, jointly run by
+        Nanyang Technological University
         (Dr. Annabel Chen, Dr. Luo Lizhu, and Dr. Darren Yeo), National Taiwan University
         (Dr. Joshua Goh and Dr. Charlene Lee), and National Central University
         (Dr. Chun-Hsien Hsu and Dr. Tzu-Yu Hsu). Across two days, the programme will pair
