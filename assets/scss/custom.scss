@@ -207,6 +207,65 @@ a:hover {
   font-weight: 700;
 }
 
+.docs-sidebar .docs-toc-link[href="/join/#join-openings-heading"] {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 0.2rem 0;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid rgba(255, 181, 43, 0.55);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(255, 246, 214, 0.98), rgba(232, 248, 247, 0.96)),
+    #fff8dc;
+  color: #0d5658 !important;
+  font-weight: 900;
+  text-decoration: none;
+  box-shadow: 0 0 0 0 rgba(255, 181, 43, 0.46), 0 10px 24px rgba(15, 108, 109, 0.12);
+  animation: cbl-openings-glow 2.1s ease-in-out infinite;
+}
+
+.docs-sidebar .docs-toc-link[href="/join/#join-openings-heading"]::after {
+  content: "Hiring";
+  flex: 0 0 auto;
+  padding: 0.18rem 0.42rem;
+  border-radius: 999px;
+  background: #ffb52b;
+  color: #123d4a;
+  font-size: 0.64rem;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.docs-sidebar .docs-toc-link[href="/join/#join-openings-heading"]:hover {
+  border-color: rgba(255, 181, 43, 0.9);
+  background:
+    linear-gradient(135deg, rgba(255, 241, 188, 1), rgba(218, 247, 245, 1)),
+    #fff3bd;
+  color: #083f41 !important;
+  transform: translateY(-1px);
+}
+
+@keyframes cbl-openings-glow {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 181, 43, 0.42), 0 10px 24px rgba(15, 108, 109, 0.12);
+  }
+
+  50% {
+    box-shadow: 0 0 0 7px rgba(255, 181, 43, 0), 0 12px 28px rgba(15, 108, 109, 0.2);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .docs-sidebar .docs-toc-link[href="/join/#join-openings-heading"] {
+    animation: none;
+  }
+}
+
 .article-style h1,
 .article-style h2,
 .article-style h3,
@@ -795,6 +854,58 @@ mark,
   line-height: 1.5;
 }
 
+.cbl-s05-opening-card {
+  max-width: 940px;
+  min-height: 0;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid rgba(15, 108, 109, 0.22);
+  border-left: 5px solid #ffb52b;
+  background:
+    linear-gradient(135deg, rgba(255, 251, 235, 0.95), rgba(255, 255, 255, 0.98) 46%, rgba(238, 250, 250, 0.78)),
+    #ffffff;
+  box-shadow: 0 12px 28px rgba(18, 61, 74, 0.1);
+}
+
+.cbl-s05-opening-card .cbl-card-kicker {
+  margin-bottom: 0.35rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+}
+
+.cbl-s05-opening-card h3 {
+  margin-bottom: 0.45rem;
+  font-size: 0.96rem;
+}
+
+.cbl-s05-opening-card p {
+  font-size: 0.86rem;
+  line-height: 1.46;
+}
+
+.cbl-s05-opening-card h4 {
+  margin: 0.7rem 0 0.3rem;
+  color: #123d4a;
+  font-size: 0.86rem;
+  font-weight: 900;
+  line-height: 1.25;
+}
+
+.cbl-s05-opening-card > p + p {
+  margin-top: 0.65rem;
+}
+
+.cbl-s05-opening-card ul {
+  margin-bottom: 0.7rem;
+  padding-left: 1.1rem;
+  color: #49636d;
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.cbl-s05-opening-card li {
+  margin-bottom: 0.28rem;
+}
+
 .cbl-link-card:hover {
   color: #49636d;
   text-decoration: none;
@@ -922,6 +1033,343 @@ mark,
   object-fit: contain;
 }
 
+.brainhack-symposium-callout {
+  position: relative;
+  margin: 1.25rem 0 2rem;
+  padding: 1.7rem;
+  overflow: visible;
+  border: 1px solid rgba(15, 108, 109, 0.2);
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 7% 12%, rgba(255, 205, 86, 0.42), transparent 23%),
+    radial-gradient(circle at 84% 8%, rgba(80, 189, 180, 0.34), transparent 28%),
+    linear-gradient(135deg, #fbffff 0%, #e7f8f5 52%, #ffffff 100%);
+  box-shadow: 0 18px 44px rgba(18, 61, 74, 0.12);
+}
+
+.brainhack-symposium-callout::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(90deg, rgba(18, 61, 74, 0.06) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(18, 61, 74, 0.05) 1px, transparent 1px);
+  background-size: 28px 28px;
+  mask-image: linear-gradient(120deg, rgba(0, 0, 0, 0.16), transparent 68%);
+}
+
+.brainhack-symposium-callout > * {
+  position: relative;
+  z-index: 1;
+}
+
+.brainhack-symposium-shell {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: start;
+}
+
+.brainhack-symposium-header {
+  max-width: 820px;
+  padding-right: 230px;
+}
+
+.brainhack-symposium-copy {
+  max-width: none;
+  padding-right: 0;
+}
+
+.brainhack-symposium-kicker {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 0.65rem;
+  padding: 0.28rem 0.6rem;
+  border: 1px solid rgba(15, 108, 109, 0.24);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #0f6c6d;
+  font-size: 0.76rem;
+  font-weight: 800;
+  line-height: 1.28;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.brainhack-symposium-callout h2 {
+  margin: 0 0 0.35rem;
+  color: #123d4a;
+  font-size: 2.15rem;
+  line-height: 1.12;
+}
+
+.brainhack-symposium-theme {
+  margin: 0 0 0.95rem;
+  color: #0d5658;
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+.brainhack-symposium-callout p:not(.brainhack-symposium-theme) {
+  margin-bottom: 0.8rem;
+  color: #253c45;
+  line-height: 1.58;
+}
+
+.brainhack-symposium-mark {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 188px;
+  height: 188px;
+  padding: 0.45rem;
+  overflow: hidden;
+  border: 1px solid rgba(15, 108, 109, 0.22);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 14px 30px rgba(18, 61, 74, 0.14);
+}
+
+.brainhack-symposium-mark img {
+  display: block;
+  width: 132%;
+  max-width: none;
+  height: 132%;
+  object-fit: cover;
+  object-position: 50% 45%;
+  border-radius: 50%;
+}
+
+.brainhack-support-logos {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: none;
+  margin: 0.25rem 0 0;
+  padding-top: 0.25rem;
+  border-top: 1px solid rgba(15, 108, 109, 0.12);
+  transform: none;
+}
+
+.brainhack-logo-rail {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.45rem;
+  min-width: 0;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding-bottom: 0.12rem;
+}
+
+.brainhack-logo-stack-conic {
+  order: 2;
+  justify-self: center;
+  margin-left: 0;
+  transform: translateX(2cm);
+}
+
+.brainhack-logo-stack-cbr {
+  order: 1;
+  justify-self: start;
+  align-self: flex-start;
+  margin-left: 0;
+  padding-top: 0.02rem;
+  text-align: left;
+  transform: none;
+}
+
+.brainhack-logo-cradle {
+  order: 3;
+  justify-self: end;
+  align-self: flex-start;
+  margin-left: 0;
+  padding-top: 0.02rem;
+  text-align: left;
+}
+
+.brainhack-logo-img {
+  display: block;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+  object-fit: contain;
+}
+
+.brainhack-logo-wordmark {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: max-content;
+  color: #123d4a;
+  word-break: normal;
+  overflow-wrap: normal;
+  hyphens: none;
+}
+
+.brainhack-logo-wordmark strong {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 900;
+  line-height: 0.92;
+  white-space: nowrap;
+}
+
+.brainhack-logo-wordmark span {
+  display: block;
+  color: #536971;
+  font-size: 0.52rem;
+  font-weight: 700;
+  line-height: 0.95;
+  white-space: nowrap;
+}
+
+.brainhack-logo-stack {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.04rem;
+}
+
+.brainhack-logo-stack-conic {
+  align-items: flex-start;
+  gap: 0.02rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.brainhack-logo-stack-conic .brainhack-logo-conic {
+  margin-bottom: -0.1rem;
+}
+
+.brainhack-logo-stack-cbr {
+  min-width: max-content;
+  max-width: 310px;
+  align-items: flex-start;
+}
+
+.brainhack-logo-conic strong {
+  color: #0f6c6d;
+  font-size: 1.42rem;
+  line-height: 1;
+}
+
+.brainhack-logo-conic span {
+  font-size: 0.68rem;
+  line-height: 1.05;
+}
+
+.brainhack-logo-cbr strong {
+  font-size: 1.42rem;
+  line-height: 1;
+}
+
+.brainhack-logo-cbr span {
+  font-size: 0.68rem;
+  line-height: 1.05;
+  white-space: normal;
+}
+
+.brainhack-logo-sss strong {
+  color: #a51e36;
+  font-size: 0.88rem;
+}
+
+.brainhack-logo-lkc {
+  height: 48px;
+  margin-top: 0;
+}
+
+.brainhack-logo-cradle {
+  align-items: flex-start;
+  justify-self: end;
+  max-width: 300px;
+  color: #123d4a;
+}
+
+.brainhack-logo-cradle strong {
+  color: #0f6c6d;
+  font-size: 1.42rem;
+  line-height: 1;
+}
+
+.brainhack-logo-cradle span {
+  font-size: 0.68rem;
+  line-height: 1.05;
+  white-space: normal;
+}
+
+.brainhack-logo-cbl,
+.brainhack-logo-ntu-tw,
+.brainhack-logo-ncu {
+  height: 74px;
+}
+
+.brainhack-registration-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  gap: 0.35rem;
+  width: 100%;
+  margin-top: 0.35rem;
+  overflow-x: auto;
+  overflow-y: visible;
+}
+
+.brainhack-registration-logos {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 0 0 auto;
+  flex-wrap: nowrap;
+  gap: 0.22rem;
+  margin-left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+.brainhack-registration-logos .brainhack-logo-cbl,
+.brainhack-registration-logos .brainhack-logo-ntu-tw,
+.brainhack-registration-logos .brainhack-logo-ncu {
+  height: 86px;
+}
+
+.brainhack-registration-logos .brainhack-logo-lkc {
+  height: 52px;
+}
+
+.brainhack-symposium-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  margin-top: 0;
+  padding: 0.68rem 1rem;
+  border-radius: 999px;
+  background: #0f6c6d;
+  color: #ffffff !important;
+  font-weight: 900;
+  line-height: 1.2;
+  text-decoration: none;
+  box-shadow: 0 10px 24px rgba(15, 108, 109, 0.28);
+}
+
+.brainhack-symposium-link:hover {
+  background: #083f41;
+  color: #ffffff !important;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
 @media screen and (max-width: 575px) {
   .cbl-tool-row {
     align-items: flex-start;
@@ -932,5 +1380,104 @@ mark,
   .cbl-tool-logo-mark {
     width: 62px;
     min-height: 52px;
+  }
+
+  .brainhack-symposium-callout {
+    padding: 1.15rem;
+  }
+
+  .brainhack-support-logos {
+    width: 100%;
+    margin-left: 0;
+    transform: none;
+  }
+
+  .brainhack-symposium-shell {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .brainhack-symposium-copy {
+    padding-right: 0;
+  }
+
+  .brainhack-symposium-header {
+    padding-right: 0;
+    padding-top: 138px;
+  }
+
+  .brainhack-symposium-kicker {
+    align-items: flex-start;
+    border-radius: 8px;
+    line-height: 1.35;
+  }
+
+  .brainhack-symposium-callout h2 {
+    font-size: 1.55rem;
+  }
+
+  .brainhack-symposium-mark {
+    top: 1rem;
+    right: auto;
+    left: 1rem;
+    width: 116px;
+    height: 116px;
+    padding: 0.3rem;
+  }
+
+  .brainhack-symposium-mark img {
+    width: 132%;
+    max-width: none;
+    height: 132%;
+  }
+
+  .brainhack-logo-rail {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    gap: 0.1cm;
+    justify-content: flex-start;
+    overflow-x: auto;
+    overflow-y: visible;
+    padding-bottom: 0.15rem;
+  }
+
+  .brainhack-logo-stack-cbr {
+    min-width: 290px;
+    transform: none;
+  }
+
+  .brainhack-logo-stack-conic {
+    transform: none;
+  }
+
+  .brainhack-logo-lkc {
+    height: 48px;
+    margin-top: 0;
+  }
+
+  .brainhack-logo-cradle {
+    margin-left: 0;
+  }
+
+  .brainhack-logo-cbl,
+  .brainhack-logo-ntu-tw,
+  .brainhack-logo-ncu {
+    height: 64px;
+  }
+
+  .brainhack-registration-row {
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .brainhack-registration-logos .brainhack-logo-cbl,
+  .brainhack-registration-logos .brainhack-logo-ntu-tw,
+  .brainhack-registration-logos .brainhack-logo-ncu {
+    height: 64px;
+  }
+
+  .brainhack-registration-logos .brainhack-logo-lkc {
+    height: 44px;
   }
 }

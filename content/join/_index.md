@@ -33,9 +33,9 @@ hide_docs_search: true
 
 <section class="cbl-s05-join-section" aria-labelledby="join-openings-heading">
   <h2 id="join-openings-heading">Openings</h2>
-  <article class="cbl-s05-role-card">
+  <article class="cbl-s05-role-card cbl-s05-opening-card">
     <span class="cbl-card-kicker">Research Assistant / Research Associate</span>
-    <h3>Science of Learning of Emerging Skills</h3>
+    <h3>Science of Learning in Emerging Skills</h3>
     <p>The Centre for Research and Development in Learning at Nanyang Technological University, Singapore (CRADLE@NTU) seeks applicants with a Bachelor's or Master's degree in Psychology, Cognitive Neuroscience, or a related field from a university of good standing for a Research Assistant / Research Associate position.</p>
     <p>The successful candidate will be an integral member of an interdisciplinary research team studying the Science of Learning of emerging skills, including literacy and numeracy. The role requires task orientation, excellent organizational skills, attention to detail and accuracy, flexibility in fluid situations, good interpersonal skills, and the ability to work independently. Experience with cognitive or neuropsychological testing and/or neuroimaging techniques, such as functional near-infrared spectroscopy (fNIRS), functional Magnetic Resonance Imaging (fMRI), diffusion MRI (DTI, HARDI, DSI), is required.</p>
     <h4>Key Responsibilities</h4>
