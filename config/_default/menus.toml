@@ -54,6 +54,11 @@ url = "/join/#join-cbl-heading"
 weight = 10
 
 [[join]]
+name = "Openings"
+url = "/join/#join-openings-heading"
+weight = 15
+
+[[join]]
 name = "Graduate Studies"
 url = "/join/#join-status-heading"
 weight = 20
