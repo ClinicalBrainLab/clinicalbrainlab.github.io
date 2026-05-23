@@ -31,8 +31,8 @@ menu:
         develop is fundamental to advancing education, health, technology, and human
         flourishing. Yet the complexity of mind and development cannot be fully understood
         through any single discipline alone. This symposium therefore brings together
-        social cognitive sciences, humanities, computational sciences, and biomedical
-        sciences to spark new questions, connect methods, and build collaborations that
+        cognitive neuroscience, linguistics, computational and biomedical sciences to
+        spark new questions, connect methods, and build collaborations that
         can move discovery toward meaningful real-world impact.
       </p>
       <p>
