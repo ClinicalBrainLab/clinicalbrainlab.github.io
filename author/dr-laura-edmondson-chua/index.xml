@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Laura Edmondson Chua | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/dr-laura-edmondson-chua/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/dr-laura-edmondson-chua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr Laura Edmondson Chua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Dr Laura Edmondson Chua</title>
+      <link>https://clinicalbrainlab.github.io/author/dr-laura-edmondson-chua/</link>
+    </image>
+    
+    <item>
+      <title>Laura Edmondson Chua</title>
+      <link>https://clinicalbrainlab.github.io/author/laura-edmondson-chua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/laura-edmondson-chua/</guid>
+      <description>&lt;p&gt;Dr Laura Edmondson Chua earned her PhD in Computational Neuroscience from the University of Sheffield. Her PhD research focused on developing theoretical and mechanistic computational models of somatosensory cortex function, investigating how tactile sensory representations emerge and change through cortical plasticity. She further applied modelling to fMRI data to examine how these mechanisms give rise to observed patterns of cortical activity. Following her doctoral studies, she continued working in the Active Touch Lab at Sheffield as a Postdoctoral Research Associate, where she developed computational models of tactile psychophysical tasks.&lt;/p&gt;
+&lt;p&gt;Dr Laura Edmondson Chua joined CLIC in September 2025 as a Research Fellow under Prof Annabel Chen Shen-Hsing. She is currently working within the Neuroimaging group to develop preprocessing and analysis pipelines for resting state fMRI data.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Edmondson Chua | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/laura-edmondson-chua/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/laura-edmondson-chua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Edmondson Chua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Laura Edmondson Chua</title>
+      <link>https://clinicalbrainlab.github.io/author/laura-edmondson-chua/</link>
+    </image>
+    
+  </channel>
+</rss>
