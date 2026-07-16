@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Wang | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/rui-wang/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/rui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Rui Wang</title>
+      <link>https://clinicalbrainlab.github.io/author/rui-wang/</link>
+    </image>
+    
+    <item>
+      <title>Task Engagement in Matrix Reasoning Performance: A Cross-Cultural Investigation in China and the United Kingdom</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-task-engagement-matrix-reasoning/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-task-engagement-matrix-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The association between cognitive flexibility and creativity across childhood and adolescence: a scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

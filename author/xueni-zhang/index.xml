@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xueni Zhang | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/xueni-zhang/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/xueni-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xueni Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Xueni Zhang</title>
+      <link>https://clinicalbrainlab.github.io/author/xueni-zhang/</link>
+    </image>
+    
+    <item>
+      <title>The association between cognitive flexibility and creativity across childhood and adolescence: a scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
