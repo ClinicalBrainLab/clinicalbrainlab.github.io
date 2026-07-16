@@ -1,0 +1,37 @@
+---
+title: "Malikka Begum Binte Habib Mohamed"
+user_groups: ["Graduate Students"]
+authors: ["Malikka Begum Binte Habib Mohamed"]
+bio: "Malikka Begum is a Senior Research Associate at the Centre for Research in Child Development, National Institute of Education (NIE), Nanyang Technological University, Singapore. Her research sits at the intersection of developmental cognitive neuroscience and the science of learning. She is interested in understanding the neural and cognitive mechanisms that underpin early literacy development, with a focus on how fine motor skills, visual-spatial integration, and grapho-motor processes support reading and spelling acquisition. Her work also examines bilingual language experience and its influence on children's social-emotional and behavioral outcomes, as well as cognitive correlates of response to reading intervention. She has investigated dynamic functional connectivity in ADHD using resting-state fMRI and is broadly interested in translating neuroscientific insights into evidence-based educational practices."
+education:
+  courses:
+  - course: "Master of Arts (Educational Psychology Research)"
+    institution: "National Institute of Education, Nanyang Technological University"
+    year: ""
+  - course: "Bachelor of Arts in Psychology (Hons)"
+    institution: "James Cook University, Australia"
+    year: ""
+email: "malikka.habib@nie.edu.sg"
+interests:
+- "Developmental cognitive neuroscience"
+- "Science of learning"
+- "Early literacy and reading development"
+- "Fine motor skills and visual-spatial integration"
+- "Bilingualism and cognitive development"
+- "Neurocognitive correlates of learning difficulties"
+- "Resting-state fMRI and functional connectivity"
+- "Educational neuroscience and translational research"
+organization: "Nanyang Technological University"
+role: "Ph.D Student"
+social:
+- icon: "envelope"
+  icon_pack: "fas"
+  link: "mailto:malikka.habib@nie.edu.sg"
+- icon: "orcid"
+  icon_pack: "ai"
+  link: "https://orcid.org/0000-0001-9391-0908"
+- icon: "researchgate"
+  icon_pack: "ai"
+  link: "https://www.researchgate.net/profile/Malikka-Mohamed"
+superuser: false
+---
