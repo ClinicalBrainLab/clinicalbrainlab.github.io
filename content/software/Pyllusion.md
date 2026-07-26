@@ -8,7 +8,7 @@ draft: false
 menu:
   software:
     parent: Softwares
-    weight: 3
+    weight: 6
 ---
 
 ## Description
@@ -26,4 +26,3 @@ Pyllusion was presented at the **43rd European Conference on Visual Perception (
 ## Reference
 
 Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python. 
-

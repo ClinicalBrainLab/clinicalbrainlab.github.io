@@ -8,7 +8,7 @@ draft: false
 menu:
   software:
     parent: Softwares
-    weight: 3
+    weight: 4
 ---
 
 ## Description
