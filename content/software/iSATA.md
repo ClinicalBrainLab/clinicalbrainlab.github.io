@@ -7,7 +7,7 @@ date: "2020-07-17T00:00:00+01:00"
 draft: false
 menu:
   software:
-    parent: Softwares
+    parent: Software
     weight: 3
 ---
 
