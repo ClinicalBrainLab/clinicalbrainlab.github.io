@@ -38,20 +38,6 @@ height = "390px"
   cta_icon = "external-link-alt"
 
 [[item]]
-  title = "Personalized Transcranial Direct Current Stimulation for Behavioral and Neurophysiologic Outcomes"
-  content = "2025 | JAMA Network Open"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-personalized-tdcs.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1001/jamanetworkopen.2025.26148"
-  doi = "10.1001/jamanetworkopen.2025.26148"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
   title = ""
   content = ""
   align = ""
@@ -75,16 +61,16 @@ height = "390px"
   cta_icon = "external-link-alt"
 
 [[item]]
-  title = "Brain Imaging Studies of Multisensory Integration in Emotion Perception: A Scoping Review"
-  content = "2025 | Neuroscience & Biobehavioral Reviews"
+  title = "Over Fifteen Years of Confusion: How the Big Five Inventory Mismeasures Openness"
+  content = "2026 | European Journal of Personality"
   align = "right"
   overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-multisensory-emotion.png"
+  overlay_img = "headers/pub-2026-bfi-openness-mismeasurement.png"
   overlay_filter = 0.05
   overlay_size = "100% 100%"
   cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1016/j.neubiorev.2025.106118"
-  doi = "10.1016/j.neubiorev.2025.106118"
+  cta_url = "https://doi.org/10.1177/08902070261450714"
+  doi = "10.1177/08902070261450714"
   cta_icon_pack = "fas"
   cta_icon = "external-link-alt"
 
@@ -95,43 +81,6 @@ height = "390px"
   overlay_color = "#eefafa"
   overlay_img = "headers/group-ohbm-2024-2.jpg"
   overlay_position = "center 35%"
-  overlay_filter = 0.2
-
-[[item]]
-  title = "Set-shifting and task-switching make differential contributions to divergent thinking in adolescence"
-  content = "2026 | BMC Psychology"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2026-set-shifting-divergent-thinking.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1186/s40359-026-04584-5"
-  doi = "10.1186/s40359-026-04584-5"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
-  title = "Longitudinal evaluation of common and unique brain-networks in variants of primary progressive aphasia"
-  content = "2025 | Alzheimer's Research & Therapy"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-ppa-brain-networks.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1186/s13195-025-01800-z"
-  doi = "10.1186/s13195-025-01800-z"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-  overlay_color = "#eefafa"
-  overlay_img = "headers/group-clic-2025-1.jpg"
-  overlay_position = "center 50%"
   overlay_filter = 0.2
 
 [[item]]
@@ -149,16 +98,53 @@ height = "390px"
   cta_icon = "external-link-alt"
 
 [[item]]
-  title = "A Functional Magnetic Resonance Imaging Investigation of Hot and Cool Executive Functions in Reward and Competition."
-  content = "2025 | Sensors"
+  title = "Research on the science of adult learning: A bibliometric analysis"
+  content = "2026 | Current Psychology"
   align = "right"
   overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-hot-cool-executive-functions.png"
+  overlay_img = "headers/pub-2026-adult-learning-bibliometric-analysis.png"
   overlay_filter = 0.05
   overlay_size = "100% 100%"
   cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.3390/s25030806"
-  doi = "10.3390/s25030806"
+  cta_url = "https://doi.org/10.1007/s12144-026-09659-5"
+  doi = "10.1007/s12144-026-09659-5"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+  overlay_color = "#eefafa"
+  overlay_img = "headers/group-clic-2025-1.jpg"
+  overlay_position = "center 50%"
+  overlay_filter = 0.2
+
+[[item]]
+  title = "Set-shifting and task-switching make differential contributions to divergent thinking in adolescence"
+  content = "2026 | BMC Psychology"
+  align = "right"
+  overlay_color = "#eefafa"
+  overlay_img = "headers/pub-2026-set-shifting-divergent-thinking.png"
+  overlay_filter = 0.05
+  overlay_size = "100% 100%"
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1186/s40359-026-04584-5"
+  doi = "10.1186/s40359-026-04584-5"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
+  title = "The association between cognitive flexibility and creativity across childhood and adolescence: a scoping review"
+  content = "2026 | BMC Psychology"
+  align = "right"
+  overlay_color = "#eefafa"
+  overlay_img = "headers/pub-2026-cognitive-flexibility-creativity-review.png"
+  overlay_filter = 0.05
+  overlay_size = "100% 100%"
+  cta_label = "Link to paper"
+  cta_url = "https://doi.org/10.1186/s40359-026-04886-8"
+  doi = "10.1186/s40359-026-04886-8"
   cta_icon_pack = "fas"
   cta_icon = "external-link-alt"
 
@@ -177,20 +163,6 @@ height = "390px"
   cta_icon = "external-link-alt"
 
 [[item]]
-  title = "Validation of the CILD-Q for measuring contextual linguistic diversity in Singapore"
-  content = "2025 | International Journal of Multilingualism"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-cildq-linguistic-diversity.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1080/14790718.2025.2570205"
-  doi = "10.1080/14790718.2025.2570205"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
   title = ""
   content = ""
   align = "center"
@@ -200,67 +172,11 @@ height = "390px"
   overlay_filter = 0.2
 
 [[item]]
-  title = "Cognitive and neural mechanisms of learning and interventions for improvement across the adult lifespan: A systematic review"
-  content = "2025 | Neuroscience & Biobehavioral Reviews"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-lifespan-learning-review.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1016/j.neubiorev.2025.106281"
-  doi = "10.1016/j.neubiorev.2025.106281"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
-  title = "Measuring Depression and Anxiety With 4 Items? Adaptation of the PHQ-4 to Increase Its Sensitivity to Subclinical Variability"
-  content = "2025 | Collabra: Psychology"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-phq4-depression-anxiety.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1525/collabra.143431"
-  doi = "10.1525/collabra.143431"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
-  title = "The role of structural and functional parameters in designing pathology-specific tDCS protocols for primary progressive aphasia"
-  content = "2025 | Alzheimer's Research & Therapy"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-ppa-tdcs-protocols.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1186/s13195-025-01737-3"
-  doi = "10.1186/s13195-025-01737-3"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
-
-[[item]]
   title = ""
   content = ""
   align = ""
   overlay_color = "#eefafa"
   overlay_img = "headers/brain_images2.png"
   overlay_filter = 0.2
-
-[[item]]
-  title = "Identifying target regions for non-invasive brain stimulation of the language network in primary progressive aphasia: A narrative review"
-  content = "2025 | Brain Disorders"
-  align = "right"
-  overlay_color = "#eefafa"
-  overlay_img = "headers/pub-2025-ppa-stimulation-targets.png"
-  overlay_filter = 0.05
-  overlay_size = "100% 100%"
-  cta_label = "Link to paper"
-  cta_url = "https://doi.org/10.1016/j.dscb.2025.100255"
-  doi = "10.1016/j.dscb.2025.100255"
-  cta_icon_pack = "fas"
-  cta_icon = "external-link-alt"
 
 +++
