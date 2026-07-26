@@ -1033,6 +1033,90 @@ mark,
   object-fit: contain;
 }
 
+.cbl-wiki-profile {
+  max-width: 980px;
+  color: #243941;
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.cbl-wiki-profile::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.cbl-wiki-note {
+  margin: 0 0 1rem;
+  padding: 0.55rem 0.75rem;
+  border-left: 4px solid #0f6c6d;
+  background: #eefafa;
+  color: #3f5962;
+  font-size: 0.86rem;
+}
+
+.cbl-wiki-infobox {
+  float: right;
+  width: 310px;
+  max-width: 42%;
+  margin: 0.25rem 0 1rem 1.35rem;
+  padding: 0.8rem;
+  border: 1px solid rgba(18, 61, 74, 0.16);
+  border-radius: 8px;
+  background: #f8ffff;
+  box-shadow: 0 10px 26px rgba(18, 61, 74, 0.1);
+}
+
+.cbl-wiki-infobox img {
+  display: block;
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 6px;
+}
+
+.cbl-wiki-infobox h2 {
+  margin: 0.7rem 0 0.55rem;
+  color: #123d4a;
+  font-size: 1.18rem;
+  line-height: 1.2;
+}
+
+.cbl-wiki-infobox dl {
+  margin: 0;
+  font-size: 0.82rem;
+  line-height: 1.38;
+}
+
+.cbl-wiki-infobox dt {
+  margin-top: 0.55rem;
+  color: #0f6c6d;
+  font-weight: 900;
+}
+
+.cbl-wiki-infobox dd {
+  margin: 0.12rem 0 0;
+  color: #314b55;
+}
+
+.cbl-wiki-profile h2 {
+  padding-bottom: 0.25rem;
+  margin-top: 1.45rem;
+  border-bottom: 1px solid rgba(18, 61, 74, 0.16);
+  color: #123d4a;
+  font-size: 1.35rem;
+}
+
+.cbl-wiki-profile ul,
+.cbl-wiki-profile ol {
+  padding-left: 1.25rem;
+}
+
+.cbl-wiki-profile li {
+  margin-bottom: 0.45rem;
+}
+
 .brainhack-symposium-callout {
   position: relative;
   margin: 1.25rem 0 2rem;
@@ -1380,6 +1464,12 @@ mark,
   .cbl-tool-logo-mark {
     width: 62px;
     min-height: 52px;
+  }
+
+  .cbl-wiki-infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem;
   }
 
   .brainhack-symposium-callout {

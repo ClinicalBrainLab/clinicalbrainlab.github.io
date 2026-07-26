@@ -99,6 +99,7 @@ Research Fellows
 - [Miao Zhong, PhD](/author/miao-zhong/)
 
 Research Associates
+- [Adhya Neshaa Nedumaran](/author/adhya-neshaa/)
 - Alvin Lim, MA
 - Cathy Kao, MS
 - Hong Min

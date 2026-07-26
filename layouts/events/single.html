@@ -1,0 +1,20 @@
+{{- define "main" -}}
+
+<article class="article">
+  {{ if not .Params.hide_page_title }}
+    <div class="article-container pt-3">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <div class="article-container">
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+
+{{- end -}}

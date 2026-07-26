@@ -29,9 +29,14 @@ url = "join/"
 weight = 75
 
 [[main]]
-name = "Participate & Events"
+name = "Participate"
 url = "participate/"
 weight = 50
+
+[[main]]
+name = "Events"
+url = "events/"
+weight = 55
 
 [[main]]
 name = "Resources & Software"

@@ -1,6 +1,6 @@
 ---
-title: Participate & Events
-summary: Ongoing studies, previous events, and research visit highlights from the Clinical Brain Lab.
+title: Participate
+summary: Ongoing studies and research visit highlights from the Clinical Brain Lab.
 type: participate
 ---
 
@@ -15,12 +15,6 @@ type: participate
     </div>
   </div>
 </div>
-
-## Previous Events
-
-Past talks, outreach activities, workshops, and conferences are archived in Previous Events.
-
-[View previous events](/talk/)
 
 ## Gallery
 

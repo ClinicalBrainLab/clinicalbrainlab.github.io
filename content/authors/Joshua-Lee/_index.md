@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: ‎Undergraduate Student‎
+role: Research Assistant
 
 social:
 - icon: envelope
@@ -32,10 +32,9 @@ superuser: false
 
 title: Lee Jing Yang, Joshua
 user_groups:
-- Undergraduate Students
+- Research Assistants
 
 ---
 Joshua is currently a final year undergraduate student of Psychology at Nanyang Technological University. His reasearch interests include inter-brain synchrony, music cognition, and abnormal psychology.
 
 ---
-

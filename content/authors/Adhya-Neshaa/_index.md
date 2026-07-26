@@ -2,7 +2,7 @@
 title: Adhya Neshaa Nedumaran
 authors:
 - Adhya Neshaa Nedumaran
-bio: Adhya Neshaa Nedumaran is currently a Research Associate at the Clinical Brain Lab. 
+bio: Adhya Neshaa Nedumaran was a Research Associate at the Clinical Brain Lab. 
 
 education:
   courses:
@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,7 +39,7 @@ social:
 superuser: false
 
 user_groups:
-- Research Associates
+- Alumni
 
 ---
 

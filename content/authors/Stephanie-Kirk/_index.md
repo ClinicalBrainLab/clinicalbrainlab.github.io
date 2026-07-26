@@ -2,7 +2,7 @@
 title: Stephanie Kirk
 authors:
 - Stephanie Kirk
-bio: Stephanie Kirk is currently a Research Associate at the Clinical Brain Lab. 
+bio: Stephanie Kirk was a Research Associate at the Clinical Brain Lab. 
 
 education:
   courses:
@@ -25,7 +25,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate
+role: Alumni
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +34,7 @@ social:
 superuser: false
 
 user_groups:
-- Research Associates
+- Alumni
   
 ---
 Stephanie earned her B.A. in Psychology from the University of British Columbia (2019) and M.A. in Museum Studies & Curatorial Practices from Nanyang Technological University (2021).
