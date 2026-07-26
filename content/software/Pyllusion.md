@@ -21,8 +21,10 @@ The parametric approach implemented in this software proposes to describe illusi
 
 ## News
 
+The Pyllusion paper has been published in *Perception* and is available via [SAGE Journals](https://doi.org/10.1177/03010066211057347).
+
 Pyllusion was presented at the **43rd European Conference on Visual Perception (ECVP)**, held from 22 to 27 August 2021. A video walkthrough of the poster is available via this [Youtube link](https://www.youtube.com/watch?v=uptP_NxEHaM).
 
 ## Reference
 
-Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python. 
+Makowski, D., Lau, Z. J., Pham, T., Boyce, W. P., & Chen, S. H. A. (2021). A parametric framework to generate visual illusions using Python. *Perception, 50*(11), 950-965. https://doi.org/10.1177/03010066211057347
