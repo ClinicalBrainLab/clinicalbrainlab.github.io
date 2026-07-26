@@ -104,10 +104,13 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;p&gt;The parametric approach implemented in this software proposes to describe illusions using a set of parameters, such as for instance the difference in the target features, and the strength of the contextual information in biasing the perception of the illusion (i.e., illusion strength). These two parameters can be modulated independently in &lt;em&gt;Pyllusion&lt;/em&gt; to investigate the precision and threshold at which certain populations become susceptible to the illusion. The aim of &lt;em&gt;Pyllusion&lt;/em&gt; is to foster reproducible science, allowing neuroscientists to easily report, generate and manipulate similar stimuli regardless of the display format and software. There is comprehensive 
 &lt;a href=&#34;https://realitybending.github.io/Pyllusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; regarding the functionalities of &lt;em&gt;Pyllusion&lt;/em&gt; and code examples of how illusions can be generated in the form of images and psychopy stimuli.&lt;/p&gt;
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;p&gt;The Pyllusion paper has been published in &lt;em&gt;Perception&lt;/em&gt; and is available via 
+&lt;a href=&#34;https://doi.org/10.1177/03010066211057347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAGE Journals&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Pyllusion was presented at the &lt;strong&gt;43rd European Conference on Visual Perception (ECVP)&lt;/strong&gt;, held from 22 to 27 August 2021. A video walkthrough of the poster is available via this 
 &lt;a href=&#34;https://www.youtube.com/watch?v=uptP_NxEHaM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube link&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python.&lt;/p&gt;
+&lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, W. P., &amp;amp; Chen, S. H. A. (2021). A parametric framework to generate visual illusions using Python. &lt;em&gt;Perception, 50&lt;/em&gt;(11), 950-965. 
+&lt;a href=&#34;https://doi.org/10.1177/03010066211057347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1177/03010066211057347&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
