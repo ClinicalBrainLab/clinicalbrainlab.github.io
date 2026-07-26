@@ -5,12 +5,113 @@
     <link>https://clinicalbrainlab.github.io/talk/</link>
       <atom:link href="https://clinicalbrainlab.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Previous Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
       <title>Previous Events</title>
       <link>https://clinicalbrainlab.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>BrainHack Symposium: Minds in Motion</title>
+      <link>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</guid>
+      <description>&lt;section class=&#34;brainhack-symposium-callout&#34; id=&#34;brainhack-symposium&#34;&gt;
+  &lt;div class=&#34;brainhack-symposium-shell&#34;&gt;
+    &lt;div class=&#34;brainhack-symposium-header&#34;&gt;
+      &lt;div class=&#34;brainhack-symposium-kicker&#34;&gt;
+        &lt;span&gt;1-2 July 2026&lt;/span&gt;
+        &lt;span&gt;NTU Experimental Medicine Building, Learning Studio&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;h2&gt;BrainHack Symposium: Minds in Motion&lt;/h2&gt;
+      &lt;p class=&#34;brainhack-symposium-theme&#34;&gt;Interdisciplinary Perspectives on How Minds Work and Develop&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-copy&#34;&gt;
+      &lt;p&gt;
+        Minds in Motion explores the mind as an active, developing, and adaptive system:
+        one that learns from experience, is shaped by social and cultural contexts, and
+        continually responds to changing environments. Research on how minds work and
+        develop is fundamental to advancing education, health, technology, and human
+        flourishing. Yet the complexity of mind and development cannot be fully understood
+        through any single discipline alone. This symposium therefore brings together
+        cognitive neuroscience, linguistics, computational and biomedical sciences to
+        spark new questions, connect methods, and build collaborations that
+        can move discovery toward meaningful real-world impact.
+      &lt;/p&gt;
+      &lt;p&gt;
+        This year&#39;s symposium is organised as part of BrainHack School, jointly run by
+        Nanyang Technological University
+        (Dr. Annabel Chen, Dr. Luo Lizhu, and Dr. Darren Yeo), National Taiwan University
+        (Dr. Joshua Goh and Dr. Charlene Lee), and National Central University
+        (Dr. Chun-Hsien Hsu and Dr. Tzu-Yu Hsu). Across two days, the programme will pair
+        student project presentations with invited interdisciplinary talks spanning social
+        cognitive sciences, humanities, computational sciences, and biomedical sciences.
+        The event is supported by the Cognitive Neuroimaging Centre (CoNiC), the Cognitive
+        and Behavioural Science Research Cluster at the School of Social Sciences, the
+        Clinical Brain Lab, and the Centre for Research and Development in Learning
+        (CRADLE), NTU Singapore, as well as NTU and NCU Taiwan.
+      &lt;/p&gt;
+      &lt;p&gt;
+        Featured topics span multi-modal neuroimaging (fMRI, EEG, and MEG), eye-tracking,
+        multi-agent reinforcement learning (MARL), AI-inspired approaches to cognition,
+        and open science practices for reproducible research. We warmly welcome audience
+        participation and discussion as part of the exchange, with the aim of generating
+        fresh perspectives and future interdisciplinary collaborations.
+      &lt;/p&gt;
+      &lt;div class=&#34;brainhack-registration-row&#34;&gt;
+        &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor&#34;&gt;Register now&lt;/a&gt; &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://clinicalbrainlab.github.io/brainhack/programme.pdf&#34; target=&#34;_blank&#34;&gt;View Full Programme&lt;/a&gt;
+        &lt;div class=&#34;brainhack-registration-logos&#34; aria-label=&#34;Partner organisations&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-cbl&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/cbl-logo-transparent.png&#34; alt=&#34;Clinical Brain Lab logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ntu-tw&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ntu-tw-transparent.png&#34; alt=&#34;National Taiwan University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ncu&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ncu-transparent.png&#34; alt=&#34;National Central University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-lkc&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/lkcmedicine-lockup-transparent.png&#34; alt=&#34;NTU Lee Kong Chian School of Medicine logo&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-mark&#34; aria-label=&#34;BrainHack School Taiwan Singapore&#34;&gt;
+      &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainhack/bhs-taiwan-singapore-transparent.png&#34; alt=&#34;BrainHack School Taiwan x Singapore logo&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;brainhack-support-logos&#34; aria-label=&#34;Supporting organisations&#34;&gt;
+    &lt;div class=&#34;brainhack-logo-rail&#34;&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-conic&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-conic&#34;&gt;
+          &lt;strong&gt;CoNiC&lt;/strong&gt;
+          &lt;span&gt;Cognitive Neuroimaging Centre&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-cbr&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cbr&#34;&gt;
+          &lt;strong&gt;CBR Cluster&lt;/strong&gt;
+          &lt;span&gt;Cognitive and Behavioural Science Research Cluster&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-sss&#34;&gt;
+          &lt;strong&gt;School of Social Sciences&lt;/strong&gt;
+          &lt;span&gt;NTU Singapore&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cradle&#34; aria-label=&#34;Centre for Research and Development in Learning&#34;&gt;
+        &lt;strong&gt;CRADLE&lt;/strong&gt;
+        &lt;span&gt;Centre for Research and&lt;/span&gt;
+        &lt;span&gt;Development in Learning&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2025</title>
+      <link>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</link>
+      <pubDate>Mon, 06 Oct 2025 08:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</guid>
+      <description>&lt;p&gt;BrainConnects 2025 was held from 6 to 8 October 2025 at the Henry Sy Auditorium, St. Luke&amp;rsquo;s Medical Center Global City, Philippines.&lt;/p&gt;
+&lt;p&gt;Follow 
+&lt;a href=&#34;https://www.stlukes.com.ph/news-and-events/events-and-conferences/brain-connects-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2025.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Exploring Children&#39;s Reading with Brain-NORM</title>

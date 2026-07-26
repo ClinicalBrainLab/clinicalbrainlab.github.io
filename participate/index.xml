@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Participate &amp; Events | The Clinical Brain Lab</title>
+    <title>Participate | The Clinical Brain Lab</title>
     <link>https://clinicalbrainlab.github.io/participate/</link>
       <atom:link href="https://clinicalbrainlab.github.io/participate/index.xml" rel="self" type="application/rss+xml" />
-    <description>Participate &amp; Events</description>
+    <description>Participate</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
-      <title>Participate &amp; Events</title>
+      <title>Participate</title>
       <link>https://clinicalbrainlab.github.io/participate/</link>
     </image>
     

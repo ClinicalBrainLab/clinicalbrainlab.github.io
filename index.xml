@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
       <title>The Clinical Brain Lab</title>
@@ -13,27 +13,101 @@
     </image>
     
     <item>
-      <title>Relationship Between Reading and Working Memory in Children and Adolescents: A Meta-Analysis</title>
-      <link>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</link>
-      <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defining and measuring inventive thinking: A scoping review</title>
-      <link>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Research on the science of adult learning: A bibliometric analysis</title>
       <link>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</link>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BrainHack Symposium: Minds in Motion</title>
+      <link>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</guid>
+      <description>&lt;section class=&#34;brainhack-symposium-callout&#34; id=&#34;brainhack-symposium&#34;&gt;
+  &lt;div class=&#34;brainhack-symposium-shell&#34;&gt;
+    &lt;div class=&#34;brainhack-symposium-header&#34;&gt;
+      &lt;div class=&#34;brainhack-symposium-kicker&#34;&gt;
+        &lt;span&gt;1-2 July 2026&lt;/span&gt;
+        &lt;span&gt;NTU Experimental Medicine Building, Learning Studio&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;h2&gt;BrainHack Symposium: Minds in Motion&lt;/h2&gt;
+      &lt;p class=&#34;brainhack-symposium-theme&#34;&gt;Interdisciplinary Perspectives on How Minds Work and Develop&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-copy&#34;&gt;
+      &lt;p&gt;
+        Minds in Motion explores the mind as an active, developing, and adaptive system:
+        one that learns from experience, is shaped by social and cultural contexts, and
+        continually responds to changing environments. Research on how minds work and
+        develop is fundamental to advancing education, health, technology, and human
+        flourishing. Yet the complexity of mind and development cannot be fully understood
+        through any single discipline alone. This symposium therefore brings together
+        cognitive neuroscience, linguistics, computational and biomedical sciences to
+        spark new questions, connect methods, and build collaborations that
+        can move discovery toward meaningful real-world impact.
+      &lt;/p&gt;
+      &lt;p&gt;
+        This year&#39;s symposium is organised as part of BrainHack School, jointly run by
+        Nanyang Technological University
+        (Dr. Annabel Chen, Dr. Luo Lizhu, and Dr. Darren Yeo), National Taiwan University
+        (Dr. Joshua Goh and Dr. Charlene Lee), and National Central University
+        (Dr. Chun-Hsien Hsu and Dr. Tzu-Yu Hsu). Across two days, the programme will pair
+        student project presentations with invited interdisciplinary talks spanning social
+        cognitive sciences, humanities, computational sciences, and biomedical sciences.
+        The event is supported by the Cognitive Neuroimaging Centre (CoNiC), the Cognitive
+        and Behavioural Science Research Cluster at the School of Social Sciences, the
+        Clinical Brain Lab, and the Centre for Research and Development in Learning
+        (CRADLE), NTU Singapore, as well as NTU and NCU Taiwan.
+      &lt;/p&gt;
+      &lt;p&gt;
+        Featured topics span multi-modal neuroimaging (fMRI, EEG, and MEG), eye-tracking,
+        multi-agent reinforcement learning (MARL), AI-inspired approaches to cognition,
+        and open science practices for reproducible research. We warmly welcome audience
+        participation and discussion as part of the exchange, with the aim of generating
+        fresh perspectives and future interdisciplinary collaborations.
+      &lt;/p&gt;
+      &lt;div class=&#34;brainhack-registration-row&#34;&gt;
+        &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor&#34;&gt;Register now&lt;/a&gt; &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://clinicalbrainlab.github.io/brainhack/programme.pdf&#34; target=&#34;_blank&#34;&gt;View Full Programme&lt;/a&gt;
+        &lt;div class=&#34;brainhack-registration-logos&#34; aria-label=&#34;Partner organisations&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-cbl&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/cbl-logo-transparent.png&#34; alt=&#34;Clinical Brain Lab logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ntu-tw&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ntu-tw-transparent.png&#34; alt=&#34;National Taiwan University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ncu&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ncu-transparent.png&#34; alt=&#34;National Central University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-lkc&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/lkcmedicine-lockup-transparent.png&#34; alt=&#34;NTU Lee Kong Chian School of Medicine logo&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-mark&#34; aria-label=&#34;BrainHack School Taiwan Singapore&#34;&gt;
+      &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainhack/bhs-taiwan-singapore-transparent.png&#34; alt=&#34;BrainHack School Taiwan x Singapore logo&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;brainhack-support-logos&#34; aria-label=&#34;Supporting organisations&#34;&gt;
+    &lt;div class=&#34;brainhack-logo-rail&#34;&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-conic&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-conic&#34;&gt;
+          &lt;strong&gt;CoNiC&lt;/strong&gt;
+          &lt;span&gt;Cognitive Neuroimaging Centre&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-cbr&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cbr&#34;&gt;
+          &lt;strong&gt;CBR Cluster&lt;/strong&gt;
+          &lt;span&gt;Cognitive and Behavioural Science Research Cluster&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-sss&#34;&gt;
+          &lt;strong&gt;School of Social Sciences&lt;/strong&gt;
+          &lt;span&gt;NTU Singapore&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cradle&#34; aria-label=&#34;Centre for Research and Development in Learning&#34;&gt;
+        &lt;strong&gt;CRADLE&lt;/strong&gt;
+        &lt;span&gt;Centre for Research and&lt;/span&gt;
+        &lt;span&gt;Development in Learning&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -307,18 +381,26 @@
     </item>
     
     <item>
-      <title>Set-shifting and task-switching make differential contributions to divergent thinking in adolescence</title>
-      <link>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</guid>
+      <title>Defining and measuring inventive thinking: A scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>National identity reconfigures brain responses from them to us</title>
-      <link>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</guid>
+      <title>Relationship Between Reading and Working Memory in Children and Adolescents: A Meta-Analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set-shifting and task-switching make differential contributions to divergent thinking in adolescence</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</guid>
       <description></description>
     </item>
     
@@ -879,7 +961,7 @@ git push -u origin main
     &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W8-ST&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;29 June - 3 July&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
-      &lt;strong&gt;Proposed Symposium Week&lt;/strong&gt; (Visit from NTU Taiwan Students)&lt;br&gt;
+      &lt;strong&gt;&lt;a href=&#34;https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/&#34;&gt;BrainHack Symposium Week&lt;/a&gt;&lt;/strong&gt; (Visit from NTU Taiwan Students)&lt;br&gt;
       We will host a small conference (symposium) regarding the projects (via presentations and posters).&lt;br&gt;
       Students will present their projects for discussion.&lt;br&gt;
       &lt;strong&gt;Submission of Reflection Essay Deadline: 03 July at 5 pm on NTULearn&lt;/strong&gt;
@@ -899,11 +981,30 @@ git push -u origin main
     </item>
     
     <item>
+      <title>National identity reconfigures brain responses from them to us</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Validation of the CILD-Q for measuring contextual linguistic diversity in Singapore</title>
       <link>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2025</title>
+      <link>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</link>
+      <pubDate>Mon, 06 Oct 2025 08:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</guid>
+      <description>&lt;p&gt;BrainConnects 2025 was held from 6 to 8 October 2025 at the Henry Sy Auditorium, St. Luke&amp;rsquo;s Medical Center Global City, Philippines.&lt;/p&gt;
+&lt;p&gt;Follow 
+&lt;a href=&#34;https://www.stlukes.com.ph/news-and-events/events-and-conferences/brain-connects-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2025.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -987,7 +1088,7 @@ git push -u origin main
     <item>
       <title>Brain Imaging Studies of Multisensory Integration in Emotion Perception: A Scoping Review</title>
       <link>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</guid>
       <description></description>
     </item>
@@ -1349,14 +1450,6 @@ As technology and globalisation are changing the nature of labour markets and in
     </item>
     
     <item>
-      <title>Differential neural activity across Hierarchical Bayesian inference under uncertainty in Older and Younger adults</title>
-      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The P3 and Academic Performance: A Systematic Review and Meta-Analysis</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_the-p3-and-academic-performance/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
@@ -1376,9 +1469,17 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
     </item>
     
     <item>
+      <title>Differential neural activity across Hierarchical Bayesian inference under uncertainty in Older and Younger adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to the special issue: Bringing the brain into education: The application of findings from the Science of Learning to teacher training and development</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_science-of-learning_editorial/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2024_science-of-learning_editorial/</guid>
       <description>&lt;p&gt;The above is an editorial introducing a special issue of the journal &lt;b&gt;Trends in Neuroscience and Education&lt;/b&gt; &lt;i&gt;(Cite Score: 6.3; Impact Factor: 3.4)&lt;/i&gt; edited by &lt;b&gt;&lt;u&gt;Dr Adam John Privitera (CRADLE@NTU)&lt;/b&gt;&lt;/u&gt;, &lt;b&gt;&lt;u&gt;Professor S.H Annabel Chen (CRADLE@NTU)&lt;/b&gt;&lt;/u&gt;, &amp;amp; &lt;b&gt;&lt;u&gt;Associate Professor Maria Teresa Carthery-Goulart (Federal University of ABC, Brazil; The University of Hong Kong)&lt;/b&gt;&lt;/u&gt;.&lt;/p&gt;
 &lt;p&gt;The special issue can be accessed through this link: 
@@ -1483,7 +1584,7 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
     <item>
       <title>Understanding of Psychological Literacy: Comparative Insights From Undergraduates in China and the United Kingdom</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_comparative-psychological-literacy/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2024_comparative-psychological-literacy/</guid>
       <description></description>
     </item>
@@ -2040,6 +2141,8 @@ Undergraduate Students&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Associates&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/adhya-neshaa/&#34;&gt;Adhya Neshaa Nedumaran&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Alvin Lim, MA&lt;/li&gt;
 &lt;li&gt;Cathy Kao, MS&lt;/li&gt;
 &lt;li&gt;Hong Min&lt;/li&gt;
@@ -2913,6 +3016,70 @@ $$&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/view/brainconnects2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2026</title>
+      <link>https://clinicalbrainlab.github.io/events/brainconnects-2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/events/brainconnects-2026/</guid>
+      <description>&lt;section style=&#34;max-width: 1120px; margin: 0 auto 2.5rem;&#34;&gt;
+  &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/brainconnects-2026-logo.png&#34; alt=&#34;BrainConnects 2026 logo showing collaborating institutions connected by a brain network&#34; style=&#34;display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;&#34;&gt;
+  &lt;div style=&#34;width: calc(100% + 2.4rem); margin-left: -1.2rem; padding: 1.4rem; border: 1px solid rgba(15, 108, 109, 0.18); border-radius: 8px; background: linear-gradient(135deg, #fbffff 0%, #eefafa 52%, #ffffff 100%); box-sizing: border-box;&#34;&gt;
+    &lt;div style=&#34;max-width: 1120px; margin: 0 auto;&#34;&gt;
+    &lt;p style=&#34;margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;&#34;&gt;29 September - 2 October 2027&lt;/p&gt;
+    &lt;h2 style=&#34;margin-top: 0;&#34;&gt;Watch this page for BrainConnects 2026&lt;/h2&gt;
+    &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; LKCMedicine HQ, Novena Campus, NTU.&lt;/p&gt;
+    &lt;p&gt;BrainConnects brings together researchers, clinicians, educators, engineers and technology partners working across cognitive neuroscience, neuroimaging, mental health, learning sciences and human development.&lt;/p&gt;
+    &lt;p&gt;The 2026 meeting is hosted by the Science of Learning in Education Centre (SoLEC), National Institute of Education; the Centre for Lifelong Learning and Individualised Cognition (CLIC) NTU-Cambridge; the Centre of Research &amp;amp; Development in Learning (CRADLE), and the Centre for Neuroimaging (CoNiC) at NTU, with NIRx/Artinis as partners for the fNIRS workshop.&lt;/p&gt;
+    &lt;p&gt;This year&#39;s theme, &lt;strong&gt;Shared Signals, Connected Learning&lt;/strong&gt;, reflects our interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches to understanding connectedness, interpersonal synchrony, and shared attention in real-world learning environments. Learning rarely happens in isolation: it unfolds through exchanges between learners, teachers, peers, technologies, and environments. By studying shared neural, cognitive, physiological, behavioural, and social signals, BrainConnects 2026 aims to ask how people align attention, coordinate understanding, communicate meaning, and build knowledge together.&lt;/p&gt;
+    &lt;p&gt;The timing is especially meaningful, as BrainConnects 2026 will also celebrate SoLEC&#39;s 5th Anniversary. This milestone broadens our research into how learners, educators, technologies, and environments become connected through shared neural, cognitive, physiological, and social signals, and how these insights can advance the science of learning.&lt;/p&gt;
+    &lt;div style=&#34;margin-top: 1.45rem; padding-top: 1.35rem; border-top: 1px solid rgba(15, 108, 109, 0.18);&#34;&gt;
+      &lt;h3 style=&#34;margin: 0 0 0.9rem; color: #123d4a;&#34;&gt;Keynote Speakers&lt;/h3&gt;
+      &lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.1rem;&#34;&gt;
+        &lt;div style=&#34;text-align: center; padding: 0.4rem 0.65rem;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/benjamin-becker.jpg&#34; alt=&#34;Professor Benjamin Becker&#34; style=&#34;width: 176px; height: 176px; object-fit: cover; object-position: center 24%; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 8px 22px rgba(18, 61, 74, 0.16);&#34;&gt;
+          &lt;div style=&#34;margin-top: 0.65rem;&#34;&gt;
+            &lt;p style=&#34;margin: 0 0 0.2rem; font-size: 0.92rem; line-height: 1.22;&#34;&gt;&lt;strong&gt;Professor Benjamin Becker&lt;/strong&gt;&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Department of Psychology&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Director, MIND &amp;amp; AI Lab&lt;/p&gt;
+            &lt;p style=&#34;margin: 0; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;The University of Hong Kong&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;text-align: center; padding: 0.4rem 0.65rem;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/twila-tardif.jpg&#34; alt=&#34;Professor Twila Tardif&#34; style=&#34;width: 176px; height: 176px; object-fit: cover; object-position: center; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 8px 22px rgba(18, 61, 74, 0.16);&#34;&gt;
+          &lt;div style=&#34;margin-top: 0.65rem;&#34;&gt;
+            &lt;p style=&#34;margin: 0 0 0.2rem; font-size: 0.92rem; line-height: 1.22;&#34;&gt;&lt;strong&gt;Professor Twila Tardif&lt;/strong&gt;&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Department of Paediatrics&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;NUS Yong Loo Lin School of Medicine&lt;/p&gt;
+            &lt;p style=&#34;margin: 0; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Senior Principal Scientist III, Translational Neurosciences, A*STAR Institute for Human Development and Potential&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;margin-top: 1.45rem; padding-top: 1.25rem; border-top: 1px solid rgba(15, 108, 109, 0.18);&#34;&gt;
+      &lt;h3 style=&#34;margin: 0 0 0.85rem; color: #123d4a;&#34;&gt;Hosts and Workshop Partners&lt;/h3&gt;
+      &lt;div style=&#34;display: flex; flex-wrap: nowrap; gap: 0.65rem; align-items: center; justify-content: space-between; overflow-x: auto;&#34;&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.2rem 0.25rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/ntu-logo.png&#34; alt=&#34;Nanyang Technological University Singapore logo&#34; style=&#34;max-width: 132px; max-height: 78px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.2rem 0.25rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/nie-logo.png&#34; alt=&#34;National Institute of Education Singapore logo&#34; style=&#34;max-width: 138px; max-height: 78px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.45rem 0.55rem; border-radius: 8px; background: #123d4a;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/nirx-logo.png&#34; alt=&#34;NIRx logo&#34; style=&#34;max-width: 104px; max-height: 52px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.45rem 0.55rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/artinis-logo.png&#34; alt=&#34;Artinis logo&#34; style=&#34;max-width: 104px; max-height: 52px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p style=&#34;margin-top: 2cm;&#34;&gt;&lt;strong&gt;Abstract submission deadline: 10 September 2026.&lt;/strong&gt;&lt;/p&gt;
+    &lt;p style=&#34;display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;&#34;&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://clinicalbrainlab.github.io/events/brainconnects-2026/abstract-submission/&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;&#34;&gt;Submit Abstract&lt;/a&gt;&lt;span class=&#34;btn btn-outline-primary&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; cursor: not-allowed;&#34;&gt;Registration Coming Soon&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
