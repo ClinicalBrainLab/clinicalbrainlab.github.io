@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adult Learning | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/tag/adult-learning/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/tag/adult-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adult Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Adult Learning</title>
+      <link>https://clinicalbrainlab.github.io/tag/adult-learning/</link>
+    </image>
+    
+    <item>
+      <title>Research on the science of adult learning: A bibliometric analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
