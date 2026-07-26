@@ -153,7 +153,7 @@ _Note: The course starts in Week 12 of Semester 2 and continues through to the s
     <td valign="top" align="center" style="white-space: nowrap;">W8-ST</td>
     <td valign="top">29 June - 3 July</td>
     <td valign="top">
-      <strong>Proposed Symposium Week</strong> (Visit from NTU Taiwan Students)<br>
+      <strong><a href="/talk/2026_brainhack_symposium/">BrainHack Symposium Week</a></strong> (Visit from NTU Taiwan Students)<br>
       We will host a small conference (symposium) regarding the projects (via presentations and posters).<br>
       Students will present their projects for discussion.<br>
       <strong>Submission of Reflection Essay Deadline: 03 July at 5 pm on NTULearn</strong>
