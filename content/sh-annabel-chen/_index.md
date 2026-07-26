@@ -20,7 +20,7 @@ type: page
       <dt>Institution</dt>
       <dd>Nanyang Technological University, Singapore</dd>
       <dt>Current roles</dt>
-      <dd>President's Chair in Psychology; Director, Centre for Research and Development in Learning (CRADLE); Director, Cognitive Neuroimaging Centre (CoNIC); Director, Centre for Lifelong Learning and Individualised Cognition (CLIC)</dd>
+      <dd>President's Chair in Psychology; Director, Centre for Research and Development in Learning (CRADLE); Interim Director, Cognitive Neuroimaging Centre (CoNIC); Director, Centre for Lifelong Learning and Individualised Cognition (CLIC)</dd>
       <dt>Research areas</dt>
       <dd>Clinical neuropsychology, cerebellar contributions to higher cognition, ageing neuroscience, neuroimaging, science of learning</dd>
       <dt>Identifiers</dt>
@@ -38,7 +38,7 @@ type: page
   <h2>Career</h2>
   <p>Before joining NTU, Annabel was an assistant professor in the Graduate Clinical Psychology programme at National Taiwan University. At NTU, she has served as Associate Chair for Research in the former School of Humanities and Social Sciences and as Deputy Chair for the NTU Institutional Review Board's social, behavioural, and educational research domain.</p>
 
-  <p>Annabel currently directs the Centre for Research and Development in Learning (CRADLE), the Cognitive Neuroimaging Centre (CoNIC), and the Centre for Lifelong Learning and Individualised Cognition (CLIC). She also leads the Clinical Brain Lab, which conducts work across clinical cognitive neuroscience, learning, ageing, and socioaffective neuroscience.</p>
+  <p>Annabel currently directs the Centre for Research and Development in Learning (CRADLE), serves as Interim Director of the Cognitive Neuroimaging Centre (CoNIC), and directs the Centre for Lifelong Learning and Individualised Cognition (CLIC). She also leads the Clinical Brain Lab, which conducts work across clinical cognitive neuroscience, learning, ageing, and socioaffective neuroscience.</p>
 
   <h2>Honours</h2>
   <p>In 2024, Annabel assumed the President's Chair in Psychology at NTU. In 2023, she received the Public Administration Medal (Bronze) at Singapore's National Day Awards in recognition of public service.</p>
