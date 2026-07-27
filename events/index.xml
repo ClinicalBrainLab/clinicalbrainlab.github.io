@@ -23,7 +23,7 @@
     &lt;div style=&#34;max-width: 1120px; margin: 0 auto;&#34;&gt;
     &lt;p style=&#34;margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;&#34;&gt;29 September - 2 October 2026&lt;/p&gt;
     &lt;h2 style=&#34;margin-top: 0;&#34;&gt;Watch this page for BrainConnects 2026&lt;/h2&gt;
-    &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; LKCMedicine HQ, Novena Campus, NTU.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; LKCMedicine HQ, Novena Campus, NTU, Singapore.&lt;/p&gt;
     &lt;p&gt;BrainConnects brings together researchers, clinicians, educators, engineers and technology partners working across cognitive neuroscience, neuroimaging, mental health, learning sciences and human development.&lt;/p&gt;
     &lt;p&gt;The 2026 meeting is hosted by the Science of Learning in Education Centre (SoLEC), National Institute of Education; the Centre for Lifelong Learning and Individualised Cognition (CLIC) NTU-Cambridge; the Centre of Research &amp;amp; Development in Learning (CRADLE), and the Centre for Neuroimaging (CoNiC) at NTU, with NIRx/Artinis as partners for the fNIRS workshop.&lt;/p&gt;
     &lt;p&gt;This year&#39;s theme, &lt;strong&gt;Shared Signals, Connected Learning&lt;/strong&gt;, reflects our interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches to understanding connectedness, interpersonal synchrony, and shared attention in real-world learning environments. Learning rarely happens in isolation: it unfolds through exchanges between learners, teachers, peers, technologies, and environments. By studying shared neural, cognitive, physiological, behavioural, and social signals, BrainConnects 2026 aims to ask how people align attention, coordinate understanding, communicate meaning, and build knowledge together.&lt;/p&gt;
@@ -69,7 +69,11 @@
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;p style=&#34;margin-top: 2cm;&#34;&gt;&lt;strong&gt;Abstract submission deadline: 5 September 2026.&lt;/strong&gt;&lt;/p&gt;
-    &lt;p style=&#34;display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;&#34;&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;&#34;&gt;Submit Abstract&lt;/a&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; text-decoration: none;&#34;&gt;Registration&lt;/a&gt;&lt;/p&gt;
+    &lt;p style=&#34;display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;&#34;&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;&#34;&gt;Submit Abstract&lt;/a&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; opacity: 0.78; text-decoration: none;&#34;&gt;Registration&lt;/a&gt;
+     &lt;a class=&#34;btn btn-primary&#34; 
+     href=&#34;https://sites.google.com/view/brainconnects2026/&#34; 
+     style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;&#34;&gt;More Details &lt;/a&gt;
+    &lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;
