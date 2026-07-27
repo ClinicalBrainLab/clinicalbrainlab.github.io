@@ -58,7 +58,7 @@ draft: false
       </div>
     </div>
     <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 10 September 2026.</strong></p>
-    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="/events/brainconnects-2026/abstract-submission/" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><span class="btn btn-outline-primary" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; cursor: not-allowed;">Registration Coming Soon</span></p>
+    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><span class="btn btn-outline-primary" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; cursor: not-allowed;">Registration Coming Soon</span></p>
     </div>
   </div>
 </section>
