@@ -44,6 +44,6 @@ user_groups:
 
 ---
 
-Adam John Privitera is a a Professor at the Advanced Institute of Humanities and Social Sciences, University of Electronic Science and Technology of China. His research focuses on how differences in language experience influence cognitive processes, as well as the application of findings from the cognitive and neural sciences to educational practice and policy.
+Adam John Privitera is a Professor at the Advanced Institute of Humanities and Social Sciences, University of Electronic Science and Technology of China. His research focuses on how differences in language experience influence cognitive processes, as well as the application of findings from the cognitive and neural sciences to educational practice and policy.
 
 --- 
