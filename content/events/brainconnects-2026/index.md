@@ -1,7 +1,7 @@
 ---
 title: BrainConnects 2026
 subtitle: "Shared Signals, Connected Learning"
-summary: "BrainConnects 2026 will bring together researchers, clinicians, educators, engineers, and technology partners from 29 September to 2 October 2027."
+summary: "BrainConnects 2026 will bring together researchers, clinicians, educators, engineers, and technology partners from 29 September to 2 October 2026."
 hide_page_title: true
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
   <img src="/media/brainconnects/brainconnects-2026-logo.png" alt="BrainConnects 2026 logo showing collaborating institutions connected by a brain network" style="display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;">
   <div style="width: calc(100% + 2.4rem); margin-left: -1.2rem; padding: 1.4rem; border: 1px solid rgba(15, 108, 109, 0.18); border-radius: 8px; background: linear-gradient(135deg, #fbffff 0%, #eefafa 52%, #ffffff 100%); box-sizing: border-box;">
     <div style="max-width: 1120px; margin: 0 auto;">
-    <p style="margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;">29 September - 2 October 2027</p>
+    <p style="margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;">29 September - 2 October 2026</p>
     <h2 style="margin-top: 0;">Watch this page for BrainConnects 2026</h2>
     <p><strong>Location:</strong> LKCMedicine HQ, Novena Campus, NTU.</p>
     <p>BrainConnects brings together researchers, clinicians, educators, engineers and technology partners working across cognitive neuroscience, neuroimaging, mental health, learning sciences and human development.</p>
@@ -57,8 +57,8 @@ draft: false
         </div>
       </div>
     </div>
-    <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 10 September 2026.</strong></p>
-    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><span class="btn btn-outline-primary" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; cursor: not-allowed;">Registration Coming Soon</span></p>
+    <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 5 September 2026.</strong></p>
+    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; text-decoration: none;">Registration</a></p>
     </div>
   </div>
 </section>
