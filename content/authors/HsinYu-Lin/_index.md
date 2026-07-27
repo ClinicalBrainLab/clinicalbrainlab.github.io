@@ -42,7 +42,7 @@ superuser: false
  
 title: Lin Hsin-Yu (Tiffany)
 user_groups:
-- Research Scientists and Research Fellows
+- Research Scientists and Research Associates
  
 ---
  

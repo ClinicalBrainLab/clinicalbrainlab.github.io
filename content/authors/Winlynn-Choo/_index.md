@@ -29,7 +29,7 @@ superuser: false
 
 title: Winlynn Choo
 user_groups:
-- Research Associates
+- Research Scientists and Research Associates
 
 ---
 

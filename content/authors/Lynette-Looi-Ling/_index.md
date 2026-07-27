@@ -32,7 +32,7 @@ superuser: false
 
 title: Lynette Looi Ling 
 user_groups:
-- Research Scientists and Research Fellows
+- Research Fellows
 
 ---
 Lynette Looi Ling is a Research Fellow in the Centre for Research and Development in Learning at Nanyang Technological University in Singapore. Her research interests include combining the use of advanced neuroimaging methods with neuropsychological techniques in cognitive research in both healthy and diseased paediatric brains.

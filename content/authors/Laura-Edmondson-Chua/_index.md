@@ -46,7 +46,7 @@ social:
 superuser: false
 title: Laura Edmondson Chua
 user_groups:
-- Research Scientists and Research Fellows
+- Research Fellows
   
 ---
 Dr Laura Edmondson Chua earned her PhD in Computational Neuroscience from the University of Sheffield. Her PhD research focused on developing theoretical and mechanistic computational models of somatosensory cortex function, investigating how tactile sensory representations emerge and change through cortical plasticity. She further applied modelling to fMRI data to examine how these mechanisms give rise to observed patterns of cortical activity. Following her doctoral studies, she continued working in the Active Touch Lab at Sheffield as a Postdoctoral Research Associate, where she developed computational models of tactile psychophysical tasks.
