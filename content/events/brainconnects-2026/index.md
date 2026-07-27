@@ -13,7 +13,7 @@ draft: false
     <p style="margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;">29 September - 2 October 2026</p>
     <h2 style="margin-top: 0;">Watch this page for BrainConnects 2026</h2>
     <p><strong>Location:</strong> LKCMedicine HQ, Novena Campus, NTU, Singapore.</p>
-    <p>BrainConnects 2026 will be held from 29 September to 2 October 2026 at Nanyang Technological University, Singapore. This year's meeting, themed <strong>Shared Signals, Connected Learning</strong>, explores how learners, educators, clinicians, researchers, technologies, and environments become connected through shared neural, cognitive, physiological, and social signals. The programme brings together cognitive neuroscience, neuroimaging, learning sciences, mental health, ageing, human development, and cognitive engineering, with particular interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches for studying real-world learning and interaction. We are especially excited that BrainConnects 2026 will take place alongside the NIRx and Artinis fNIRS workshop, creating opportunities for both scientific exchange and hands-on engagement with emerging neuroimaging tools. Programme details will be updated by day on the BrainConnects 2026 site; please use the Program at a Glance link below for the latest Day 1, Day 2, Day 3, and Day 4 schedule.</p>
+    <p>BrainConnects 2026 will be held from 29 September to 2 October 2026 at Nanyang Technological University, Singapore. This year's meeting, themed <strong>Shared Signals, Connected Learning</strong>, explores how learners, educators, clinicians, researchers, technologies, and environments become connected through shared neural, cognitive, physiological, and social signals. The programme brings together cognitive neuroscience, neuroimaging, learning sciences, mental health, ageing, human development, and cognitive engineering, with particular interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches for studying real-world learning and interaction. We are especially excited that BrainConnects 2026 will take place alongside the NIRx and Artinis fNIRS workshop, creating opportunities for both scientific exchange and hands-on engagement with emerging neuroimaging tools. Programme details will be updated on the BrainConnects 2026 site; please use the More Details link below for the latest information.</p>
     <div style="margin-top: 1.45rem; padding-top: 1.35rem; border-top: 1px solid rgba(15, 108, 109, 0.18);">
       <h3 style="margin: 0 0 0.9rem; color: #123d4a;">Keynote Speakers</h3>
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.1rem;">
@@ -54,11 +54,11 @@ draft: false
         </div>
       </div>
     </div>
-    <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 5 September 2026.</strong></p>
+    <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 10 September 2026.</strong></p>
     <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; opacity: 0.78; text-decoration: none;">Registration</a>
      <a class="btn btn-primary" 
      href="https://sites.google.com/view/brainconnects2026/" 
-     style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Program at a Glance</a>
+     style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">More Details</a>
     </p>
     </div>
   </div>
