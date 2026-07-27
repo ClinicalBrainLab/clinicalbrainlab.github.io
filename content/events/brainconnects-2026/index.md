@@ -12,7 +12,7 @@ draft: false
     <div style="max-width: 1120px; margin: 0 auto;">
     <p style="margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;">29 September - 2 October 2026</p>
     <h2 style="margin-top: 0;">Watch this page for BrainConnects 2026</h2>
-    <p><strong>Location:</strong> LKCMedicine HQ, Novena Campus, NTU.</p>
+    <p><strong>Location:</strong> LKCMedicine HQ, Novena Campus, NTU, Singapore.</p>
     <p>BrainConnects brings together researchers, clinicians, educators, engineers and technology partners working across cognitive neuroscience, neuroimaging, mental health, learning sciences and human development.</p>
     <p>The 2026 meeting is hosted by the Science of Learning in Education Centre (SoLEC), National Institute of Education; the Centre for Lifelong Learning and Individualised Cognition (CLIC) NTU-Cambridge; the Centre of Research &amp; Development in Learning (CRADLE), and the Centre for Neuroimaging (CoNiC) at NTU, with NIRx/Artinis as partners for the fNIRS workshop.</p>
     <p>This year's theme, <strong>Shared Signals, Connected Learning</strong>, reflects our interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches to understanding connectedness, interpersonal synchrony, and shared attention in real-world learning environments. Learning rarely happens in isolation: it unfolds through exchanges between learners, teachers, peers, technologies, and environments. By studying shared neural, cognitive, physiological, behavioural, and social signals, BrainConnects 2026 aims to ask how people align attention, coordinate understanding, communicate meaning, and build knowledge together.</p>
@@ -58,7 +58,11 @@ draft: false
       </div>
     </div>
     <p style="margin-top: 2cm;"><strong>Abstract submission deadline: 5 September 2026.</strong></p>
-    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; text-decoration: none;">Registration</a></p>
+    <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; opacity: 0.78; text-decoration: none;">Registration</a>
+     <a class="btn btn-primary" 
+     href="https://sites.google.com/view/brainconnects2026/" 
+     style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">More Details </a>
+    </p>
     </div>
   </div>
 </section>
