@@ -61,7 +61,7 @@ draft: false
     <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdy9v0UfpaQEteMc2YBCqQdsP5u1sTb9ixgbaeeZLo37VAtSg/viewform?usp=header" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; opacity: 0.78; text-decoration: none;">Registration</a>
      <a class="btn btn-primary" 
      href="https://sites.google.com/view/brainconnects2026/" 
-     style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">More Details</a>
+     style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Program</a>
     </p>
     </div>
   </div>
