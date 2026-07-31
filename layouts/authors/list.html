@@ -11,6 +11,19 @@
 
 <section id="profile-page" class="pt-5">
   <div class="container">
+    {{ $show_annabel_profile := false }}
+    {{ with .File }}
+      {{ if eq .ContentBaseName "Annabel-Chen" }}
+        {{ $show_annabel_profile = true }}
+      {{ end }}
+    {{ end }}
+    {{ if $show_annabel_profile }}
+      {{ with .Site.GetPage "/sh-annabel-chen" }}
+        <div class="article-style">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    {{ else }}
     {{/* Show the About widget if an account exists for this user. */}}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
@@ -42,6 +55,7 @@
         </ul>
       </div>
       {{ end }}
+    {{ end }}
     {{ end }}
   </div>
 </section>
