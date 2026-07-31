@@ -30,8 +30,6 @@ type: page
 
   <p><strong>S. H. Annabel Chen</strong> is a clinical neuropsychologist and professor of psychology at Nanyang Technological University (NTU), Singapore. She is President's Chair in Psychology at NTU's School of Social Sciences, Director of the Centre for Research and Development in Learning (CRADLE), and Interim Director of the Cognitive Neuroimaging Centre (CoNIC). Annabel is also Director of the Centre for Lifelong Learning and Individualised Cognition (CLIC). CLIC is an NRF-CREATE programme in collaboration with the University of Cambridge. Her academic appointments include affiliations with the Lee Kong Chian School of Medicine and the National Institute of Education.</p>
 
-  <p>Annabel's research examines relationships between brain systems, cognition, and behaviour, with a focus on clinical neuropsychology, neuroimaging, ageing neuroscience, learning and education, and the cerebellum's contribution to higher cognitive functions.</p>
-
   <h2>Education and Training</h2>
   <p>Annabel received her doctorate in clinical rehabilitation psychology from Purdue University. She completed a clinical psychology internship in behavioural medicine and psychiatry at West Virginia University School of Medicine, followed by a post-doctoral clinical residency in adult clinical neuropsychology at the Medical College of Wisconsin. She later worked as a post-doctoral research affiliate at the Lucas MRS/I Center, Stanford University School of Medicine.</p>
 
