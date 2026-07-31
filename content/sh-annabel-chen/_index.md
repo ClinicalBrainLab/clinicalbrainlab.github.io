@@ -44,7 +44,7 @@ type: page
   <p>In 2024, Annabel assumed the President's Chair in Psychology at NTU. In 2023, she received the Public Administration Medal (Bronze) at Singapore's National Day Awards in recognition of public service.</p>
 
   <h2>Research</h2>
-  <p>Annabel's research programme integrates behavioural, neuropsychological, and neuroimaging approaches to examine higher cognition and brain-behaviour relationships. Her work spans clinical neuropsychology, cerebellar contributions to cognition and neuropsychiatric disorders, ageing neuroscience, and applications of neuropsychology and neuroimaging to learning and education. Current areas of research in her lab include cerebellar-cortical networks, healthy brain ageing, neurostimulation, language and reading networks, the science of learning, and social-affective cognition.</p>
+  <p>Annabel's research programme integrates behavioural, neuropsychological, and neuroimaging approaches to examine brain-behaviour relationships and the role of the cerebellum in higher cognition. Her work spans clinical neuropsychology, cerebellar contributions to cognition and neuropsychiatric disorders, ageing neuroscience, and applications of neuropsychology and neuroimaging to learning and education. Current areas of research in her lab include cerebellar-cortical networks, healthy brain ageing, neurostimulation, language and reading networks, the science of learning, and social-affective cognition.</p>
 
   <p>Across these areas, she applies methods such as functional MRI, diffusion MRI, EEG, fNIRS, TMS, tDCS, and cognitive assessment in healthy and clinical populations.</p>
 
