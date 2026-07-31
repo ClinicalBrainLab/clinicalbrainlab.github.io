@@ -10,7 +10,7 @@ email: "annabelchen@ntu.edu.sg"
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Professor of Psychology <br /> Lab Director
+role: President's Chair in Psychology <br /> Lab Director
 
 social:
 - icon: envelope
@@ -46,6 +46,6 @@ She conducted her post-doctoral clinical residency in Clinical Neuropsychology a
 She started her assistant professorship at the National Taiwan University in the Graduate Clinical Psychology programme before joining NTU as an associate professor. 
 Since then, she served as the Associate Chair for Research for the School of Humanities and Social Sciences from 2014-2015, and is the Deputy Chair (SBER) for the Institutional Review Board at NTU.
 
-She is currently the Director of the Centre of Research and Development in Learning (CRADLE), a university level research centre at NTU.
+She is currently Director of the Centre for Research and Development in Learning (CRADLE), Interim Director of the Cognitive Neuroimaging Centre (CoNIC), and Director of the Centre for Lifelong Learning and Individualised Cognition (CLIC). She also leads the Clinical Brain Lab, which conducts work across clinical cognitive neuroscience, learning, ageing, and socioaffective neuroscience.
 
 --- 
