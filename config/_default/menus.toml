@@ -39,11 +39,6 @@ url = "events/"
 weight = 55
 
 [[main]]
-name = "BrainConnects"
-url = "brainconnects/"
-weight = 57
-
-[[main]]
 name = "Resources & Software"
 url = "resources/"
 weight = 60
