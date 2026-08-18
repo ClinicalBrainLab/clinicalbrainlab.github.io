@@ -20,6 +20,7 @@ email: "yvet0003@e.ntu.edu.sg"
 interests:
 - Developmental Psychology
 - Emotional regulation
+- Adolescence
 
 organizations:
 - name: Nanyang Technological University
