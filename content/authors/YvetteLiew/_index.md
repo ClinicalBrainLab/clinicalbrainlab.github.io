@@ -35,4 +35,4 @@ social:
 
 ---
 
-Yvette is a final year undergraduate student of Psychology at Nanyang Technological University. Her research interests lie the psychological development of children, focusing on that of emotion regulation skills.
+Yvette is a final year undergraduate student of Psychology at Nanyang Technological University. Her research interests lie in the psychological development of children, focusing on that of emotion regulation skills.
