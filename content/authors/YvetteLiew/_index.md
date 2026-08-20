@@ -7,7 +7,7 @@ user_groups:
 authors:
 - Yvette Liew Wan Shin
 
-bio: Yvette is a final year undergraduate student of Psychology at Nanyang Technological University. Her research interests lie the psychological development of children, focusing on that of emotion regulation skills.
+bio: Yvette is a final year undergraduate student of Psychology at Nanyang Technological University. Her research interests lie in the psychological development of children, focusing on that of emotion regulation skills.
 
 education:
   courses:
