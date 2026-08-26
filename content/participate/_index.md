@@ -15,9 +15,3 @@ type: participate
     </div>
   </div>
 </div>
-
-## Gallery
-
-Pictures from conferences, research visits, lab activities, outreach sessions, and celebrations.
-
-[View the gallery](/participate/gallery/)
