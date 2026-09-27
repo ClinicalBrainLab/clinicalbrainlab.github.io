@@ -99,7 +99,7 @@ Research Fellows
 - [Miao Zhong, PhD](/author/miao-zhong/)
 
 Research Associates
-- [Adhya Neshaa Nedumaran](/author/adhya-neshaa/)
+- [Adhya Neshaa Nedumaran](/author/adhya-neshaa-nedumaran/)
 - Alvin Lim, MA
 - Cathy Kao, MS
 - Hong Min
@@ -137,7 +137,7 @@ Interns
 - Chew Hong Ern
 
 System Admin
-- [Lua Rui Ping, PhD](https://www.sgdi.gov.sg/ministries/mddi/departments/sndg/departments/tc)
+- [Lua Rui Ping, PhD](https://www.cqt.sg/governing-board/)
 
 </br></br>
 National Taiwan University (Taiwan):

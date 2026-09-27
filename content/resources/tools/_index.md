@@ -67,7 +67,7 @@ MRS analysis focuses on spectral preprocessing, fitting, quantification, tissue 
 
 - [FSL-MRS](https://fsl.fmrib.ox.ac.uk/fsl/docs/utilities/fsl_mrs.html) is an end-to-end spectroscopy toolbox for conversion, preprocessing, basis simulation, fitting, quantification, and visualization.
 - [LCModel](https://www.lcmodel.com/lcmodel.shtml) is a long-standing package for automatic quantification of in vivo proton MR spectra.
-- [jMRUI](https://www.jmrui.eu/) provides time-domain analysis and quantification tools for clinical and biomedical MRS and MRSI data.
+- [jMRUI](https://mrshub.org/software_all/) provides time-domain analysis and quantification tools for clinical and biomedical MRS and MRSI data.
 - [Osprey](https://github.com/schorschinho/osprey) is an open-source toolbox for processing, modeling, quantification, and visualization of in vivo MRS data.
 - [TARQUIN](https://www.nitrc.org/projects/tarquin/) provides automated quantification for in vivo proton MRS and related NMR spectroscopy data.
 

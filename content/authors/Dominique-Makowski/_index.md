@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:dom.makowski@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Dom_Makowski

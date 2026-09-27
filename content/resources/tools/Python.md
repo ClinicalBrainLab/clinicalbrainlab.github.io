@@ -26,7 +26,7 @@ Not only does it comprise of a graphical user interface (GUI) so that novices ca
 ## Data Wrangling
 
 Base Python consists of a series of modules that accommodates different functionalities. For example, the [pandas](https://pandas.pydata.org) module allows for importing, manipulation and organization of
-text files, csv (comma-separated-values) files, or excel spreadsheets. The [scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html) module is also made for statistical analyses, and [matplotlib](https://matplotlib.org/index.html)
+text files, csv (comma-separated-values) files, or excel spreadsheets. The [scipy](https://docs.scipy.org/doc/scipy/tutorial/stats.html) module is also made for statistical analyses, and [matplotlib](https://matplotlib.org/index.html)
 for graphical visualization of data.
 
 ## Lab Use

@@ -33,7 +33,7 @@ url_video: ""
 
 As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable. 
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers 
-and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: https://www.moh.gov.sg/covid-19/clarifications) to debunk all instances of fake news.
+and authorities to track the spread of misinformation. Singapore maintains a [Corrections and Clarifications](https://www.factually.gov.sg/corrections-and-clarifications/) portal to address false or misleading claims.
 
 ## The Role of Conspiracy Theories
 

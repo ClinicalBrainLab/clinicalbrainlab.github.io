@@ -20,7 +20,7 @@ Led by [Dr. Dominique Makowski](/author/dominique-makowski/), NeuroKit2 is desig
 These bodily signals include electrocardiogram (ECG), electrodermal activity (EDA), respiration (RSP), electromyography (EMG), and electrooculography (EOG).
 Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with a few lines of code.
 
-The package consists of comprehensive [documentation](https://neurokit2.readthedocs.io/en/latest/) which provides some guidelines on getting started with Python and some tutorials on data analysis.
+The package consists of comprehensive [documentation](https://neuropsychology.github.io/NeuroKit/) which provides some guidelines on getting started with Python and some tutorials on data analysis.
 Its functionalities include signal simulation, data management (e.g., downloading existing datasets, reading and formatting files into a dataframe), events extraction from signals, epochs extraction, signal processing (e.g., filtering, resampling, rate computation),
 spectral analyses, complexity and entropy analyses, convenient statistical methods (e.g., K-means clustering, ICA or PCA).
 Convenient plotting functions are also available, allowing for quick visualization of processed signals.

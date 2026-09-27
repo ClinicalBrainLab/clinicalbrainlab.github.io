@@ -15,7 +15,7 @@ role: President's Chair in Psychology <br /> Lab Director
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:your@annabelchen@ntu.edu.sg
+  link: mailto:annabelchen@ntu.edu.sg
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrAnnabelChen

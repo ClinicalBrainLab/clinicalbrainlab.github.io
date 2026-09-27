@@ -20,4 +20,4 @@ links:
 
 ---
 
-Follow [this](https://www.brainconnects2023.com/) link to the official website of BrainConnects 2023.
+Visit the [BrainConnects 2023 conference website](https://brainconnects2023.wixsite.com/brain-connects) for the archived programme and event details.

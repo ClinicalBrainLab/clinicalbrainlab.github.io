@@ -31,9 +31,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3696-4683
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/thoughts_bhavya
 
 
 superuser: false

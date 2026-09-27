@@ -28,10 +28,7 @@ role: Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:your@masato.kawabata@nie.edu.sg
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.sg/citations?user=cHYrOV8AAAAJ&hl=en
+  link: mailto:masato.kawabata@nie.edu.sg
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1927-1359
@@ -57,4 +54,4 @@ The study by Mallett, Kawabata, Newcombe, Forero and Jackson (2007) was ranked f
 During his candidacy for the PhD, he was awarded by The University of Queensland a postgraduate research scholarship and three research grants for his doctoral research. 
 Furthermore, he was identified by the 1st-year UQ HMS students as an outstanding tutor for 2008.
 
---- 
+---

@@ -158,6 +158,4 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://spectrum.chat/academic)
-
 [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)

@@ -74,10 +74,10 @@ type: page
   <ol>
     <li><a href="https://www.ntu.edu.sg/cradle/our-people/annabel-chen-shen-hsing">"Annabel CHEN Shen-Hsing". Centre for Research and Development in Learning, NTU Singapore.</a></li>
     <li><a href="https://www.ntu.edu.sg/sss/about-us/our-people">"Our People". School of Social Sciences, NTU Singapore.</a></li>
-    <li><a href="https://www.ntu.edu.sg/hass/news-events/SSSCHair-Professorships">"Chair Professorships at NTU &amp; MOE-NTU". College of Humanities, Arts and Social Sciences, NTU Singapore.</a></li>
+    <li><a href="https://www.ntu.edu.sg/sss/news-events/news/detail/SSSCHair-Professorships">"Chair Professorships at NTU &amp; MOE-NTU". College of Humanities, Arts and Social Sciences, NTU Singapore.</a></li>
     <li><a href="https://www.ntu.edu.sg/research/research-focus/research-cluster-3-BrainandLearning/our-people">"Our People". Brain and Learning research cluster, NTU Singapore.</a></li>
     <li><a href="https://uk.sagepub.com/en-gb/eur/author/shen-hsing-annabel-chen">"Shen-Hsing Annabel Chen". SAGE Publications.</a></li>
-    <li><a href="https://www.ntu.edu.sg/hass/news-events/SSSCHair-Professorships">"Chair Professorships at NTU &amp; MOE-NTU". School of Social Sciences, NTU Singapore.</a></li>
+    <li><a href="https://www.ntu.edu.sg/sss/news-events/news/detail/SSSCHair-Professorships">"Chair Professorships at NTU &amp; MOE-NTU". School of Social Sciences, NTU Singapore.</a></li>
     <li><a href="https://www.ntu.edu.sg/news/detail/contributions-of-ntu-faculty-and-staff-recognised-with-national-day-honours">"Contributions of NTU faculty and staff recognised with National Day honours". NTU Singapore.</a></li>
   </ol>
 

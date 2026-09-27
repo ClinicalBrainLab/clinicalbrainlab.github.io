@@ -21,4 +21,4 @@ links:
 
 ---
 
-Register [here](https://www.eventbrite.sg/e/exploring-childrens-reading-with-brain-norm-from-brain-to-books-tickets-1073904540389?aff=ebdsoporgprofile) to join us on **14th December 2024**!
+Read the [event recap](https://blogs.ntu.edu.sg/reading/2024/12/20/exploring-the-world-of-childrens-reading-with-brain-norm-from-brain-to-books/) from **14 December 2024**.

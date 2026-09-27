@@ -34,7 +34,7 @@ The first aim of this study is to establish and validate a strong experimental p
 Alumni:
 
 Research Fellows:
-- [Zhong Miao, PhD](/author/zhong-miao/)
+- [Zhong Miao, PhD](/author/miao-zhong/)
 
 Research Associates:
 - [Wilson Lim](/author/wilson-lim/)

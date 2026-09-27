@@ -65,7 +65,7 @@ full_width_content: true
         fresh perspectives and future interdisciplinary collaborations.
       </p>
       <div class="brainhack-registration-row">
-        <a class="brainhack-symposium-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor">Register now</a> <a class="brainhack-symposium-link" href="/brainhack/programme.pdf" target="_blank">View Full Programme</a>
+        <a class="brainhack-symposium-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor">Register now</a> <a class="brainhack-symposium-link" href="/brainhack/programme.pdf" target="_blank" rel="noopener noreferrer">View Full Programme</a>
         <div class="brainhack-registration-logos" aria-label="Partner organisations">
           <img class="brainhack-logo-img brainhack-logo-cbl" src="/media/brainhack/cbl-logo-transparent.png" alt="Clinical Brain Lab logo">
           <img class="brainhack-logo-img brainhack-logo-ntu-tw" src="/media/brainhack/ntu-tw-transparent.png" alt="National Taiwan University logo">

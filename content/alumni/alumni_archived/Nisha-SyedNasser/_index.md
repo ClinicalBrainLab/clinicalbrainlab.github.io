@@ -29,9 +29,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nishasyednasser
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=HJxiYtgAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3241-8690
