@@ -45,7 +45,7 @@ Not only does it comprise of a graphical user interface (GUI) so that novices ca
 &lt;p&gt;Base Python consists of a series of modules that accommodates different functionalities. For example, the 
 &lt;a href=&#34;https://pandas.pydata.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandas&lt;/a&gt; module allows for importing, manipulation and organization of
 text files, csv (comma-separated-values) files, or excel spreadsheets. The 
-&lt;a href=&#34;https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scipy&lt;/a&gt; module is also made for statistical analyses, and 
+&lt;a href=&#34;https://docs.scipy.org/doc/scipy/tutorial/stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scipy&lt;/a&gt; module is also made for statistical analyses, and 
 &lt;a href=&#34;https://matplotlib.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matplotlib&lt;/a&gt;
 for graphical visualization of data.&lt;/p&gt;
 &lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;

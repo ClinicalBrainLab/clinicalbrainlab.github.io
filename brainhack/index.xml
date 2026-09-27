@@ -352,12 +352,11 @@ cd &amp;lt;your_name&amp;gt;_project
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Open the &lt;code&gt;README.md&lt;/code&gt; file. Copy and paste all the contents from 
-&lt;a href=&#34;https://raw.githubusercontent.com/brainhack-school2023/project_template/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School Project template&lt;/a&gt;. Follow the template and modify the text to show the necessary details for your project. This &lt;code&gt;README.md&lt;/code&gt; is a markdown file, so you should prepare it as markdown format, then Github and our website will render this markdown file on webpage as shown 
-&lt;a href=&#34;https://github.com/school-brainhack/project_template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
-&lt;a href=&#34;https://school-brainhack.github.io/project/template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. You can learn more about markdown format 
+&lt;a href=&#34;https://raw.githubusercontent.com/brainhack-school2023/project_template/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School Project template&lt;/a&gt;. Follow the template and modify the text to show the necessary details for your project. This &lt;code&gt;README.md&lt;/code&gt; is a markdown file, so you should prepare it as markdown format, then GitHub and our website will render this markdown file on a webpage, as shown in the 
+&lt;a href=&#34;https://github.com/school-brainhack/project_template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project template repository&lt;/a&gt;. You can learn more about markdown format 
 &lt;a href=&#34;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, 
 &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;Please ensure your page header is in markdown format, starting with three dashes (&amp;mdash;) in the first row.&lt;/strong&gt;  You can embed your result figures in the README.md. However, please note that you should copy your figure files into the same folder and use the relative path to embed your figures.&lt;/p&gt;
+&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;Please ensure your page header is in markdown format, starting with three dashes (&amp;mdash;) in the first row.&lt;/strong&gt; You can embed your result figures in the README.md. However, please note that you should copy your figure files into the same folder and use the relative path to embed your figures.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Copy all your deliverables into this folder, stage and commit your changes and push to repository. You have to input your Github username and 

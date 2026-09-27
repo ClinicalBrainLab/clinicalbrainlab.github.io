@@ -244,8 +244,6 @@
 
   
   
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  
 
   
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="The Clinical Brain Lab">
@@ -1518,18 +1516,6 @@
 
     
     
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
-    
 
     
     
@@ -1615,10 +1601,10 @@
         <pre><code class="tex hljs"></code></pre>
       </div>
       <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-copy"></i> Copy
         </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
@@ -1626,6 +1612,7 @@
     </div>
   </div>
 </div>
+
 
 </body>
 </html>

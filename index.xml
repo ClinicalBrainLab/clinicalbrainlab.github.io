@@ -68,7 +68,7 @@
         fresh perspectives and future interdisciplinary collaborations.
       &lt;/p&gt;
       &lt;div class=&#34;brainhack-registration-row&#34;&gt;
-        &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor&#34;&gt;Register now&lt;/a&gt; &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://clinicalbrainlab.github.io/brainhack/programme.pdf&#34; target=&#34;_blank&#34;&gt;View Full Programme&lt;/a&gt;
+        &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor&#34;&gt;Register now&lt;/a&gt; &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://clinicalbrainlab.github.io/brainhack/programme.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;View Full Programme&lt;/a&gt;
         &lt;div class=&#34;brainhack-registration-logos&#34; aria-label=&#34;Partner organisations&#34;&gt;
           &lt;img class=&#34;brainhack-logo-img brainhack-logo-cbl&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/cbl-logo-transparent.png&#34; alt=&#34;Clinical Brain Lab logo&#34;&gt;
           &lt;img class=&#34;brainhack-logo-img brainhack-logo-ntu-tw&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ntu-tw-transparent.png&#34; alt=&#34;National Taiwan University logo&#34;&gt;
@@ -744,12 +744,11 @@ cd &amp;lt;your_name&amp;gt;_project
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Open the &lt;code&gt;README.md&lt;/code&gt; file. Copy and paste all the contents from 
-&lt;a href=&#34;https://raw.githubusercontent.com/brainhack-school2023/project_template/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School Project template&lt;/a&gt;. Follow the template and modify the text to show the necessary details for your project. This &lt;code&gt;README.md&lt;/code&gt; is a markdown file, so you should prepare it as markdown format, then Github and our website will render this markdown file on webpage as shown 
-&lt;a href=&#34;https://github.com/school-brainhack/project_template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
-&lt;a href=&#34;https://school-brainhack.github.io/project/template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. You can learn more about markdown format 
+&lt;a href=&#34;https://raw.githubusercontent.com/brainhack-school2023/project_template/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School Project template&lt;/a&gt;. Follow the template and modify the text to show the necessary details for your project. This &lt;code&gt;README.md&lt;/code&gt; is a markdown file, so you should prepare it as markdown format, then GitHub and our website will render this markdown file on a webpage, as shown in the 
+&lt;a href=&#34;https://github.com/school-brainhack/project_template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project template repository&lt;/a&gt;. You can learn more about markdown format 
 &lt;a href=&#34;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, 
 &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;Please ensure your page header is in markdown format, starting with three dashes (&amp;mdash;) in the first row.&lt;/strong&gt;  You can embed your result figures in the README.md. However, please note that you should copy your figure files into the same folder and use the relative path to embed your figures.&lt;/p&gt;
+&lt;a href=&#34;https://www.markdowntutorial.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. &lt;strong&gt;Please ensure your page header is in markdown format, starting with three dashes (&amp;mdash;) in the first row.&lt;/strong&gt; You can embed your result figures in the README.md. However, please note that you should copy your figure files into the same folder and use the relative path to embed your figures.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Copy all your deliverables into this folder, stage and commit your changes and push to repository. You have to input your Github username and 
@@ -1058,7 +1057,7 @@ git push -u origin main
 &lt;p&gt;Research Fellows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://clinicalbrainlab.github.io/author/zhong-miao/&#34;&gt;Zhong Miao, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/miao-zhong/&#34;&gt;Zhong Miao, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Associates:&lt;/p&gt;
 &lt;ul&gt;
@@ -1420,8 +1419,8 @@ As technology and globalisation are changing the nature of labour markets and in
       <link>https://clinicalbrainlab.github.io/talk/2024_brainnorm_outreach/</link>
       <pubDate>Sat, 14 Dec 2024 14:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/talk/2024_brainnorm_outreach/</guid>
-      <description>&lt;p&gt;Register 
-&lt;a href=&#34;https://www.eventbrite.sg/e/exploring-childrens-reading-with-brain-norm-from-brain-to-books-tickets-1073904540389?aff=ebdsoporgprofile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; to join us on &lt;strong&gt;14th December 2024&lt;/strong&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Read the 
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/2024/12/20/exploring-the-world-of-childrens-reading-with-brain-norm-from-brain-to-books/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event recap&lt;/a&gt; from &lt;strong&gt;14 December 2024&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1659,8 +1658,8 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <link>https://clinicalbrainlab.github.io/talk/2023_brainconnects/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/talk/2023_brainconnects/</guid>
-      <description>&lt;p&gt;Follow 
-&lt;a href=&#34;https://www.brainconnects2023.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2023.&lt;/p&gt;
+      <description>&lt;p&gt;Visit the 
+&lt;a href=&#34;https://brainconnects2023.wixsite.com/brain-connects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BrainConnects 2023 conference website&lt;/a&gt; for the archived programme and event details.&lt;/p&gt;
 </description>
     </item>
     
@@ -1964,8 +1963,8 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <guid>https://clinicalbrainlab.github.io/publication/2020_deception-covid-fakenews/</guid>
       <description>&lt;p&gt;As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable.
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers
-and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: 
-&lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
+and authorities to track the spread of misinformation. Singapore maintains a 
+&lt;a href=&#34;https://www.factually.gov.sg/corrections-and-clarifications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corrections and Clarifications&lt;/a&gt; portal to address false or misleading claims.&lt;/p&gt;
 &lt;h2 id=&#34;the-role-of-conspiracy-theories&#34;&gt;The Role of Conspiracy Theories&lt;/h2&gt;
 &lt;p&gt;While the authorities are struggling to provide concrete explanations about the coronavirus, conspiracy theorists are quick to provide competing ones with confidence.
 This has exaggerated the spread of fake news and conspiracy theories - beliefs that seek to explain the cause of an event by a hidden, wicked and unlawful scheme, without scientific support.
@@ -2142,7 +2141,7 @@ Undergraduate Students&lt;/p&gt;
 &lt;p&gt;Research Associates&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://clinicalbrainlab.github.io/author/adhya-neshaa/&#34;&gt;Adhya Neshaa Nedumaran&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/adhya-neshaa-nedumaran/&#34;&gt;Adhya Neshaa Nedumaran&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Alvin Lim, MA&lt;/li&gt;
 &lt;li&gt;Cathy Kao, MS&lt;/li&gt;
 &lt;li&gt;Hong Min&lt;/li&gt;
@@ -2203,7 +2202,7 @@ Undergraduate Students&lt;/p&gt;
 &lt;p&gt;System Admin&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.sgdi.gov.sg/ministries/mddi/departments/sndg/departments/tc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lua Rui Ping, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.cqt.sg/governing-board/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lua Rui Ping, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/br&gt;&lt;/br&gt;
 National Taiwan University (Taiwan):&lt;/p&gt;
@@ -2512,7 +2511,7 @@ Led by
 These bodily signals include electrocardiogram (ECG), electrodermal activity (EDA), respiration (RSP), electromyography (EMG), and electrooculography (EOG).
 Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with a few lines of code.&lt;/p&gt;
 &lt;p&gt;The package consists of comprehensive 
-&lt;a href=&#34;https://neurokit2.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; which provides some guidelines on getting started with Python and some tutorials on data analysis.
+&lt;a href=&#34;https://neuropsychology.github.io/NeuroKit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; which provides some guidelines on getting started with Python and some tutorials on data analysis.
 Its functionalities include signal simulation, data management (e.g., downloading existing datasets, reading and formatting files into a dataframe), events extraction from signals, epochs extraction, signal processing (e.g., filtering, resampling, rate computation),
 spectral analyses, complexity and entropy analyses, convenient statistical methods (e.g., K-means clustering, ICA or PCA).
 Convenient plotting functions are also available, allowing for quick visualization of processed signals.&lt;/p&gt;
@@ -2567,7 +2566,7 @@ Not only does it comprise of a graphical user interface (GUI) so that novices ca
 &lt;p&gt;Base Python consists of a series of modules that accommodates different functionalities. For example, the 
 &lt;a href=&#34;https://pandas.pydata.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandas&lt;/a&gt; module allows for importing, manipulation and organization of
 text files, csv (comma-separated-values) files, or excel spreadsheets. The 
-&lt;a href=&#34;https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scipy&lt;/a&gt; module is also made for statistical analyses, and 
+&lt;a href=&#34;https://docs.scipy.org/doc/scipy/tutorial/stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scipy&lt;/a&gt; module is also made for statistical analyses, and 
 &lt;a href=&#34;https://matplotlib.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matplotlib&lt;/a&gt;
 for graphical visualization of data.&lt;/p&gt;
 &lt;h2 id=&#34;lab-use&#34;&gt;Lab Use&lt;/h2&gt;
@@ -2820,8 +2819,6 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
