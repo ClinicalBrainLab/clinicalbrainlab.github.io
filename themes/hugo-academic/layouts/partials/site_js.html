@@ -19,7 +19,11 @@
         {{ $v := $js.highlight.version }}
         {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.highlight.url $v) $js.highlight.sri | safeHTML }}
         {{ range site.Params.highlight_languages }}
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/{{ $v }}/languages/{{ . }}.min.js"></script>
+          {{ if and (eq $v "10.2.0") (eq . "r") }}
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/{{ $v }}/languages/{{ . }}.min.js" integrity="sha512-g7s7OCSU5BSCSTfgHPwJT6s2VTiwGO6JxFOVLEB4WaikcJs4WHNJXsB3WVB8JSRHUrBckMl0LGRrQ65eBv7qKw==" crossorigin="anonymous"></script>
+          {{ else }}
+          {{ errorf "Missing SRI hash for Highlight.js language %q at version %s" . $v }}
+          {{ end }}
         {{ end }}
       {{ end }}
 
