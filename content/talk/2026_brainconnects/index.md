@@ -8,8 +8,9 @@ date: "2026-09-29"
 date_end: "2026-10-02"
 hide_page_title: true
 draft: false
----
 tags: [BrainConnects]
+---
+
 
 <section style="max-width: 1120px; margin: 0 auto 2.5rem;">
   <img src="/media/brainconnects/brainconnects-2026-logo.png" alt="BrainConnects 2026 logo showing collaborating institutions connected by a brain network" style="display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;">
