@@ -2,7 +2,11 @@
 title: Events
 summary: Upcoming events and past event archives from the Clinical Brain Lab.
 ---
+<p style="text-align: center; margin: 2rem 0;">
+  <strong>Stay tuned for the next event!</strong>
+</p>
 
+<!--
 <div class="cbl-participate-study">
   <a href="/events/brainconnects-2026/" style="display: block; margin: -0.95rem 0 0;">
     <img src="/media/brainconnects/brainconnects-2026-banner-with-tagline.png" alt="BrainConnects 2026: Shared Signals, Connected Learning" style="display: block; width: 100%; height: auto;">
@@ -15,6 +19,7 @@ summary: Upcoming events and past event archives from the Clinical Brain Lab.
     <p style="display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;"><a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;">Submit Abstract</a><a class="btn btn-outline-primary" href="/events/brainconnects-2026/" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; line-height: 1.2; text-decoration: none;">View Details</a></p>
   </div>
 </div>
+-->
 
 ## Past Events
 
