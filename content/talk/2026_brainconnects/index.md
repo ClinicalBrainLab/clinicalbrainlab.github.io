@@ -4,22 +4,12 @@ subtitle: "Shared Signals, Connected Learning"
 summary: "BrainConnects 2026 will bring together researchers, clinicians, educators, engineers, and technology partners from 29 September to 2 October 2026."
 event: BrainConnects 2026
 event_url: https://sites.google.com/view/brainconnects2026
-date: "2026-09-29T08:00:00"
-date_end: "2026-10-02T17:00:00"
+date: "2026-09-29"
+date_end: "2026-10-02"
 hide_page_title: true
 draft: false
 ---
 tags: [BrainConnects]
-all_day: false
-location: "Auditorium, Headquarters & Clinical Sciences Building (CSB), Nanyang Technological University"
-address: ""
-tags: [BrainConnects]
-draft: false
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-links:
 
 <section style="max-width: 1120px; margin: 0 auto 2.5rem;">
   <img src="/media/brainconnects/brainconnects-2026-logo.png" alt="BrainConnects 2026 logo showing collaborating institutions connected by a brain network" style="display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;">
