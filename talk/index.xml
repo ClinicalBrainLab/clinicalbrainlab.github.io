@@ -5,7 +5,7 @@
     <link>https://clinicalbrainlab.github.io/talk/</link>
       <atom:link href="https://clinicalbrainlab.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Previous Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clinicalbrainlab.github.io/images/logo_hu_ca7e68c1fc50545b.png</url>
       <title>Previous Events</title>
@@ -15,19 +15,9 @@
     <item>
       <title>BrainConnects 2026</title>
       <link>https://clinicalbrainlab.github.io/talk/2026_brainconnects/</link>
-      <pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/talk/2026_brainconnects/</guid>
-      <description>&lt;p&gt;tags: [BrainConnects]
-all_day: false
-location: &amp;ldquo;Auditorium, Headquarters &amp;amp; Clinical Sciences Building (CSB), Nanyang Technological University&amp;rdquo;
-address: &amp;quot;&amp;quot;
-tags: [BrainConnects]
-draft: false
-url_code: &amp;quot;&amp;quot;
-url_pdf: &amp;quot;&amp;quot;
-url_slides: &amp;quot;&amp;quot;
-url_video: &amp;quot;&amp;quot;
-links:&lt;/p&gt;
+      <description>&lt;p&gt;tags: [BrainConnects]&lt;/p&gt;
 &lt;section style=&#34;max-width: 1120px; margin: 0 auto 2.5rem;&#34;&gt;
   &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/brainconnects-2026-logo.png&#34; alt=&#34;BrainConnects 2026 logo showing collaborating institutions connected by a brain network&#34; style=&#34;display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;&#34;&gt;
   &lt;div style=&#34;width: calc(100% + 2.4rem); margin-left: -1.2rem; padding: 1.4rem; border: 1px solid rgba(15, 108, 109, 0.18); border-radius: 8px; background: linear-gradient(135deg, #fbffff 0%, #eefafa 52%, #ffffff 100%); box-sizing: border-box;&#34;&gt;
