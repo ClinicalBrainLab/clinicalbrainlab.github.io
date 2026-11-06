@@ -24,6 +24,19 @@ height = "390px"
   overlay_filter = 0.2
 
 [[item]]
+  title = "CBL_Open_Research_Award_Editable_Banner"
+  content = "Open_Research_Award"
+  align = "right"
+  overlay_color = "#eefafa"
+  overlay_img = "headers/CBL_Open_Research_Award_Editable_Banner.png"
+  overlay_filter = 0.05
+  overlay_size = "100% 100%"
+  cta_label = "Link to page"
+  cta_url = "https://libguides.ntu.edu.sg/SGORawards2026/Chen"
+  cta_icon_pack = "fas"
+  cta_icon = "external-link-alt"
+
+[[item]]
   title = "National identity reconfigures brain responses from them to us"
   content = "2026 | Proceedings of the National Academy of Sciences"
   align = "right"
