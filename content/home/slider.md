@@ -24,8 +24,8 @@ height = "390px"
   overlay_filter = 0.2
 
 [[item]]
-  title = "CBL_Open_Research_Award_Editable_Banner"
-  content = "Open_Research_Award"
+  title = ""
+  content = ""
   align = "right"
   overlay_color = "#eefafa"
   overlay_img = "headers/CBL_Open_Research_Award_Editable_Banner.png"
