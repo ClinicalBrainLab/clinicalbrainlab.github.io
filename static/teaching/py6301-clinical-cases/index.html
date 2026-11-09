@@ -127,7 +127,6 @@ for(const q of questions){
   for(const key of choiceOrder(q.id,q.options)) dropdown.appendChild(options.get(key));
 }
 const caseDistractors=[["Daniel could detect stimuli to his left on visual-field testing.", "He omitted one side of the canvas. The case gives no evidence of difficulty recognising objects across both sides.", "A general difficulty recalling the scene would not explain why the omissions consistently fell on the left."], ["The scan showed a right-sided injury. Slide 29 highlights the right parietal network\u2019s role in spatial attention.", "A right-sided injury can cause left field loss, but Daniel\u2019s field test did not show it.", "Each eye sees parts of both sides of space. The scan and attention findings point to a brain network."], ["This reverses the tissue types. The insula is folded cortex and the putamen is a deep nucleus.", "The insula location is right. The putamen is a cluster of grey matter, not a bundle of axons.", "The insula location is right. The putamen belongs to the basal ganglia and is separate from the thalamus."], ["Daniel could see to his left on testing, so loss of incoming visual information does not fit the evidence.", "The scan showed injury in the insula and putamen. A network can be affected without direct injury to parietal cortex.", "Hand weakness alone would not explain the pattern of leaving one side of the canvas blank."], ["Frontal and temporal language systems help produce and understand language. The task asks how attention is directed across space.", "Occipitotemporal systems help identify objects. That is different from deciding where to direct attention.", "Medial temporal and cingulate regions can contribute to memory. The question asks about directing attention while scanning."], ["Painting on both sides shows improved coverage. Differences between the sides suggest attention may still be uneven.", "The visual-field test did not show the sensory loss this answer assumes.", "The new coverage shows improvement. Residual asymmetry leaves open how complete it was."], ["Cortical grey matter contains neuronal cell bodies. The fornix is a bundle of axons.", "Cranial nerves connect the brain to structures such as the eye or face. The fornix connects regions within the brain.", "A ventricle is a fluid-filled space. The fornix is neural tissue."], ["The arcuate fasciculus is an example of a frontal\u2013temporal language connection.", "The corticobulbar and corticospinal pathways carry descending motor signals.", "The corpus callosum is the major bundle connecting the two cerebral hemispheres."], ["The mammillary body sits below the fornix in the diagram and receives fibres from it.", "The hippocampus is shown at the lower end of the curved fornix in the diagram.", "The hypothalamus lies below the fornix in this view. The question asks for the structure above it."], ["Ravi could recall older events. His main difficulty was retaining new information.", "Ravi could take in what he was told. The clue is his later difficulty recalling it.", "The MRI locates the stroke in the fornix, a white-matter connection."], ["This reverses the roles of the two bundles.", "The corpus callosum description fits. The fornix belongs to a memory circuit rather than a frontal\u2013temporal language pathway.", "The fornix description fits. The corpus callosum crosses between hemispheres."], ["The symptoms suggest involvement of a memory circuit. Several lesions could produce that pattern.", "One artery can supply tissue on both sides. The MRI finding alone does not establish the number of arteries involved.", "The MRI locates injury in both sides of the fornix. The fornix connects with the hippocampus but is a separate structure."], ["CN IV moves the eye through the superior oblique muscle. It does not lift the eyelid or constrict the pupil.", "CN VI moves the eye outward. It does not lift the eyelid or constrict the pupil.", "CN II carries visual input. It does not move the eye, lift the eyelid, or carry the signal that constricts the pupil."], ["Both pupils can constrict when the left eye receives light. The weak responses are tied to light entering the right eye, which points to right-eye input.", "The left pupil responds poorly regardless of where the light is shone. This points to the outgoing signal to the left pupil.", "Both pupils can constrict when the right eye receives light. The weak responses are tied to light entering the left eye, which points to left-eye input."], ["CN II carries visual input. Compression there does not explain the combination of impaired eye movement and a large pupil.", "A nerve that only moves the eye would not explain the larger pupil.", "Pupil fibres alone could explain the larger pupil. The double vision also points to the eye-movement fibres."]];
-const quizDistractors=[["Primary motor cortex helps control voluntary movement.", "The internal capsule carries projection fibres. It is a route for signals, rather than the structure asked for here.", "The anterior thalamus is part of a memory circuit. The amygdala is more directly implicated in learning emotional significance."], ["These areas support movement and bodily sensation.", "Occipital cortex mainly processes visual input.", "Medial temporal structures support memory. Memory for experiences is a different function from sustaining motivation and adjusting social behaviour."], ["This reverses the roles of the two streams.", "The dorsal visual stream helps guide action using visual information.", "Primary visual cortex processes early visual features. Recognition and reaching recruit additional areas."], ["A problem in one eye would not account for omissions in another sensory modality.", "Primary visual cortex handles visual input. It does not explain omissions across modalities on its own.", "The pattern suggests a network hypothesis. It cannot locate one exact lesion."], ["Right-handed people can still differ in language dominance.", "Language uses a distributed network spanning multiple regions.", "Handedness gives a population-level clue. It does not establish dominance for one person."], ["Listening, understanding and speaking draw on several interacting systems.", "The hippocampus can help retrieve details. It cannot carry out the whole spoken explanation.", "Occipital cortex supports vision. The exchange also requires auditory and speech systems."], ["Commissural fibres connect the two hemispheres.", "Projection fibres connect the cortex with deeper structures, brainstem or spinal cord.", "The fornix connects the hippocampal system to memory structures. It is not the general class of fibres in the question."], ["Damage to connecting fibres can affect language even when cortical regions are spared.", "A single test rarely distinguishes among all the possible regions or tracts involved.", "Intact cortical regions can still lose communication if the connecting fibres are injured."]];
 function renderChoiceReview(container, id, options, correctKey, reason, distractors, status){
   const title=document.createElement('strong');
   title.textContent=status;
@@ -210,11 +209,132 @@ restoreChoices();loadNotes();const saved=safeStore.get(credentialKey());if(saved
 
 const quizKey=()=> 'py6301-team-quiz:'+room;
 let quizPlayer=null,quizCurrent=null,quizNext=null,quizChoice='',quizBusy=false;
-const quizQuestionTwo={"prompt": "Which brain systems help us stay motivated and adjust our behaviour to suit a social situation?", "reason": "Medial frontal systems help initiate and sustain goal-directed behaviour. Orbitofrontal systems help adjust behaviour as rewards, consequences and social cues change."};
-function showQuizQuestion(q,completed,score){if(q?.index===1)q={...q,prompt:quizQuestionTwo.prompt};quizCurrent=q;quizChoice='';$('quiz-play').hidden=false;$('quiz-progress').textContent=completed+' / 8 answered · '+score+' / 8 points';$('quiz-feedback').replaceChildren();$('quiz-next').hidden=true;$('quiz-submit').hidden=!q;$('quiz-submit').disabled=false;$('quiz-options').replaceChildren();if(!q){$('quiz-question').textContent='Quiz complete.';return;}$('quiz-question').textContent=(q.index+1)+'. '+q.prompt;for(const [index,key] of choiceOrder('quiz-'+q.index,q.options).entries()){const button=document.createElement('button');button.type='button';button.textContent=['▲ ','◆ ','● ','■ '][index]+q.options[key];button.setAttribute('aria-pressed','false');button.addEventListener('click',()=>{if(quizBusy)return;quizChoice=key;for(const el of $('quiz-options').children)el.setAttribute('aria-pressed',String(el===button));});$('quiz-options').appendChild(button);}}
+const quizContent=[
+  {
+    "prompt": "After a bilateral lesion, a patient recognises familiar faces but has particular difficulty identifying fear in facial expressions. Which structure is most closely associated with this deficit?",
+    "options": {
+      "a": "Amygdala",
+      "b": "Hippocampus",
+      "c": "Primary visual cortex",
+      "d": "Cerebellum"
+    },
+    "explanations": {
+      "a": "The amygdala helps interpret emotionally significant cues, including fear in facial expressions.",
+      "b": "The hippocampus supports memory for events. The patient can still recognise familiar people.",
+      "c": "Primary visual cortex supports early visual processing. The difficulty here is specific to interpreting an expression.",
+      "d": "The cerebellum contributes to coordination and learning. Identifying fear in faces points more directly to the amygdala."
+    }
+  },
+  {
+    "prompt": "Which brain systems help us stay motivated and adjust our behaviour to suit a social situation?",
+    "options": {
+      "a": "Primary motor and somatosensory cortex",
+      "b": "Medial frontal and orbitofrontal cortex",
+      "c": "Primary visual and auditory cortex",
+      "d": "Hippocampus and mammillary bodies"
+    },
+    "explanations": {
+      "a": "These regions support voluntary movement and bodily sensation.",
+      "b": "Medial frontal systems help initiate and sustain goal-directed behaviour. Orbitofrontal systems help adjust behaviour as rewards, consequences and social cues change.",
+      "c": "These regions process visual and auditory input.",
+      "d": "These structures are linked in a circuit that supports memory for experiences."
+    }
+  },
+  {
+    "prompt": "A patient can orient a card to fit a slot but struggles to identify objects by sight. Which pathway is most likely disrupted?",
+    "options": {
+      "a": "Dorsal visual stream from occipital to parietal cortex",
+      "b": "Corticospinal tract from cortex to spinal cord",
+      "c": "Ventral visual stream from occipital to temporal cortex",
+      "d": "Optic tract from the chiasm to the lateral geniculate nucleus"
+    },
+    "explanations": {
+      "a": "The dorsal stream helps guide actions such as turning the card to fit the slot.",
+      "b": "The corticospinal tract helps control voluntary movement. The patient can still guide the hand.",
+      "c": "The ventral visual stream helps identify objects. Visually guided actions can remain relatively intact through the dorsal stream.",
+      "d": "The optic tract carries visual-field information to the thalamus. Its injury typically causes a visual-field defect."
+    }
+  },
+  {
+    "prompt": "A patient can detect a target on the left when it appears alone but often misses it when a target appears on the right at the same time. Which network is most relevant?",
+    "options": {
+      "a": "Left temporal language network",
+      "b": "Right corticospinal motor pathway",
+      "c": "Bilateral hippocampal memory network",
+      "d": "Right frontoparietal attention network"
+    },
+    "explanations": {
+      "a": "The left temporal language network supports language comprehension. These targets test spatial attention.",
+      "b": "The corticospinal tract carries motor commands. The difficulty depends on where targets compete for attention.",
+      "c": "The hippocampal network supports memory for events. The task tests detection of current stimuli.",
+      "d": "Right frontoparietal networks help allocate attention across space. A competing right-sided target can make the left target harder to notice."
+    }
+  },
+  {
+    "prompt": "A patient can hold a short conversation but later has little memory of having met the person. Which structure is most directly involved in forming a lasting memory of the encounter?",
+    "options": {
+      "a": "Hippocampal formation",
+      "b": "Primary auditory cortex",
+      "c": "Putamen",
+      "d": "Primary motor cortex"
+    },
+    "explanations": {
+      "a": "The hippocampal formation helps bind people, places and events into lasting episodic memories.",
+      "b": "Primary auditory cortex processes sound. The patient could hear and follow the conversation.",
+      "c": "The putamen contributes to movement and habit learning. The task is to remember a specific encounter.",
+      "d": "Primary motor cortex helps execute voluntary movements, including movements used to speak."
+    }
+  },
+  {
+    "prompt": "A patient can understand a short sentence but struggles to repeat it accurately. Which fibre bundle links posterior temporal and frontal speech regions and contributes to repetition?",
+    "options": {
+      "a": "Fornix",
+      "b": "Arcuate fasciculus",
+      "c": "Optic radiation",
+      "d": "Corticospinal tract"
+    },
+    "explanations": {
+      "a": "The fornix links the hippocampus with other regions involved in memory.",
+      "b": "The arcuate fasciculus connects temporal and frontal language regions and helps link heard speech to speech production.",
+      "c": "The optic radiation carries visual signals from the thalamus to visual cortex.",
+      "d": "The corticospinal tract carries descending signals for voluntary movement of the body."
+    }
+  },
+  {
+    "prompt": "A patient understands a spoken instruction and has enough strength to reach, but repeatedly overshoots the target. Which structure normally helps adjust the timing and accuracy of the movement?",
+    "options": {
+      "a": "Hippocampus",
+      "b": "Primary auditory cortex",
+      "c": "Cerebellum",
+      "d": "Amygdala"
+    },
+    "explanations": {
+      "a": "The hippocampus supports memory for events and places.",
+      "b": "Primary auditory cortex processes the spoken instruction. The error occurs while reaching.",
+      "c": "The cerebellum helps scale and time movements. Overshooting a target is one form of dysmetria.",
+      "d": "The amygdala helps evaluate emotional significance."
+    }
+  },
+  {
+    "prompt": "A patient loses the outer half of the visual field in both eyes. Where are the fibres carrying that information most likely affected?",
+    "options": {
+      "a": "Right optic nerve",
+      "b": "Left optic tract",
+      "c": "Right primary visual cortex",
+      "d": "Optic chiasm"
+    },
+    "explanations": {
+      "a": "The right optic nerve carries visual information from the right eye alone.",
+      "b": "The left optic tract carries information about the right visual field from both eyes.",
+      "c": "Right primary visual cortex represents the left visual field of both eyes.",
+      "d": "Fibres from the nasal half of each retina cross at the optic chiasm. They carry information from the outer half of each eye’s visual field."
+    }
+  }
+];
+function showQuizQuestion(q,completed,score){quizCurrent=q?{...q,...quizContent[q.index],scoringOptions:q.options}:null;q=quizCurrent;quizChoice='';$('quiz-play').hidden=false;$('quiz-progress').textContent=completed+' / 8 answered · '+score+' / 8 points';$('quiz-feedback').replaceChildren();$('quiz-next').hidden=true;$('quiz-submit').hidden=!q;$('quiz-submit').disabled=false;$('quiz-options').replaceChildren();if(!q){$('quiz-question').textContent='Quiz complete.';return;}$('quiz-question').textContent=(q.index+1)+'. '+q.prompt;for(const [index,key] of choiceOrder('quiz-'+q.index,q.options).entries()){const button=document.createElement('button');button.type='button';button.textContent=['▲ ','◆ ','● ','■ '][index]+q.options[key];button.setAttribute('aria-pressed','false');button.addEventListener('click',()=>{if(quizBusy)return;quizChoice=key;for(const el of $('quiz-options').children)el.setAttribute('aria-pressed',String(el===button));});$('quiz-options').appendChild(button);}}
 async function joinQuiz(resume=false){if(quizBusy||!casesDone())return;quizBusy=true;$('quiz-join-button').disabled=true;try{if(!team){const selected=$('quiz-team').value;if(!selected)throw new Error('Select your team name first.');$('team-select').value=selected;if(!await joinTeam())throw new Error('Join your assigned team from its original browser before starting the quiz.');}const state=await api('/api/clinical/rooms/'+encodeURIComponent(room)+'/quiz/join',{team:Number(team),token});quizPlayer={player:state.player,nickname:state.nickname,token};safeStore.set(quizKey(),JSON.stringify(quizPlayer));$('quiz-team').value=team;$('quiz-team').disabled=true;$('quiz-join').hidden=true;$('quiz-status').textContent='Playing for '+state.nickname;showQuizQuestion(state.question,state.completed,state.score);refreshQuizBoard();}catch(e){$('quiz-status').textContent=e.message;$('quiz-join-button').disabled=false;}finally{quizBusy=false;}}
-async function submitQuiz(){if(quizBusy||!quizCurrent)return;if(!quizChoice){$('quiz-feedback').textContent='Choose an answer first.';return;}quizBusy=true;$('quiz-submit').disabled=true;for(const el of $('quiz-options').children)el.disabled=true;try{const result=await api('/api/clinical/rooms/'+encodeURIComponent(room)+'/quiz/answer',{...quizPlayer,question:quizCurrent.index,choice:quizChoice});quizNext=result;$('quiz-progress').textContent=result.completed+' / 8 answered · '+result.score+' / 8 points';const correctKey=Object.keys(quizCurrent.options).find(key=>quizCurrent.options[key]===result.answer);
-  renderChoiceReview($('quiz-feedback'),'quiz-'+quizCurrent.index,quizCurrent.options,correctKey,quizCurrent.index===1?quizQuestionTwo.reason:result.reason,quizDistractors[quizCurrent.index],result.correct?'Correct · +1':'Incorrect · 0');$('quiz-submit').hidden=true;$('quiz-next').hidden=false;$('quiz-next').textContent=result.next?'Next question →':'Finish quiz →';quizCurrent=null;refreshQuizBoard();refreshBoard();}catch(e){$('quiz-feedback').textContent=e.message;$('quiz-submit').disabled=false;for(const el of $('quiz-options').children)el.disabled=false;}finally{quizBusy=false;}}
+async function submitQuiz(){if(quizBusy||!quizCurrent)return;if(!quizChoice){$('quiz-feedback').textContent='Choose an answer first.';return;}quizBusy=true;$('quiz-submit').disabled=true;for(const el of $('quiz-options').children)el.disabled=true;try{const result=await api('/api/clinical/rooms/'+encodeURIComponent(room)+'/quiz/answer',{...quizPlayer,question:quizCurrent.index,choice:quizChoice});quizNext=result;$('quiz-progress').textContent=result.completed+' / 8 answered · '+result.score+' / 8 points';const correctKey=Object.keys(quizCurrent.scoringOptions).find(key=>quizCurrent.scoringOptions[key]===result.answer);
+  renderChoiceReview($('quiz-feedback'),'quiz-'+quizCurrent.index,quizCurrent.options,correctKey,quizCurrent.explanations[correctKey],Object.entries(quizCurrent.explanations).filter(([key])=>key!==correctKey).map(([,explanation])=>explanation),result.correct?'Correct · +1':'Incorrect · 0');$('quiz-submit').hidden=true;$('quiz-next').hidden=false;$('quiz-next').textContent=result.next?'Next question →':'Finish quiz →';quizCurrent=null;refreshQuizBoard();refreshBoard();}catch(e){$('quiz-feedback').textContent=e.message;$('quiz-submit').disabled=false;for(const el of $('quiz-options').children)el.disabled=false;}finally{quizBusy=false;}}
 let quizBoardRequest;
 function refreshQuizBoard(){
   return quizBoardRequest ??= loadQuizBoard().finally(()=>{quizBoardRequest=null;});
